@@ -1,11 +1,11 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-06-12.png?v=9147b3f77034",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-06-12.png?v=1d402c2954dd",
  "to_move": "White",
- "rating": 1892,
+ "rating": 1806,
  "moves_to_win": 3,
  "puzzle_url": "https://lichess.org/training/TxRA6",
  "yesterday": null,
  "schema": 1,
- "generated_at_epoch": 1781248684,
+ "generated_at_epoch": 1781248991,
  "date": "2026-06-12"
 }
