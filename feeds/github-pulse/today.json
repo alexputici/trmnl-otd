@@ -4,6 +4,8 @@
  "total_28d": 275,
  "commits_28d": 173,
  "prs_28d": 92,
+ "issues_28d": 3,
+ "reviews_28d": 1,
  "streak_days": 9,
  "today_count": 44,
  "top_repos": [],
@@ -38,6 +40,6 @@
   3
  ],
  "schema": 1,
- "generated_at_epoch": 1781295319,
+ "generated_at_epoch": 1781295470,
  "date": "2026-06-12"
 }

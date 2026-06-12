@@ -1,11 +1,11 @@
 {
  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-06-12.png?v=d3fe3c06f34b",
  "to_move": "White",
- "rating": 1903,
+ "rating": 1844,
  "moves_to_win": 5,
  "puzzle_url": "https://lichess.org/training/vM1Bk",
  "yesterday": null,
  "schema": 1,
- "generated_at_epoch": 1781295319,
+ "generated_at_epoch": 1781295470,
  "date": "2026-06-12"
 }
