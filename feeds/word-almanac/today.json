@@ -1,11 +1,11 @@
 {
- "word": "sidereal",
- "pronunciation": "sy-DEER-ee-ul",
+ "word": "intercalary",
+ "pronunciation": "in-TER-kuh-lehr-ee",
  "part_of_speech": "adjective",
- "definition": "Of, relating to, or determined by the stars; used especially to describe time or motion measured with reference to the distant stars rather than the sun.",
- "etymology": "From Latin sidereus, starry, itself from sidus (genitive sideris), a star or constellation. The Romans borrowed the root from an older Indo-European sense of gleaming or glittering. It arrived in English in the seventeenth century just as astronomers needed precise language to distinguish star-time from sun-time.",
- "usage": "On this June night, when dusk lingers longest and the stars take their time appearing, a sidereal reckoning reminds us that the clock we live by and the clock the cosmos keeps are never quite the same thing.",
+ "definition": "Inserted into the calendar to reconcile it with the solar year; by extension, anything inserted between regular intervals to restore balance or fill a gap.",
+ "etymology": "From Latin intercalaris, built on intercalare — to proclaim the insertion of an extra day or month. The Romans would shout cal! (from calare, to call out) at the new moon to announce the month's beginning; intercalating meant slipping something in between those cries to keep civic and cosmic time from drifting apart.",
+ "usage": "June once sat near the great intercalary anxieties of the Roman calendar — leap adjustments that priests could manipulate for political ends. Use it today for any corrective insertion: an intercalary chapter that bridges two eras, an intercalary rest day sewn into a punishing schedule.",
  "schema": 1,
- "generated_at_epoch": 1781272183,
+ "generated_at_epoch": 1781291495,
  "date": "2026-06-12"
 }
