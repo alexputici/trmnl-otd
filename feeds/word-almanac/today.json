@@ -1,11 +1,11 @@
 {
- "word": "intercalary",
- "pronunciation": "in-TER-kuh-lehr-ee",
- "part_of_speech": "adjective",
- "definition": "Inserted into the calendar to reconcile it with the solar year; by extension, anything inserted between regular intervals to restore balance or fill a gap.",
- "etymology": "From Latin intercalaris, built on intercalare — to proclaim the insertion of an extra day or month. The Romans would shout cal! (from calare, to call out) at the new moon to announce the month's beginning; intercalating meant slipping something in between those cries to keep civic and cosmic time from drifting apart.",
- "usage": "June once sat near the great intercalary anxieties of the Roman calendar — leap adjustments that priests could manipulate for political ends. Use it today for any corrective insertion: an intercalary chapter that bridges two eras, an intercalary rest day sewn into a punishing schedule.",
+ "word": "perhelion",
+ "pronunciation": "per-HEE-lee-un",
+ "part_of_speech": "noun",
+ "definition": "The point in a planet's or comet's orbit at which it is closest to the sun — the opposite of aphelion, the far point. Though Earth reached perihelion back in January, June invites us to notice that we are now near aphelion, the sun feeling paradoxically close in summer heat yet astronomically distant in orbital fact.",
+ "etymology": "From Greek peri, meaning near or around, combined with helios, the sun — the same helios who drove his blazing chariot across the sky and gave his name to helium, discovered in the solar spectrum before it was found on Earth. The word entered scientific English in the 17th century as astronomers needed precise language for the elliptical paths Kepler had just described.",
+ "usage": "A science journalist might write: the comet blazed most brilliantly at perihelion, when the sun's heat vaporized its ancient ices into a tail millions of miles long.",
  "schema": 1,
- "generated_at_epoch": 1781291495,
+ "generated_at_epoch": 1781295319,
  "date": "2026-06-12"
 }
