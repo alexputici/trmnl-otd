@@ -1,11 +1,11 @@
 {
  "schema": 1,
- "generated_at": "2026-06-12T00:28:16-06:00",
- "generated_at_epoch": 1781245696,
+ "generated_at": "2026-06-12T00:45:23.491225-06:00",
+ "generated_at_epoch": 1781246723,
  "date": "2026-06-12",
  "date_label": "June 12",
- "location": "Coming soon",
- "image_url": "",
+ "location": "Brandenburg Gate",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-12.png?v=bf14a5e82c66",
  "fallback": false,
  "yesterday": null
 }

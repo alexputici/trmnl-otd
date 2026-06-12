@@ -1,0 +1,16 @@
+[
+ {
+  "date": "2026-06-12",
+  "date_label": "June 12",
+  "location": "Brandenburg Gate",
+  "answer": "Reagan: 'Tear down this wall!', 1987",
+  "wiki_url": "https://en.wikipedia.org/wiki/Cold_War",
+  "title": "Reagan 'Tear down this wall' speech",
+  "year": 1987,
+  "category": "politics",
+  "image_prompt": "A president stands at a podium before the towering columns of a great stone gate, hands gripping the lectern, a vast hushed crowd waiting in anticipation, a high concrete barrier visible behind, banners and microphones poised, the instant before he speaks. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-12.png?v=bf14a5e82c66",
+  "fallback": false,
+  "generated_at": "2026-06-12T00:45:23.491225-06:00"
+ }
+]
