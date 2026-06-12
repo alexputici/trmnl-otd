@@ -1,11 +1,11 @@
 {
  "schema": 1,
- "generated_at": "2026-06-12T11:03:15.441306-06:00",
- "generated_at_epoch": 1781283795,
+ "generated_at": "2026-06-12T11:07:36.577399-06:00",
+ "generated_at_epoch": 1781284056,
  "date": "2026-06-12",
  "date_label": "June 12",
- "location": "West Berlin",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-12.png?v=e273da01f4e1",
+ "location": "Everett, Washington",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-12.png?v=2db6c94893ed",
  "fallback": false,
  "yesterday": null
 }
