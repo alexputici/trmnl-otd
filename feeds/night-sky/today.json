@@ -1,0 +1,12 @@
+{
+ "phase": "Waning Crescent",
+ "glyph": "🌘",
+ "illumination_pct": 10,
+ "moon_age_days": 26.6,
+ "next_full": "Jun 29",
+ "next_new": "Jun 15",
+ "darkness": "dark skies",
+ "schema": 1,
+ "generated_at_epoch": 1781248684,
+ "date": "2026-06-12"
+}
