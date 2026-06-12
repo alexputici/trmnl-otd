@@ -2,15 +2,15 @@
  {
   "date": "2026-06-12",
   "date_label": "June 12",
-  "location": "Everett, Washington",
-  "answer": "Boeing 777 makes its maiden flight, 1994",
-  "wiki_url": "https://en.wikipedia.org/wiki/Boeing_777",
-  "title": "Boeing 777 Maiden Flight",
-  "year": 1994,
-  "category": "science",
-  "image_prompt": "A colossal twin-engine widebody jetliner sits at the end of a runway, engines beginning to roar with heat distortion rippling from the nacelles, ground crew frozen in observation at a safe distance, the vast wings flexing slightly as the aircraft strains forward, the runway stretching to the horizon under a heavy sky, ten seconds before wheels leave the ground for the first time. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
-  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-12.png?v=2db6c94893ed",
+  "location": "West Berlin",
+  "answer": "Reagan demands Gorbachev tear down the Berlin Wall, 1987",
+  "wiki_url": "https://en.wikipedia.org/wiki/Cold_War",
+  "title": "Reagan's 'Tear Down This Wall' Speech",
+  "year": 1987,
+  "category": "politics",
+  "image_prompt": "A lone figure in a dark suit stands at a grand podium draped with flags, arms raised and mouth open mid-declaration, the massive concrete wall looming behind him with strands of barbed wire silhouetted against the sky, crowds packed densely on both sides, armed guards watching from watchtowers, the Brandenburg Gate arching above the scene, tension electric in the frozen moment before the words ring out. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-12.png?v=b8938f2f9d95",
   "fallback": false,
-  "generated_at": "2026-06-12T11:07:36.577399-06:00"
+  "generated_at": "2026-06-12T14:16:48.458617-06:00"
  }
 ]
