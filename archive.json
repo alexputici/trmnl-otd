@@ -2,15 +2,17 @@
  {
   "date": "2026-06-12",
   "date_label": "June 12",
-  "location": "West Berlin",
-  "answer": "Reagan demands Gorbachev tear down the Berlin Wall, 1987",
-  "wiki_url": "https://en.wikipedia.org/wiki/Cold_War",
-  "title": "Reagan's 'Tear Down This Wall' Speech",
-  "year": 1987,
-  "category": "politics",
-  "image_prompt": "A lone figure in a dark suit stands at a grand podium draped with flags, arms raised and mouth open mid-declaration, the massive concrete wall looming behind him with strands of barbed wire silhouetted against the sky, crowds packed densely on both sides, armed guards watching from watchtowers, the Brandenburg Gate arching above the scene, tension electric in the frozen moment before the words ring out. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
-  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-12.png?v=b8938f2f9d95",
+  "location": "Amsterdam, Netherlands",
+  "answer": "Anne Frank begins her diary on her 13th birthday, 1942",
+  "wiki_url": "https://en.wikipedia.org/wiki/Anne_Frank",
+  "title": "Anne Frank begins her diary",
+  "year": 1942,
+  "category": "other",
+  "image_prompt": "A young girl of thirteen sits alone at a small wooden desk beside a rain-streaked window, a brand-new red-and-white checkered diary open and blank before her, a pen poised motionless in her hand. The room is modest, curtains half-drawn against the outside world, shadows pressing close around her. Her posture is still, expectant, as if on the edge of a long breath before the first word. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Jewish Girl in Hiding Begins Diary Record of Life Under Nazi Rule",
+  "dispatch": "Amsterdam, June 12. A thirteen-year-old Jewish girl named Anne Frank, confined with her family in hiding in occupied Amsterdam, began writing a personal diary on her birthday today. The Frank family has lived under the threat of deportation since German forces occupied the Netherlands in 1940. The diary, a gift for the occasion, will serve as her private record of daily life beneath the shadow of Nazi occupation.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-12.png?v=a6fc736ef358",
   "fallback": false,
-  "generated_at": "2026-06-12T14:16:48.458617-06:00"
+  "generated_at": "2026-06-12T14:19:34.446744-06:00"
  }
 ]
