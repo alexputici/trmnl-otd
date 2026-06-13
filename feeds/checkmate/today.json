@@ -1,11 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-06-12.png?v=d3fe3c06f34b",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-06-13.png?v=d3fe3c06f34b",
  "to_move": "White",
- "rating": 1844,
+ "rating": 1803,
  "moves_to_win": 5,
  "puzzle_url": "https://lichess.org/training/vM1Bk",
- "yesterday": null,
+ "yesterday": {
+  "solution": "Qe5+ f6 Qxf6+ Qxf6 Rh2+ Qh4+ Rxh4+ Bh5 Rxh5#",
+  "rating": 1844
+ },
  "schema": 1,
- "generated_at_epoch": 1781295470,
- "date": "2026-06-12"
+ "generated_at_epoch": 1781352747,
+ "date": "2026-06-13"
 }
