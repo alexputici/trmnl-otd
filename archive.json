@@ -14,5 +14,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-12.png?v=a6fc736ef358",
   "fallback": false,
   "generated_at": "2026-06-12T14:19:34.446744-06:00"
+ },
+ {
+  "date": "2026-06-13",
+  "date_label": "June 13",
+  "location": "Long Island City, NY",
+  "answer": "Underdog Braddock shocks Baer to win heavyweight crown, 1935",
+  "wiki_url": "https://en.wikipedia.org/wiki/Boxing",
+  "title": "Braddock defeats Baer for heavyweight title",
+  "year": 1935,
+  "category": "sport",
+  "image_prompt": "A broad-shouldered boxer in white shorts stands in the center of a floodlit ring, his arms raised and fists clenched above his head, sweat flying from his hair, while his opponent slumps heavily against the ropes in the background, a roaring crowd of thousands packed into tiered seats pressing in from every side, the referee beginning to raise the victor's arm, the moment frozen just before the decision is announced. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Braddock Upsets Baer to Claim Heavyweight Championship of the World",
+  "dispatch": "James J. Braddock, a heavy underdog who had spent recent years on relief, dethroned champion Max Baer by unanimous decision at the Madison Square Garden Bowl in Long Island City on Thursday night. Braddock, known as the Cinderella Man, absorbed Baer's power through fifteen rounds and outpointed him with steady, precise work. The outcome stunned boxing experts who had installed Baer as a ten-to-one favorite before the opening bell.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-13.png?v=20534280ab61",
+  "fallback": false,
+  "generated_at": "2026-06-13T06:26:08.746202-06:00"
  }
 ]

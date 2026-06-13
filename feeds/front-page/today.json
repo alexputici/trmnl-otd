@@ -1,5 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1781295574,
- "first_run": true
+ "generated_at_epoch": 1781353568,
+ "edition_date": "2026-06-13",
+ "event_date_label": "June 12",
+ "year": 1942,
+ "location": "Amsterdam, Netherlands",
+ "headline": "Jewish Girl in Hiding Begins Diary Record of Life Under Nazi Rule",
+ "dispatch": "Amsterdam, June 12. A thirteen-year-old Jewish girl named Anne Frank, confined with her family in hiding in occupied Amsterdam, began writing a personal diary on her birthday today. The Frank family has lived under the threat of deportation since German forces occupied the Netherlands in 1940. The diary, a gift for the occasion, will serve as her private record of daily life beneath the shadow of Nazi occupation.",
+ "answer": "Anne Frank begins her diary on her 13th birthday, 1942",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-12.png?v=a6fc736ef358",
+ "first_run": false
 }

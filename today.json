@@ -1,11 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-06-12T14:19:34.446744-06:00",
- "generated_at_epoch": 1781295574,
- "date": "2026-06-12",
- "date_label": "June 12",
- "location": "Amsterdam, Netherlands",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-12.png?v=a6fc736ef358",
+ "generated_at": "2026-06-13T06:26:08.746202-06:00",
+ "generated_at_epoch": 1781353568,
+ "date": "2026-06-13",
+ "date_label": "June 13",
+ "location": "Long Island City, NY",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-13.png?v=20534280ab61",
  "fallback": false,
- "yesterday": null
+ "yesterday": {
+  "answer": "Anne Frank begins her diary on her 13th birthday, 1942",
+  "wiki_url": "https://en.wikipedia.org/wiki/Anne_Frank"
+ }
 }
