@@ -30,5 +30,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-13.png?v=20534280ab61",
   "fallback": false,
   "generated_at": "2026-06-13T06:26:08.746202-06:00"
+ },
+ {
+  "date": "2026-06-14",
+  "date_label": "June 14",
+  "location": "Marengo, Italy",
+  "answer": "Napoleon wins Battle of Marengo against Austria, 1800",
+  "wiki_url": "https://en.wikipedia.org/wiki/War_of_the_Second_Coalition",
+  "title": "Battle of Marengo",
+  "year": 1800,
+  "category": "politics",
+  "image_prompt": "A vast dust-choked battlefield at the moment a distant column of French infantry crests a low ridge at the horizon, bayonets catching the last afternoon light — in the foreground exhausted French soldiers clutch muskets and look back over their shoulders toward the ridge, horses stamping nervously beside an overturned cannon, smoke drifting low across trampled wheat fields, officers raising their swords as the reinforcements appear. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "France Snatches Victory at Marengo; Austrian Army Routed in Northern Italy",
+  "dispatch": "French forces under the First Consul reversed a day of near-certain defeat at Marengo yesterday when a relief column under General Desaix arrived at a critical moment and shattered the advancing Austrian line. The Habsburgs had pushed French troops back across the plain and believed the battle won before the fresh troops arrived. The triumph consolidates French dominance in northern Italy and reshapes the terms of any future peace.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-14.png?v=4c077161ba8b",
+  "fallback": false,
+  "generated_at": "2026-06-14T07:01:34.333927-06:00"
  }
 ]
