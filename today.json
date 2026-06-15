@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-06-14T07:01:34.333927-06:00",
- "generated_at_epoch": 1781442094,
- "date": "2026-06-14",
- "date_label": "June 14",
- "location": "Marengo, Italy",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-14.png?v=4c077161ba8b",
+ "generated_at": "2026-06-15T10:18:35.571554-06:00",
+ "generated_at_epoch": 1781540315,
+ "date": "2026-06-15",
+ "date_label": "June 15",
+ "location": "Runnymede, England",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-15.png?v=06764c37e48d",
  "fallback": false,
  "yesterday": {
-  "answer": "Underdog Braddock shocks Baer to win heavyweight crown, 1935",
-  "wiki_url": "https://en.wikipedia.org/wiki/Boxing"
+  "answer": "Napoleon wins Battle of Marengo against Austria, 1800",
+  "wiki_url": "https://en.wikipedia.org/wiki/War_of_the_Second_Coalition"
  }
 }

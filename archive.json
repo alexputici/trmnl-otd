@@ -46,5 +46,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-14.png?v=4c077161ba8b",
   "fallback": false,
   "generated_at": "2026-06-14T07:01:34.333927-06:00"
+ },
+ {
+  "date": "2026-06-15",
+  "date_label": "June 15",
+  "location": "Runnymede, England",
+  "answer": "King John seals Magna Carta at Runnymede, 1215",
+  "wiki_url": "https://en.wikipedia.org/wiki/John%2C_King_of_England",
+  "title": "Magna Carta Signing",
+  "year": 1215,
+  "category": "politics",
+  "image_prompt": "A medieval king in heavy robes sits stiffly at a wooden table in an open meadow beside a river, a great wax-sealed parchment spread before him, a quill poised in his reluctant hand, a ring of armored barons on horseback crowding close from all sides with swords sheathed but hands resting on hilts, torches guttering in morning mist, tension crackling in every rigid posture. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "King John Yields to Barons, Seals Great Charter of Liberties at Runnymede",
+  "dispatch": "King John of England set his seal to the Magna Carta at Runnymede yesterday, conceding sweeping limits on royal power after months of armed revolt by the kingdom's barons. The charter sets out rights of freemen and restricts the crown's ability to levy taxes or imprison subjects without lawful judgment. Copies are to be sent to every English county.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-15.png?v=06764c37e48d",
+  "fallback": false,
+  "generated_at": "2026-06-15T10:18:35.571554-06:00"
  }
 ]
