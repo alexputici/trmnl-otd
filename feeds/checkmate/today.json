@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-06-14.png?v=e8dad6f2b2d8",
- "to_move": "Black",
- "rating": 1826,
- "moves_to_win": 4,
- "puzzle_url": "https://lichess.org/training/DJWZM",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-06-15.png?v=18149dc73a98",
+ "to_move": "White",
+ "rating": 1804,
+ "moves_to_win": 2,
+ "puzzle_url": "https://lichess.org/training/vdpRb",
  "yesterday": {
-  "solution": "Qe5+ f6 Qxf6+ Qxf6 Rh2+ Qh4+ Rxh4+ Bh5 Rxh5#",
-  "rating": 1803
+  "solution": "Rh3+ gxh3 g3+ Kh1 g2+ Kh2 g1=Q#",
+  "rating": 1826
  },
  "schema": 1,
- "generated_at_epoch": 1781440090,
- "date": "2026-06-14"
+ "generated_at_epoch": 1781539773,
+ "date": "2026-06-15"
 }

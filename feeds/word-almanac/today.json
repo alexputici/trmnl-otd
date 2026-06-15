@@ -1,11 +1,11 @@
 {
- "word": "solstitial",
- "pronunciation": "sol-STISH-ul",
- "part_of_speech": "adjective",
- "definition": "Of, relating to, or occurring at a solstice; used more broadly to describe anything that seems to pause at its peak before turning back, as daylight does at midsummer.",
- "etymology": "From Latin solstitialis, itself from solstitium, the compound of sol (sun) and sistere (to make stand still). The Romans felt the sun literally halt in the sky before reversing its course, and they built the word around that arrested moment. Sistere also gives us armistice, another kind of standing-still.",
- "usage": "June 14 sits just a week shy of the solstice, and the evenings already have that solstitial thickness to them, the light lingering past all reason as if reluctant to begin its long retreat.",
+ "word": "vellichor",
+ "pronunciation": "VEL-ih-kor",
+ "part_of_speech": "noun",
+ "definition": "The strange wistfulness of used bookshops, that ache felt when confronted with so many lives and worlds that one will never have time to read — a sense of time folded densely upon itself.",
+ "etymology": "Coined by John Koenig in The Dictionary of Obscure Sorrows (2013), built from Latin volumen, a rolled manuscript, and ichor, the ethereal fluid that runs in the veins of the gods in Greek myth. Koenig fused the bookish and the divine to name a feeling that had no name, which is itself a very bookish act.",
+ "usage": "She lingered in the cramped back aisle until vellichor overtook her — every cracked spine a door she would never open, every margin note a stranger's whispered confidence lost to time.",
  "schema": 1,
- "generated_at_epoch": 1781440090,
- "date": "2026-06-14"
+ "generated_at_epoch": 1781539773,
+ "date": "2026-06-15"
 }
