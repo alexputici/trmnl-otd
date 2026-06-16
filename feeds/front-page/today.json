@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1781540315,
- "edition_date": "2026-06-15",
- "event_date_label": "June 14",
- "year": 1800,
- "location": "Marengo, Italy",
- "headline": "France Snatches Victory at Marengo; Austrian Army Routed in Northern Italy",
- "dispatch": "French forces under the First Consul reversed a day of near-certain defeat at Marengo yesterday when a relief column under General Desaix arrived at a critical moment and shattered the advancing Austrian line. The Habsburgs had pushed French troops back across the plain and believed the battle won before the fresh troops arrived. The triumph consolidates French dominance in northern Italy and reshapes the terms of any future peace.",
- "answer": "Napoleon wins Battle of Marengo against Austria, 1800",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-14.png?v=4c077161ba8b",
+ "generated_at_epoch": 1781625252,
+ "edition_date": "2026-06-16",
+ "event_date_label": "June 15",
+ "year": 1215,
+ "location": "Runnymede, England",
+ "headline": "King John Yields to Barons, Seals Great Charter of Liberties at Runnymede",
+ "dispatch": "King John of England set his seal to the Magna Carta at Runnymede yesterday, conceding sweeping limits on royal power after months of armed revolt by the kingdom's barons. The charter sets out rights of freemen and restricts the crown's ability to levy taxes or imprison subjects without lawful judgment. Copies are to be sent to every English county.",
+ "answer": "King John seals Magna Carta at Runnymede, 1215",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-15.png?v=06764c37e48d",
  "first_run": false
 }

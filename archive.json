@@ -62,5 +62,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-15.png?v=06764c37e48d",
   "fallback": false,
   "generated_at": "2026-06-15T10:18:35.571554-06:00"
+ },
+ {
+  "date": "2026-06-16",
+  "date_label": "June 16",
+  "location": "Dublin, Ireland",
+  "answer": "Joyce walks with Nora Barnacle, inspiring Bloomsday, 1904",
+  "wiki_url": "https://en.wikipedia.org/wiki/James_Joyce",
+  "title": "James Joyce first walks with Nora Barnacle — Bloomsday",
+  "year": 1904,
+  "category": "art",
+  "image_prompt": "A young man in an Edwardian coat and hat stands at the edge of a cobblestone Dublin street in fading afternoon light, nervously clutching his hat brim with one hand, watching a young woman in a long dress and shawl approach along the far pavement, Georgian terraced houses looming behind them, a gas lamp casting sharp shadows, both figures ten seconds from meeting. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Dublin Author Begins Romance That Will Shape a Literary Masterpiece",
+  "dispatch": "James Joyce, a young Dublin writer, took his first walk with Nora Barnacle on June 16, 1904, a date he would later immortalize as the single day on which his novel Ulysses unfolds. The book, published in 1922, follows Leopold Bloom through the streets of Dublin on that precise date. The anniversary is now celebrated annually as Bloomsday by readers and literary societies worldwide.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-16.png?v=234403604c9a",
+  "fallback": false,
+  "generated_at": "2026-06-16T09:54:12.156800-06:00"
  }
 ]

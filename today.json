@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-06-15T10:18:35.571554-06:00",
- "generated_at_epoch": 1781540315,
- "date": "2026-06-15",
- "date_label": "June 15",
- "location": "Runnymede, England",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-15.png?v=06764c37e48d",
+ "generated_at": "2026-06-16T09:54:12.156800-06:00",
+ "generated_at_epoch": 1781625252,
+ "date": "2026-06-16",
+ "date_label": "June 16",
+ "location": "Dublin, Ireland",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-16.png?v=234403604c9a",
  "fallback": false,
  "yesterday": {
-  "answer": "Napoleon wins Battle of Marengo against Austria, 1800",
-  "wiki_url": "https://en.wikipedia.org/wiki/War_of_the_Second_Coalition"
+  "answer": "King John seals Magna Carta at Runnymede, 1215",
+  "wiki_url": "https://en.wikipedia.org/wiki/John%2C_King_of_England"
  }
 }
