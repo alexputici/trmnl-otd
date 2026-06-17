@@ -1,10 +1,10 @@
 {
  "kind": "event",
  "title": "Coffee Mornings",
- "context_line": "THURSDAY · RED MILE",
- "caption": "Coffee Mornings at Red Mile, where the week starts with a good conversation.",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-06-16.png?v=bf3396d07c9e",
+ "context_line": "TOMORROW · 10:00 · RED MILE",
+ "caption": "Coffee Mornings at Red Mile , come as you are, Thursday at 10.",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-06-17.png?v=6de3735e0da5",
  "schema": 1,
- "generated_at_epoch": 1781623983,
- "date": "2026-06-16"
+ "generated_at_epoch": 1781705907,
+ "date": "2026-06-17"
 }
