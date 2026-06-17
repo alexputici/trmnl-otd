@@ -78,5 +78,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-16.png?v=234403604c9a",
   "fallback": false,
   "generated_at": "2026-06-16T09:54:12.156800-06:00"
+ },
+ {
+  "date": "2026-06-17",
+  "date_label": "June 17",
+  "location": "Boston, Massachusetts",
+  "answer": "British forces storm and take Bunker Hill, Boston, 1775",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+  "title": "Battle of Bunker Hill",
+  "year": 1775,
+  "category": "disaster",
+  "image_prompt": "Red-coated British soldiers advance in tight ranks up a steep grassy hill beneath a sky choked with cannon smoke, bayonets fixed and gleaming, the dark silhouette of a timber redoubt crowning the summit ahead of them, officers gesturing the line forward as musket fire erupts from the fortification above. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Redcoats Carry Bunker Hill After Two Bloody Repulses",
+  "dispatch": "British regulars under General Howe carried the rebel fortification atop Bunker Hill this afternoon after sustaining severe losses in two previous charges up the exposed slope. Colonial defenders held their fire until the advancing lines were nearly upon them, inflicting grievous casualties before ammunition ran low and forced a withdrawal. The Crown holds the height, but the cost in officers and men has stunned the army command in Boston.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-17.png?v=6eecbcfaa805",
+  "fallback": false,
+  "generated_at": "2026-06-17T08:28:37.507259-06:00"
  }
 ]

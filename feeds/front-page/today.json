@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1781625252,
- "edition_date": "2026-06-16",
- "event_date_label": "June 15",
- "year": 1215,
- "location": "Runnymede, England",
- "headline": "King John Yields to Barons, Seals Great Charter of Liberties at Runnymede",
- "dispatch": "King John of England set his seal to the Magna Carta at Runnymede yesterday, conceding sweeping limits on royal power after months of armed revolt by the kingdom's barons. The charter sets out rights of freemen and restricts the crown's ability to levy taxes or imprison subjects without lawful judgment. Copies are to be sent to every English county.",
- "answer": "King John seals Magna Carta at Runnymede, 1215",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-15.png?v=06764c37e48d",
+ "generated_at_epoch": 1781706517,
+ "edition_date": "2026-06-17",
+ "event_date_label": "June 16",
+ "year": 1904,
+ "location": "Dublin, Ireland",
+ "headline": "Dublin Author Begins Romance That Will Shape a Literary Masterpiece",
+ "dispatch": "James Joyce, a young Dublin writer, took his first walk with Nora Barnacle on June 16, 1904, a date he would later immortalize as the single day on which his novel Ulysses unfolds. The book, published in 1922, follows Leopold Bloom through the streets of Dublin on that precise date. The anniversary is now celebrated annually as Bloomsday by readers and literary societies worldwide.",
+ "answer": "Joyce walks with Nora Barnacle, inspiring Bloomsday, 1904",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-16.png?v=234403604c9a",
  "first_run": false
 }

@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-06-16T09:54:12.156800-06:00",
- "generated_at_epoch": 1781625252,
- "date": "2026-06-16",
- "date_label": "June 16",
- "location": "Dublin, Ireland",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-16.png?v=234403604c9a",
+ "generated_at": "2026-06-17T08:28:37.507259-06:00",
+ "generated_at_epoch": 1781706517,
+ "date": "2026-06-17",
+ "date_label": "June 17",
+ "location": "Boston, Massachusetts",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-17.png?v=6eecbcfaa805",
  "fallback": false,
  "yesterday": {
-  "answer": "King John seals Magna Carta at Runnymede, 1215",
-  "wiki_url": "https://en.wikipedia.org/wiki/John%2C_King_of_England"
+  "answer": "Joyce walks with Nora Barnacle, inspiring Bloomsday, 1904",
+  "wiki_url": "https://en.wikipedia.org/wiki/James_Joyce"
  }
 }
