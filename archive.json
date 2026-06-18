@@ -94,5 +94,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-17.png?v=6eecbcfaa805",
   "fallback": false,
   "generated_at": "2026-06-17T08:28:37.507259-06:00"
+ },
+ {
+  "date": "2026-06-18",
+  "date_label": "June 18",
+  "location": "Waterloo, Belgium",
+  "answer": "Napoleon loses his final battle at Waterloo, 1815",
+  "wiki_url": "https://en.wikipedia.org/wiki/Hundred_Days",
+  "title": "Battle of Waterloo — Napoleon's Final Stand",
+  "year": 1815,
+  "category": "politics",
+  "image_prompt": "A French imperial commander on horseback silhouetted against a smoke-filled sky, sword raised, facing a vast battlefield where cannon smoke drifts across muddy ground and massed infantry squares stand locked in formation, the moment frozen just before the final charge collapses, flags still upright and rippling, soldiers crouched and tense on all sides. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Napoleon Routed at Waterloo; Emperor's Army Broken by Allied Forces",
+  "dispatch": "Allied forces under the Duke of Wellington and Prussian Field Marshal Blucher have shattered Napoleon Bonaparte's army on the plains of Waterloo in present-day Belgium. The French imperial guard, long considered invincible, was repulsed and routed in the late afternoon fighting. Bonaparte fled the field as his forces dissolved in chaos, effectively ending his bid to reclaim mastery of Europe.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-18.png?v=0600ab2f42d8",
+  "fallback": false,
+  "generated_at": "2026-06-18T08:11:32.135077-06:00"
  }
 ]
