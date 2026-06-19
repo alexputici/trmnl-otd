@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-06-18T08:11:32.135077-06:00",
- "generated_at_epoch": 1781791892,
- "date": "2026-06-18",
- "date_label": "June 18",
- "location": "Waterloo, Belgium",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-18.png?v=0600ab2f42d8",
+ "generated_at": "2026-06-19T08:16:12.016688-06:00",
+ "generated_at_epoch": 1781878572,
+ "date": "2026-06-19",
+ "date_label": "June 19",
+ "location": "Sing Sing Prison, NY",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-19.png?v=452d46bf043a",
  "fallback": false,
  "yesterday": {
-  "answer": "British forces storm and take Bunker Hill, Boston, 1775",
-  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+  "answer": "Napoleon loses his final battle at Waterloo, 1815",
+  "wiki_url": "https://en.wikipedia.org/wiki/Hundred_Days"
  }
 }

@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1781791892,
- "edition_date": "2026-06-18",
- "event_date_label": "June 17",
- "year": 1775,
- "location": "Boston, Massachusetts",
- "headline": "Redcoats Carry Bunker Hill After Two Bloody Repulses",
- "dispatch": "British regulars under General Howe carried the rebel fortification atop Bunker Hill this afternoon after sustaining severe losses in two previous charges up the exposed slope. Colonial defenders held their fire until the advancing lines were nearly upon them, inflicting grievous casualties before ammunition ran low and forced a withdrawal. The Crown holds the height, but the cost in officers and men has stunned the army command in Boston.",
- "answer": "British forces storm and take Bunker Hill, Boston, 1775",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-17.png?v=6eecbcfaa805",
+ "generated_at_epoch": 1781878572,
+ "edition_date": "2026-06-19",
+ "event_date_label": "June 18",
+ "year": 1815,
+ "location": "Waterloo, Belgium",
+ "headline": "Napoleon Routed at Waterloo; Emperor's Army Broken by Allied Forces",
+ "dispatch": "Allied forces under the Duke of Wellington and Prussian Field Marshal Blucher have shattered Napoleon Bonaparte's army on the plains of Waterloo in present-day Belgium. The French imperial guard, long considered invincible, was repulsed and routed in the late afternoon fighting. Bonaparte fled the field as his forces dissolved in chaos, effectively ending his bid to reclaim mastery of Europe.",
+ "answer": "Napoleon loses his final battle at Waterloo, 1815",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-18.png?v=0600ab2f42d8",
  "first_run": false
 }

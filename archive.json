@@ -110,5 +110,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-18.png?v=0600ab2f42d8",
   "fallback": false,
   "generated_at": "2026-06-18T08:11:32.135077-06:00"
+ },
+ {
+  "date": "2026-06-19",
+  "date_label": "June 19",
+  "location": "Sing Sing Prison, NY",
+  "answer": "Julius and Ethel Rosenberg executed as Soviet spies, 1953",
+  "wiki_url": "https://en.wikipedia.org/wiki/Julius_and_Ethel_Rosenberg",
+  "title": "Execution of Julius and Ethel Rosenberg",
+  "year": 1953,
+  "category": "politics",
+  "image_prompt": "Two electric chairs bolted to a concrete floor in a stark prison chamber, leather straps hanging open and waiting, a prison guard standing rigid beside a heavy iron door, a wall clock showing the final seconds, harsh overhead lamp casting deep shadows across bare stone walls. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Rosenbergs Die in Electric Chair at Sing Sing for Atomic Espionage",
+  "dispatch": "Julius and Ethel Rosenberg were put to death last evening at Sing Sing Prison in Ossining, New York, becoming the first American civilians executed for espionage in the nation's peacetime history. The couple had been convicted of passing nuclear weapons secrets to Soviet agents. Thousands gathered outside the prison gates as the hour approached, with competing crowds urging clemency or justice, while President Eisenhower declined a final appeal for mercy.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-19.png?v=452d46bf043a",
+  "fallback": false,
+  "generated_at": "2026-06-19T08:16:12.016688-06:00"
  }
 ]
