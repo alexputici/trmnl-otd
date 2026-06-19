@@ -1,11 +1,11 @@
 {
- "word": "gloaming",
- "pronunciation": "GLOH-ming",
+ "word": "nychthemeron",
+ "pronunciation": "nik-THEM-er-on",
  "part_of_speech": "noun",
- "definition": "The twilight; that brief, luminous interval between sunset and full dark when the sky holds its last warmth of color and the world seems briefly suspended between two states.",
- "etymology": "From Old English glom, meaning twilight or dusk, itself from a Proto-Germanic root related to gleam — as if the fading sky were still trying, quietly, to glow. The Scots carried the word forward with particular affection, giving us gloaming in the form we still use today.",
- "usage": "On the longest evenings of the year, the gloaming stretches itself out luxuriously, refusing to hurry toward night — and June 18th, so close to the solstice, offers as generous a gloaming as the calendar allows.",
+ "definition": "A full period of twenty-four hours comprising one complete day and one complete night; a true day reckoned from any point back to that same point, rather than from midnight to midnight.",
+ "etymology": "From Greek nyx, meaning night, and hemera, meaning day. The Greeks felt the pairing needed saying explicitly, so they welded the two words together into one precise instrument. It passed into Late Latin and surfaced in English scholarly writing by the seventeenth century, mostly in medical and astronomical contexts where exactness about elapsed time could matter greatly.",
+ "usage": "On the eve of Juneteenth, with the night unusually brief and the day stretched almost to its longest, the word nychthemeron feels apt — a reminder that every full turn of the clock holds both darkness and light in some proportion, and that today's proportion is tilted as far toward light as the year will allow.",
  "schema": 1,
- "generated_at_epoch": 1781790711,
- "date": "2026-06-18"
+ "generated_at_epoch": 1781877372,
+ "date": "2026-06-19"
 }
