@@ -1,11 +1,11 @@
 {
- "word": "nychthemeron",
- "pronunciation": "nik-THEM-er-on",
+ "word": "penumbra",
+ "pronunciation": "peh-NUM-bruh",
  "part_of_speech": "noun",
- "definition": "A full period of twenty-four hours comprising one complete day and one complete night; a true day reckoned from any point back to that same point, rather than from midnight to midnight.",
- "etymology": "From Greek nyx, meaning night, and hemera, meaning day. The Greeks felt the pairing needed saying explicitly, so they welded the two words together into one precise instrument. It passed into Late Latin and surfaced in English scholarly writing by the seventeenth century, mostly in medical and astronomical contexts where exactness about elapsed time could matter greatly.",
- "usage": "On the eve of Juneteenth, with the night unusually brief and the day stretched almost to its longest, the word nychthemeron feels apt — a reminder that every full turn of the clock holds both darkness and light in some proportion, and that today's proportion is tilted as far toward light as the year will allow.",
+ "definition": "The partial shadow at the edge of a total shadow, where the light source is only partly blocked; more broadly, any region of ambiguity or marginal condition between two states — light and dark, known and unknown, belonging and exile.",
+ "etymology": "Coined in the 17th century by the astronomer Johannes Kepler, who built it from Latin paene, meaning almost, and umbra, meaning shadow. So a penumbra is quite literally an almost-shadow — the threshold zone where the sun has not quite let go. Kepler needed the word for his calculations of eclipses, but it escaped the observatory and wandered into law, literature, and everyday life.",
+ "usage": "With the summer solstice arriving tomorrow, tonight the penumbra of the year's longest dusk will linger on the horizon long after the sun has slipped below it — that pale, reluctant dimming that refuses to become true dark.",
  "schema": 1,
- "generated_at_epoch": 1781877372,
- "date": "2026-06-19"
+ "generated_at_epoch": 1781957818,
+ "date": "2026-06-20"
 }
