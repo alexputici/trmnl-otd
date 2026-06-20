@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-06-19T08:16:12.016688-06:00",
- "generated_at_epoch": 1781878572,
- "date": "2026-06-19",
- "date_label": "June 19",
- "location": "Sing Sing Prison, NY",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-19.png?v=452d46bf043a",
+ "generated_at": "2026-06-20T06:27:39.836844-06:00",
+ "generated_at_epoch": 1781958459,
+ "date": "2026-06-20",
+ "date_label": "June 20",
+ "location": "Kensington Palace",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-20.png?v=ee77ddadb3d6",
  "fallback": false,
  "yesterday": {
-  "answer": "Napoleon loses his final battle at Waterloo, 1815",
-  "wiki_url": "https://en.wikipedia.org/wiki/Hundred_Days"
+  "answer": "Julius and Ethel Rosenberg executed as Soviet spies, 1953",
+  "wiki_url": "https://en.wikipedia.org/wiki/Julius_and_Ethel_Rosenberg"
  }
 }

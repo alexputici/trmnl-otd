@@ -126,5 +126,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-19.png?v=452d46bf043a",
   "fallback": false,
   "generated_at": "2026-06-19T08:16:12.016688-06:00"
+ },
+ {
+  "date": "2026-06-20",
+  "date_label": "June 20",
+  "location": "Kensington Palace",
+  "answer": "Queen Victoria becomes Queen of Britain, 1837",
+  "wiki_url": "https://en.wikipedia.org/wiki/Queen_Victoria",
+  "title": "Queen Victoria Accedes to the Throne",
+  "year": 1837,
+  "category": "politics",
+  "image_prompt": "A young woman of eighteen stands at the threshold of a grand palace bedchamber, candles guttering in the predawn darkness, her white nightgown luminous against the shadows. Two sombre figures in tall hats and frock coats stand before her, one clutching a rolled document, both in deep formal bows. The girl's hand rests on the doorframe, her face composed but wide-eyed, the weight of the moment pressing the air flat around her. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "VICTORIA IS QUEEN: Young Princess Awakened at Dawn to Learn She Reigns",
+  "dispatch": "Kensington Palace, June 20. The Archbishop of Canterbury and the Lord Chamberlain arrived at the palace before five o'clock this morning to inform Princess Victoria that King William IV had died in the night and that she was now Queen. The eighteen-year-old received the news alone, composed herself, and at once held her first Privy Council. The new reign begins this day.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-20.png?v=ee77ddadb3d6",
+  "fallback": false,
+  "generated_at": "2026-06-20T06:27:39.836844-06:00"
  }
 ]

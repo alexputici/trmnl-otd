@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1781878572,
- "edition_date": "2026-06-19",
- "event_date_label": "June 18",
- "year": 1815,
- "location": "Waterloo, Belgium",
- "headline": "Napoleon Routed at Waterloo; Emperor's Army Broken by Allied Forces",
- "dispatch": "Allied forces under the Duke of Wellington and Prussian Field Marshal Blucher have shattered Napoleon Bonaparte's army on the plains of Waterloo in present-day Belgium. The French imperial guard, long considered invincible, was repulsed and routed in the late afternoon fighting. Bonaparte fled the field as his forces dissolved in chaos, effectively ending his bid to reclaim mastery of Europe.",
- "answer": "Napoleon loses his final battle at Waterloo, 1815",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-18.png?v=0600ab2f42d8",
+ "generated_at_epoch": 1781958459,
+ "edition_date": "2026-06-20",
+ "event_date_label": "June 19",
+ "year": 1953,
+ "location": "Sing Sing Prison, NY",
+ "headline": "Rosenbergs Die in Electric Chair at Sing Sing for Atomic Espionage",
+ "dispatch": "Julius and Ethel Rosenberg were put to death last evening at Sing Sing Prison in Ossining, New York, becoming the first American civilians executed for espionage in the nation's peacetime history. The couple had been convicted of passing nuclear weapons secrets to Soviet agents. Thousands gathered outside the prison gates as the hour approached, with competing crowds urging clemency or justice, while President Eisenhower declined a final appeal for mercy.",
+ "answer": "Julius and Ethel Rosenberg executed as Soviet spies, 1953",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-19.png?v=452d46bf043a",
  "first_run": false
 }
