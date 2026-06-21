@@ -1,11 +1,11 @@
 {
- "word": "penumbra",
- "pronunciation": "peh-NUM-bruh",
- "part_of_speech": "noun",
- "definition": "The partial shadow at the edge of a total shadow, where the light source is only partly blocked; more broadly, any region of ambiguity or marginal condition between two states — light and dark, known and unknown, belonging and exile.",
- "etymology": "Coined in the 17th century by the astronomer Johannes Kepler, who built it from Latin paene, meaning almost, and umbra, meaning shadow. So a penumbra is quite literally an almost-shadow — the threshold zone where the sun has not quite let go. Kepler needed the word for his calculations of eclipses, but it escaped the observatory and wandered into law, literature, and everyday life.",
- "usage": "With the summer solstice arriving tomorrow, tonight the penumbra of the year's longest dusk will linger on the horizon long after the sun has slipped below it — that pale, reluctant dimming that refuses to become true dark.",
+ "word": "heliotrope",
+ "pronunciation": "HEE-lee-oh-trohp",
+ "part_of_speech": "noun (also adjective)",
+ "definition": "A plant that turns its flowers or leaves to follow the sun across the sky; by extension, a pale pinkish-purple color resembling the plant's bloom, and historically a kind of sundial or mirror used to reflect sunlight across distances.",
+ "etymology": "From Greek helios, sun, and tropos, a turning — the same root that gives us tropic and tropism. Greek speakers built the word to describe something that wheels around to face its source of light, which is exactly what the plant does, and exactly what we do on a long June day when we tilt our faces upward and refuse to look away.",
+ "usage": "June 21 is the longest day, and the sun seems almost too generous with itself — a heliotrope morning, where everything from the garden bed to the cat on the sill pivots slowly to catch every available minute of it.",
  "schema": 1,
- "generated_at_epoch": 1781957818,
- "date": "2026-06-20"
+ "generated_at_epoch": 1782044898,
+ "date": "2026-06-21"
 }
