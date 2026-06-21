@@ -142,5 +142,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-20.png?v=ee77ddadb3d6",
   "fallback": false,
   "generated_at": "2026-06-20T06:27:39.836844-06:00"
+ },
+ {
+  "date": "2026-06-21",
+  "date_label": "June 21",
+  "location": "Manchester, England",
+  "answer": "Manchester Baby runs world's first stored-program, 1948",
+  "wiki_url": "https://en.wikipedia.org/wiki/Manchester_Baby",
+  "title": "Manchester Baby runs first program",
+  "year": 1948,
+  "category": "science",
+  "image_prompt": "A vast cathode-ray tube glows in a dim laboratory, its phosphorescent dots arranged in a faint grid pattern on the glass face. Two engineers in shirtsleeves lean toward the console, fingers poised above switches and dials, faces illuminated by the cold circular glow of the tube. Racks of vacuum tubes and cables fill the shadowed background, all silent and waiting. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "World's First Stored-Program Computer Executes Its Initial Run in Manchester",
+  "dispatch": "The machine known as the Manchester Baby completed its first successful stored-program run at Victoria University of Manchester on June 21, 1948. Engineers Freddie Williams and Tom Kilburn had loaded the program onto the cathode-ray tube memory and watched as the small experimental computer worked through its calculations. The milestone marks the first time a full program was held in electronic memory and executed by a machine without human intervention at each step.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-21.png?v=961ad4f0966b",
+  "fallback": false,
+  "generated_at": "2026-06-21T07:06:12.535925-06:00"
  }
 ]

@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-06-20T06:27:39.836844-06:00",
- "generated_at_epoch": 1781958459,
- "date": "2026-06-20",
- "date_label": "June 20",
- "location": "Kensington Palace",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-20.png?v=ee77ddadb3d6",
+ "generated_at": "2026-06-21T07:06:12.535925-06:00",
+ "generated_at_epoch": 1782047172,
+ "date": "2026-06-21",
+ "date_label": "June 21",
+ "location": "Manchester, England",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-21.png?v=961ad4f0966b",
  "fallback": false,
  "yesterday": {
-  "answer": "Julius and Ethel Rosenberg executed as Soviet spies, 1953",
-  "wiki_url": "https://en.wikipedia.org/wiki/Julius_and_Ethel_Rosenberg"
+  "answer": "Queen Victoria becomes Queen of Britain, 1837",
+  "wiki_url": "https://en.wikipedia.org/wiki/Queen_Victoria"
  }
 }
