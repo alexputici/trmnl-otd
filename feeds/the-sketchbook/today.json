@@ -1,10 +1,10 @@
 {
- "kind": "spotlight",
- "title": "Parcel Butler Inc",
- "context_line": "LOCAL DELIVERY MEETS BRAND REPRESENTATION",
- "caption": "Every delivery in Calgary is someone's moment. Parcel Butler makes it feel personal.",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-06-21.png?v=6756dc734b21",
+ "kind": "event",
+ "title": "Coffee Mornings",
+ "context_line": "THURSDAY · RED MILE",
+ "caption": "Coffee Mornings at Red Mile , Thursday at 10, come as you are.",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-06-22.png?v=eeae865cb297",
  "schema": 1,
- "generated_at_epoch": 1782044898,
- "date": "2026-06-21"
+ "generated_at_epoch": 1782142645,
+ "date": "2026-06-22"
 }
