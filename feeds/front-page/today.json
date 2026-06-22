@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1782047172,
- "edition_date": "2026-06-21",
- "event_date_label": "June 20",
- "year": 1837,
- "location": "Kensington Palace",
- "headline": "VICTORIA IS QUEEN: Young Princess Awakened at Dawn to Learn She Reigns",
- "dispatch": "Kensington Palace, June 20. The Archbishop of Canterbury and the Lord Chamberlain arrived at the palace before five o'clock this morning to inform Princess Victoria that King William IV had died in the night and that she was now Queen. The eighteen-year-old received the news alone, composed herself, and at once held her first Privy Council. The new reign begins this day.",
- "answer": "Queen Victoria becomes Queen of Britain, 1837",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-20.png?v=ee77ddadb3d6",
+ "generated_at_epoch": 1782143520,
+ "edition_date": "2026-06-22",
+ "event_date_label": "June 21",
+ "year": 1948,
+ "location": "Manchester, England",
+ "headline": "World's First Stored-Program Computer Executes Its Initial Run in Manchester",
+ "dispatch": "The machine known as the Manchester Baby completed its first successful stored-program run at Victoria University of Manchester on June 21, 1948. Engineers Freddie Williams and Tom Kilburn had loaded the program onto the cathode-ray tube memory and watched as the small experimental computer worked through its calculations. The milestone marks the first time a full program was held in electronic memory and executed by a machine without human intervention at each step.",
+ "answer": "Manchester Baby runs world's first stored-program, 1948",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-21.png?v=961ad4f0966b",
  "first_run": false
 }

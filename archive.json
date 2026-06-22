@@ -158,5 +158,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-21.png?v=961ad4f0966b",
   "fallback": false,
   "generated_at": "2026-06-21T07:06:12.535925-06:00"
+ },
+ {
+  "date": "2026-06-22",
+  "date_label": "June 22",
+  "location": "Westminster Abbey",
+  "answer": "King George V crowned at Westminster Abbey, 1911",
+  "wiki_url": "https://en.wikipedia.org/wiki/George_V",
+  "title": "Coronation of King George V",
+  "year": 1911,
+  "category": "politics",
+  "image_prompt": "Inside a vast cathedral nave, a robed figure in heavy ceremonial vestments stands motionless at the foot of an ornate throne, head bowed slightly, as an archbishop in towering mitre raises a jewelled crown with both hands above the figure's head, crowds of dignitaries packed into tiered galleries on all sides leaning forward in hushed anticipation, candles blazing in enormous chandeliers overhead casting dramatic shadows across vaulted stone arches. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "King George V and Queen Mary Crowned in Splendour at Westminster Abbey",
+  "dispatch": "King George V received the crown of Great Britain and Ireland at Westminster Abbey yesterday in a ceremony of ancient pageantry attended by heads of state and royalty from across Europe. Archbishop Randall Davidson placed St Edward's Crown upon the king's head before a packed congregation of peers, diplomats, and dignitaries. Queen Mary was crowned immediately after in a rite unchanged in its essentials for centuries.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-22.png?v=d2008d267065",
+  "fallback": false,
+  "generated_at": "2026-06-22T09:52:00.982431-06:00"
  }
 ]
