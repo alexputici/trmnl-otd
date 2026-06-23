@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1782143520,
- "edition_date": "2026-06-22",
- "event_date_label": "June 21",
- "year": 1948,
- "location": "Manchester, England",
- "headline": "World's First Stored-Program Computer Executes Its Initial Run in Manchester",
- "dispatch": "The machine known as the Manchester Baby completed its first successful stored-program run at Victoria University of Manchester on June 21, 1948. Engineers Freddie Williams and Tom Kilburn had loaded the program onto the cathode-ray tube memory and watched as the small experimental computer worked through its calculations. The milestone marks the first time a full program was held in electronic memory and executed by a machine without human intervention at each step.",
- "answer": "Manchester Baby runs world's first stored-program, 1948",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-21.png?v=961ad4f0966b",
+ "generated_at_epoch": 1782222283,
+ "edition_date": "2026-06-23",
+ "event_date_label": "June 22",
+ "year": 1911,
+ "location": "Westminster Abbey",
+ "headline": "King George V and Queen Mary Crowned in Splendour at Westminster Abbey",
+ "dispatch": "King George V received the crown of Great Britain and Ireland at Westminster Abbey yesterday in a ceremony of ancient pageantry attended by heads of state and royalty from across Europe. Archbishop Randall Davidson placed St Edward's Crown upon the king's head before a packed congregation of peers, diplomats, and dignitaries. Queen Mary was crowned immediately after in a rite unchanged in its essentials for centuries.",
+ "answer": "King George V crowned at Westminster Abbey, 1911",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-22.png?v=d2008d267065",
  "first_run": false
 }

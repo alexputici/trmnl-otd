@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-06-22T09:52:00.982431-06:00",
- "generated_at_epoch": 1782143520,
- "date": "2026-06-22",
- "date_label": "June 22",
- "location": "Westminster Abbey",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-22.png?v=d2008d267065",
+ "generated_at": "2026-06-23T07:44:43.037039-06:00",
+ "generated_at_epoch": 1782222283,
+ "date": "2026-06-23",
+ "date_label": "June 23",
+ "location": "United States",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-23.png?v=47305d5d44c7",
  "fallback": false,
  "yesterday": {
-  "answer": "Manchester Baby runs world's first stored-program, 1948",
-  "wiki_url": "https://en.wikipedia.org/wiki/Manchester_Baby"
+  "answer": "King George V crowned at Westminster Abbey, 1911",
+  "wiki_url": "https://en.wikipedia.org/wiki/George_V"
  }
 }

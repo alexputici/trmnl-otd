@@ -174,5 +174,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-22.png?v=d2008d267065",
   "fallback": false,
   "generated_at": "2026-06-22T09:52:00.982431-06:00"
+ },
+ {
+  "date": "2026-06-23",
+  "date_label": "June 23",
+  "location": "United States",
+  "answer": "First Scholastic Aptitude Test given to students, 1926",
+  "wiki_url": "https://en.wikipedia.org/wiki/College_Board",
+  "title": "First SAT Administered",
+  "year": 1926,
+  "category": "science",
+  "image_prompt": "A vast examination hall, rows of wooden desks stretching into deep shadow, young men in suits bent over pristine answer sheets with pencils poised motionless in the air, a proctor standing at the front with a pocket watch open in his palm, the second hand trembling at the brink of the appointed hour, tension thick in the still air. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "College Board Gives First Scholastic Aptitude Test Nationwide",
+  "dispatch": "Princeton, N.J., June 23 -- The College Board today administered its new Scholastic Aptitude Test to thousands of students across the country, the first time such a standardized examination has been offered for university admissions. Some 8,040 students sat for the test at centers in multiple states. Officials said the examination, divided into verbal and mathematical sections, is intended to give colleges a uniform measure of applicants beyond secondary school grades alone.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-23.png?v=47305d5d44c7",
+  "fallback": false,
+  "generated_at": "2026-06-23T07:44:43.037039-06:00"
  }
 ]
