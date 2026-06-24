@@ -190,5 +190,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-23.png?v=47305d5d44c7",
   "fallback": false,
   "generated_at": "2026-06-23T07:44:43.037039-06:00"
+ },
+ {
+  "date": "2026-06-24",
+  "date_label": "June 24",
+  "location": "Neman River, Russia",
+  "answer": "Napoleon's Grande Armée invades Russia, 1812",
+  "wiki_url": "https://en.wikipedia.org/wiki/Napoleonic_Wars",
+  "title": "Grande Armée Crosses the Neman",
+  "year": 1812,
+  "category": "politics",
+  "image_prompt": "A vast army of soldiers, horses, and artillery cannon packed along the near bank of a wide river, the first troops already stepping onto pontoon bridges stretching across the dark water, regimental standards held aloft in the still air, the far bank rising into a shadowed foreign land, officers on horseback gesturing forward, the immense column stretching back to the horizon. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Napoleon Leads Grand Army Across Neman Into Russia",
+  "dispatch": "French Emperor Napoleon Bonaparte led his Grande Armee across the Neman River yesterday, crossing into Russian territory and opening what may prove the largest military campaign in European history. Hundreds of thousands of troops, cavalry, and artillery pieces crossed on pontoon bridges stretching the width of the river. Russian forces have begun withdrawing eastward rather than meet the invaders at the frontier.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-24.png?v=fdad9685bfdb",
+  "fallback": false,
+  "generated_at": "2026-06-24T07:22:46.654129-06:00"
  }
 ]

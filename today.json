@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-06-23T07:44:43.037039-06:00",
- "generated_at_epoch": 1782222283,
- "date": "2026-06-23",
- "date_label": "June 23",
- "location": "United States",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-23.png?v=47305d5d44c7",
+ "generated_at": "2026-06-24T07:22:46.654129-06:00",
+ "generated_at_epoch": 1782307366,
+ "date": "2026-06-24",
+ "date_label": "June 24",
+ "location": "Neman River, Russia",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-24.png?v=fdad9685bfdb",
  "fallback": false,
  "yesterday": {
-  "answer": "King George V crowned at Westminster Abbey, 1911",
-  "wiki_url": "https://en.wikipedia.org/wiki/George_V"
+  "answer": "First Scholastic Aptitude Test given to students, 1926",
+  "wiki_url": "https://en.wikipedia.org/wiki/College_Board"
  }
 }
