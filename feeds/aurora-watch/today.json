@@ -1,11 +1,11 @@
 {
- "kp_now": 1.33,
- "kp_max_tonight": 2.33,
- "verdict": "Quiet",
- "advice": "not tonight, probably",
- "scale_pct": 26,
+ "kp_now": 2.67,
+ "kp_max_tonight": 4.0,
+ "verdict": "Good chance",
+ "advice": "worth a look north of the city",
+ "scale_pct": 44,
  "moon_note": "some moonlight",
  "schema": 1,
- "generated_at_epoch": 1782221271,
- "date": "2026-06-23"
+ "generated_at_epoch": 1782304553,
+ "date": "2026-06-24"
 }
