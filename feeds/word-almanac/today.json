@@ -1,11 +1,11 @@
 {
- "word": "ustion",
- "pronunciation": "US-chun",
+ "word": "canícula",
+ "pronunciation": "kah-NIK-yoo-lah",
  "part_of_speech": "noun",
- "definition": "The act or process of burning; the state of being scorched or consumed by fire or intense heat.",
- "etymology": "From Latin ustio, stem ustion-, itself from urere, meaning to burn. The same root kindles words like combustion (com- together, plus urere) and the medical term eschar. Latin urere may trace back further to Proto-Indo-European eus-, to burn, a root that also smolders inside the Greek word for dawn, Eos, where fire and first light were felt as the same force.",
- "usage": "Late June sun beating down on bare pavement produces something close to ustion underfoot — not quite flame, but the body's honest report of the same ancient process.",
+ "definition": "The dog-days of summer; the period of sultry, oppressive heat traditionally associated with the heliacal rising of Sirius, the Dog Star, spanning roughly early July through mid-August in the Northern Hemisphere.",
+ "etymology": "From Latin canicula, a diminutive of canis, dog — literally a little dog, the affectionate nickname Romans gave to Sirius. When that bright star rose with the sun in late summer, they reasoned it was adding its own heat to the day, and so the blistering season took the name of the small bright hound blazing overhead.",
+ "usage": "We are standing now at the threshold of the canícula, those languid weeks when the air itself seems to lose the will to move.",
  "schema": 1,
- "generated_at_epoch": 1782304553,
- "date": "2026-06-24"
+ "generated_at_epoch": 1782392668,
+ "date": "2026-06-25"
 }
