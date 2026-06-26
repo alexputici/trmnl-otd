@@ -1,10 +1,10 @@
 {
- "kind": "event",
- "title": "Coffee Mornings",
- "context_line": "TODAY · 10:00 · RED MILE",
- "caption": "Coffee Mornings at Red Mile: the week starts with good company and a warm cup.",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-06-25.png?v=dfe2d5cd440f",
+ "kind": "spotlight",
+ "title": "Rentch",
+ "context_line": "TECH-ENABLED PROPERTY MANAGEMENT",
+ "caption": "Rentch has been matching Calgary inner-city landlords and tenants since 2015.",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-06-26.png?v=86b586645ee2",
  "schema": 1,
- "generated_at_epoch": 1782392668,
- "date": "2026-06-25"
+ "generated_at_epoch": 1782477189,
+ "date": "2026-06-26"
 }

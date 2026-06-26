@@ -1,11 +1,11 @@
 {
- "word": "canícula",
- "pronunciation": "kah-NIK-yoo-lah",
- "part_of_speech": "noun",
- "definition": "The dog-days of summer; the period of sultry, oppressive heat traditionally associated with the heliacal rising of Sirius, the Dog Star, spanning roughly early July through mid-August in the Northern Hemisphere.",
- "etymology": "From Latin canicula, a diminutive of canis, dog — literally a little dog, the affectionate nickname Romans gave to Sirius. When that bright star rose with the sun in late summer, they reasoned it was adding its own heat to the day, and so the blistering season took the name of the small bright hound blazing overhead.",
- "usage": "We are standing now at the threshold of the canícula, those languid weeks when the air itself seems to lose the will to move.",
+ "word": "crepuscular",
+ "pronunciation": "krih-PUS-kyoo-lər",
+ "part_of_speech": "adjective",
+ "definition": "Of, resembling, or active during twilight; used in zoology to describe animals that are most active at dawn and dusk, and in general language to mean dim, shadowy, or belonging to the half-light between day and night.",
+ "etymology": "From Latin crepusculum, twilight, itself a diminutive built on creper, meaning dark or uncertain. The Romans used creper for anything ambiguous or obscure, so twilight was literally the little dark time, the uncertain hour. The word entered English in the mid-seventeenth century through natural history writing, where observers needed precise vocabulary for the behavior of bats, moths, and deer.",
+ "usage": "Late June gives us the longest crepuscular windows of the year, that drawn-out northern dusk where the sky bruises slowly from gold to violet and the nightjars begin their churring before full dark has quite decided to arrive.",
  "schema": 1,
- "generated_at_epoch": 1782392668,
- "date": "2026-06-25"
+ "generated_at_epoch": 1782477189,
+ "date": "2026-06-26"
 }
