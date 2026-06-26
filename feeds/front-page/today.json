@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1782307366,
- "edition_date": "2026-06-24",
- "event_date_label": "June 23",
- "year": 1926,
- "location": "United States",
- "headline": "College Board Gives First Scholastic Aptitude Test Nationwide",
- "dispatch": "Princeton, N.J., June 23 -- The College Board today administered its new Scholastic Aptitude Test to thousands of students across the country, the first time such a standardized examination has been offered for university admissions. Some 8,040 students sat for the test at centers in multiple states. Officials said the examination, divided into verbal and mathematical sections, is intended to give colleges a uniform measure of applicants beyond secondary school grades alone.",
- "answer": "First Scholastic Aptitude Test given to students, 1926",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-23.png?v=47305d5d44c7",
+ "generated_at_epoch": 1782479518,
+ "edition_date": "2026-06-26",
+ "event_date_label": "June 24",
+ "year": 1812,
+ "location": "Neman River, Russia",
+ "headline": "Napoleon Leads Grand Army Across Neman Into Russia",
+ "dispatch": "French Emperor Napoleon Bonaparte led his Grande Armee across the Neman River yesterday, crossing into Russian territory and opening what may prove the largest military campaign in European history. Hundreds of thousands of troops, cavalry, and artillery pieces crossed on pontoon bridges stretching the width of the river. Russian forces have begun withdrawing eastward rather than meet the invaders at the frontier.",
+ "answer": "Napoleon's Grande Armée invades Russia, 1812",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-24.png?v=fdad9685bfdb",
  "first_run": false
 }
