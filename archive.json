@@ -222,5 +222,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-26.png?v=d32b624314a5",
   "fallback": false,
   "generated_at": "2026-06-26T07:11:58.933476-06:00"
+ },
+ {
+  "date": "2026-06-27",
+  "date_label": "June 27",
+  "location": "Black Sea, Odessa",
+  "answer": "Crew of battleship Potemkin mutinies against officers, 1905",
+  "wiki_url": "https://en.wikipedia.org/wiki/Russian_Revolution_of_1905",
+  "title": "Battleship Potemkin Mutiny",
+  "year": 1905,
+  "category": "politics",
+  "image_prompt": "A massive grey battleship sits on a flat dark sea under a heavy sky. On the deck, dozens of sailors in white uniforms stand in tense formation facing a row of officers in dark coats, fists clenched at their sides, bodies coiled with barely-held fury. An officer raises his hand mid-gesture, the sailors leaning forward as one, the moment of breaking just an instant away. Ropes hang slack, a rifle gripped but not yet raised, the ship's great guns looming silently above the scene. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "POTEMKIN SAILORS REVOLT: CREW SEIZES BATTLESHIP, OFFICERS THROWN OVERBOARD",
+  "dispatch": "Sailors aboard the Imperial Russian battleship Potemkin seized control of the vessel in the Black Sea on June 27, 1905, killing several officers in a bloody mutiny that shocked the Tsar's navy. The men had refused rations of rotten meat and when officers threatened to shoot ringleaders, the crew rose up in open rebellion. The Potemkin then steamed toward Odessa, where strikes were already paralysing the port city.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-27.png?v=873914976d22",
+  "fallback": false,
+  "generated_at": "2026-06-27T06:09:52.887045-06:00"
  }
 ]

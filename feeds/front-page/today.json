@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1782479518,
- "edition_date": "2026-06-26",
- "event_date_label": "June 24",
- "year": 1812,
- "location": "Neman River, Russia",
- "headline": "Napoleon Leads Grand Army Across Neman Into Russia",
- "dispatch": "French Emperor Napoleon Bonaparte led his Grande Armee across the Neman River yesterday, crossing into Russian territory and opening what may prove the largest military campaign in European history. Hundreds of thousands of troops, cavalry, and artillery pieces crossed on pontoon bridges stretching the width of the river. Russian forces have begun withdrawing eastward rather than meet the invaders at the frontier.",
- "answer": "Napoleon's Grande Armée invades Russia, 1812",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-24.png?v=fdad9685bfdb",
+ "generated_at_epoch": 1782562192,
+ "edition_date": "2026-06-27",
+ "event_date_label": "June 26",
+ "year": 1997,
+ "location": "London, England",
+ "headline": "Rowling's Debut Novel About Boy Wizard Goes on Sale Across Britain",
+ "dispatch": "A slim fantasy novel for children by first-time author J. K. Rowling went on sale in British bookshops today, June 26, 1997. The book follows an orphan boy who discovers he is a wizard and enters a hidden school of magic. Publisher Bloomsbury printed a modest first run, with little anticipation of the sensation that would follow.",
+ "answer": "Harry Potter and the Philosopher's Stone published, 1997",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-26.png?v=d32b624314a5",
  "first_run": false
 }
