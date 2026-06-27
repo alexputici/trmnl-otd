@@ -1,11 +1,11 @@
 {
- "word": "crepuscular",
- "pronunciation": "krih-PUS-kyoo-lər",
+ "word": "hyetal",
+ "pronunciation": "HY-uh-tul",
  "part_of_speech": "adjective",
- "definition": "Of, resembling, or active during twilight; used in zoology to describe animals that are most active at dawn and dusk, and in general language to mean dim, shadowy, or belonging to the half-light between day and night.",
- "etymology": "From Latin crepusculum, twilight, itself a diminutive built on creper, meaning dark or uncertain. The Romans used creper for anything ambiguous or obscure, so twilight was literally the little dark time, the uncertain hour. The word entered English in the mid-seventeenth century through natural history writing, where observers needed precise vocabulary for the behavior of bats, moths, and deer.",
- "usage": "Late June gives us the longest crepuscular windows of the year, that drawn-out northern dusk where the sky bruises slowly from gold to violet and the nightjars begin their churring before full dark has quite decided to arrive.",
+ "definition": "Of or relating to rain or rainfall; concerned with the distribution or measurement of precipitation.",
+ "etymology": "From Greek hyetos, meaning rain, itself from hyein, to rain — the same root that gives us Hyades, the cluster of stars whose rising the ancient Greeks believed brought the rainy season. The word traveled into English through scientific Latin in the nineteenth century, when meteorology was busy naming everything it could measure.",
+ "usage": "Hyetal maps charting the wet and dry belts of a continent have a quiet beauty to them, all those gradient washes of blue deepening toward the monsoon coasts.",
  "schema": 1,
- "generated_at_epoch": 1782477189,
- "date": "2026-06-26"
+ "generated_at_epoch": 1782561638,
+ "date": "2026-06-27"
 }
