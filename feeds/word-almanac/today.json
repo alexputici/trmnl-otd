@@ -1,11 +1,11 @@
 {
- "word": "hyetal",
- "pronunciation": "HY-uh-tul",
+ "word": "antelucan",
+ "pronunciation": "an-teh-LOO-kan",
  "part_of_speech": "adjective",
- "definition": "Of or relating to rain or rainfall; concerned with the distribution or measurement of precipitation.",
- "etymology": "From Greek hyetos, meaning rain, itself from hyein, to rain — the same root that gives us Hyades, the cluster of stars whose rising the ancient Greeks believed brought the rainy season. The word traveled into English through scientific Latin in the nineteenth century, when meteorology was busy naming everything it could measure.",
- "usage": "Hyetal maps charting the wet and dry belts of a continent have a quiet beauty to them, all those gradient washes of blue deepening toward the monsoon coasts.",
+ "definition": "Of or pertaining to the hours before dawn; occurring in the dark period just before first light appears in the sky.",
+ "etymology": "From Latin antelucanus, built from ante meaning before and lux, lucis meaning light. Roman writers used it to mark the quiet watches a person kept while the rest of the world still slept, those hours the ancients considered neither night nor quite morning.",
+ "usage": "Late June compresses the antelucan hours almost to nothing; by the time the birds begin their first tentative notes, the eastern sky is already pale and committed to the day.",
  "schema": 1,
- "generated_at_epoch": 1782561638,
- "date": "2026-06-27"
+ "generated_at_epoch": 1782648459,
+ "date": "2026-06-28"
 }
