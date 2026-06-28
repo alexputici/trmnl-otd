@@ -238,5 +238,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-27.png?v=873914976d22",
   "fallback": false,
   "generated_at": "2026-06-27T06:09:52.887045-06:00"
+ },
+ {
+  "date": "2026-06-28",
+  "date_label": "June 28",
+  "location": "Sarajevo",
+  "answer": "Archduke Franz Ferdinand assassinated in Sarajevo, 1914",
+  "wiki_url": "https://en.wikipedia.org/wiki/Archduke_Franz_Ferdinand_of_Austria",
+  "title": "Assassination of Archduke Franz Ferdinand",
+  "year": 1914,
+  "category": "politics",
+  "image_prompt": "A open-topped touring car halted on a narrow cobblestone street, a uniformed archduke and a woman in an elaborate hat seated in the rear, a young man in a dark coat stepping forward from the watching crowd on the curb, his arm beginning to rise, bystanders frozen mid-gesture, pigeons lifting from the rooftop eaves above, the tension of a single suspended breath before catastrophe. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Archduke Franz Ferdinand Shot Dead in Sarajevo; Wife Also Slain",
+  "dispatch": "Archduke Franz Ferdinand, heir to the Austro-Hungarian throne, was shot and killed today in Sarajevo alongside his wife Sophie, Duchess of Hohenberg. The assassin, identified as Gavrilo Princip, fired at point-blank range as the archduke's motorcade paused on Franz Josef Street. The killings have sent shockwaves through every European capital, with diplomatic cables burning the wires between Vienna, Berlin, and St. Petersburg.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-28.png?v=08ab96017b8e",
+  "fallback": false,
+  "generated_at": "2026-06-28T06:17:11.719089-06:00"
  }
 ]

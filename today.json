@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-06-27T06:09:52.887045-06:00",
- "generated_at_epoch": 1782562192,
- "date": "2026-06-27",
- "date_label": "June 27",
- "location": "Black Sea, Odessa",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-27.png?v=873914976d22",
+ "generated_at": "2026-06-28T06:17:11.719089-06:00",
+ "generated_at_epoch": 1782649031,
+ "date": "2026-06-28",
+ "date_label": "June 28",
+ "location": "Sarajevo",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-28.png?v=08ab96017b8e",
  "fallback": false,
  "yesterday": {
-  "answer": "Harry Potter and the Philosopher's Stone published, 1997",
-  "wiki_url": "https://en.wikipedia.org/wiki/J._K._Rowling"
+  "answer": "Crew of battleship Potemkin mutinies against officers, 1905",
+  "wiki_url": "https://en.wikipedia.org/wiki/Russian_Revolution_of_1905"
  }
 }

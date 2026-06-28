@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1782562192,
- "edition_date": "2026-06-27",
- "event_date_label": "June 26",
- "year": 1997,
- "location": "London, England",
- "headline": "Rowling's Debut Novel About Boy Wizard Goes on Sale Across Britain",
- "dispatch": "A slim fantasy novel for children by first-time author J. K. Rowling went on sale in British bookshops today, June 26, 1997. The book follows an orphan boy who discovers he is a wizard and enters a hidden school of magic. Publisher Bloomsbury printed a modest first run, with little anticipation of the sensation that would follow.",
- "answer": "Harry Potter and the Philosopher's Stone published, 1997",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-26.png?v=d32b624314a5",
+ "generated_at_epoch": 1782649031,
+ "edition_date": "2026-06-28",
+ "event_date_label": "June 27",
+ "year": 1905,
+ "location": "Black Sea, Odessa",
+ "headline": "POTEMKIN SAILORS REVOLT: CREW SEIZES BATTLESHIP, OFFICERS THROWN OVERBOARD",
+ "dispatch": "Sailors aboard the Imperial Russian battleship Potemkin seized control of the vessel in the Black Sea on June 27, 1905, killing several officers in a bloody mutiny that shocked the Tsar's navy. The men had refused rations of rotten meat and when officers threatened to shoot ringleaders, the crew rose up in open rebellion. The Potemkin then steamed toward Odessa, where strikes were already paralysing the port city.",
+ "answer": "Crew of battleship Potemkin mutinies against officers, 1905",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-27.png?v=873914976d22",
  "first_run": false
 }
