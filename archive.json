@@ -254,5 +254,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-28.png?v=08ab96017b8e",
   "fallback": false,
   "generated_at": "2026-06-28T06:17:11.719089-06:00"
+ },
+ {
+  "date": "2026-06-29",
+  "date_label": "June 29",
+  "location": "London, England",
+  "answer": "Globe Theatre burns down during Henry VIII performance, 1613",
+  "wiki_url": "https://en.wikipedia.org/wiki/Globe_Theatre",
+  "title": "Globe Theatre Burns",
+  "year": 1613,
+  "category": "art",
+  "image_prompt": "Inside the thatched Globe Theatre, actors in Tudor costume mid-scene on the broad stage, torchlight and chandeliers blazing overhead, a thin wisp of smoke curling from the thatched roof above the stage balcony where a smoldering ember from the cannon has just landed, the packed wooden galleries crowded with Elizabethan audience members unaware, tension in the frozen moment before disaster. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "GLOBE THEATRE DESTROYED BY FIRE; STAGE CANNON IGNITES THATCHED ROOF",
+  "dispatch": "London, 29 June 1613. The celebrated Globe Theatre on Bankside was reduced to ashes this afternoon when a theatrical cannon, fired during a performance of a history play, cast a burning wad into the thatched roof above the stage. The blaze spread with terrible swiftness through the timber galleries. All persons within escaped with their lives, though the building is a total loss.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-29.png?v=29c7b83b35aa",
+  "fallback": false,
+  "generated_at": "2026-06-29T08:48:34.418290-06:00"
  }
 ]
