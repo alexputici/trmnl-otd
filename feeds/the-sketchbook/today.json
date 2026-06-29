@@ -1,10 +1,10 @@
 {
- "kind": "spotlight",
- "title": "e=mc2 event management",
- "context_line": "CRAFTING MEMORABLE EXPERIENCES",
- "caption": "e=mc2 event management turns an empty room into the reason people remember the day.",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-06-28.png?v=c70b9c78b99c",
+ "kind": "event",
+ "title": "Coffee Mornings",
+ "context_line": "THURSDAY · RED MILE",
+ "caption": "Coffee Mornings at Red Mile starts July 2 , pull up a chair and ease into the week.",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-06-29.png?v=26a875653feb",
  "schema": 1,
- "generated_at_epoch": 1782648459,
- "date": "2026-06-28"
+ "generated_at_epoch": 1782743873,
+ "date": "2026-06-29"
 }

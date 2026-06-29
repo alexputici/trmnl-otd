@@ -1,12 +1,12 @@
 {
  "phase": "Full Moon",
  "glyph": "🌕",
- "illumination_pct": 97,
- "moon_age_days": 13.2,
+ "illumination_pct": 100,
+ "moon_age_days": 14.3,
  "next_full": "Jun 29",
  "next_new": "Jul 14",
  "darkness": "bright moon",
  "schema": 1,
- "generated_at_epoch": 1782648459,
- "date": "2026-06-28"
+ "generated_at_epoch": 1782743873,
+ "date": "2026-06-29"
 }

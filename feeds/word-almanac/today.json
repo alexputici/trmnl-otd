@@ -1,11 +1,11 @@
 {
- "word": "antelucan",
- "pronunciation": "an-teh-LOO-kan",
- "part_of_speech": "adjective",
- "definition": "Of or pertaining to the hours before dawn; occurring in the dark period just before first light appears in the sky.",
- "etymology": "From Latin antelucanus, built from ante meaning before and lux, lucis meaning light. Roman writers used it to mark the quiet watches a person kept while the rest of the world still slept, those hours the ancients considered neither night nor quite morning.",
- "usage": "Late June compresses the antelucan hours almost to nothing; by the time the birds begin their first tentative notes, the eastern sky is already pale and committed to the day.",
+ "word": "meridies",
+ "pronunciation": "meh-RID-ee-ayz",
+ "part_of_speech": "noun",
+ "definition": "Midday; the meridian hour; the south, as the direction of the noon sun in the northern hemisphere. In old scholarly and ecclesiastical Latin it named both the time and the compass point, because at noon the sun stands due south.",
+ "etymology": "Pure Latin, from medius, meaning middle, and dies, meaning day — so literally the middle of the day. The same root gives English meridian, and the familiar abbreviation a.m. and p.m. stand for ante merídiem and post merídiem, before and after this word. Romans divided daylight into twelve unequal hours counted from sunrise, so merídies fell at the sixth hour, the hinge of the day.",
+ "usage": "Late June afternoons feel almost liquid with heat, but it is merídies itself — that breathless, shadowless moment when the sun refuses to move — that makes you believe the ancient world when it warned against the demon of the noonday sun.",
  "schema": 1,
- "generated_at_epoch": 1782648459,
- "date": "2026-06-28"
+ "generated_at_epoch": 1782743873,
+ "date": "2026-06-29"
 }
