@@ -1,11 +1,11 @@
 {
- "word": "meridies",
- "pronunciation": "meh-RID-ee-ayz",
- "part_of_speech": "noun",
- "definition": "Midday; the meridian hour; the south, as the direction of the noon sun in the northern hemisphere. In old scholarly and ecclesiastical Latin it named both the time and the compass point, because at noon the sun stands due south.",
- "etymology": "Pure Latin, from medius, meaning middle, and dies, meaning day — so literally the middle of the day. The same root gives English meridian, and the familiar abbreviation a.m. and p.m. stand for ante merídiem and post merídiem, before and after this word. Romans divided daylight into twelve unequal hours counted from sunrise, so merídies fell at the sixth hour, the hinge of the day.",
- "usage": "Late June afternoons feel almost liquid with heat, but it is merídies itself — that breathless, shadowless moment when the sun refuses to move — that makes you believe the ancient world when it warned against the demon of the noonday sun.",
+ "word": "bissextile",
+ "pronunciation": "bih-SEKS-tyl",
+ "part_of_speech": "adjective",
+ "definition": "Of or pertaining to a leap year; containing the intercalated day that keeps the calendar aligned with the solar year.",
+ "etymology": "From Latin bissextilis, meaning the doubled sixth day. The Romans inserted an extra day by repeating the sixth day before the Kalends of March — counting it twice, bis sextus, twice-sixth. Julius Caesar embedded this correction into his reformed calendar, and the word has carried that arithmetical ghost ever since.",
+ "usage": "June 30 falls at the exact midpoint of a bissextile year, meaning 2024 has already banked its extra February day and now coasts toward a second half with 184 days rather than the usual 183 — a quiet asymmetry most people never notice.",
  "schema": 1,
- "generated_at_epoch": 1782743873,
- "date": "2026-06-29"
+ "generated_at_epoch": 1782822697,
+ "date": "2026-06-30"
 }
