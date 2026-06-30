@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-06-29T08:48:34.418290-06:00",
- "generated_at_epoch": 1782744514,
- "date": "2026-06-29",
- "date_label": "June 29",
- "location": "London, England",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-29.png?v=29c7b83b35aa",
+ "generated_at": "2026-06-30T07:10:38.980042-06:00",
+ "generated_at_epoch": 1782825038,
+ "date": "2026-06-30",
+ "date_label": "June 30",
+ "location": "Niagara Falls",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-30.png?v=cd14b531b9c3",
  "fallback": false,
  "yesterday": {
-  "answer": "Archduke Franz Ferdinand assassinated in Sarajevo, 1914",
-  "wiki_url": "https://en.wikipedia.org/wiki/Archduke_Franz_Ferdinand_of_Austria"
+  "answer": "Globe Theatre burns down during Henry VIII performance, 1613",
+  "wiki_url": "https://en.wikipedia.org/wiki/Globe_Theatre"
  }
 }

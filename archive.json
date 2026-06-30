@@ -270,5 +270,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-29.png?v=29c7b83b35aa",
   "fallback": false,
   "generated_at": "2026-06-29T08:48:34.418290-06:00"
+ },
+ {
+  "date": "2026-06-30",
+  "date_label": "June 30",
+  "location": "Niagara Falls",
+  "answer": "Blondin walks tightrope across Niagara Gorge, 1859",
+  "wiki_url": "https://en.wikipedia.org/wiki/Charles_Blondin",
+  "title": "Blondin Crosses Niagara Gorge",
+  "year": 1859,
+  "category": "sport",
+  "image_prompt": "A lone figure stands motionless on a thin rope stretched across the vast churning gorge of Niagara Falls, the mist rising in great plumes below, the roaring white water crashing over the falls to one side, the rope bowing slightly under the acrobat's weight as he holds a long balancing pole horizontally, crowds of tiny spectators lining both clifftops watching in frozen silence, the sky enormous and cloud-streaked above the abyss. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "FRENCH ACROBAT BLONDIN CROSSES NIAGARA GORGE ON TIGHTROPE",
+  "dispatch": "Charles Blondin, the French acrobat, crossed the Niagara Gorge on a tightrope on Tuesday, completing the terrifying passage over the roaring chasm to the astonishment of thousands gathered on both banks. The rope, stretched some 1,100 feet above the churning river below, held firm as Blondin moved step by careful step to the American side. No man is reported to have attempted such a feat over these falls before.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-30.png?v=cd14b531b9c3",
+  "fallback": false,
+  "generated_at": "2026-06-30T07:10:38.980042-06:00"
  }
 ]

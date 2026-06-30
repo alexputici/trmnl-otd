@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1782744514,
- "edition_date": "2026-06-29",
- "event_date_label": "June 28",
- "year": 1914,
- "location": "Sarajevo",
- "headline": "Archduke Franz Ferdinand Shot Dead in Sarajevo; Wife Also Slain",
- "dispatch": "Archduke Franz Ferdinand, heir to the Austro-Hungarian throne, was shot and killed today in Sarajevo alongside his wife Sophie, Duchess of Hohenberg. The assassin, identified as Gavrilo Princip, fired at point-blank range as the archduke's motorcade paused on Franz Josef Street. The killings have sent shockwaves through every European capital, with diplomatic cables burning the wires between Vienna, Berlin, and St. Petersburg.",
- "answer": "Archduke Franz Ferdinand assassinated in Sarajevo, 1914",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-28.png?v=08ab96017b8e",
+ "generated_at_epoch": 1782825038,
+ "edition_date": "2026-06-30",
+ "event_date_label": "June 29",
+ "year": 1613,
+ "location": "London, England",
+ "headline": "GLOBE THEATRE DESTROYED BY FIRE; STAGE CANNON IGNITES THATCHED ROOF",
+ "dispatch": "London, 29 June 1613. The celebrated Globe Theatre on Bankside was reduced to ashes this afternoon when a theatrical cannon, fired during a performance of a history play, cast a burning wad into the thatched roof above the stage. The blaze spread with terrible swiftness through the timber galleries. All persons within escaped with their lives, though the building is a total loss.",
+ "answer": "Globe Theatre burns down during Henry VIII performance, 1613",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-29.png?v=29c7b83b35aa",
  "first_run": false
 }
