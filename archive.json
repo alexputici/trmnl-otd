@@ -286,5 +286,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-30.png?v=cd14b531b9c3",
   "fallback": false,
   "generated_at": "2026-06-30T07:10:38.980042-06:00"
+ },
+ {
+  "date": "2026-07-01",
+  "date_label": "July 1",
+  "location": "New York, USA",
+  "answer": "The Remington No. 1 typewriter goes on sale, 1874",
+  "wiki_url": "https://en.wikipedia.org/wiki/Sholes_and_Glidden_typewriter",
+  "title": "Remington No. 1 typewriter goes on sale",
+  "year": 1874,
+  "category": "science",
+  "image_prompt": "A gleaming mechanical typewriter sits on a polished wooden counter inside a hardware shop, its type bars frozen mid-gleam, a shopkeeper's hand hovering just above the carriage ready to demonstrate, bolts of paper rolls stacked behind, late-afternoon light slashing through a narrow window across the keys. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Typewriting Machine Now On Sale; Remington Offers Device to Write by Key",
+  "dispatch": "The Remington No. 1 typewriter went on public sale today, the first commercially available machine of its kind. Built on the chassis of a sewing machine by the Remington arms company, the device allows users to produce printed text by striking lettered keys. Merchants expect the invention to transform correspondence and office work across the country.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-01.png?v=9d564fba447d",
+  "fallback": false,
+  "generated_at": "2026-07-01T07:34:44.568238-06:00"
  }
 ]

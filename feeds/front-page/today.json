@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1782825038,
- "edition_date": "2026-06-30",
- "event_date_label": "June 29",
- "year": 1613,
- "location": "London, England",
- "headline": "GLOBE THEATRE DESTROYED BY FIRE; STAGE CANNON IGNITES THATCHED ROOF",
- "dispatch": "London, 29 June 1613. The celebrated Globe Theatre on Bankside was reduced to ashes this afternoon when a theatrical cannon, fired during a performance of a history play, cast a burning wad into the thatched roof above the stage. The blaze spread with terrible swiftness through the timber galleries. All persons within escaped with their lives, though the building is a total loss.",
- "answer": "Globe Theatre burns down during Henry VIII performance, 1613",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-29.png?v=29c7b83b35aa",
+ "generated_at_epoch": 1782912884,
+ "edition_date": "2026-07-01",
+ "event_date_label": "June 30",
+ "year": 1859,
+ "location": "Niagara Falls",
+ "headline": "FRENCH ACROBAT BLONDIN CROSSES NIAGARA GORGE ON TIGHTROPE",
+ "dispatch": "Charles Blondin, the French acrobat, crossed the Niagara Gorge on a tightrope on Tuesday, completing the terrifying passage over the roaring chasm to the astonishment of thousands gathered on both banks. The rope, stretched some 1,100 feet above the churning river below, held firm as Blondin moved step by careful step to the American side. No man is reported to have attempted such a feat over these falls before.",
+ "answer": "Blondin walks tightrope across Niagara Gorge, 1859",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-30.png?v=cd14b531b9c3",
  "first_run": false
 }

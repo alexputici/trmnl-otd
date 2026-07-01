@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-06-30T07:10:38.980042-06:00",
- "generated_at_epoch": 1782825038,
- "date": "2026-06-30",
- "date_label": "June 30",
- "location": "Niagara Falls",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-30.png?v=cd14b531b9c3",
+ "generated_at": "2026-07-01T07:34:44.568238-06:00",
+ "generated_at_epoch": 1782912884,
+ "date": "2026-07-01",
+ "date_label": "July 1",
+ "location": "New York, USA",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-01.png?v=9d564fba447d",
  "fallback": false,
  "yesterday": {
-  "answer": "Globe Theatre burns down during Henry VIII performance, 1613",
-  "wiki_url": "https://en.wikipedia.org/wiki/Globe_Theatre"
+  "answer": "Blondin walks tightrope across Niagara Gorge, 1859",
+  "wiki_url": "https://en.wikipedia.org/wiki/Charles_Blondin"
  }
 }
