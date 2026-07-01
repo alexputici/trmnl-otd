@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-06-30.png?v=784a15465743",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-01.png?v=b66a9fada70a",
  "to_move": "Black",
- "rating": 1968,
- "moves_to_win": 3,
- "puzzle_url": "https://lichess.org/training/VHKhj",
+ "rating": 1865,
+ "moves_to_win": 2,
+ "puzzle_url": "https://lichess.org/training/1CTnE",
  "yesterday": {
-  "solution": "Nxd4 Nxd4 Qa4+ Bd7 Qxd4 Qxd4 Bxd4",
-  "rating": 2139
+  "solution": "Qg1+ Rxg1 f1=N+ Kh1 Rh2#",
+  "rating": 1968
  },
  "schema": 1,
- "generated_at_epoch": 1782822697,
- "date": "2026-06-30"
+ "generated_at_epoch": 1782912094,
+ "date": "2026-07-01"
 }

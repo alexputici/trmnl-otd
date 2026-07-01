@@ -1,11 +1,11 @@
 {
- "word": "bissextile",
- "pronunciation": "bih-SEKS-tyl",
- "part_of_speech": "adjective",
- "definition": "Of or pertaining to a leap year; containing the intercalated day that keeps the calendar aligned with the solar year.",
- "etymology": "From Latin bissextilis, meaning the doubled sixth day. The Romans inserted an extra day by repeating the sixth day before the Kalends of March — counting it twice, bis sextus, twice-sixth. Julius Caesar embedded this correction into his reformed calendar, and the word has carried that arithmetical ghost ever since.",
- "usage": "June 30 falls at the exact midpoint of a bissextile year, meaning 2024 has already banked its extra February day and now coasts toward a second half with 184 days rather than the usual 183 — a quiet asymmetry most people never notice.",
+ "word": "calends",
+ "pronunciation": "KAL-endz",
+ "part_of_speech": "noun (plural)",
+ "definition": "The first day of the month in the Roman calendar; by extension, any reckoning point or starting date of a cycle.",
+ "etymology": "From Latin Kalendae, the name Romans gave to the first day of each month, itself from calare, meaning to announce or to proclaim — because on that day a priest would call out how many days remained until the Nones. The word gave us calendar, that most ordinary of objects, still carrying inside it the echo of a herald's voice.",
+ "usage": "July arrives on its calends with the particular confidence of a month that knows it owns the summer.",
  "schema": 1,
- "generated_at_epoch": 1782822697,
- "date": "2026-06-30"
+ "generated_at_epoch": 1782912094,
+ "date": "2026-07-01"
 }
