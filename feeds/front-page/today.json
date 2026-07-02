@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1782912884,
- "edition_date": "2026-07-01",
- "event_date_label": "June 30",
- "year": 1859,
- "location": "Niagara Falls",
- "headline": "FRENCH ACROBAT BLONDIN CROSSES NIAGARA GORGE ON TIGHTROPE",
- "dispatch": "Charles Blondin, the French acrobat, crossed the Niagara Gorge on a tightrope on Tuesday, completing the terrifying passage over the roaring chasm to the astonishment of thousands gathered on both banks. The rope, stretched some 1,100 feet above the churning river below, held firm as Blondin moved step by careful step to the American side. No man is reported to have attempted such a feat over these falls before.",
- "answer": "Blondin walks tightrope across Niagara Gorge, 1859",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/06-30.png?v=cd14b531b9c3",
+ "generated_at_epoch": 1782997068,
+ "edition_date": "2026-07-02",
+ "event_date_label": "July 1",
+ "year": 1874,
+ "location": "New York, USA",
+ "headline": "Typewriting Machine Now On Sale; Remington Offers Device to Write by Key",
+ "dispatch": "The Remington No. 1 typewriter went on public sale today, the first commercially available machine of its kind. Built on the chassis of a sewing machine by the Remington arms company, the device allows users to produce printed text by striking lettered keys. Merchants expect the invention to transform correspondence and office work across the country.",
+ "answer": "The Remington No. 1 typewriter goes on sale, 1874",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-01.png?v=9d564fba447d",
  "first_run": false
 }

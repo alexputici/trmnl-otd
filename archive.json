@@ -302,5 +302,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-01.png?v=9d564fba447d",
   "fallback": false,
   "generated_at": "2026-07-01T07:34:44.568238-06:00"
+ },
+ {
+  "date": "2026-07-02",
+  "date_label": "July 2",
+  "location": "Washington, D.C.",
+  "answer": "President Johnson signs the Civil Rights Act, 1964",
+  "wiki_url": "https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964",
+  "title": "Civil Rights Act Signed",
+  "year": 1964,
+  "category": "politics",
+  "image_prompt": "A crowded ceremonial room in the White House, rows of suited men and officials pressed close, a broad desk at center draped with documents and pens fanned out, a figure leaning forward pen in hand poised just above the paper, dozens of eyes fixed on that suspended moment before ink meets page, camera flashbulbs ready but not yet fired. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "President Signs Sweeping Civil Rights Bill Into Law",
+  "dispatch": "President Lyndon B. Johnson signed the Civil Rights Act into law at the White House on July 2, 1964, with more than 70 pens used to complete the signing, distributed afterward as keepsakes. The act bans discrimination based on race, color, religion, sex, or national origin in schools, workplaces, and public accommodations. It is the most far-reaching civil rights legislation passed by Congress since Reconstruction.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-02.png?v=b0daf55508f3",
+  "fallback": false,
+  "generated_at": "2026-07-02T06:57:48.821589-06:00"
  }
 ]
