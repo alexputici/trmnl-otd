@@ -318,5 +318,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-02.png?v=b0daf55508f3",
   "fallback": false,
   "generated_at": "2026-07-02T06:57:48.821589-06:00"
+ },
+ {
+  "date": "2026-07-03",
+  "date_label": "July 3",
+  "location": "New York Harbor",
+  "answer": "SS United States departs New York on maiden voyage, 1952",
+  "wiki_url": "https://en.wikipedia.org/wiki/SS_United_States",
+  "title": "SS United States Maiden Voyage Departure",
+  "year": 1952,
+  "category": "other",
+  "image_prompt": "A massive ocean liner looms at the pier, tugboats straining against her hull in the dark harbor water, steam rising from her twin red-and-white funnels, dock workers and well-wishers crowded on the quay below, hawsers still taut from the bollards, the great bow rising above the waterline like a wall of steel, the city skyline jagged behind her, the moment just before the lines are cast off. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Superliner SS United States Casts Off On Historic Maiden Atlantic Crossing",
+  "dispatch": "The SS United States slipped her moorings at New York Harbor this morning, bound for Southampton on her maiden voyage. The vessel, the largest ocean liner ever built in America, carries over 1,800 passengers and crew. Naval architects have kept her top speed a closely guarded secret, but shipyard workers who fitted her engines say she is unlike anything that has crossed the Atlantic before.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-03.png?v=3139d181c38e",
+  "fallback": false,
+  "generated_at": "2026-07-03T06:56:51.389776-06:00"
  }
 ]

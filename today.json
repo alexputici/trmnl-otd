@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-02T06:57:48.821589-06:00",
- "generated_at_epoch": 1782997068,
- "date": "2026-07-02",
- "date_label": "July 2",
- "location": "Washington, D.C.",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-02.png?v=b0daf55508f3",
+ "generated_at": "2026-07-03T06:56:51.389776-06:00",
+ "generated_at_epoch": 1783083411,
+ "date": "2026-07-03",
+ "date_label": "July 3",
+ "location": "New York Harbor",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-03.png?v=3139d181c38e",
  "fallback": false,
  "yesterday": {
-  "answer": "The Remington No. 1 typewriter goes on sale, 1874",
-  "wiki_url": "https://en.wikipedia.org/wiki/Sholes_and_Glidden_typewriter"
+  "answer": "President Johnson signs the Civil Rights Act, 1964",
+  "wiki_url": "https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964"
  }
 }
