@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1783083411,
- "edition_date": "2026-07-03",
- "event_date_label": "July 2",
- "year": 1964,
- "location": "Washington, D.C.",
- "headline": "President Signs Sweeping Civil Rights Bill Into Law",
- "dispatch": "President Lyndon B. Johnson signed the Civil Rights Act into law at the White House on July 2, 1964, with more than 70 pens used to complete the signing, distributed afterward as keepsakes. The act bans discrimination based on race, color, religion, sex, or national origin in schools, workplaces, and public accommodations. It is the most far-reaching civil rights legislation passed by Congress since Reconstruction.",
- "answer": "President Johnson signs the Civil Rights Act, 1964",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-02.png?v=b0daf55508f3",
+ "generated_at_epoch": 1783166853,
+ "edition_date": "2026-07-04",
+ "event_date_label": "July 3",
+ "year": 1952,
+ "location": "New York Harbor",
+ "headline": "Superliner SS United States Casts Off On Historic Maiden Atlantic Crossing",
+ "dispatch": "The SS United States slipped her moorings at New York Harbor this morning, bound for Southampton on her maiden voyage. The vessel, the largest ocean liner ever built in America, carries over 1,800 passengers and crew. Naval architects have kept her top speed a closely guarded secret, but shipyard workers who fitted her engines say she is unlike anything that has crossed the Atlantic before.",
+ "answer": "SS United States departs New York on maiden voyage, 1952",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-03.png?v=3139d181c38e",
  "first_run": false
 }

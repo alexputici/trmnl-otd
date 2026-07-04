@@ -334,5 +334,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-03.png?v=3139d181c38e",
   "fallback": false,
   "generated_at": "2026-07-03T06:56:51.389776-06:00"
+ },
+ {
+  "date": "2026-07-04",
+  "date_label": "July 4",
+  "location": "River Thames, Oxford",
+  "answer": "Lewis Carroll tells Alice Liddell the Wonderland story, 1862",
+  "wiki_url": "https://en.wikipedia.org/wiki/River_Thames",
+  "title": "Lewis Carroll tells Alice the story",
+  "year": 1862,
+  "category": "art",
+  "image_prompt": "A flat-bottomed wooden rowboat drifts on a glassy river flanked by overhanging willows. A slender man in a Victorian frock coat leans forward animatedly toward three young girls seated on cushions at the bow, his hands raised mid-gesture, mouth just opening to speak. The girls lean in with wide eyes, the eldest reaching out slightly as if about to interrupt. The afternoon sun cuts hard shadows through the willow canopy onto the water. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Oxford Don Spins Fantastical Tale for Three Girls on the Thames",
+  "dispatch": "On the afternoon of July 4, Oxford lecturer Charles Dodgson rowed three young sisters up the Thames from Folly Bridge toward Godstow, entertaining them with an improvised tale of a girl who tumbles down a rabbit hole into a land of impossible creatures. The eldest, Alice Liddell, pleaded that he write it down. The story told that afternoon will become Alice's Adventures in Wonderland.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-04.png?v=792ecb546c5d",
+  "fallback": false,
+  "generated_at": "2026-07-04T06:07:33.957293-06:00"
  }
 ]
