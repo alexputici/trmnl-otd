@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1783166853,
- "edition_date": "2026-07-04",
- "event_date_label": "July 3",
- "year": 1952,
- "location": "New York Harbor",
- "headline": "Superliner SS United States Casts Off On Historic Maiden Atlantic Crossing",
- "dispatch": "The SS United States slipped her moorings at New York Harbor this morning, bound for Southampton on her maiden voyage. The vessel, the largest ocean liner ever built in America, carries over 1,800 passengers and crew. Naval architects have kept her top speed a closely guarded secret, but shipyard workers who fitted her engines say she is unlike anything that has crossed the Atlantic before.",
- "answer": "SS United States departs New York on maiden voyage, 1952",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-03.png?v=3139d181c38e",
+ "generated_at_epoch": 1783253800,
+ "edition_date": "2026-07-05",
+ "event_date_label": "July 4",
+ "year": 1862,
+ "location": "River Thames, Oxford",
+ "headline": "Oxford Don Spins Fantastical Tale for Three Girls on the Thames",
+ "dispatch": "On the afternoon of July 4, Oxford lecturer Charles Dodgson rowed three young sisters up the Thames from Folly Bridge toward Godstow, entertaining them with an improvised tale of a girl who tumbles down a rabbit hole into a land of impossible creatures. The eldest, Alice Liddell, pleaded that he write it down. The story told that afternoon will become Alice's Adventures in Wonderland.",
+ "answer": "Lewis Carroll tells Alice Liddell the Wonderland story, 1862",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-04.png?v=792ecb546c5d",
  "first_run": false
 }

@@ -350,5 +350,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-04.png?v=792ecb546c5d",
   "fallback": false,
   "generated_at": "2026-07-04T06:07:33.957293-06:00"
+ },
+ {
+  "date": "2026-07-05",
+  "date_label": "July 5",
+  "location": "Memphis, Tennessee",
+  "answer": "Elvis Presley records his first single at Sun Records, 1954",
+  "wiki_url": "https://en.wikipedia.org/wiki/Elvis_Presley",
+  "title": "Elvis Presley Records 'That's All Right'",
+  "year": 1954,
+  "category": "art",
+  "image_prompt": "Inside a small recording studio, a young man in a plaid shirt stands at a vintage microphone, guitar slung around his neck, leaning slightly forward with eyes closed and one foot raised, the engineer visible through a glass booth window, reels of tape spinning on a machine in the background, the room lit by a single overhead lamp casting dramatic shadows across the walls and floor. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Unknown Truck Driver Cuts Debut Record at Memphis Studio",
+  "dispatch": "Memphis, Tennessee, July 6, 1954. An 19-year-old named Elvis Presley walked out of Sun Records on Union Avenue yesterday with a lacquer disc containing a raw, propulsive rendition of Arthur Crudup's blues number. Producer Sam Phillips, who had been searching for a white singer with a Negro sound and feel, declared the take a keeper after midnight. The record is to be pressed as a single for regional release.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-05.png?v=c9b59a74230e",
+  "fallback": false,
+  "generated_at": "2026-07-05T06:16:40.241077-06:00"
  }
 ]

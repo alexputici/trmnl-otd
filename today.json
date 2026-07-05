@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-04T06:07:33.957293-06:00",
- "generated_at_epoch": 1783166853,
- "date": "2026-07-04",
- "date_label": "July 4",
- "location": "River Thames, Oxford",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-04.png?v=792ecb546c5d",
+ "generated_at": "2026-07-05T06:16:40.241077-06:00",
+ "generated_at_epoch": 1783253800,
+ "date": "2026-07-05",
+ "date_label": "July 5",
+ "location": "Memphis, Tennessee",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-05.png?v=c9b59a74230e",
  "fallback": false,
  "yesterday": {
-  "answer": "SS United States departs New York on maiden voyage, 1952",
-  "wiki_url": "https://en.wikipedia.org/wiki/SS_United_States"
+  "answer": "Lewis Carroll tells Alice Liddell the Wonderland story, 1862",
+  "wiki_url": "https://en.wikipedia.org/wiki/River_Thames"
  }
 }
