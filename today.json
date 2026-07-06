@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-05T06:16:40.241077-06:00",
- "generated_at_epoch": 1783253800,
- "date": "2026-07-05",
- "date_label": "July 5",
- "location": "Memphis, Tennessee",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-05.png?v=c9b59a74230e",
+ "generated_at": "2026-07-06T08:25:00.957205-06:00",
+ "generated_at_epoch": 1783347900,
+ "date": "2026-07-06",
+ "date_label": "July 6",
+ "location": "Wagram, Austria",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-06.png?v=e4ea1c1cb8b1",
  "fallback": false,
  "yesterday": {
-  "answer": "Lewis Carroll tells Alice Liddell the Wonderland story, 1862",
-  "wiki_url": "https://en.wikipedia.org/wiki/River_Thames"
+  "answer": "Elvis Presley records his first single at Sun Records, 1954",
+  "wiki_url": "https://en.wikipedia.org/wiki/Elvis_Presley"
  }
 }

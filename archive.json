@@ -366,5 +366,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-05.png?v=c9b59a74230e",
   "fallback": false,
   "generated_at": "2026-07-05T06:16:40.241077-06:00"
+ },
+ {
+  "date": "2026-07-06",
+  "date_label": "July 6",
+  "location": "Wagram, Austria",
+  "answer": "Napoleon defeats Archduke Charles at Wagram, 1809",
+  "wiki_url": "https://en.wikipedia.org/wiki/Napoleon",
+  "title": "Battle of Wagram",
+  "year": 1809,
+  "category": "disaster",
+  "image_prompt": "A vast open plain at dawn, two enormous armies facing each other across a flat field, the front ranks of French infantry with bayonets fixed standing rigid in long dark lines, artillery pieces angled forward with gunners crouching beside them ready to fire, the distant Austrian formations a dense mass on the horizon, officers on horseback holding their swords aloft mid-gesture, the tension of the final silent seconds before the order is given, smoke from earlier skirmishes drifting low across the ground. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Napoleon Smashes Austrian Army at Wagram in Decisive Coalition Battle",
+  "dispatch": "French forces under Emperor Napoleon shattered Archduke Charles's Austrian army at Wagram on July 6, routing the largest force yet assembled against the Empire. The two-day engagement on the Marchfeld plain north of Vienna ended with the Austrians in full retreat and heavy casualties on both sides. The victory is expected to compel Austria to sue for peace and end the War of the Fifth Coalition.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-06.png?v=e4ea1c1cb8b1",
+  "fallback": false,
+  "generated_at": "2026-07-06T08:25:00.957205-06:00"
  }
 ]
