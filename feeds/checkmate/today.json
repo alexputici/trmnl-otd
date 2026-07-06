@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-05.png?v=8ca49d0b0439",
- "to_move": "Black",
- "rating": 1761,
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-06.png?v=d1a55135747f",
+ "to_move": "White",
+ "rating": 1939,
  "moves_to_win": 2,
- "puzzle_url": "https://lichess.org/training/lPHsl",
+ "puzzle_url": "https://lichess.org/training/Tb81W",
  "yesterday": {
-  "solution": "Qxf2+ Qxf2 Rxe1+ Kh2 Bxf2",
-  "rating": 1947
+  "solution": "f2 Nd5 f1=Q",
+  "rating": 1761
  },
  "schema": 1,
- "generated_at_epoch": 1783252946,
- "date": "2026-07-05"
+ "generated_at_epoch": 1783347356,
+ "date": "2026-07-06"
 }
