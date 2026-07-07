@@ -382,5 +382,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-06.png?v=e4ea1c1cb8b1",
   "fallback": false,
   "generated_at": "2026-07-06T08:25:00.957205-06:00"
+ },
+ {
+  "date": "2026-07-07",
+  "date_label": "July 7",
+  "location": "Munich",
+  "answer": "West Germany defeats Netherlands in World Cup final, 1974",
+  "wiki_url": "https://en.wikipedia.org/wiki/Germany_national_football_team",
+  "title": "West Germany Wins FIFA World Cup",
+  "year": 1974,
+  "category": "sport",
+  "image_prompt": "A packed stadium roars silently as a West German footballer winds up for a decisive penalty kick, the Dutch goalkeeper crouched and tensed on the goal line, arms spread wide, stadium floodlights blazing above the turf, thousands of spectators frozen mid-breath in the terraces behind. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "West Germany Crowned World Champions, Defeat Netherlands 2-1 in Munich Final",
+  "dispatch": "West Germany claimed the FIFA World Cup title in Munich on July 7, 1974, defeating the Netherlands 2-1 at the Olympiastadion. Gerd Muller struck the winning goal in the second half to seal victory for the hosts. The Dutch, playing their celebrated total football, had taken the lead from the penalty spot before the Germans rallied to overturn the deficit.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-07.png?v=cf1291c03aba",
+  "fallback": false,
+  "generated_at": "2026-07-07T07:19:44.836840-06:00"
  }
 ]

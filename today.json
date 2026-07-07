@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-06T08:25:00.957205-06:00",
- "generated_at_epoch": 1783347900,
- "date": "2026-07-06",
- "date_label": "July 6",
- "location": "Wagram, Austria",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-06.png?v=e4ea1c1cb8b1",
+ "generated_at": "2026-07-07T07:19:44.836840-06:00",
+ "generated_at_epoch": 1783430384,
+ "date": "2026-07-07",
+ "date_label": "July 7",
+ "location": "Munich",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-07.png?v=cf1291c03aba",
  "fallback": false,
  "yesterday": {
-  "answer": "Elvis Presley records his first single at Sun Records, 1954",
-  "wiki_url": "https://en.wikipedia.org/wiki/Elvis_Presley"
+  "answer": "Napoleon defeats Archduke Charles at Wagram, 1809",
+  "wiki_url": "https://en.wikipedia.org/wiki/Napoleon"
  }
 }
