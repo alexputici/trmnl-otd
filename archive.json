@@ -398,5 +398,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-07.png?v=cf1291c03aba",
   "fallback": false,
   "generated_at": "2026-07-07T07:19:44.836840-06:00"
+ },
+ {
+  "date": "2026-07-08",
+  "date_label": "July 8",
+  "location": "Philadelphia",
+  "answer": "Declaration of Independence read aloud publicly, 1776",
+  "wiki_url": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence",
+  "title": "First Public Reading of the Declaration of Independence",
+  "year": 1776,
+  "category": "politics",
+  "image_prompt": "A colonial-era man in a tricorn hat stands on the steps of a brick building, unrolling a large parchment scroll before a hushed crowd of men, women, and children packed into a cobblestone square, torchlight flickering on their upturned faces, the moment before the first words are spoken. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Declaration of Independence Read Aloud to Citizens of Philadelphia",
+  "dispatch": "Philadelphia, July 8, 1776. Colonel John Nixon read the newly adopted Declaration of Independence aloud from the yard of the Pennsylvania State House today before a large gathering of citizens. The crowd received the words with considerable enthusiasm. Church bells rang across the city as the public proclamation of separation from Britain was heard for the first time by common people.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-08.png?v=5a91a85cd662",
+  "fallback": false,
+  "generated_at": "2026-07-08T06:21:41.984951-06:00"
  }
 ]

@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-07T07:19:44.836840-06:00",
- "generated_at_epoch": 1783430384,
- "date": "2026-07-07",
- "date_label": "July 7",
- "location": "Munich",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-07.png?v=cf1291c03aba",
+ "generated_at": "2026-07-08T06:21:41.984951-06:00",
+ "generated_at_epoch": 1783513301,
+ "date": "2026-07-08",
+ "date_label": "July 8",
+ "location": "Philadelphia",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-08.png?v=5a91a85cd662",
  "fallback": false,
  "yesterday": {
-  "answer": "Napoleon defeats Archduke Charles at Wagram, 1809",
-  "wiki_url": "https://en.wikipedia.org/wiki/Napoleon"
+  "answer": "West Germany defeats Netherlands in World Cup final, 1974",
+  "wiki_url": "https://en.wikipedia.org/wiki/Germany_national_football_team"
  }
 }
