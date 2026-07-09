@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-08.png?v=bd185a2fa331",
- "to_move": "White",
- "rating": 2005,
- "moves_to_win": 5,
- "puzzle_url": "https://lichess.org/training/r5Plo",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-09.png?v=73e8db4a7117",
+ "to_move": "Black",
+ "rating": 2082,
+ "moves_to_win": 3,
+ "puzzle_url": "https://lichess.org/training/ChOcI",
  "yesterday": {
-  "solution": "Qxd3 Bxd3 Rxe5",
-  "rating": 1853
+  "solution": "Ke3 d4+ Kf3 Bc6+ Kg3 Rg8 Rxg8 a1=Q Rg5#",
+  "rating": 2005
  },
  "schema": 1,
- "generated_at_epoch": 1783512446,
- "date": "2026-07-08"
+ "generated_at_epoch": 1783604135,
+ "date": "2026-07-09"
 }
