@@ -414,5 +414,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-08.png?v=5a91a85cd662",
   "fallback": false,
   "generated_at": "2026-07-08T06:21:41.984951-06:00"
+ },
+ {
+  "date": "2026-07-09",
+  "date_label": "July 9",
+  "location": "Wimbledon, London",
+  "answer": "First Wimbledon Championship begins, 1877",
+  "wiki_url": "https://en.wikipedia.org/wiki/1877_Wimbledon_Championship",
+  "title": "Inaugural Wimbledon Championship",
+  "year": 1877,
+  "category": "sport",
+  "image_prompt": "A lone groundskeeper kneels at the edge of a freshly rolled grass tennis court, smoothing the last chalk line of the service box with a wooden roller, the net hanging still and taut in the windless afternoon air, empty wooden grandstands rising behind him, a single tennis ball resting motionless on the turf. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "First Lawn Tennis Championship Opens at Wimbledon Today",
+  "dispatch": "The first championship meeting at the All England Croquet and Lawn Tennis Club commenced today at Wimbledon, drawing a field of twenty-two gentlemen competitors. Spectators gathered in modest numbers on the wooden stands surrounding the carefully prepared centre court. The event is expected to conclude within the fortnight, with a prize of twelve guineas awaiting the champion.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-09.png?v=d4ec05efbf16",
+  "fallback": false,
+  "generated_at": "2026-07-09T07:50:12.235207-06:00"
  }
 ]

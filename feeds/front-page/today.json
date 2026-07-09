@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1783513301,
- "edition_date": "2026-07-08",
- "event_date_label": "July 7",
- "year": 1974,
- "location": "Munich",
- "headline": "West Germany Crowned World Champions, Defeat Netherlands 2-1 in Munich Final",
- "dispatch": "West Germany claimed the FIFA World Cup title in Munich on July 7, 1974, defeating the Netherlands 2-1 at the Olympiastadion. Gerd Muller struck the winning goal in the second half to seal victory for the hosts. The Dutch, playing their celebrated total football, had taken the lead from the penalty spot before the Germans rallied to overturn the deficit.",
- "answer": "West Germany defeats Netherlands in World Cup final, 1974",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-07.png?v=cf1291c03aba",
+ "generated_at_epoch": 1783605012,
+ "edition_date": "2026-07-09",
+ "event_date_label": "July 8",
+ "year": 1776,
+ "location": "Philadelphia",
+ "headline": "Declaration of Independence Read Aloud to Citizens of Philadelphia",
+ "dispatch": "Philadelphia, July 8, 1776. Colonel John Nixon read the newly adopted Declaration of Independence aloud from the yard of the Pennsylvania State House today before a large gathering of citizens. The crowd received the words with considerable enthusiasm. Church bells rang across the city as the public proclamation of separation from Britain was heard for the first time by common people.",
+ "answer": "Declaration of Independence read aloud publicly, 1776",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-08.png?v=5a91a85cd662",
  "first_run": false
 }
