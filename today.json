@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-09T07:50:12.235207-06:00",
- "generated_at_epoch": 1783605012,
- "date": "2026-07-09",
- "date_label": "July 9",
- "location": "Wimbledon, London",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-09.png?v=d4ec05efbf16",
+ "generated_at": "2026-07-10T07:12:36.933945-06:00",
+ "generated_at_epoch": 1783689156,
+ "date": "2026-07-10",
+ "date_label": "July 10",
+ "location": "Akutan Island, Alaska",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-10.png?v=30be886a3608",
  "fallback": false,
  "yesterday": {
-  "answer": "Declaration of Independence read aloud publicly, 1776",
-  "wiki_url": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence"
+  "answer": "First Wimbledon Championship begins, 1877",
+  "wiki_url": "https://en.wikipedia.org/wiki/1877_Wimbledon_Championship"
  }
 }

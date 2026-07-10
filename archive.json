@@ -430,5 +430,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-09.png?v=d4ec05efbf16",
   "fallback": false,
   "generated_at": "2026-07-09T07:50:12.235207-06:00"
+ },
+ {
+  "date": "2026-07-10",
+  "date_label": "July 10",
+  "location": "Akutan Island, Alaska",
+  "answer": "Intact Japanese Zero found on Akutan Island, Alaska, 1942",
+  "wiki_url": "https://en.wikipedia.org/wiki/Akutan_Zero",
+  "title": "Akutan Zero Discovered",
+  "year": 1942,
+  "category": "other",
+  "image_prompt": "A nearly intact fighter aircraft lying nose-down in a muddy tundra bog on a remote Alaskan island, one wing crumpled against the wet earth and the other angled skyward, fog rolling in low from the surrounding cliffs, a small patrol of armed sailors in rain gear approaching cautiously across the marshy ground, their boots sinking with each step, dense overcast sky above volcanic peaks. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Downed Japanese Zero Found Intact on Alaskan Island, Navy to Study Craft",
+  "dispatch": "A Mitsubishi Zero fighter aircraft was discovered on July 10, 1942, lying largely undamaged in a peat bog on Akutan Island, Alaska, after its pilot was killed in a crash landing following a raid on Dutch Harbor. Navy salvage teams recovered the aircraft, which was subsequently repaired and test-flown at Naval Air Station North Island. Intelligence gained from the examination proved valuable in developing tactics used by American pilots against the Zero throughout the Pacific campaign.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-10.png?v=30be886a3608",
+  "fallback": false,
+  "generated_at": "2026-07-10T07:12:36.933945-06:00"
  }
 ]

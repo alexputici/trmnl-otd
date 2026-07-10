@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1783605012,
- "edition_date": "2026-07-09",
- "event_date_label": "July 8",
- "year": 1776,
- "location": "Philadelphia",
- "headline": "Declaration of Independence Read Aloud to Citizens of Philadelphia",
- "dispatch": "Philadelphia, July 8, 1776. Colonel John Nixon read the newly adopted Declaration of Independence aloud from the yard of the Pennsylvania State House today before a large gathering of citizens. The crowd received the words with considerable enthusiasm. Church bells rang across the city as the public proclamation of separation from Britain was heard for the first time by common people.",
- "answer": "Declaration of Independence read aloud publicly, 1776",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-08.png?v=5a91a85cd662",
+ "generated_at_epoch": 1783689156,
+ "edition_date": "2026-07-10",
+ "event_date_label": "July 9",
+ "year": 1877,
+ "location": "Wimbledon, London",
+ "headline": "First Lawn Tennis Championship Opens at Wimbledon Today",
+ "dispatch": "The first championship meeting at the All England Croquet and Lawn Tennis Club commenced today at Wimbledon, drawing a field of twenty-two gentlemen competitors. Spectators gathered in modest numbers on the wooden stands surrounding the carefully prepared centre court. The event is expected to conclude within the fortnight, with a prize of twelve guineas awaiting the champion.",
+ "answer": "First Wimbledon Championship begins, 1877",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-09.png?v=d4ec05efbf16",
  "first_run": false
 }
