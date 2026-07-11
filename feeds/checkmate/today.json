@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-10.png?v=d8d24ebbda98",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-11.png?v=86541bd5d951",
  "to_move": "White",
- "rating": 2123,
- "moves_to_win": 2,
- "puzzle_url": "https://lichess.org/training/5rfIt",
+ "rating": 1749,
+ "moves_to_win": 3,
+ "puzzle_url": "https://lichess.org/training/BUUSS",
  "yesterday": {
-  "solution": "Nc6 Qa3 Ra8 Qxa8 Rxa8",
-  "rating": 2082
+  "solution": "Bc5 Qc7 Bxc6+",
+  "rating": 2123
  },
  "schema": 1,
- "generated_at_epoch": 1783688214,
- "date": "2026-07-10"
+ "generated_at_epoch": 1783769656,
+ "date": "2026-07-11"
 }
