@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1783689156,
- "edition_date": "2026-07-10",
- "event_date_label": "July 9",
- "year": 1877,
- "location": "Wimbledon, London",
- "headline": "First Lawn Tennis Championship Opens at Wimbledon Today",
- "dispatch": "The first championship meeting at the All England Croquet and Lawn Tennis Club commenced today at Wimbledon, drawing a field of twenty-two gentlemen competitors. Spectators gathered in modest numbers on the wooden stands surrounding the carefully prepared centre court. The event is expected to conclude within the fortnight, with a prize of twelve guineas awaiting the champion.",
- "answer": "First Wimbledon Championship begins, 1877",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-09.png?v=d4ec05efbf16",
+ "generated_at_epoch": 1783857591,
+ "edition_date": "2026-07-12",
+ "event_date_label": "July 10",
+ "year": 1942,
+ "location": "Akutan Island, Alaska",
+ "headline": "Downed Japanese Zero Found Intact on Alaskan Island, Navy to Study Craft",
+ "dispatch": "A Mitsubishi Zero fighter aircraft was discovered on July 10, 1942, lying largely undamaged in a peat bog on Akutan Island, Alaska, after its pilot was killed in a crash landing following a raid on Dutch Harbor. Navy salvage teams recovered the aircraft, which was subsequently repaired and test-flown at Naval Air Station North Island. Intelligence gained from the examination proved valuable in developing tactics used by American pilots against the Zero throughout the Pacific campaign.",
+ "answer": "Intact Japanese Zero found on Akutan Island, Alaska, 1942",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-10.png?v=30be886a3608",
  "first_run": false
 }

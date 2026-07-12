@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-10T07:12:36.933945-06:00",
- "generated_at_epoch": 1783689156,
- "date": "2026-07-10",
- "date_label": "July 10",
- "location": "Akutan Island, Alaska",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-10.png?v=30be886a3608",
+ "generated_at": "2026-07-12T05:59:51.369574-06:00",
+ "generated_at_epoch": 1783857591,
+ "date": "2026-07-12",
+ "date_label": "July 12",
+ "location": "London, England",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-12.png?v=854dd7448c53",
  "fallback": false,
  "yesterday": {
-  "answer": "First Wimbledon Championship begins, 1877",
-  "wiki_url": "https://en.wikipedia.org/wiki/1877_Wimbledon_Championship"
+  "answer": "Intact Japanese Zero found on Akutan Island, Alaska, 1942",
+  "wiki_url": "https://en.wikipedia.org/wiki/Akutan_Zero"
  }
 }

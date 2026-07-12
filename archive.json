@@ -446,5 +446,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-10.png?v=30be886a3608",
   "fallback": false,
   "generated_at": "2026-07-10T07:12:36.933945-06:00"
+ },
+ {
+  "date": "2026-07-12",
+  "date_label": "July 12",
+  "location": "London, England",
+  "answer": "The Rolling Stones play their debut concert, 1962",
+  "wiki_url": "https://en.wikipedia.org/wiki/The_Rolling_Stones",
+  "title": "Rolling Stones First Concert",
+  "year": 1962,
+  "category": "art",
+  "image_prompt": "Inside a dimly lit jazz club, a young five-piece rock band stands on a cramped low stage gripping their instruments, guitars slung ready, a nervous drummer poised over kit, the lead singer gripping the microphone stand, sparse audience of young men and women at round tables leaning forward with anticipation, beer glasses catching the single overhead spotlight, cigarette smoke curling upward, the room hushed in the half-second before the first chord strikes. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Rolling Stones Take the Stage for the First Time at London's Marquee Club",
+  "dispatch": "An unknown five-piece band calling themselves the Rolling Stones performed their first concert Thursday night at the Marquee Club on Oxford Street in London. The group, led by vocalist Mick Jagger and guitarist Brian Jones, played a set of American rhythm and blues covers before a small but enthusiastic crowd. Club regulars took notice of the raw energy on display, with several patrons predicting a future for the young act.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-12.png?v=854dd7448c53",
+  "fallback": false,
+  "generated_at": "2026-07-12T05:59:51.369574-06:00"
  }
 ]
