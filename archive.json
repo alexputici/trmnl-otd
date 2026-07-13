@@ -462,5 +462,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-12.png?v=854dd7448c53",
   "fallback": false,
   "generated_at": "2026-07-12T05:59:51.369574-06:00"
+ },
+ {
+  "date": "2026-07-13",
+  "date_label": "July 13",
+  "location": "Washington, D.C.",
+  "answer": "Secret White House taping system revealed to Senate, 1973",
+  "wiki_url": "https://en.wikipedia.org/wiki/Watergate_scandal",
+  "title": "Butterfield Reveals Oval Office Taping System",
+  "year": 1973,
+  "category": "politics",
+  "image_prompt": "A lone man in a suit sits rigidly at a witness table inside a grand Senate hearing chamber, facing a curved dais crowded with grave-faced senators leaning forward. Microphones bristle before him. Spectators pack the gallery above, craning their necks in hushed anticipation. A reel-to-reel tape recorder sits unnoticed on a side table at the edge of the frame. The chamber lights blaze down, casting deep shadows beneath the marble columns. The man's lips are parted, one breath before he speaks. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "White House Aide Discloses Secret Recording System in Oval Office",
+  "dispatch": "Senate investigators revealed yesterday that the White House had secretly recorded conversations in the Oval Office, a disclosure made by deputy chief of staff Alexander Butterfield under questioning. The taping system, installed without public knowledge, captured discussions between President Nixon and his aides. The revelation immediately transformed the Watergate inquiry, as prosecutors and senators moved to subpoena the recordings.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-13.png?v=0f17915739bf",
+  "fallback": false,
+  "generated_at": "2026-07-13T07:27:45.535967-06:00"
  }
 ]

@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-12T05:59:51.369574-06:00",
- "generated_at_epoch": 1783857591,
- "date": "2026-07-12",
- "date_label": "July 12",
- "location": "London, England",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-12.png?v=854dd7448c53",
+ "generated_at": "2026-07-13T07:27:45.535967-06:00",
+ "generated_at_epoch": 1783949265,
+ "date": "2026-07-13",
+ "date_label": "July 13",
+ "location": "Washington, D.C.",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-13.png?v=0f17915739bf",
  "fallback": false,
  "yesterday": {
-  "answer": "Intact Japanese Zero found on Akutan Island, Alaska, 1942",
-  "wiki_url": "https://en.wikipedia.org/wiki/Akutan_Zero"
+  "answer": "The Rolling Stones play their debut concert, 1962",
+  "wiki_url": "https://en.wikipedia.org/wiki/The_Rolling_Stones"
  }
 }
