@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-12.png?v=3f375e5da327",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-13.png?v=51dcbbeab4d7",
  "to_move": "White",
- "rating": 1901,
- "moves_to_win": 3,
- "puzzle_url": "https://lichess.org/training/rpI19",
+ "rating": 1879,
+ "moves_to_win": 2,
+ "puzzle_url": "https://lichess.org/training/mUly2",
  "yesterday": {
-  "solution": "Nc8+ Kd8 a7 Kxc8 a8=Q",
-  "rating": 1749
+  "solution": "Qxf7+ Kh8 Rg1 Bf3+ Qxf3",
+  "rating": 1901
  },
  "schema": 1,
- "generated_at_epoch": 1783856512,
- "date": "2026-07-12"
+ "generated_at_epoch": 1783947745,
+ "date": "2026-07-13"
 }
