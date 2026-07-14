@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1783949265,
- "edition_date": "2026-07-13",
- "event_date_label": "July 12",
- "year": 1962,
- "location": "London, England",
- "headline": "Rolling Stones Take the Stage for the First Time at London's Marquee Club",
- "dispatch": "An unknown five-piece band calling themselves the Rolling Stones performed their first concert Thursday night at the Marquee Club on Oxford Street in London. The group, led by vocalist Mick Jagger and guitarist Brian Jones, played a set of American rhythm and blues covers before a small but enthusiastic crowd. Club regulars took notice of the raw energy on display, with several patrons predicting a future for the young act.",
- "answer": "The Rolling Stones play their debut concert, 1962",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-12.png?v=854dd7448c53",
+ "generated_at_epoch": 1784031076,
+ "edition_date": "2026-07-14",
+ "event_date_label": "July 13",
+ "year": 1973,
+ "location": "Washington, D.C.",
+ "headline": "White House Aide Discloses Secret Recording System in Oval Office",
+ "dispatch": "Senate investigators revealed yesterday that the White House had secretly recorded conversations in the Oval Office, a disclosure made by deputy chief of staff Alexander Butterfield under questioning. The taping system, installed without public knowledge, captured discussions between President Nixon and his aides. The revelation immediately transformed the Watergate inquiry, as prosecutors and senators moved to subpoena the recordings.",
+ "answer": "Secret White House taping system revealed to Senate, 1973",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-13.png?v=0f17915739bf",
  "first_run": false
 }

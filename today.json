@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-13T07:27:45.535967-06:00",
- "generated_at_epoch": 1783949265,
- "date": "2026-07-13",
- "date_label": "July 13",
- "location": "Washington, D.C.",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-13.png?v=0f17915739bf",
+ "generated_at": "2026-07-14T06:11:16.997654-06:00",
+ "generated_at_epoch": 1784031076,
+ "date": "2026-07-14",
+ "date_label": "July 14",
+ "location": "Matterhorn, Alps",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-14.png?v=a39740a76afe",
  "fallback": false,
  "yesterday": {
-  "answer": "The Rolling Stones play their debut concert, 1962",
-  "wiki_url": "https://en.wikipedia.org/wiki/The_Rolling_Stones"
+  "answer": "Secret White House taping system revealed to Senate, 1973",
+  "wiki_url": "https://en.wikipedia.org/wiki/Watergate_scandal"
  }
 }
