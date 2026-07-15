@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1784031076,
- "edition_date": "2026-07-14",
- "event_date_label": "July 13",
- "year": 1973,
- "location": "Washington, D.C.",
- "headline": "White House Aide Discloses Secret Recording System in Oval Office",
- "dispatch": "Senate investigators revealed yesterday that the White House had secretly recorded conversations in the Oval Office, a disclosure made by deputy chief of staff Alexander Butterfield under questioning. The taping system, installed without public knowledge, captured discussions between President Nixon and his aides. The revelation immediately transformed the Watergate inquiry, as prosecutors and senators moved to subpoena the recordings.",
- "answer": "Secret White House taping system revealed to Senate, 1973",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-13.png?v=0f17915739bf",
+ "generated_at_epoch": 1784117736,
+ "edition_date": "2026-07-15",
+ "event_date_label": "July 14",
+ "year": 1865,
+ "location": "Matterhorn, Alps",
+ "headline": "Seven Mountaineers Conquer the Matterhorn; Golden Age of Alpinism Ends",
+ "dispatch": "A team of seven climbers, led by Edward Whymper, reached the summit of the Matterhorn on July 14, 1865, the first men ever to stand atop the great Swiss peak. The triumph was shadowed by catastrophe on the descent, when four members of the party fell to their deaths. The ascent closes what alpinists had called the golden age of mountaineering, leaving no major Alpine summit unclimbed.",
+ "answer": "First ascent of the Matterhorn completed, 1865",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-14.png?v=a39740a76afe",
  "first_run": false
 }

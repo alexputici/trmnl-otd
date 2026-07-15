@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-14T06:11:16.997654-06:00",
- "generated_at_epoch": 1784031076,
- "date": "2026-07-14",
- "date_label": "July 14",
- "location": "Matterhorn, Alps",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-14.png?v=a39740a76afe",
+ "generated_at": "2026-07-15T06:15:36.322573-06:00",
+ "generated_at_epoch": 1784117736,
+ "date": "2026-07-15",
+ "date_label": "July 15",
+ "location": "Rashid, Egypt",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-15.png?v=63fb586e4934",
  "fallback": false,
  "yesterday": {
-  "answer": "Secret White House taping system revealed to Senate, 1973",
-  "wiki_url": "https://en.wikipedia.org/wiki/Watergate_scandal"
+  "answer": "First ascent of the Matterhorn completed, 1865",
+  "wiki_url": "https://en.wikipedia.org/wiki/First_ascent_of_the_Matterhorn"
  }
 }

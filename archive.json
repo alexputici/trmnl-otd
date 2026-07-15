@@ -494,5 +494,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-14.png?v=a39740a76afe",
   "fallback": false,
   "generated_at": "2026-07-14T06:11:16.997654-06:00"
+ },
+ {
+  "date": "2026-07-15",
+  "date_label": "July 15",
+  "location": "Rashid, Egypt",
+  "answer": "French soldiers uncover the Rosetta Stone, 1799",
+  "wiki_url": "https://en.wikipedia.org/wiki/Fort_Julien",
+  "title": "Rosetta Stone Discovered",
+  "year": 1799,
+  "category": "science",
+  "image_prompt": "A French soldier in Revolutionary-era uniform crouches in a sandy excavation trench beside a massive dark slab of granodiorite half-buried in the earth, his hand just touching its surface, other soldiers leaning over the edge of the pit peering down, palm trees and the walls of a stone fort visible in the background under a blazing midday sun. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "ANCIENT STONE SLAB WITH MYSTERIOUS TRIPLE INSCRIPTION FOUND NEAR RASHID",
+  "dispatch": "French soldiers excavating fortifications at Fort Julien near the Egyptian port of Rashid unearthed a large black stone slab yesterday bearing three distinct scripts carved in parallel rows. Officers on the scene noted the stone appears to carry identical text rendered in Greek letters alongside two unknown ancient scripts. The discovery has been forwarded to the scholars accompanying the expedition for urgent study.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-15.png?v=63fb586e4934",
+  "fallback": false,
+  "generated_at": "2026-07-15T06:15:36.322573-06:00"
  }
 ]
