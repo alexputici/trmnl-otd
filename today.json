@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-15T06:15:36.322573-06:00",
- "generated_at_epoch": 1784117736,
- "date": "2026-07-15",
- "date_label": "July 15",
- "location": "Rashid, Egypt",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-15.png?v=63fb586e4934",
+ "generated_at": "2026-07-16T06:20:55.419728-06:00",
+ "generated_at_epoch": 1784204455,
+ "date": "2026-07-16",
+ "date_label": "July 16",
+ "location": "Jornada del Muerto, NM",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-16.png?v=d36d9ff3c0c1",
  "fallback": false,
  "yesterday": {
-  "answer": "First ascent of the Matterhorn completed, 1865",
-  "wiki_url": "https://en.wikipedia.org/wiki/First_ascent_of_the_Matterhorn"
+  "answer": "French soldiers uncover the Rosetta Stone, 1799",
+  "wiki_url": "https://en.wikipedia.org/wiki/Fort_Julien"
  }
 }

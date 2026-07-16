@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1784117736,
- "edition_date": "2026-07-15",
- "event_date_label": "July 14",
- "year": 1865,
- "location": "Matterhorn, Alps",
- "headline": "Seven Mountaineers Conquer the Matterhorn; Golden Age of Alpinism Ends",
- "dispatch": "A team of seven climbers, led by Edward Whymper, reached the summit of the Matterhorn on July 14, 1865, the first men ever to stand atop the great Swiss peak. The triumph was shadowed by catastrophe on the descent, when four members of the party fell to their deaths. The ascent closes what alpinists had called the golden age of mountaineering, leaving no major Alpine summit unclimbed.",
- "answer": "First ascent of the Matterhorn completed, 1865",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-14.png?v=a39740a76afe",
+ "generated_at_epoch": 1784204455,
+ "edition_date": "2026-07-16",
+ "event_date_label": "July 15",
+ "year": 1799,
+ "location": "Rashid, Egypt",
+ "headline": "ANCIENT STONE SLAB WITH MYSTERIOUS TRIPLE INSCRIPTION FOUND NEAR RASHID",
+ "dispatch": "French soldiers excavating fortifications at Fort Julien near the Egyptian port of Rashid unearthed a large black stone slab yesterday bearing three distinct scripts carved in parallel rows. Officers on the scene noted the stone appears to carry identical text rendered in Greek letters alongside two unknown ancient scripts. The discovery has been forwarded to the scholars accompanying the expedition for urgent study.",
+ "answer": "French soldiers uncover the Rosetta Stone, 1799",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-15.png?v=63fb586e4934",
  "first_run": false
 }

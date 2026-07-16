@@ -510,5 +510,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-15.png?v=63fb586e4934",
   "fallback": false,
   "generated_at": "2026-07-15T06:15:36.322573-06:00"
+ },
+ {
+  "date": "2026-07-16",
+  "date_label": "July 16",
+  "location": "Jornada del Muerto, NM",
+  "answer": "First nuclear weapon detonated, Trinity test, 1945",
+  "wiki_url": "https://en.wikipedia.org/wiki/Nuclear_weapon",
+  "title": "Trinity Nuclear Test",
+  "year": 1945,
+  "category": "science",
+  "image_prompt": "A steel tower stands alone on a vast desert plain in the predawn darkness, the device mounted at its top bristling with cables and instrumentation. Scientists crouch in distant bunkers, their faces pressed to slits in concrete walls, watching the tower. The air is utterly still, the desert floor pale and cracked, a few scrubby plants casting hard shadows under floodlights. The tower looms like an iron scaffold against a black sky crowded with stars, every bolt and wire rendered in sharp relief, tension coiled in the silence of the moment before everything changes. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "ATOMIC BOMB EXPLODES IN NEW MEXICO DESERT IN FIRST EVER TEST",
+  "dispatch": "An experimental atomic device was detonated before dawn at a remote site in the New Mexico desert on July 16, 1945, producing a blinding flash visible hundreds of miles away and a towering column of fire and smoke. The blast, far exceeding expectations, left a crater of fused desert sand and shook buildings in towns as far as 160 miles distant. Scientists and military officials watching from bunkers confirmed the weapon's devastating power, opening a new era in warfare.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-16.png?v=d36d9ff3c0c1",
+  "fallback": false,
+  "generated_at": "2026-07-16T06:20:55.419728-06:00"
  }
 ]
