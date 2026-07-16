@@ -1,12 +1,12 @@
 {
  "phase": "New Moon",
  "glyph": "🌑",
- "illumination_pct": 1,
- "moon_age_days": 0.7,
+ "illumination_pct": 3,
+ "moon_age_days": 1.7,
  "next_full": "Jul 29",
  "next_new": "Aug 13",
  "darkness": "dark skies",
  "schema": 1,
- "generated_at_epoch": 1784117121,
- "date": "2026-07-15"
+ "generated_at_epoch": 1784203645,
+ "date": "2026-07-16"
 }
