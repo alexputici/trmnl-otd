@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-16T06:20:55.419728-06:00",
- "generated_at_epoch": 1784204455,
- "date": "2026-07-16",
- "date_label": "July 16",
- "location": "Jornada del Muerto, NM",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-16.png?v=d36d9ff3c0c1",
+ "generated_at": "2026-07-17T06:09:19.468680-06:00",
+ "generated_at_epoch": 1784290159,
+ "date": "2026-07-17",
+ "date_label": "July 17",
+ "location": "Cambridge, MA",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-17.png?v=a0034ca0df95",
  "fallback": false,
  "yesterday": {
-  "answer": "French soldiers uncover the Rosetta Stone, 1799",
-  "wiki_url": "https://en.wikipedia.org/wiki/Fort_Julien"
+  "answer": "First nuclear weapon detonated, Trinity test, 1945",
+  "wiki_url": "https://en.wikipedia.org/wiki/Nuclear_weapon"
  }
 }

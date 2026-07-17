@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1784204455,
- "edition_date": "2026-07-16",
- "event_date_label": "July 15",
- "year": 1799,
- "location": "Rashid, Egypt",
- "headline": "ANCIENT STONE SLAB WITH MYSTERIOUS TRIPLE INSCRIPTION FOUND NEAR RASHID",
- "dispatch": "French soldiers excavating fortifications at Fort Julien near the Egyptian port of Rashid unearthed a large black stone slab yesterday bearing three distinct scripts carved in parallel rows. Officers on the scene noted the stone appears to carry identical text rendered in Greek letters alongside two unknown ancient scripts. The discovery has been forwarded to the scholars accompanying the expedition for urgent study.",
- "answer": "French soldiers uncover the Rosetta Stone, 1799",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-15.png?v=63fb586e4934",
+ "generated_at_epoch": 1784290159,
+ "edition_date": "2026-07-17",
+ "event_date_label": "July 16",
+ "year": 1945,
+ "location": "Jornada del Muerto, NM",
+ "headline": "ATOMIC BOMB EXPLODES IN NEW MEXICO DESERT IN FIRST EVER TEST",
+ "dispatch": "An experimental atomic device was detonated before dawn at a remote site in the New Mexico desert on July 16, 1945, producing a blinding flash visible hundreds of miles away and a towering column of fire and smoke. The blast, far exceeding expectations, left a crater of fused desert sand and shook buildings in towns as far as 160 miles distant. Scientists and military officials watching from bunkers confirmed the weapon's devastating power, opening a new era in warfare.",
+ "answer": "First nuclear weapon detonated, Trinity test, 1945",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-16.png?v=d36d9ff3c0c1",
  "first_run": false
 }

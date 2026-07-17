@@ -526,5 +526,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-16.png?v=d36d9ff3c0c1",
   "fallback": false,
   "generated_at": "2026-07-16T06:20:55.419728-06:00"
+ },
+ {
+  "date": "2026-07-17",
+  "date_label": "July 17",
+  "location": "Cambridge, MA",
+  "answer": "First daguerreotype of a star (Vega) taken, 1850",
+  "wiki_url": "https://en.wikipedia.org/wiki/William_Cranch_Bond",
+  "title": "First Astrophotograph of a Star",
+  "year": 1850,
+  "category": "science",
+  "image_prompt": "Two men in 19th-century coats huddle over a large brass telescope dome at night, one pressing a glass daguerreotype plate into position at the eyepiece while the other steadies the barrel, the great lens aimed at a single blazing point of light in the black sky above, tension in every rigid posture as the moment of exposure approaches. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Harvard Astronomers Capture First Portrait of a Star on Glass Plate",
+  "dispatch": "Cambridge, Mass., July 18, 1850. William Cranch Bond and John Adams Whipple last night turned the Harvard College Observatory's great refractor on the star Vega and fixed its light upon a daguerreotype plate, producing the first photographic likeness of any star beyond the Sun. The image, a small bright point on silver-coated copper, was clear enough to confirm the method's promise. The achievement opens the prospect of cataloguing the heavens by camera rather than by eye alone.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-17.png?v=a0034ca0df95",
+  "fallback": false,
+  "generated_at": "2026-07-17T06:09:19.468680-06:00"
  }
 ]
