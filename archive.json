@@ -542,5 +542,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-17.png?v=a0034ca0df95",
   "fallback": false,
   "generated_at": "2026-07-17T06:09:19.468680-06:00"
+ },
+ {
+  "date": "2026-07-18",
+  "date_label": "July 18",
+  "location": "Morris Island, S.C.",
+  "answer": "54th Massachusetts Infantry storms Fort Wagner, 1863",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Civil_War",
+  "title": "54th Massachusetts Assault on Fort Wagner",
+  "year": 1863,
+  "category": "politics",
+  "image_prompt": "A long column of Union soldiers in dark uniforms pressing forward across a narrow strip of sand at night, bayonets fixed and gleaming, the massive earthen walls of a coastal fort looming directly ahead, cannons visible at the parapet's edge, the soldiers' faces taut with fierce resolve, the commander at the front raising his sword, surf crashing to the left, the dark sky electric with the stillness before the roar. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "54th Massachusetts, Black Regiment, Leads Heroic Charge on Fort Wagner",
+  "dispatch": "Union troops under Colonel Robert Gould Shaw launched a desperate frontal assault on Confederate Fort Wagner on Morris Island last evening, the 54th Massachusetts Infantry leading the charge across a narrow beachhead under murderous fire. Shaw was killed at the parapet and the regiment suffered severe casualties, but the regiment's valor under fire has electrified the North. The battle stands as a defining test of African-American soldiers in the Union cause.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-18.png?v=b71e4c30d75c",
+  "fallback": false,
+  "generated_at": "2026-07-18T05:53:21.943921-06:00"
  }
 ]

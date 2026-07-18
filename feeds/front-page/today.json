@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1784290159,
- "edition_date": "2026-07-17",
- "event_date_label": "July 16",
- "year": 1945,
- "location": "Jornada del Muerto, NM",
- "headline": "ATOMIC BOMB EXPLODES IN NEW MEXICO DESERT IN FIRST EVER TEST",
- "dispatch": "An experimental atomic device was detonated before dawn at a remote site in the New Mexico desert on July 16, 1945, producing a blinding flash visible hundreds of miles away and a towering column of fire and smoke. The blast, far exceeding expectations, left a crater of fused desert sand and shook buildings in towns as far as 160 miles distant. Scientists and military officials watching from bunkers confirmed the weapon's devastating power, opening a new era in warfare.",
- "answer": "First nuclear weapon detonated, Trinity test, 1945",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-16.png?v=d36d9ff3c0c1",
+ "generated_at_epoch": 1784375601,
+ "edition_date": "2026-07-18",
+ "event_date_label": "July 17",
+ "year": 1850,
+ "location": "Cambridge, MA",
+ "headline": "Harvard Astronomers Capture First Portrait of a Star on Glass Plate",
+ "dispatch": "Cambridge, Mass., July 18, 1850. William Cranch Bond and John Adams Whipple last night turned the Harvard College Observatory's great refractor on the star Vega and fixed its light upon a daguerreotype plate, producing the first photographic likeness of any star beyond the Sun. The image, a small bright point on silver-coated copper, was clear enough to confirm the method's promise. The achievement opens the prospect of cataloguing the heavens by camera rather than by eye alone.",
+ "answer": "First daguerreotype of a star (Vega) taken, 1850",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-17.png?v=a0034ca0df95",
  "first_run": false
 }

@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-17T06:09:19.468680-06:00",
- "generated_at_epoch": 1784290159,
- "date": "2026-07-17",
- "date_label": "July 17",
- "location": "Cambridge, MA",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-17.png?v=a0034ca0df95",
+ "generated_at": "2026-07-18T05:53:21.943921-06:00",
+ "generated_at_epoch": 1784375601,
+ "date": "2026-07-18",
+ "date_label": "July 18",
+ "location": "Morris Island, S.C.",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-18.png?v=b71e4c30d75c",
  "fallback": false,
  "yesterday": {
-  "answer": "First nuclear weapon detonated, Trinity test, 1945",
-  "wiki_url": "https://en.wikipedia.org/wiki/Nuclear_weapon"
+  "answer": "First daguerreotype of a star (Vega) taken, 1850",
+  "wiki_url": "https://en.wikipedia.org/wiki/William_Cranch_Bond"
  }
 }
