@@ -1,11 +1,11 @@
 {
- "kp_now": 1.67,
+ "kp_now": 0.67,
  "kp_max_tonight": 2.0,
  "verdict": "Quiet",
  "advice": "not tonight, probably",
  "scale_pct": 22,
  "moon_note": "dark skies",
  "schema": 1,
- "generated_at_epoch": 1784374494,
- "date": "2026-07-18"
+ "generated_at_epoch": 1784461257,
+ "date": "2026-07-19"
 }
