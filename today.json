@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-18T05:53:21.943921-06:00",
- "generated_at_epoch": 1784375601,
- "date": "2026-07-18",
- "date_label": "July 18",
- "location": "Morris Island, S.C.",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-18.png?v=b71e4c30d75c",
+ "generated_at": "2026-07-19T05:57:49.746102-06:00",
+ "generated_at_epoch": 1784462269,
+ "date": "2026-07-19",
+ "date_label": "July 19",
+ "location": "Seneca Falls, New York",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-19.png?v=d143dc9c387c",
  "fallback": false,
  "yesterday": {
-  "answer": "First daguerreotype of a star (Vega) taken, 1850",
-  "wiki_url": "https://en.wikipedia.org/wiki/William_Cranch_Bond"
+  "answer": "54th Massachusetts Infantry storms Fort Wagner, 1863",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Civil_War"
  }
 }

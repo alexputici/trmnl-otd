@@ -558,5 +558,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-18.png?v=b71e4c30d75c",
   "fallback": false,
   "generated_at": "2026-07-18T05:53:21.943921-06:00"
+ },
+ {
+  "date": "2026-07-19",
+  "date_label": "July 19",
+  "location": "Seneca Falls, New York",
+  "answer": "Seneca Falls Convention on women's rights opens, 1848",
+  "wiki_url": "https://en.wikipedia.org/wiki/Seneca_Falls_Convention",
+  "title": "Seneca Falls Convention Opens",
+  "year": 1848,
+  "category": "politics",
+  "image_prompt": "A crowd of women in bonnets and long dresses pressing toward the doors of a white-columned Wesleyan Methodist chapel, a hand-lettered banner being unrolled across the entrance steps, men and women pausing in tense anticipation on the sunlit street, a speaker clutching papers ready to mount the platform inside. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Women Gather at Seneca Falls to Demand Equal Rights and Suffrage",
+  "dispatch": "Hundreds of women and men assembled at the Wesleyan Chapel in Seneca Falls, New York, on July 19 for the first convention ever held in the United States to address the civil and political rights of women. Organizers Elizabeth Cady Stanton and Lucretia Mott presided over the opening proceedings. A Declaration of Sentiments modeled on the Declaration of Independence was set before the delegates for debate and signature.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-19.png?v=d143dc9c387c",
+  "fallback": false,
+  "generated_at": "2026-07-19T05:57:49.746102-06:00"
  }
 ]

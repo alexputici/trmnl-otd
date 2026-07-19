@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1784375601,
- "edition_date": "2026-07-18",
- "event_date_label": "July 17",
- "year": 1850,
- "location": "Cambridge, MA",
- "headline": "Harvard Astronomers Capture First Portrait of a Star on Glass Plate",
- "dispatch": "Cambridge, Mass., July 18, 1850. William Cranch Bond and John Adams Whipple last night turned the Harvard College Observatory's great refractor on the star Vega and fixed its light upon a daguerreotype plate, producing the first photographic likeness of any star beyond the Sun. The image, a small bright point on silver-coated copper, was clear enough to confirm the method's promise. The achievement opens the prospect of cataloguing the heavens by camera rather than by eye alone.",
- "answer": "First daguerreotype of a star (Vega) taken, 1850",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-17.png?v=a0034ca0df95",
+ "generated_at_epoch": 1784462269,
+ "edition_date": "2026-07-19",
+ "event_date_label": "July 18",
+ "year": 1863,
+ "location": "Morris Island, S.C.",
+ "headline": "54th Massachusetts, Black Regiment, Leads Heroic Charge on Fort Wagner",
+ "dispatch": "Union troops under Colonel Robert Gould Shaw launched a desperate frontal assault on Confederate Fort Wagner on Morris Island last evening, the 54th Massachusetts Infantry leading the charge across a narrow beachhead under murderous fire. Shaw was killed at the parapet and the regiment suffered severe casualties, but the regiment's valor under fire has electrified the North. The battle stands as a defining test of African-American soldiers in the Union cause.",
+ "answer": "54th Massachusetts Infantry storms Fort Wagner, 1863",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-18.png?v=b71e4c30d75c",
  "first_run": false
 }
