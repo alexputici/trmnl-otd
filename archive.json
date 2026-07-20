@@ -574,5 +574,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-19.png?v=d143dc9c387c",
   "fallback": false,
   "generated_at": "2026-07-19T05:57:49.746102-06:00"
+ },
+ {
+  "date": "2026-07-20",
+  "date_label": "July 20",
+  "location": "Sea of Tranquility",
+  "answer": "Eagle lands on the Moon's Sea of Tranquility, 1969",
+  "wiki_url": "https://en.wikipedia.org/wiki/Apollo_11",
+  "title": "Apollo 11 Moon Landing",
+  "year": 1969,
+  "category": "science",
+  "image_prompt": "The spindly angular legs of the Eagle lunar module just meters above the Moon's cratered surface, rocket exhaust blasting a halo of lunar dust outward across the barren grey plain, the distant Earth hanging small and bright in the black void above, two astronauts visible through the tiny windows, the shadow of the craft stretching long and sharp across the pocked ground below. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "EAGLE LANDS ON MOON; ARMSTRONG AND ALDRIN TOUCH DOWN ON SEA OF TRANQUILITY",
+  "dispatch": "The Apollo 11 lunar module Eagle touched down on the Moon's Sea of Tranquility at 4:17 p.m. Eastern time on July 20, 1969, with astronauts Neil Armstrong and Buzz Aldrin aboard. Commander Armstrong reported that the Eagle had landed after guiding the craft past a boulder-strewn crater with less than thirty seconds of fuel remaining. Michael Collins orbited overhead in the command module Columbia while his crewmates prepared for the first human steps on the lunar surface.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-20.png?v=9cd44c30f8f6",
+  "fallback": false,
+  "generated_at": "2026-07-20T07:05:24.866950-06:00"
  }
 ]

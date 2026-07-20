@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-19T05:57:49.746102-06:00",
- "generated_at_epoch": 1784462269,
- "date": "2026-07-19",
- "date_label": "July 19",
- "location": "Seneca Falls, New York",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-19.png?v=d143dc9c387c",
+ "generated_at": "2026-07-20T07:05:24.866950-06:00",
+ "generated_at_epoch": 1784552724,
+ "date": "2026-07-20",
+ "date_label": "July 20",
+ "location": "Sea of Tranquility",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-20.png?v=9cd44c30f8f6",
  "fallback": false,
  "yesterday": {
-  "answer": "54th Massachusetts Infantry storms Fort Wagner, 1863",
-  "wiki_url": "https://en.wikipedia.org/wiki/American_Civil_War"
+  "answer": "Seneca Falls Convention on women's rights opens, 1848",
+  "wiki_url": "https://en.wikipedia.org/wiki/Seneca_Falls_Convention"
  }
 }
