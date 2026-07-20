@@ -1,7 +1,7 @@
 {
  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-20.png?v=6cd0506a479c",
  "to_move": "White",
- "rating": 1643,
+ "rating": 1937,
  "moves_to_win": 2,
  "puzzle_url": "https://lichess.org/training/NY2PS",
  "yesterday": {
@@ -9,6 +9,6 @@
   "rating": 1898
  },
  "schema": 1,
- "generated_at_epoch": 1784551060,
+ "generated_at_epoch": 1784552052,
  "date": "2026-07-20"
 }
