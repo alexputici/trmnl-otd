@@ -1,11 +1,11 @@
 {
- "word": "calends",
- "pronunciation": "KAL-endz",
- "part_of_speech": "noun (plural)",
- "definition": "The first day of the month in the Roman calendar; by extension, any reckoning point or starting date of a cycle.",
- "etymology": "From Latin Kalendae, the name Romans gave to the first day of each month, itself from calare, meaning to announce or to proclaim — because on that day a priest would call out how many days remained until the Nones. The word gave us calendar, that most ordinary of objects, still carrying inside it the echo of a herald's voice.",
- "usage": "July arrives on its calends with the particular confidence of a month that knows it owns the summer.",
+ "word": "boreal",
+ "pronunciation": "BOR-ee-ul",
+ "part_of_speech": "adjective",
+ "definition": "Of or relating to the north; belonging to or characteristic of northern regions, their climates, or their flora and fauna. Often used to describe the great coniferous forest belt stretching across the upper latitudes.",
+ "etymology": "From Latin borealis, itself drawn from Boreas, the Greek god who personified the north wind. The Greeks imagined Boreas as a winged, bearded old man breathing cold from Thrace — so to call a forest or a chill boreal is to invoke that ancient shivering deity.",
+ "usage": "On July 20 the sun is still generous at these latitudes, but step into the boreal shade of a spruce stand and you feel the cold waiting there like a patient creditor.",
  "schema": 1,
- "generated_at_epoch": 1782912094,
- "date": "2026-07-01"
+ "generated_at_epoch": 1784551060,
+ "date": "2026-07-20"
 }
