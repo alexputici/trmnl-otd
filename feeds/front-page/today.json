@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1784552724,
- "edition_date": "2026-07-20",
- "event_date_label": "July 19",
- "year": 1848,
- "location": "Seneca Falls, New York",
- "headline": "Women Gather at Seneca Falls to Demand Equal Rights and Suffrage",
- "dispatch": "Hundreds of women and men assembled at the Wesleyan Chapel in Seneca Falls, New York, on July 19 for the first convention ever held in the United States to address the civil and political rights of women. Organizers Elizabeth Cady Stanton and Lucretia Mott presided over the opening proceedings. A Declaration of Sentiments modeled on the Declaration of Independence was set before the delegates for debate and signature.",
- "answer": "Seneca Falls Convention on women's rights opens, 1848",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-19.png?v=d143dc9c387c",
+ "generated_at_epoch": 1784636704,
+ "edition_date": "2026-07-21",
+ "event_date_label": "July 20",
+ "year": 1969,
+ "location": "Sea of Tranquility",
+ "headline": "EAGLE LANDS ON MOON; ARMSTRONG AND ALDRIN TOUCH DOWN ON SEA OF TRANQUILITY",
+ "dispatch": "The Apollo 11 lunar module Eagle touched down on the Moon's Sea of Tranquility at 4:17 p.m. Eastern time on July 20, 1969, with astronauts Neil Armstrong and Buzz Aldrin aboard. Commander Armstrong reported that the Eagle had landed after guiding the craft past a boulder-strewn crater with less than thirty seconds of fuel remaining. Michael Collins orbited overhead in the command module Columbia while his crewmates prepared for the first human steps on the lunar surface.",
+ "answer": "Eagle lands on the Moon's Sea of Tranquility, 1969",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-20.png?v=9cd44c30f8f6",
  "first_run": false
 }

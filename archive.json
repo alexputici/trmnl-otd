@@ -590,5 +590,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-20.png?v=9cd44c30f8f6",
   "fallback": false,
   "generated_at": "2026-07-20T07:05:24.866950-06:00"
+ },
+ {
+  "date": "2026-07-21",
+  "date_label": "July 21",
+  "location": "Dayton, Tennessee",
+  "answer": "John Scopes found guilty of teaching evolution, 1925",
+  "wiki_url": "https://en.wikipedia.org/wiki/John_T._Scopes",
+  "title": "Scopes Monkey Trial Verdict",
+  "year": 1925,
+  "category": "politics",
+  "image_prompt": "A young schoolteacher stands rigid at a wooden courtroom dock, hands gripping the rail, facing a packed gallery of spectators craning forward in their seats. A stern judge raises his gavel above the bench, a thick leather-bound book open before him. Ceiling fans hang motionless overhead. The crowd leans in, breath held, every face taut with anticipation. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Scopes Convicted in Tennessee Evolution Trial; Teacher Found Guilty Under Butler Act",
+  "dispatch": "A Dayton, Tennessee jury delivered its verdict this morning, finding biology teacher John Scopes guilty of violating the Butler Act by teaching the theory of evolution in a public school classroom. Judge John Raulston imposed a fine of one hundred dollars. The trial drew national attention and pitted attorney Clarence Darrow against former secretary of state William Jennings Bryan, exposing a deep national divide over science and religion in public education.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-21.png?v=f5f11771becc",
+  "fallback": false,
+  "generated_at": "2026-07-21T06:25:04.106500-06:00"
  }
 ]

@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-20T07:05:24.866950-06:00",
- "generated_at_epoch": 1784552724,
- "date": "2026-07-20",
- "date_label": "July 20",
- "location": "Sea of Tranquility",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-20.png?v=9cd44c30f8f6",
+ "generated_at": "2026-07-21T06:25:04.106500-06:00",
+ "generated_at_epoch": 1784636704,
+ "date": "2026-07-21",
+ "date_label": "July 21",
+ "location": "Dayton, Tennessee",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-21.png?v=f5f11771becc",
  "fallback": false,
  "yesterday": {
-  "answer": "Seneca Falls Convention on women's rights opens, 1848",
-  "wiki_url": "https://en.wikipedia.org/wiki/Seneca_Falls_Convention"
+  "answer": "Eagle lands on the Moon's Sea of Tranquility, 1969",
+  "wiki_url": "https://en.wikipedia.org/wiki/Apollo_11"
  }
 }
