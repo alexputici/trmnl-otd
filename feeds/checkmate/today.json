@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-20.png?v=6cd0506a479c",
- "to_move": "White",
- "rating": 1937,
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-21.png?v=9c42f371c1d6",
+ "to_move": "Black",
+ "rating": 1917,
  "moves_to_win": 2,
- "puzzle_url": "https://lichess.org/training/NY2PS",
+ "puzzle_url": "https://lichess.org/training/FCVZc",
  "yesterday": {
-  "solution": "b3 Qxb3 Qxb3 cxb3 Bxa5",
-  "rating": 1898
+  "solution": "Nxf7 Qf6 Be5",
+  "rating": 1937
  },
  "schema": 1,
- "generated_at_epoch": 1784552052,
- "date": "2026-07-20"
+ "generated_at_epoch": 1784635886,
+ "date": "2026-07-21"
 }
