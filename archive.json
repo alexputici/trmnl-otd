@@ -606,5 +606,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-21.png?v=f5f11771becc",
   "fallback": false,
   "generated_at": "2026-07-21T06:25:04.106500-06:00"
+ },
+ {
+  "date": "2026-07-22",
+  "date_label": "July 22",
+  "location": "Irish Sea",
+  "answer": "Windham Sadler crosses the Irish Sea by balloon, 1817",
+  "wiki_url": "https://en.wikipedia.org/wiki/Windham_Sadler",
+  "title": "First Aerial Crossing of the Irish Sea by Balloon",
+  "year": 1817,
+  "category": "exploration",
+  "image_prompt": "A lone aeronaut in a wicker basket suspended beneath a vast, straining gas balloon drifts low over dark churning waves, the distant coastline barely visible on the horizon ahead, ropes taut and the balloon's envelope billowing with wind, the vast empty sea stretching in every direction below. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "DARING AERONAUT CROSSES THE IRISH SEA IN BALLOON, FIRST EVER SUCH FEAT",
+  "dispatch": "Windham William Sadler completed the first successful aerial crossing of the Irish Sea by balloon on Tuesday, departing from the English coast and landing safely on the Irish shore after a perilous flight over open water. The crossing, previously considered too dangerous for any balloonist to attempt, was accomplished without catastrophe despite fierce winds above the waves. Sadler thus followed his late father James in securing an extraordinary place among the boldest aerial voyagers of the age.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-22.png?v=c8699703c6ea",
+  "fallback": false,
+  "generated_at": "2026-07-22T06:25:32.038301-06:00"
  }
 ]
