@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-22.png?v=00782041ba74",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-23.png?v=d480abcb8d96",
  "to_move": "Black",
- "rating": 1603,
+ "rating": 2001,
  "moves_to_win": 4,
- "puzzle_url": "https://lichess.org/training/0uaV2",
+ "puzzle_url": "https://lichess.org/training/FmfSw",
  "yesterday": {
-  "solution": "Nd8 Rb2 Rxe2",
-  "rating": 1917
+  "solution": "Qb4+ Kd1 Be2+ Qxe2 Qd4+ Qd2 Qxa1+",
+  "rating": 1603
  },
  "schema": 1,
- "generated_at_epoch": 1784722464,
- "date": "2026-07-22"
+ "generated_at_epoch": 1784808769,
+ "date": "2026-07-23"
 }
