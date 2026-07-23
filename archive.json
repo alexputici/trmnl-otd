@@ -622,5 +622,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-22.png?v=c8699703c6ea",
   "fallback": false,
   "generated_at": "2026-07-22T06:25:32.038301-06:00"
+ },
+ {
+  "date": "2026-07-23",
+  "date_label": "July 23",
+  "location": "Shanghai",
+  "answer": "Chinese Communist Party holds its founding congress, 1921",
+  "wiki_url": "https://en.wikipedia.org/wiki/1st_National_Congress_of_the_Chinese_Communist_Party",
+  "title": "First National Congress of the Chinese Communist Party",
+  "year": 1921,
+  "category": "politics",
+  "image_prompt": "A narrow lane in a densely packed city at dawn, a modest two-story shikumen townhouse with its heavy stone gate slightly ajar, a lone figure pausing on the step with his hand on the door frame, other shadowed figures approaching along the alley from either side, lantern light spilling from within onto wet cobblestones. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Delegates Convene in Shanghai to Found Chinese Communist Party",
+  "dispatch": "A small group of delegates gathered in a private house in the French Concession district of Shanghai on July 23, 1921, to open the first National Congress of the Chinese Communist Party. Thirteen representatives attended, drawing together Marxist study groups from across the country. The congress would formally establish the party that would, within three decades, govern the world's most populous nation.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-23.png?v=e42a4eb85a57",
+  "fallback": false,
+  "generated_at": "2026-07-23T06:24:42.170657-06:00"
  }
 ]

@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1784723132,
- "edition_date": "2026-07-22",
- "event_date_label": "July 21",
- "year": 1925,
- "location": "Dayton, Tennessee",
- "headline": "Scopes Convicted in Tennessee Evolution Trial; Teacher Found Guilty Under Butler Act",
- "dispatch": "A Dayton, Tennessee jury delivered its verdict this morning, finding biology teacher John Scopes guilty of violating the Butler Act by teaching the theory of evolution in a public school classroom. Judge John Raulston imposed a fine of one hundred dollars. The trial drew national attention and pitted attorney Clarence Darrow against former secretary of state William Jennings Bryan, exposing a deep national divide over science and religion in public education.",
- "answer": "John Scopes found guilty of teaching evolution, 1925",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-21.png?v=f5f11771becc",
+ "generated_at_epoch": 1784809482,
+ "edition_date": "2026-07-23",
+ "event_date_label": "July 22",
+ "year": 1817,
+ "location": "Irish Sea",
+ "headline": "DARING AERONAUT CROSSES THE IRISH SEA IN BALLOON, FIRST EVER SUCH FEAT",
+ "dispatch": "Windham William Sadler completed the first successful aerial crossing of the Irish Sea by balloon on Tuesday, departing from the English coast and landing safely on the Irish shore after a perilous flight over open water. The crossing, previously considered too dangerous for any balloonist to attempt, was accomplished without catastrophe despite fierce winds above the waves. Sadler thus followed his late father James in securing an extraordinary place among the boldest aerial voyagers of the age.",
+ "answer": "Windham Sadler crosses the Irish Sea by balloon, 1817",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-22.png?v=c8699703c6ea",
  "first_run": false
 }

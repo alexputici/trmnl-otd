@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-22T06:25:32.038301-06:00",
- "generated_at_epoch": 1784723132,
- "date": "2026-07-22",
- "date_label": "July 22",
- "location": "Irish Sea",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-22.png?v=c8699703c6ea",
+ "generated_at": "2026-07-23T06:24:42.170657-06:00",
+ "generated_at_epoch": 1784809482,
+ "date": "2026-07-23",
+ "date_label": "July 23",
+ "location": "Shanghai",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-23.png?v=e42a4eb85a57",
  "fallback": false,
  "yesterday": {
-  "answer": "John Scopes found guilty of teaching evolution, 1925",
-  "wiki_url": "https://en.wikipedia.org/wiki/John_T._Scopes"
+  "answer": "Windham Sadler crosses the Irish Sea by balloon, 1817",
+  "wiki_url": "https://en.wikipedia.org/wiki/Windham_Sadler"
  }
 }
