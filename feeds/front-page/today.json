@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1784809482,
- "edition_date": "2026-07-23",
- "event_date_label": "July 22",
- "year": 1817,
- "location": "Irish Sea",
- "headline": "DARING AERONAUT CROSSES THE IRISH SEA IN BALLOON, FIRST EVER SUCH FEAT",
- "dispatch": "Windham William Sadler completed the first successful aerial crossing of the Irish Sea by balloon on Tuesday, departing from the English coast and landing safely on the Irish shore after a perilous flight over open water. The crossing, previously considered too dangerous for any balloonist to attempt, was accomplished without catastrophe despite fierce winds above the waves. Sadler thus followed his late father James in securing an extraordinary place among the boldest aerial voyagers of the age.",
- "answer": "Windham Sadler crosses the Irish Sea by balloon, 1817",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-22.png?v=c8699703c6ea",
+ "generated_at_epoch": 1784895536,
+ "edition_date": "2026-07-24",
+ "event_date_label": "July 23",
+ "year": 1921,
+ "location": "Shanghai",
+ "headline": "Delegates Convene in Shanghai to Found Chinese Communist Party",
+ "dispatch": "A small group of delegates gathered in a private house in the French Concession district of Shanghai on July 23, 1921, to open the first National Congress of the Chinese Communist Party. Thirteen representatives attended, drawing together Marxist study groups from across the country. The congress would formally establish the party that would, within three decades, govern the world's most populous nation.",
+ "answer": "Chinese Communist Party holds its founding congress, 1921",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-23.png?v=e42a4eb85a57",
  "first_run": false
 }

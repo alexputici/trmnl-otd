@@ -638,5 +638,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-23.png?v=e42a4eb85a57",
   "fallback": false,
   "generated_at": "2026-07-23T06:24:42.170657-06:00"
+ },
+ {
+  "date": "2026-07-24",
+  "date_label": "July 24",
+  "location": "Lausanne, Switzerland",
+  "answer": "Treaty of Lausanne signed, reshaping the Middle East, 1923",
+  "wiki_url": "https://en.wikipedia.org/wiki/Treaty_of_Lausanne",
+  "title": "Treaty of Lausanne Signed",
+  "year": 1923,
+  "category": "politics",
+  "image_prompt": "A grand hall of diplomats in formal attire seated around a vast table covered in papers and inkwells, quill pens poised above an enormous open document, the room hushed and tense, chandeliers casting hard light across stern faces, a single delegate's hand hovering motionless just above the signature line. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "LAUSANNE TREATY SIGNED; OTTOMAN PARTITION SETTLED, NEW BORDERS FIXED",
+  "dispatch": "Delegates from Greece, Turkey, Bulgaria and the Allied powers affixed their signatures today to the Treaty of Lausanne, formally ending the conflicts arising from the Ottoman Empire's dissolution. The agreement draws firm borders for Turkey, Greece and Bulgaria and establishes a massive population exchange between Greece and Turkey. The pact supersedes the earlier, unratified Treaty of Sevres and is expected to bring a measure of stability to the eastern Mediterranean region.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-24.png?v=c5ad7cbbd71a",
+  "fallback": false,
+  "generated_at": "2026-07-24T06:18:56.516045-06:00"
  }
 ]
