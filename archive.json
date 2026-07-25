@@ -654,5 +654,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-24.png?v=c5ad7cbbd71a",
   "fallback": false,
   "generated_at": "2026-07-24T06:18:56.516045-06:00"
+ },
+ {
+  "date": "2026-07-25",
+  "date_label": "July 25",
+  "location": "Corinth, Greece",
+  "answer": "Corinth Canal formally opened, linking two seas, 1893",
+  "wiki_url": "https://en.wikipedia.org/wiki/Corinth_Canal",
+  "title": "Opening of the Corinth Canal",
+  "year": 1893,
+  "category": "other",
+  "image_prompt": "A narrow stone-walled channel sliced through a towering cliff of pale rock, the water still and dark between sheer walls that rise dramatically on both sides. A ceremonial steamship sits motionless at the mouth of the canal, smoke curling from its funnel, flags snapping taut in the wind. A crowd of dignitaries in top hats lines the quayside, every figure frozen at attention, gazing into the channel as if holding a collective breath before the vessel moves forward. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Corinth Canal Opens, Linking Ionian and Aegean Seas After Centuries of Dream",
+  "dispatch": "The Corinth Canal was formally inaugurated today, cutting through the narrow isthmus that has divided the Ionian and Aegean seas since antiquity. The waterway, nearly four miles long and carved through limestone cliffs reaching eighty metres high, allows vessels to bypass the long and treacherous voyage around the Peloponnese. Greek and international dignitaries gathered at the northern entrance as the first ships prepared to pass through the newly completed passage.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-25.png?v=08a9125912f9",
+  "fallback": false,
+  "generated_at": "2026-07-25T06:03:25.377002-06:00"
  }
 ]

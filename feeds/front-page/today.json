@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1784895536,
- "edition_date": "2026-07-24",
- "event_date_label": "July 23",
- "year": 1921,
- "location": "Shanghai",
- "headline": "Delegates Convene in Shanghai to Found Chinese Communist Party",
- "dispatch": "A small group of delegates gathered in a private house in the French Concession district of Shanghai on July 23, 1921, to open the first National Congress of the Chinese Communist Party. Thirteen representatives attended, drawing together Marxist study groups from across the country. The congress would formally establish the party that would, within three decades, govern the world's most populous nation.",
- "answer": "Chinese Communist Party holds its founding congress, 1921",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-23.png?v=e42a4eb85a57",
+ "generated_at_epoch": 1784981005,
+ "edition_date": "2026-07-25",
+ "event_date_label": "July 24",
+ "year": 1923,
+ "location": "Lausanne, Switzerland",
+ "headline": "LAUSANNE TREATY SIGNED; OTTOMAN PARTITION SETTLED, NEW BORDERS FIXED",
+ "dispatch": "Delegates from Greece, Turkey, Bulgaria and the Allied powers affixed their signatures today to the Treaty of Lausanne, formally ending the conflicts arising from the Ottoman Empire's dissolution. The agreement draws firm borders for Turkey, Greece and Bulgaria and establishes a massive population exchange between Greece and Turkey. The pact supersedes the earlier, unratified Treaty of Sevres and is expected to bring a measure of stability to the eastern Mediterranean region.",
+ "answer": "Treaty of Lausanne signed, reshaping the Middle East, 1923",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-24.png?v=c5ad7cbbd71a",
  "first_run": false
 }

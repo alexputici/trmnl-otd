@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-24T06:18:56.516045-06:00",
- "generated_at_epoch": 1784895536,
- "date": "2026-07-24",
- "date_label": "July 24",
- "location": "Lausanne, Switzerland",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-24.png?v=c5ad7cbbd71a",
+ "generated_at": "2026-07-25T06:03:25.377002-06:00",
+ "generated_at_epoch": 1784981005,
+ "date": "2026-07-25",
+ "date_label": "July 25",
+ "location": "Corinth, Greece",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-25.png?v=08a9125912f9",
  "fallback": false,
  "yesterday": {
-  "answer": "Chinese Communist Party holds its founding congress, 1921",
-  "wiki_url": "https://en.wikipedia.org/wiki/1st_National_Congress_of_the_Chinese_Communist_Party"
+  "answer": "Treaty of Lausanne signed, reshaping the Middle East, 1923",
+  "wiki_url": "https://en.wikipedia.org/wiki/Treaty_of_Lausanne"
  }
 }
