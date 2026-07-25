@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-24.png?v=ae44267a81ea",
- "to_move": "Black",
- "rating": 1892,
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-25.png?v=959a55131612",
+ "to_move": "White",
+ "rating": 1983,
  "moves_to_win": 3,
- "puzzle_url": "https://lichess.org/training/RRpfv",
+ "puzzle_url": "https://lichess.org/training/sZ8wx",
  "yesterday": {
-  "solution": "Rd2 Nxd2 Rxg2+ Kh1 Rxd2+ Kg1 Rg2+",
-  "rating": 2001
+  "solution": "Qh1+ Ke2 Qxg2+ Ke1 Qf2#",
+  "rating": 1892
  },
  "schema": 1,
- "generated_at_epoch": 1784894760,
- "date": "2026-07-24"
+ "generated_at_epoch": 1784980081,
+ "date": "2026-07-25"
 }
