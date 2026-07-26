@@ -1,12 +1,24 @@
 {
  "items": [
   {
+   "title": "What we know so far about the Berlin Pride ramming attack",
+   "description": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night."
+  },
+  {
+   "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+   "description": "More than 330,000 people have now been evacuated from wildfires across France and Spain."
+  },
+  {
    "title": "Trump takes swipes at press during White House Correspondents' Dinner",
    "description": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April."
   },
   {
-   "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-   "description": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports."
+   "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+   "description": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead."
+  },
+  {
+   "title": "India's 'cockroach' protest called off after education minister quits",
+   "description": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years."
   },
   {
    "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
@@ -15,22 +27,10 @@
   {
    "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
    "description": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically."
-  },
-  {
-   "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-   "description": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers."
-  },
-  {
-   "title": "ICC top prosecutor removed over sexual misconduct allegations",
-   "description": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint."
-  },
-  {
-   "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-   "description": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him."
   }
  ],
  "source": "BBC World",
  "schema": 1,
- "generated_at_epoch": 1784980081,
- "date": "2026-07-25"
+ "generated_at_epoch": 1785066442,
+ "date": "2026-07-26"
 }

@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-25.png?v=959a55131612",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-26.png?v=3fa94de4f038",
  "to_move": "White",
- "rating": 1983,
- "moves_to_win": 3,
- "puzzle_url": "https://lichess.org/training/sZ8wx",
+ "rating": 1991,
+ "moves_to_win": 2,
+ "puzzle_url": "https://lichess.org/training/FAlmo",
  "yesterday": {
-  "solution": "Qh1+ Ke2 Qxg2+ Ke1 Qf2#",
-  "rating": 1892
+  "solution": "Bxh6+ Kh7 Bg5+ Kg8 Bxd8",
+  "rating": 1983
  },
  "schema": 1,
- "generated_at_epoch": 1784980081,
- "date": "2026-07-25"
+ "generated_at_epoch": 1785066442,
+ "date": "2026-07-26"
 }
