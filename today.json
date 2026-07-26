@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-25T06:03:25.377002-06:00",
- "generated_at_epoch": 1784981005,
- "date": "2026-07-25",
- "date_label": "July 25",
- "location": "Corinth, Greece",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-25.png?v=08a9125912f9",
+ "generated_at": "2026-07-26T06:02:50.080277-06:00",
+ "generated_at_epoch": 1785067370,
+ "date": "2026-07-26",
+ "date_label": "July 26",
+ "location": "Warsaw",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-26.png?v=096ec94b64dd",
  "fallback": false,
  "yesterday": {
-  "answer": "Treaty of Lausanne signed, reshaping the Middle East, 1923",
-  "wiki_url": "https://en.wikipedia.org/wiki/Treaty_of_Lausanne"
+  "answer": "Corinth Canal formally opened, linking two seas, 1893",
+  "wiki_url": "https://en.wikipedia.org/wiki/Corinth_Canal"
  }
 }

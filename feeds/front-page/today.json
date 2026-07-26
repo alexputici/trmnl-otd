@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1784981005,
- "edition_date": "2026-07-25",
- "event_date_label": "July 24",
- "year": 1923,
- "location": "Lausanne, Switzerland",
- "headline": "LAUSANNE TREATY SIGNED; OTTOMAN PARTITION SETTLED, NEW BORDERS FIXED",
- "dispatch": "Delegates from Greece, Turkey, Bulgaria and the Allied powers affixed their signatures today to the Treaty of Lausanne, formally ending the conflicts arising from the Ottoman Empire's dissolution. The agreement draws firm borders for Turkey, Greece and Bulgaria and establishes a massive population exchange between Greece and Turkey. The pact supersedes the earlier, unratified Treaty of Sevres and is expected to bring a measure of stability to the eastern Mediterranean region.",
- "answer": "Treaty of Lausanne signed, reshaping the Middle East, 1923",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-24.png?v=c5ad7cbbd71a",
+ "generated_at_epoch": 1785067370,
+ "edition_date": "2026-07-26",
+ "event_date_label": "July 25",
+ "year": 1893,
+ "location": "Corinth, Greece",
+ "headline": "Corinth Canal Opens, Linking Ionian and Aegean Seas After Centuries of Dream",
+ "dispatch": "The Corinth Canal was formally inaugurated today, cutting through the narrow isthmus that has divided the Ionian and Aegean seas since antiquity. The waterway, nearly four miles long and carved through limestone cliffs reaching eighty metres high, allows vessels to bypass the long and treacherous voyage around the Peloponnese. Greek and international dignitaries gathered at the northern entrance as the first ships prepared to pass through the newly completed passage.",
+ "answer": "Corinth Canal formally opened, linking two seas, 1893",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-25.png?v=08a9125912f9",
  "first_run": false
 }

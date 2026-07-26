@@ -670,5 +670,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-25.png?v=08a9125912f9",
   "fallback": false,
   "generated_at": "2026-07-25T06:03:25.377002-06:00"
+ },
+ {
+  "date": "2026-07-26",
+  "date_label": "July 26",
+  "location": "Warsaw",
+  "answer": "L.L. Zamenhof publishes the first Esperanto book, 1887",
+  "wiki_url": "https://en.wikipedia.org/wiki/L._L._Zamenhof",
+  "title": "Zamenhof Publishes Esperanto",
+  "year": 1887,
+  "category": "art",
+  "image_prompt": "A slight bespectacled young man sits hunched over a wooden desk in a candlelit room, his hand poised above a freshly printed pamphlet, ink still gleaming on the pages stacked beside him. Shelves of books crowd the walls behind him, and a quill trembles in his fingers as he is about to set it down, the pamphlet's title page facing the viewer but bearing no readable text. The candlelight carves deep shadows across his face and the cluttered desk. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Warsaw Doctor Unveils New Universal Language, Calls It Esperanto",
+  "dispatch": "A young Warsaw physician, Ludwig Lazarus Zamenhof, yesterday released a slim pamphlet introducing a constructed language he hopes all peoples of the world may share. Written under the pen name Doktoro Esperanto, the book lays out a grammar of just sixteen rules. Zamenhof, who grew up hearing four languages clash in the streets of Bialystok, has spent years crafting the tongue as a remedy for human misunderstanding.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-26.png?v=096ec94b64dd",
+  "fallback": false,
+  "generated_at": "2026-07-26T06:02:50.080277-06:00"
  }
 ]
