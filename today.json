@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-26T06:02:50.080277-06:00",
- "generated_at_epoch": 1785067370,
- "date": "2026-07-26",
- "date_label": "July 26",
- "location": "Warsaw",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-26.png?v=096ec94b64dd",
+ "generated_at": "2026-07-28T06:53:25.276521-06:00",
+ "generated_at_epoch": 1785243205,
+ "date": "2026-07-28",
+ "date_label": "July 28",
+ "location": "New York City",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-28.png?v=f21764184244",
  "fallback": false,
  "yesterday": {
-  "answer": "Corinth Canal formally opened, linking two seas, 1893",
-  "wiki_url": "https://en.wikipedia.org/wiki/Corinth_Canal"
+  "answer": "L.L. Zamenhof publishes the first Esperanto book, 1887",
+  "wiki_url": "https://en.wikipedia.org/wiki/L._L._Zamenhof"
  }
 }

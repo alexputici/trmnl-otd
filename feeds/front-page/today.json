@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1785067370,
- "edition_date": "2026-07-26",
- "event_date_label": "July 25",
- "year": 1893,
- "location": "Corinth, Greece",
- "headline": "Corinth Canal Opens, Linking Ionian and Aegean Seas After Centuries of Dream",
- "dispatch": "The Corinth Canal was formally inaugurated today, cutting through the narrow isthmus that has divided the Ionian and Aegean seas since antiquity. The waterway, nearly four miles long and carved through limestone cliffs reaching eighty metres high, allows vessels to bypass the long and treacherous voyage around the Peloponnese. Greek and international dignitaries gathered at the northern entrance as the first ships prepared to pass through the newly completed passage.",
- "answer": "Corinth Canal formally opened, linking two seas, 1893",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-25.png?v=08a9125912f9",
+ "generated_at_epoch": 1785243205,
+ "edition_date": "2026-07-28",
+ "event_date_label": "July 26",
+ "year": 1887,
+ "location": "Warsaw",
+ "headline": "Warsaw Doctor Unveils New Universal Language, Calls It Esperanto",
+ "dispatch": "A young Warsaw physician, Ludwig Lazarus Zamenhof, yesterday released a slim pamphlet introducing a constructed language he hopes all peoples of the world may share. Written under the pen name Doktoro Esperanto, the book lays out a grammar of just sixteen rules. Zamenhof, who grew up hearing four languages clash in the streets of Bialystok, has spent years crafting the tongue as a remedy for human misunderstanding.",
+ "answer": "L.L. Zamenhof publishes the first Esperanto book, 1887",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-26.png?v=096ec94b64dd",
  "first_run": false
 }

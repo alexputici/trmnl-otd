@@ -686,5 +686,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-26.png?v=096ec94b64dd",
   "fallback": false,
   "generated_at": "2026-07-26T06:02:50.080277-06:00"
+ },
+ {
+  "date": "2026-07-28",
+  "date_label": "July 28",
+  "location": "New York City",
+  "answer": "B-25 bomber crashes into the Empire State Building, 1945",
+  "wiki_url": "https://en.wikipedia.org/wiki/North_American_B-25_Mitchell",
+  "title": "B-25 Crashes into Empire State Building",
+  "year": 1945,
+  "category": "disaster",
+  "image_prompt": "A twin-engine military bomber banking sharply through thick fog between towering skyscraper facades, the massive needle of the Empire State Building looming dead ahead, rivets and engine cowlings vivid in the murk, wingtips nearly grazing the neighboring office windows, the aircraft frozen in its final terrible approach angle, smoke trailing from one engine. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Army Bomber Slams Into Empire State Building; 14 Dead, Floors Ablaze",
+  "dispatch": "A twin-engine B-25 Army bomber plowed into the 79th floor of the Empire State Building in New York City on Saturday morning, killing 14 people and setting several floors ablaze. The pilot, lost in heavy fog, had been attempting to navigate to Newark Airport when the aircraft struck the skyscraper at roughly 200 miles per hour. Rescue workers pulled survivors from burning offices as flaming wreckage fell to the streets 900 feet below.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-28.png?v=f21764184244",
+  "fallback": false,
+  "generated_at": "2026-07-28T06:53:25.276521-06:00"
  }
 ]
