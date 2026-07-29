@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-28.png?v=0c39b52760fe",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-07-29.png?v=bf674b89bfb8",
  "to_move": "Black",
- "rating": 1965,
+ "rating": 1958,
  "moves_to_win": 3,
- "puzzle_url": "https://lichess.org/training/lCl7P",
+ "puzzle_url": "https://lichess.org/training/2ycA7",
  "yesterday": {
-  "solution": "Rb6 Qxa7 Rb1+ Rxb1 Qxa7",
-  "rating": 2025
+  "solution": "Ne3+ Kh3 Rh8+ Bh5+ Rxh5#",
+  "rating": 1965
  },
  "schema": 1,
- "generated_at_epoch": 1785241482,
- "date": "2026-07-28"
+ "generated_at_epoch": 1785328390,
+ "date": "2026-07-29"
 }
