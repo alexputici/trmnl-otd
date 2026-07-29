@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1785243205,
- "edition_date": "2026-07-28",
- "event_date_label": "July 26",
- "year": 1887,
- "location": "Warsaw",
- "headline": "Warsaw Doctor Unveils New Universal Language, Calls It Esperanto",
- "dispatch": "A young Warsaw physician, Ludwig Lazarus Zamenhof, yesterday released a slim pamphlet introducing a constructed language he hopes all peoples of the world may share. Written under the pen name Doktoro Esperanto, the book lays out a grammar of just sixteen rules. Zamenhof, who grew up hearing four languages clash in the streets of Bialystok, has spent years crafting the tongue as a remedy for human misunderstanding.",
- "answer": "L.L. Zamenhof publishes the first Esperanto book, 1887",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-26.png?v=096ec94b64dd",
+ "generated_at_epoch": 1785330020,
+ "edition_date": "2026-07-29",
+ "event_date_label": "July 28",
+ "year": 1945,
+ "location": "New York City",
+ "headline": "Army Bomber Slams Into Empire State Building; 14 Dead, Floors Ablaze",
+ "dispatch": "A twin-engine B-25 Army bomber plowed into the 79th floor of the Empire State Building in New York City on Saturday morning, killing 14 people and setting several floors ablaze. The pilot, lost in heavy fog, had been attempting to navigate to Newark Airport when the aircraft struck the skyscraper at roughly 200 miles per hour. Rescue workers pulled survivors from burning offices as flaming wreckage fell to the streets 900 feet below.",
+ "answer": "B-25 bomber crashes into the Empire State Building, 1945",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-28.png?v=f21764184244",
  "first_run": false
 }

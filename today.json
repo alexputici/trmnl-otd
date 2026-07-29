@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-28T06:53:25.276521-06:00",
- "generated_at_epoch": 1785243205,
- "date": "2026-07-28",
- "date_label": "July 28",
- "location": "New York City",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-28.png?v=f21764184244",
+ "generated_at": "2026-07-29T07:00:20.988326-06:00",
+ "generated_at_epoch": 1785330020,
+ "date": "2026-07-29",
+ "date_label": "July 29",
+ "location": "London, England",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-29.png?v=1956000decd4",
  "fallback": false,
  "yesterday": {
-  "answer": "L.L. Zamenhof publishes the first Esperanto book, 1887",
-  "wiki_url": "https://en.wikipedia.org/wiki/L._L._Zamenhof"
+  "answer": "B-25 bomber crashes into the Empire State Building, 1945",
+  "wiki_url": "https://en.wikipedia.org/wiki/North_American_B-25_Mitchell"
  }
 }

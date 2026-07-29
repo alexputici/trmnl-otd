@@ -702,5 +702,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-28.png?v=f21764184244",
   "fallback": false,
   "generated_at": "2026-07-28T06:53:25.276521-06:00"
+ },
+ {
+  "date": "2026-07-29",
+  "date_label": "July 29",
+  "location": "London, England",
+  "answer": "Charles and Diana wed at St Paul's Cathedral, 1981",
+  "wiki_url": "https://en.wikipedia.org/wiki/Wedding_of_Prince_Charles_and_Lady_Diana_Spencer",
+  "title": "Wedding of Prince Charles and Lady Diana Spencer",
+  "year": 1981,
+  "category": "other",
+  "image_prompt": "Inside a vast cathedral nave, a young woman in an enormous billowing gown with a trailing veil walks slowly down the aisle on the arm of an older man, the distant altar glowing ahead, rows of packed onlookers on either side craning their necks, a great organ loft looming overhead, frozen ten seconds before she reaches the altar steps. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "CHARLES AND DIANA MARRY BEFORE 750 MILLION VIEWERS WORLDWIDE",
+  "dispatch": "Prince Charles and Lady Diana Spencer were married this morning at St Paul's Cathedral in London before a congregation of 3,500 guests and an estimated global television audience of 750 million. The bride arrived in a glass coach, her silk taffeta gown with its 25-foot train drawing gasps from the crowds lining the streets. The ceremony was conducted by the Archbishop of Canterbury, and the couple exchanged vows shortly before noon.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-29.png?v=1956000decd4",
+  "fallback": false,
+  "generated_at": "2026-07-29T07:00:20.988326-06:00"
  }
 ]
