@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1785330020,
- "edition_date": "2026-07-29",
- "event_date_label": "July 28",
- "year": 1945,
- "location": "New York City",
- "headline": "Army Bomber Slams Into Empire State Building; 14 Dead, Floors Ablaze",
- "dispatch": "A twin-engine B-25 Army bomber plowed into the 79th floor of the Empire State Building in New York City on Saturday morning, killing 14 people and setting several floors ablaze. The pilot, lost in heavy fog, had been attempting to navigate to Newark Airport when the aircraft struck the skyscraper at roughly 200 miles per hour. Rescue workers pulled survivors from burning offices as flaming wreckage fell to the streets 900 feet below.",
- "answer": "B-25 bomber crashes into the Empire State Building, 1945",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-28.png?v=f21764184244",
+ "generated_at_epoch": 1785414579,
+ "edition_date": "2026-07-30",
+ "event_date_label": "July 29",
+ "year": 1981,
+ "location": "London, England",
+ "headline": "CHARLES AND DIANA MARRY BEFORE 750 MILLION VIEWERS WORLDWIDE",
+ "dispatch": "Prince Charles and Lady Diana Spencer were married this morning at St Paul's Cathedral in London before a congregation of 3,500 guests and an estimated global television audience of 750 million. The bride arrived in a glass coach, her silk taffeta gown with its 25-foot train drawing gasps from the crowds lining the streets. The ceremony was conducted by the Archbishop of Canterbury, and the couple exchanged vows shortly before noon.",
+ "answer": "Charles and Diana wed at St Paul's Cathedral, 1981",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-29.png?v=1956000decd4",
  "first_run": false
 }

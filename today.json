@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-29T07:00:20.988326-06:00",
- "generated_at_epoch": 1785330020,
- "date": "2026-07-29",
- "date_label": "July 29",
- "location": "London, England",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-29.png?v=1956000decd4",
+ "generated_at": "2026-07-30T06:29:39.619265-06:00",
+ "generated_at_epoch": 1785414579,
+ "date": "2026-07-30",
+ "date_label": "July 30",
+ "location": "Wembley, London",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-30.png?v=f3e7daa41b56",
  "fallback": false,
  "yesterday": {
-  "answer": "B-25 bomber crashes into the Empire State Building, 1945",
-  "wiki_url": "https://en.wikipedia.org/wiki/North_American_B-25_Mitchell"
+  "answer": "Charles and Diana wed at St Paul's Cathedral, 1981",
+  "wiki_url": "https://en.wikipedia.org/wiki/Wedding_of_Prince_Charles_and_Lady_Diana_Spencer"
  }
 }
