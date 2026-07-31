@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-30T06:29:39.619265-06:00",
- "generated_at_epoch": 1785414579,
- "date": "2026-07-30",
- "date_label": "July 30",
- "location": "Wembley, London",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-30.png?v=f3e7daa41b56",
+ "generated_at": "2026-07-31T06:55:36.068133-06:00",
+ "generated_at_epoch": 1785502536,
+ "date": "2026-07-31",
+ "date_label": "July 31",
+ "location": "Ypres, Belgium",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-31.png?v=c02ef9f92468",
  "fallback": false,
  "yesterday": {
-  "answer": "Charles and Diana wed at St Paul's Cathedral, 1981",
-  "wiki_url": "https://en.wikipedia.org/wiki/Wedding_of_Prince_Charles_and_Lady_Diana_Spencer"
+  "answer": "England wins the FIFA World Cup at Wembley, 1966",
+  "wiki_url": "https://en.wikipedia.org/wiki/London"
  }
 }

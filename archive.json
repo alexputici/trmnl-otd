@@ -734,5 +734,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-30.png?v=f3e7daa41b56",
   "fallback": false,
   "generated_at": "2026-07-30T06:29:39.619265-06:00"
+ },
+ {
+  "date": "2026-07-31",
+  "date_label": "July 31",
+  "location": "Ypres, Belgium",
+  "answer": "Battle of Passchendaele opens near Ypres, Belgium, 1917",
+  "wiki_url": "https://en.wikipedia.org/wiki/World_War_I",
+  "title": "Battle of Passchendaele Begins",
+  "year": 1917,
+  "category": "other",
+  "image_prompt": "A vast flat Flemish plain in pre-dawn darkness, thousands of steel-helmeted soldiers pressed shoulder to shoulder in waterlogged trenches, bayonets fixed and gleaming, officers with whistles raised to their lips and eyes fixed on pocket watches, artillery shells arcing silently overhead like streaks of fire across a black sky, mud walls of the trench glistening, barbed wire coiled on the parapet above against a horizon flickering with distant gun flashes. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Allied Offensive Opens Near Ypres; Great Battle Begun in Flanders",
+  "dispatch": "British and Allied forces launched a massive offensive near Ypres on the morning of July 31, 1917, opening the campaign that commanders hope will drive German forces from the Belgian coast and its vital U-boat ports. Troops went over the top along a broad front in the pre-dawn hours, advancing through terrain already churned by weeks of preliminary bombardment. Early reports from the front indicate fierce resistance and heavy rain has begun to turn the low-lying ground to deep mud.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-31.png?v=c02ef9f92468",
+  "fallback": false,
+  "generated_at": "2026-07-31T06:55:36.068133-06:00"
  }
 ]

@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1785414579,
- "edition_date": "2026-07-30",
- "event_date_label": "July 29",
- "year": 1981,
- "location": "London, England",
- "headline": "CHARLES AND DIANA MARRY BEFORE 750 MILLION VIEWERS WORLDWIDE",
- "dispatch": "Prince Charles and Lady Diana Spencer were married this morning at St Paul's Cathedral in London before a congregation of 3,500 guests and an estimated global television audience of 750 million. The bride arrived in a glass coach, her silk taffeta gown with its 25-foot train drawing gasps from the crowds lining the streets. The ceremony was conducted by the Archbishop of Canterbury, and the couple exchanged vows shortly before noon.",
- "answer": "Charles and Diana wed at St Paul's Cathedral, 1981",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-29.png?v=1956000decd4",
+ "generated_at_epoch": 1785502536,
+ "edition_date": "2026-07-31",
+ "event_date_label": "July 30",
+ "year": 1966,
+ "location": "Wembley, London",
+ "headline": "ENGLAND WINS THE WORLD CUP, BEATS WEST GERMANY 4-2 IN EXTRA TIME",
+ "dispatch": "England claimed its first FIFA World Cup title at Wembley Stadium on Saturday, defeating West Germany 4-2 after extra time before a roaring crowd of nearly 97,000. Geoff Hurst scored a controversial third goal off the crossbar and then sealed the match with a fourth in the dying seconds. Captain Bobby Moore lifted the Jules Rimet Trophy and the streets of London erupted in celebration.",
+ "answer": "England wins the FIFA World Cup at Wembley, 1966",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-30.png?v=f3e7daa41b56",
  "first_run": false
 }
