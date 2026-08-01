@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-07-31T06:55:36.068133-06:00",
- "generated_at_epoch": 1785502536,
- "date": "2026-07-31",
- "date_label": "July 31",
- "location": "Ypres, Belgium",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-31.png?v=c02ef9f92468",
+ "generated_at": "2026-08-01T06:02:13.220084-06:00",
+ "generated_at_epoch": 1785585733,
+ "date": "2026-08-01",
+ "date_label": "August 1",
+ "location": "New York City",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-01.png?v=9ad5bd5f39bb",
  "fallback": false,
  "yesterday": {
-  "answer": "England wins the FIFA World Cup at Wembley, 1966",
-  "wiki_url": "https://en.wikipedia.org/wiki/London"
+  "answer": "Battle of Passchendaele opens near Ypres, Belgium, 1917",
+  "wiki_url": "https://en.wikipedia.org/wiki/World_War_I"
  }
 }

@@ -750,5 +750,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-31.png?v=c02ef9f92468",
   "fallback": false,
   "generated_at": "2026-07-31T06:55:36.068133-06:00"
+ },
+ {
+  "date": "2026-08-01",
+  "date_label": "August 1",
+  "location": "New York City",
+  "answer": "MTV airs 'Video Killed the Radio Star' for first time, 1981",
+  "wiki_url": "https://en.wikipedia.org/wiki/Video_Killed_the_Radio_Star",
+  "title": "MTV Launches with First Music Video",
+  "year": 1981,
+  "category": "art",
+  "image_prompt": "A television control room at night, a lone technician seated before a wall of glowing monitors, finger poised above a broadcast switch, the screens showing the frozen opening frame of a music video with two figures in silver costumes, reels of tape spinning on machines to the left, cables coiled on the floor, the room tense and still in the second before transmission begins. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "NEW CABLE CHANNEL MTV GOES ON AIR WITH MUSIC VIDEOS AROUND THE CLOCK",
+  "dispatch": "A new cable television network calling itself MTV began broadcasting in the early hours of August 1, reaching homes across the United States. The first image transmitted was a music video by British duo the Buggles, whose song matched the moment with eerie precision. The channel, backed by Warner-Amex, promises continuous music programming targeting younger viewers and signals a new commercial frontier for the recording industry.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-01.png?v=9ad5bd5f39bb",
+  "fallback": false,
+  "generated_at": "2026-08-01T06:02:13.220084-06:00"
  }
 ]

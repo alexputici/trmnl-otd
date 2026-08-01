@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1785502536,
- "edition_date": "2026-07-31",
- "event_date_label": "July 30",
- "year": 1966,
- "location": "Wembley, London",
- "headline": "ENGLAND WINS THE WORLD CUP, BEATS WEST GERMANY 4-2 IN EXTRA TIME",
- "dispatch": "England claimed its first FIFA World Cup title at Wembley Stadium on Saturday, defeating West Germany 4-2 after extra time before a roaring crowd of nearly 97,000. Geoff Hurst scored a controversial third goal off the crossbar and then sealed the match with a fourth in the dying seconds. Captain Bobby Moore lifted the Jules Rimet Trophy and the streets of London erupted in celebration.",
- "answer": "England wins the FIFA World Cup at Wembley, 1966",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-30.png?v=f3e7daa41b56",
+ "generated_at_epoch": 1785585733,
+ "edition_date": "2026-08-01",
+ "event_date_label": "July 31",
+ "year": 1917,
+ "location": "Ypres, Belgium",
+ "headline": "Allied Offensive Opens Near Ypres; Great Battle Begun in Flanders",
+ "dispatch": "British and Allied forces launched a massive offensive near Ypres on the morning of July 31, 1917, opening the campaign that commanders hope will drive German forces from the Belgian coast and its vital U-boat ports. Troops went over the top along a broad front in the pre-dawn hours, advancing through terrain already churned by weeks of preliminary bombardment. Early reports from the front indicate fierce resistance and heavy rain has begun to turn the low-lying ground to deep mud.",
+ "answer": "Battle of Passchendaele opens near Ypres, Belgium, 1917",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-31.png?v=c02ef9f92468",
  "first_run": false
 }
