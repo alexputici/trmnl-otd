@@ -1,12 +1,12 @@
 {
  "phase": "Waning Gibbous",
  "glyph": "🌖",
- "illumination_pct": 91,
- "moon_age_days": 17.7,
+ "illumination_pct": 84,
+ "moon_age_days": 18.7,
  "next_full": "Aug 27",
  "next_new": "Aug 13",
  "darkness": "bright moon",
  "schema": 1,
- "generated_at_epoch": 1785584763,
- "date": "2026-08-01"
+ "generated_at_epoch": 1785671087,
+ "date": "2026-08-02"
 }
