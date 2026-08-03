@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1785585733,
- "edition_date": "2026-08-01",
- "event_date_label": "July 31",
- "year": 1917,
- "location": "Ypres, Belgium",
- "headline": "Allied Offensive Opens Near Ypres; Great Battle Begun in Flanders",
- "dispatch": "British and Allied forces launched a massive offensive near Ypres on the morning of July 31, 1917, opening the campaign that commanders hope will drive German forces from the Belgian coast and its vital U-boat ports. Troops went over the top along a broad front in the pre-dawn hours, advancing through terrain already churned by weeks of preliminary bombardment. Early reports from the front indicate fierce resistance and heavy rain has begun to turn the low-lying ground to deep mud.",
- "answer": "Battle of Passchendaele opens near Ypres, Belgium, 1917",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/07-31.png?v=c02ef9f92468",
+ "generated_at_epoch": 1785764468,
+ "edition_date": "2026-08-03",
+ "event_date_label": "August 1",
+ "year": 1981,
+ "location": "New York City",
+ "headline": "NEW CABLE CHANNEL MTV GOES ON AIR WITH MUSIC VIDEOS AROUND THE CLOCK",
+ "dispatch": "A new cable television network calling itself MTV began broadcasting in the early hours of August 1, reaching homes across the United States. The first image transmitted was a music video by British duo the Buggles, whose song matched the moment with eerie precision. The channel, backed by Warner-Amex, promises continuous music programming targeting younger viewers and signals a new commercial frontier for the recording industry.",
+ "answer": "MTV airs 'Video Killed the Radio Star' for first time, 1981",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-01.png?v=9ad5bd5f39bb",
  "first_run": false
 }

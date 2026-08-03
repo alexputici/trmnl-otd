@@ -766,5 +766,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-01.png?v=9ad5bd5f39bb",
   "fallback": false,
   "generated_at": "2026-08-01T06:02:13.220084-06:00"
+ },
+ {
+  "date": "2026-08-03",
+  "date_label": "August 3",
+  "location": "Berlin, Germany",
+  "answer": "Jesse Owens wins 100m gold at Berlin Olympics, 1936",
+  "wiki_url": "https://en.wikipedia.org/wiki/African_Americans",
+  "title": "Jesse Owens Wins First Gold at Berlin Olympics",
+  "year": 1936,
+  "category": "sport",
+  "image_prompt": "A lean sprinter in starting blocks at the far end of a straight track, muscles coiled, fingers pressed into the cinder, a vast stadium crowd packed into tiered stands above him, officials with stopwatches poised at the sideline, a finishing tape strung taut across the lane ahead, the runner's gaze fixed forward with fierce concentration, the moment before the starter's pistol fires. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Owens Takes 100-Metre Gold, Electrifies Berlin Stadium",
+  "dispatch": "Jesse Owens of the United States crossed the finish line first in the 100-metre sprint at the Berlin Olympic Games yesterday, claiming his first gold medal of the competition. The Ohio State sprinter finished in 10.3 seconds before a packed crowd that included senior German officials. Owens is expected to compete in the long jump and 200-metre events in the coming days.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-03.png?v=79386cd274aa",
+  "fallback": false,
+  "generated_at": "2026-08-03T07:41:08.988515-06:00"
  }
 ]

@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-01T06:02:13.220084-06:00",
- "generated_at_epoch": 1785585733,
- "date": "2026-08-01",
- "date_label": "August 1",
- "location": "New York City",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-01.png?v=9ad5bd5f39bb",
+ "generated_at": "2026-08-03T07:41:08.988515-06:00",
+ "generated_at_epoch": 1785764468,
+ "date": "2026-08-03",
+ "date_label": "August 3",
+ "location": "Berlin, Germany",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-03.png?v=79386cd274aa",
  "fallback": false,
  "yesterday": {
-  "answer": "Battle of Passchendaele opens near Ypres, Belgium, 1917",
-  "wiki_url": "https://en.wikipedia.org/wiki/World_War_I"
+  "answer": "MTV airs 'Video Killed the Radio Star' for first time, 1981",
+  "wiki_url": "https://en.wikipedia.org/wiki/Video_Killed_the_Radio_Star"
  }
 }
