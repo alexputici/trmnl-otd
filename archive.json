@@ -782,5 +782,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-03.png?v=79386cd274aa",
   "fallback": false,
   "generated_at": "2026-08-03T07:41:08.988515-06:00"
+ },
+ {
+  "date": "2026-08-04",
+  "date_label": "August 4",
+  "location": "London, England",
+  "answer": "Britain declares war on Germany, starting WWI, 1914",
+  "wiki_url": "https://en.wikipedia.org/wiki/World_War_I",
+  "title": "UK Declares War on Germany – WWI",
+  "year": 1914,
+  "category": "politics",
+  "image_prompt": "A telegraph operator inside a grand government office sits rigid at his instrument, fingers poised above the key, a sealed envelope stamped with official wax lying open beside him, the clock on the wall showing one minute before midnight, gas lamps casting hard shadows across paneled walls and the operator's tense face as he prepares to transmit the declaration across the empire. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "BRITAIN DECLARES WAR ON GERMANY; EMPIRE MOBILISES AT STROKE OF MIDNIGHT",
+  "dispatch": "London, August 5, 1914. The United Kingdom formally declared war on Germany last night after Berlin ignored an ultimatum demanding the withdrawal of German forces from Belgium. Foreign Secretary Sir Edward Grey informed the House of Commons that the Treaty of London obligated Britain to defend Belgian neutrality. Mobilisation orders went out immediately to army and naval reserves across the empire.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-04.png?v=964758dd897b",
+  "fallback": false,
+  "generated_at": "2026-08-04T07:02:02.794258-06:00"
  }
 ]
