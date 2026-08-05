@@ -1,12 +1,12 @@
 {
  "phase": "Last Quarter",
  "glyph": "🌗",
- "illumination_pct": 65,
- "moon_age_days": 20.7,
+ "illumination_pct": 54,
+ "moon_age_days": 21.7,
  "next_full": "Aug 27",
  "next_new": "Aug 13",
  "darkness": "some moonlight",
  "schema": 1,
- "generated_at_epoch": 1785846507,
- "date": "2026-08-04"
+ "generated_at_epoch": 1785932762,
+ "date": "2026-08-05"
 }
