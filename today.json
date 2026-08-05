@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-04T07:02:02.794258-06:00",
- "generated_at_epoch": 1785848522,
- "date": "2026-08-04",
- "date_label": "August 4",
- "location": "London, England",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-04.png?v=964758dd897b",
+ "generated_at": "2026-08-05T06:52:20.447824-06:00",
+ "generated_at_epoch": 1785934340,
+ "date": "2026-08-05",
+ "date_label": "August 5",
+ "location": "Mannheim, Germany",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-05.png?v=93f8d79065c1",
  "fallback": false,
  "yesterday": {
-  "answer": "Jesse Owens wins 100m gold at Berlin Olympics, 1936",
-  "wiki_url": "https://en.wikipedia.org/wiki/African_Americans"
+  "answer": "Britain declares war on Germany, starting WWI, 1914",
+  "wiki_url": "https://en.wikipedia.org/wiki/World_War_I"
  }
 }

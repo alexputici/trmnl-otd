@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1785848522,
- "edition_date": "2026-08-04",
- "event_date_label": "August 3",
- "year": 1936,
- "location": "Berlin, Germany",
- "headline": "Owens Takes 100-Metre Gold, Electrifies Berlin Stadium",
- "dispatch": "Jesse Owens of the United States crossed the finish line first in the 100-metre sprint at the Berlin Olympic Games yesterday, claiming his first gold medal of the competition. The Ohio State sprinter finished in 10.3 seconds before a packed crowd that included senior German officials. Owens is expected to compete in the long jump and 200-metre events in the coming days.",
- "answer": "Jesse Owens wins 100m gold at Berlin Olympics, 1936",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-03.png?v=79386cd274aa",
+ "generated_at_epoch": 1785934340,
+ "edition_date": "2026-08-05",
+ "event_date_label": "August 4",
+ "year": 1914,
+ "location": "London, England",
+ "headline": "BRITAIN DECLARES WAR ON GERMANY; EMPIRE MOBILISES AT STROKE OF MIDNIGHT",
+ "dispatch": "London, August 5, 1914. The United Kingdom formally declared war on Germany last night after Berlin ignored an ultimatum demanding the withdrawal of German forces from Belgium. Foreign Secretary Sir Edward Grey informed the House of Commons that the Treaty of London obligated Britain to defend Belgian neutrality. Mobilisation orders went out immediately to army and naval reserves across the empire.",
+ "answer": "Britain declares war on Germany, starting WWI, 1914",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-04.png?v=964758dd897b",
  "first_run": false
 }

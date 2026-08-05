@@ -798,5 +798,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-04.png?v=964758dd897b",
   "fallback": false,
   "generated_at": "2026-08-04T07:02:02.794258-06:00"
+ },
+ {
+  "date": "2026-08-05",
+  "date_label": "August 5",
+  "location": "Mannheim, Germany",
+  "answer": "Bertha Benz drives first long-distance auto trip, 1888",
+  "wiki_url": "https://en.wikipedia.org/wiki/Bertha_Benz",
+  "title": "Bertha Benz First Long-Distance Automobile Trip",
+  "year": 1888,
+  "category": "exploration",
+  "image_prompt": "A woman in Victorian dress sits upright at the tiller of a spindly three-wheeled horseless carriage, its thin rubber tyres resting on a dusty unpaved road at the edge of a town. Dawn light silhouettes a church steeple behind her. A small boy watches open-mouthed from a doorway. The engine trembles visibly, a single lamp glowing at the front axle. The road ahead stretches empty and long into flat farmland. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "WOMAN PILOTS HORSELESS CARRIAGE 66 MILES IN DARING CROSS-COUNTRY DRIVE",
+  "dispatch": "Bertha Benz, wife of inventor Karl Benz, completed a remarkable 106-kilometre journey from Mannheim to Pforzheim yesterday in a Benz Patent-Motorwagen, marking the first long-distance automobile trip ever attempted. She set off before dawn without informing her husband, taking their two sons as passengers. The journey proved the practical road-worthiness of the motorwagen and drew crowds of astonished onlookers at every village along the route.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-05.png?v=93f8d79065c1",
+  "fallback": false,
+  "generated_at": "2026-08-05T06:52:20.447824-06:00"
  }
 ]
