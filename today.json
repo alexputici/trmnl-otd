@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-05T06:52:20.447824-06:00",
- "generated_at_epoch": 1785934340,
- "date": "2026-08-05",
- "date_label": "August 5",
- "location": "Mannheim, Germany",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-05.png?v=93f8d79065c1",
+ "generated_at": "2026-08-06T06:56:32.507373-06:00",
+ "generated_at_epoch": 1786020992,
+ "date": "2026-08-06",
+ "date_label": "August 6",
+ "location": "Hiroshima, Japan",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-06.png?v=d2579bdbbafb",
  "fallback": false,
  "yesterday": {
-  "answer": "Britain declares war on Germany, starting WWI, 1914",
-  "wiki_url": "https://en.wikipedia.org/wiki/World_War_I"
+  "answer": "Bertha Benz drives first long-distance auto trip, 1888",
+  "wiki_url": "https://en.wikipedia.org/wiki/Bertha_Benz"
  }
 }

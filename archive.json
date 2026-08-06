@@ -814,5 +814,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-05.png?v=93f8d79065c1",
   "fallback": false,
   "generated_at": "2026-08-05T06:52:20.447824-06:00"
+ },
+ {
+  "date": "2026-08-06",
+  "date_label": "August 6",
+  "location": "Hiroshima, Japan",
+  "answer": "Enola Gay drops Little Boy atomic bomb on Hiroshima, 1945",
+  "wiki_url": "https://en.wikipedia.org/wiki/World_War_II",
+  "title": "Atomic Bomb Dropped on Hiroshima",
+  "year": 1945,
+  "category": "disaster",
+  "image_prompt": "A lone B-29 Superfortress bomber seen from below against a vast open sky, its massive silver fuselage catching harsh light, the bomb bay doors hanging open, the city of Hiroshima spread flat and geometric below like a map, eerily still and unsuspecting, a single dark cylindrical shape just beginning to fall away from the aircraft's belly, the crew sealed inside the cockpit windows. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "U.S. Drops Atomic Bomb on Hiroshima; City Obliterated in Single Blast",
+  "dispatch": "An American B-29 bomber released a single atomic device over the Japanese city of Hiroshima this morning, devastating the city in an instant. Military officials estimate tens of thousands were killed outright, with fires and destruction spreading across the urban center. The weapon represents a new order of destructive power never before used in warfare.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-06.png?v=d2579bdbbafb",
+  "fallback": false,
+  "generated_at": "2026-08-06T06:56:32.507373-06:00"
  }
 ]
