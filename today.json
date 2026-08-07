@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-06T06:56:32.507373-06:00",
- "generated_at_epoch": 1786020992,
- "date": "2026-08-06",
- "date_label": "August 6",
- "location": "Hiroshima, Japan",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-06.png?v=d2579bdbbafb",
+ "generated_at": "2026-08-07T05:44:56.711139-06:00",
+ "generated_at_epoch": 1786103096,
+ "date": "2026-08-07",
+ "date_label": "August 7",
+ "location": "San Francisco, CA",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-07.png?v=f12756134c8b",
  "fallback": false,
  "yesterday": {
-  "answer": "Bertha Benz drives first long-distance auto trip, 1888",
-  "wiki_url": "https://en.wikipedia.org/wiki/Bertha_Benz"
+  "answer": "Enola Gay drops Little Boy atomic bomb on Hiroshima, 1945",
+  "wiki_url": "https://en.wikipedia.org/wiki/World_War_II"
  }
 }

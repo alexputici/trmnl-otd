@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1786020992,
- "edition_date": "2026-08-06",
- "event_date_label": "August 5",
- "year": 1888,
- "location": "Mannheim, Germany",
- "headline": "WOMAN PILOTS HORSELESS CARRIAGE 66 MILES IN DARING CROSS-COUNTRY DRIVE",
- "dispatch": "Bertha Benz, wife of inventor Karl Benz, completed a remarkable 106-kilometre journey from Mannheim to Pforzheim yesterday in a Benz Patent-Motorwagen, marking the first long-distance automobile trip ever attempted. She set off before dawn without informing her husband, taking their two sons as passengers. The journey proved the practical road-worthiness of the motorwagen and drew crowds of astonished onlookers at every village along the route.",
- "answer": "Bertha Benz drives first long-distance auto trip, 1888",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-05.png?v=93f8d79065c1",
+ "generated_at_epoch": 1786103096,
+ "edition_date": "2026-08-07",
+ "event_date_label": "August 6",
+ "year": 1945,
+ "location": "Hiroshima, Japan",
+ "headline": "U.S. Drops Atomic Bomb on Hiroshima; City Obliterated in Single Blast",
+ "dispatch": "An American B-29 bomber released a single atomic device over the Japanese city of Hiroshima this morning, devastating the city in an instant. Military officials estimate tens of thousands were killed outright, with fires and destruction spreading across the urban center. The weapon represents a new order of destructive power never before used in warfare.",
+ "answer": "Enola Gay drops Little Boy atomic bomb on Hiroshima, 1945",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-06.png?v=d2579bdbbafb",
  "first_run": false
 }

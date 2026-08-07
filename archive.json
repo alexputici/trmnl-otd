@@ -830,5 +830,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-06.png?v=d2579bdbbafb",
   "fallback": false,
   "generated_at": "2026-08-06T06:56:32.507373-06:00"
+ },
+ {
+  "date": "2026-08-07",
+  "date_label": "August 7",
+  "location": "San Francisco, CA",
+  "answer": "Alice Ramsey first woman to drive across the US, 1909",
+  "wiki_url": "https://en.wikipedia.org/wiki/Alice_Huyler_Ramsey",
+  "title": "Alice Ramsey Drives Into San Francisco",
+  "year": 1909,
+  "category": "exploration",
+  "image_prompt": "A dusty open-topped automobile crests a final hill, the vast bay and city skyline visible ahead in the distance. A woman in goggles and a long duster coat grips the steering wheel, her passengers beside her, the road ahead empty and open, the city waiting just below. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Woman Driver Completes First Transcontinental Automobile Journey",
+  "dispatch": "Alice Huyler Ramsey rolled into San Francisco yesterday, completing a 59-day drive from New York City and becoming the first woman to pilot an automobile across the contiguous United States. Ramsey navigated roads, mud, and desert with three passengers in her Maxwell automobile. The journey covered more than 3,800 miles across eleven states.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-07.png?v=f12756134c8b",
+  "fallback": false,
+  "generated_at": "2026-08-07T05:44:56.711139-06:00"
  }
 ]
