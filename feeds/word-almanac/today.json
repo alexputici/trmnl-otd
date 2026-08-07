@@ -1,11 +1,11 @@
 {
- "word": "boreal",
- "pronunciation": "BOR-ee-ul",
- "part_of_speech": "adjective",
- "definition": "Of or relating to the north; belonging to or characteristic of northern regions, their climates, or their flora and fauna. Often used to describe the great coniferous forest belt stretching across the upper latitudes.",
- "etymology": "From Latin borealis, itself drawn from Boreas, the Greek god who personified the north wind. The Greeks imagined Boreas as a winged, bearded old man breathing cold from Thrace — so to call a forest or a chill boreal is to invoke that ancient shivering deity.",
- "usage": "On July 20 the sun is still generous at these latitudes, but step into the boreal shade of a spruce stand and you feel the cold waiting there like a patient creditor.",
+ "word": "dog-days",
+ "pronunciation": "DAWG-dayz",
+ "part_of_speech": "noun (plural)",
+ "definition": "The hottest, most sultry period of summer, traditionally reckoned as the roughly forty days when Sirius, the Dog Star, rises and sets with the sun; by extension, any period of stagnation or oppressive heat.",
+ "etymology": "From Latin dies caniculares, the days of the little dog — Sirius belonging to Canis Major, the Great Dog. Ancient Romans believed the star's heliacal rising in late July added its heat to the sun's, cooking the air and making men listless and dogs mad. The phrase passed through medieval Latin into English by the sixteenth century, already carrying the sense of torpor as much as temperature.",
+ "usage": "The office fans hummed without conviction; it was the dog-days, and even ambition had gone slack.",
  "schema": 1,
- "generated_at_epoch": 1784551060,
- "date": "2026-07-20"
+ "generated_at_epoch": 1786102113,
+ "date": "2026-08-07"
 }
