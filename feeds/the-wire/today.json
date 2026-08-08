@@ -1,36 +1,36 @@
 {
  "items": [
   {
-   "title": "Meta fined $567m in largest child safety ruling against social media giant",
-   "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m."
+   "title": "Child among three killed in Russian missile attacks near Kyiv",
+   "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
+  },
+  {
+   "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+   "description": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off."
+  },
+  {
+   "title": "The phone book that led us to Assad's spy chief in hiding",
+   "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria."
+  },
+  {
+   "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+   "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta."
+  },
+  {
+   "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+   "description": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead."
+  },
+  {
+   "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+   "description": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances."
   },
   {
    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
    "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
-  },
-  {
-   "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-   "description": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship."
-  },
-  {
-   "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-   "description": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C."
-  },
-  {
-   "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-   "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
-  },
-  {
-   "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
-   "description": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand."
-  },
-  {
-   "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
-   "description": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco."
   }
  ],
  "source": "BBC World",
  "schema": 1,
- "generated_at_epoch": 1786102168,
- "date": "2026-08-07"
+ "generated_at_epoch": 1786187080,
+ "date": "2026-08-08"
 }
