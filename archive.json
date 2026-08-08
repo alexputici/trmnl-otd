@@ -846,5 +846,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-07.png?v=f12756134c8b",
   "fallback": false,
   "generated_at": "2026-08-07T05:44:56.711139-06:00"
+ },
+ {
+  "date": "2026-08-08",
+  "date_label": "August 8",
+  "location": "Amiens, France",
+  "answer": "Battle of Amiens launches the Hundred Days Offensive, 1918",
+  "wiki_url": "https://en.wikipedia.org/wiki/Battle_of_Amiens_(1918)",
+  "title": "Battle of Amiens Begins",
+  "year": 1918,
+  "category": "other",
+  "image_prompt": "Thousands of Allied soldiers crouched in the pre-dawn darkness of a vast muddy field, bayonets fixed, bodies tense and coiled, faces pressed low beneath a horizon still black, hundreds of tanks looming like iron hulks in the mist just behind the trembling infantry line, horses stamping nervously beside artillery crews standing rigid at their guns with lanyards in hand, smoke beginning to curl at the farthest edges of the line, the whole great mass frozen a heartbeat before the barrage erupts. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "ALLIES LAUNCH MASSIVE SURPRISE ASSAULT AT AMIENS, GERMAN LINES BROKEN",
+  "dispatch": "Allied forces struck the German front at Amiens before dawn on August 8, 1918, unleashing a coordinated assault of infantry, tanks, and aircraft that shattered four German divisions within hours. The attack, conceived by General Rawlinson and executed under Field Marshal Haig, advanced up to eight miles on the first day, the greatest single-day gain on the Western Front. German commander Ludendorff later called it the black day of the German Army.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-08.png?v=33ecab260fd0",
+  "fallback": false,
+  "generated_at": "2026-08-08T05:27:21.034078-06:00"
  }
 ]

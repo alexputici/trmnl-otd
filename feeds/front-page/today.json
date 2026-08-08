@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1786103096,
- "edition_date": "2026-08-07",
- "event_date_label": "August 6",
- "year": 1945,
- "location": "Hiroshima, Japan",
- "headline": "U.S. Drops Atomic Bomb on Hiroshima; City Obliterated in Single Blast",
- "dispatch": "An American B-29 bomber released a single atomic device over the Japanese city of Hiroshima this morning, devastating the city in an instant. Military officials estimate tens of thousands were killed outright, with fires and destruction spreading across the urban center. The weapon represents a new order of destructive power never before used in warfare.",
- "answer": "Enola Gay drops Little Boy atomic bomb on Hiroshima, 1945",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-06.png?v=d2579bdbbafb",
+ "generated_at_epoch": 1786188441,
+ "edition_date": "2026-08-08",
+ "event_date_label": "August 7",
+ "year": 1909,
+ "location": "San Francisco, CA",
+ "headline": "Woman Driver Completes First Transcontinental Automobile Journey",
+ "dispatch": "Alice Huyler Ramsey rolled into San Francisco yesterday, completing a 59-day drive from New York City and becoming the first woman to pilot an automobile across the contiguous United States. Ramsey navigated roads, mud, and desert with three passengers in her Maxwell automobile. The journey covered more than 3,800 miles across eleven states.",
+ "answer": "Alice Ramsey first woman to drive across the US, 1909",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-07.png?v=f12756134c8b",
  "first_run": false
 }

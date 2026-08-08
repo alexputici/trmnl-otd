@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-07T05:44:56.711139-06:00",
- "generated_at_epoch": 1786103096,
- "date": "2026-08-07",
- "date_label": "August 7",
- "location": "San Francisco, CA",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-07.png?v=f12756134c8b",
+ "generated_at": "2026-08-08T05:27:21.034078-06:00",
+ "generated_at_epoch": 1786188441,
+ "date": "2026-08-08",
+ "date_label": "August 8",
+ "location": "Amiens, France",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-08.png?v=33ecab260fd0",
  "fallback": false,
  "yesterday": {
-  "answer": "Enola Gay drops Little Boy atomic bomb on Hiroshima, 1945",
-  "wiki_url": "https://en.wikipedia.org/wiki/World_War_II"
+  "answer": "Alice Ramsey first woman to drive across the US, 1909",
+  "wiki_url": "https://en.wikipedia.org/wiki/Alice_Huyler_Ramsey"
  }
 }
