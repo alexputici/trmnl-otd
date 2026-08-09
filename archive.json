@@ -862,5 +862,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-08.png?v=33ecab260fd0",
   "fallback": false,
   "generated_at": "2026-08-08T05:27:21.034078-06:00"
+ },
+ {
+  "date": "2026-08-09",
+  "date_label": "August 9",
+  "location": "Westminster Abbey",
+  "answer": "Edward VII and Alexandra crowned at Westminster Abbey, 1902",
+  "wiki_url": "https://en.wikipedia.org/wiki/Coronation_of_Edward_VII_and_Alexandra",
+  "title": "Coronation of Edward VII and Alexandra",
+  "year": 1902,
+  "category": "politics",
+  "image_prompt": "A vast medieval abbey nave packed with lords and ladies in ermine-trimmed robes and jeweled crowns, a solemn archbishop holding aloft a heavy golden crown above a kneeling king in ceremonial robes, yeomen of the guard standing rigid at the sides, candles blazing along the altar, sunlight streaming through tall stained-glass windows onto the stone floor below, the entire assembly frozen in hushed anticipation one heartbeat before the crown descends. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Edward VII Crowned King; Alexandra Takes Her Place as Queen at Westminster",
+  "dispatch": "King Edward VII was crowned at Westminster Abbey yesterday in a ceremony postponed from June owing to the King's sudden illness. The Archbishop of Canterbury placed St. Edward's Crown upon the King's head before a congregation of royalty and dignitaries from across the empire. Queen Alexandra was crowned immediately after, and the procession through London drew enormous crowds lining the decorated streets.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-09.png?v=bb09a51693db",
+  "fallback": false,
+  "generated_at": "2026-08-09T05:28:20.450062-06:00"
  }
 ]

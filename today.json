@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-08T05:27:21.034078-06:00",
- "generated_at_epoch": 1786188441,
- "date": "2026-08-08",
- "date_label": "August 8",
- "location": "Amiens, France",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-08.png?v=33ecab260fd0",
+ "generated_at": "2026-08-09T05:28:20.450062-06:00",
+ "generated_at_epoch": 1786274900,
+ "date": "2026-08-09",
+ "date_label": "August 9",
+ "location": "Westminster Abbey",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-09.png?v=bb09a51693db",
  "fallback": false,
  "yesterday": {
-  "answer": "Alice Ramsey first woman to drive across the US, 1909",
-  "wiki_url": "https://en.wikipedia.org/wiki/Alice_Huyler_Ramsey"
+  "answer": "Battle of Amiens launches the Hundred Days Offensive, 1918",
+  "wiki_url": "https://en.wikipedia.org/wiki/Battle_of_Amiens_(1918)"
  }
 }
