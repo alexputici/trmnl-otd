@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-08-09.png?v=7d1e8521e09a",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-08-10.png?v=128e284bfedd",
  "to_move": "White",
- "rating": 2065,
- "moves_to_win": 2,
- "puzzle_url": "https://lichess.org/training/DnerT",
+ "rating": 2130,
+ "moves_to_win": 3,
+ "puzzle_url": "https://lichess.org/training/GsEPe",
  "yesterday": {
-  "solution": "Rh1+ Kxh1 Qh3+ Kg1 Qxg2#",
-  "rating": 1952
+  "solution": "Nd5 Re5 fxe4",
+  "rating": 2065
  },
  "schema": 1,
- "generated_at_epoch": 1786273555,
- "date": "2026-08-09"
+ "generated_at_epoch": 1786361560,
+ "date": "2026-08-10"
 }

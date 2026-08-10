@@ -1,11 +1,11 @@
 {
  "kp_now": 2.0,
- "kp_max_tonight": 3.33,
+ "kp_max_tonight": 3.0,
  "verdict": "Possible",
  "advice": "low on the northern horizon",
- "scale_pct": 37,
+ "scale_pct": 33,
  "moon_note": "dark skies",
  "schema": 1,
- "generated_at_epoch": 1786273555,
- "date": "2026-08-09"
+ "generated_at_epoch": 1786361560,
+ "date": "2026-08-10"
 }
