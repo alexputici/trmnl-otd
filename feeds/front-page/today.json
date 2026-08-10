@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1786274900,
- "edition_date": "2026-08-09",
- "event_date_label": "August 8",
- "year": 1918,
- "location": "Amiens, France",
- "headline": "ALLIES LAUNCH MASSIVE SURPRISE ASSAULT AT AMIENS, GERMAN LINES BROKEN",
- "dispatch": "Allied forces struck the German front at Amiens before dawn on August 8, 1918, unleashing a coordinated assault of infantry, tanks, and aircraft that shattered four German divisions within hours. The attack, conceived by General Rawlinson and executed under Field Marshal Haig, advanced up to eight miles on the first day, the greatest single-day gain on the Western Front. German commander Ludendorff later called it the black day of the German Army.",
- "answer": "Battle of Amiens launches the Hundred Days Offensive, 1918",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-08.png?v=33ecab260fd0",
+ "generated_at_epoch": 1786362412,
+ "edition_date": "2026-08-10",
+ "event_date_label": "August 9",
+ "year": 1902,
+ "location": "Westminster Abbey",
+ "headline": "Edward VII Crowned King; Alexandra Takes Her Place as Queen at Westminster",
+ "dispatch": "King Edward VII was crowned at Westminster Abbey yesterday in a ceremony postponed from June owing to the King's sudden illness. The Archbishop of Canterbury placed St. Edward's Crown upon the King's head before a congregation of royalty and dignitaries from across the empire. Queen Alexandra was crowned immediately after, and the procession through London drew enormous crowds lining the decorated streets.",
+ "answer": "Edward VII and Alexandra crowned at Westminster Abbey, 1902",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-09.png?v=bb09a51693db",
  "first_run": false
 }

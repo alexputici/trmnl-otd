@@ -878,5 +878,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-09.png?v=bb09a51693db",
   "fallback": false,
   "generated_at": "2026-08-09T05:28:20.450062-06:00"
+ },
+ {
+  "date": "2026-08-10",
+  "date_label": "August 10",
+  "location": "Stockholm Harbor",
+  "answer": "Swedish warship Vasa sinks on her maiden voyage, 1628",
+  "wiki_url": "https://en.wikipedia.org/wiki/Vasa_(ship)",
+  "title": "Vasa Sinks on Maiden Voyage",
+  "year": 1628,
+  "category": "disaster",
+  "image_prompt": "A towering Swedish warship with gilded carvings and rows of open gun-ports lists sharply to one side in a harbor, sails beginning to billow and snap loose, sailors scrambling along the tilting deck as dark water surges over the lower rail, the city's skyline faint in the background. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Royal Warship Vasa Founders and Sinks in Stockholm Harbor on Maiden Voyage",
+  "dispatch": "The pride of the Swedish fleet, the warship Vasa, went to the bottom of Stockholm Harbor on Saturday only minutes after setting sail on her maiden voyage. A gust of wind caught the vessel as she cleared the shelter of the castle walls and she heeled sharply, water pouring through her open lower gun-ports. Witnesses on shore watched helplessly as the great ship capsized and sank, taking dozens of her crew with her into the cold harbor depths.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-10.png?v=ef260862182e",
+  "fallback": false,
+  "generated_at": "2026-08-10T05:46:52.414679-06:00"
  }
 ]
