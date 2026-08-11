@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-10T05:46:52.414679-06:00",
- "generated_at_epoch": 1786362412,
- "date": "2026-08-10",
- "date_label": "August 10",
- "location": "Stockholm Harbor",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-10.png?v=ef260862182e",
+ "generated_at": "2026-08-11T05:43:23.605117-06:00",
+ "generated_at_epoch": 1786448603,
+ "date": "2026-08-11",
+ "date_label": "August 11",
+ "location": "Bronx, New York City",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-11.png?v=315d4c1f6d08",
  "fallback": false,
  "yesterday": {
-  "answer": "Edward VII and Alexandra crowned at Westminster Abbey, 1902",
-  "wiki_url": "https://en.wikipedia.org/wiki/Coronation_of_Edward_VII_and_Alexandra"
+  "answer": "Swedish warship Vasa sinks on her maiden voyage, 1628",
+  "wiki_url": "https://en.wikipedia.org/wiki/Vasa_(ship)"
  }
 }

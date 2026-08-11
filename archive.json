@@ -894,5 +894,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-10.png?v=ef260862182e",
   "fallback": false,
   "generated_at": "2026-08-10T05:46:52.414679-06:00"
+ },
+ {
+  "date": "2026-08-11",
+  "date_label": "August 11",
+  "location": "Bronx, New York City",
+  "answer": "DJ Kool Herc's party launches hip hop music, 1973",
+  "wiki_url": "https://en.wikipedia.org/wiki/DJ_Kool_Herc",
+  "title": "DJ Kool Herc Births Hip Hop",
+  "year": 1973,
+  "category": "art",
+  "image_prompt": "Inside a packed basement recreation room, a young DJ stands at twin turntables, one hand lifting a needle about to drop onto a spinning vinyl record, the other arm raised, crowd of young people pressing close with anticipation, bare light bulb swinging overhead, speakers looming at the edges of the frame, faces caught mid-breath in the electric stillness before the beat drops. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Bronx DJ's Party Turntable Trick Sparks a New Musical Movement",
+  "dispatch": "A birthday party at 1520 Sedgwick Avenue in the South Bronx turned into the birth of a genre on the night of August 11, 1973. DJ Kool Herc extended the percussion break of a record by switching between two copies, keeping the crowd dancing. The technique, soon called the breakbeat, gave rise to the art form that became hip hop.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-11.png?v=315d4c1f6d08",
+  "fallback": false,
+  "generated_at": "2026-08-11T05:43:23.605117-06:00"
  }
 ]
