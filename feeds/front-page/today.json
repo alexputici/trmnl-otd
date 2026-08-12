@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1786448603,
- "edition_date": "2026-08-11",
- "event_date_label": "August 10",
- "year": 1628,
- "location": "Stockholm Harbor",
- "headline": "Royal Warship Vasa Founders and Sinks in Stockholm Harbor on Maiden Voyage",
- "dispatch": "The pride of the Swedish fleet, the warship Vasa, went to the bottom of Stockholm Harbor on Saturday only minutes after setting sail on her maiden voyage. A gust of wind caught the vessel as she cleared the shelter of the castle walls and she heeled sharply, water pouring through her open lower gun-ports. Witnesses on shore watched helplessly as the great ship capsized and sank, taking dozens of her crew with her into the cold harbor depths.",
- "answer": "Swedish warship Vasa sinks on her maiden voyage, 1628",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-10.png?v=ef260862182e",
+ "generated_at_epoch": 1786535073,
+ "edition_date": "2026-08-12",
+ "event_date_label": "August 11",
+ "year": 1973,
+ "location": "Bronx, New York City",
+ "headline": "Bronx DJ's Party Turntable Trick Sparks a New Musical Movement",
+ "dispatch": "A birthday party at 1520 Sedgwick Avenue in the South Bronx turned into the birth of a genre on the night of August 11, 1973. DJ Kool Herc extended the percussion break of a record by switching between two copies, keeping the crowd dancing. The technique, soon called the breakbeat, gave rise to the art form that became hip hop.",
+ "answer": "DJ Kool Herc's party launches hip hop music, 1973",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-11.png?v=315d4c1f6d08",
  "first_run": false
 }

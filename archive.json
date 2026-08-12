@@ -910,5 +910,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-11.png?v=315d4c1f6d08",
   "fallback": false,
   "generated_at": "2026-08-11T05:43:23.605117-06:00"
+ },
+ {
+  "date": "2026-08-12",
+  "date_label": "August 12",
+  "location": "Amsterdam",
+  "answer": "Last quagga dies at Amsterdam zoo, 1883",
+  "wiki_url": "https://en.wikipedia.org/wiki/Quagga",
+  "title": "Last Quagga Dies in Amsterdam",
+  "year": 1883,
+  "category": "science",
+  "image_prompt": "Inside a zoo enclosure, a lone striped equine animal — half zebra, half horse — stands motionless in the corner of a dusty paddock, its head drooping low, eyes half-closed, straw scattered on the stone floor, iron bars casting long shadows across its flank, a keeper's lantern just visible through the bars casting harsh light on the animal's fading form. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Last of Its Kind: Amsterdam Zoo's Quagga Dies, Species Gone Forever",
+  "dispatch": "The final quagga, a striped hybrid-like subspecies of the plains zebra, died yesterday at Natura Artis Magistra zoo in Amsterdam. The animal, a female, had been in captivity for years and was the last of her kind known to exist anywhere in the world. With her death, the quagga passes into extinction, a victim of relentless hunting across the South African plains.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-12.png?v=89a0ac5c3060",
+  "fallback": false,
+  "generated_at": "2026-08-12T05:44:33.327409-06:00"
  }
 ]
