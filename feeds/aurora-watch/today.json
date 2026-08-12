@@ -1,11 +1,11 @@
 {
  "kp_now": 2.0,
- "kp_max_tonight": 5.0,
- "verdict": "Aurora likely",
- "advice": "look north, maybe overhead",
- "scale_pct": 56,
+ "kp_max_tonight": 2.0,
+ "verdict": "Quiet",
+ "advice": "not tonight, probably",
+ "scale_pct": 22,
  "moon_note": "dark skies",
  "schema": 1,
- "generated_at_epoch": 1786447629,
- "date": "2026-08-11"
+ "generated_at_epoch": 1786534052,
+ "date": "2026-08-12"
 }
