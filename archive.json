@@ -926,5 +926,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-12.png?v=89a0ac5c3060",
   "fallback": false,
   "generated_at": "2026-08-12T05:44:33.327409-06:00"
+ },
+ {
+  "date": "2026-08-13",
+  "date_label": "August 13",
+  "location": "Southern England",
+  "answer": "Luftwaffe launches Adlertag to destroy the RAF, 1940",
+  "wiki_url": "https://en.wikipedia.org/wiki/World_War_II",
+  "title": "Adlertag – Battle of Britain Begins",
+  "year": 1940,
+  "category": "politics",
+  "image_prompt": "A vast formation of German Heinkel bombers filling the sky in tight V-formations, their silhouettes dark against a blazing white sun, the white cliffs of the English coast visible far below on the horizon, RAF Spitfires banking steeply upward in a climbing interception curve, exhaust trails curling behind them, ground crews on an airfield far below frozen mid-sprint toward their aircraft, the air thick with tension and imminent roar. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Luftwaffe Unleashes Massive Air Assault on Britain in Bid to Break RAF",
+  "dispatch": "German air fleets crossed the Channel in unprecedented numbers on August 13, striking airfields and radar stations across southern England in the operation commanders called Eagle Day. RAF Fighter Command scrambled hundreds of Hurricanes and Spitfires to meet the onslaught, and fierce combats raged from Kent to Hampshire. The Luftwaffe lost far more aircraft than anticipated, and the planned knockout blow against British air power fell well short of its mark.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-13.png?v=59765afddd0a",
+  "fallback": false,
+  "generated_at": "2026-08-13T05:45:37.743492-06:00"
  }
 ]

@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-12T05:44:33.327409-06:00",
- "generated_at_epoch": 1786535073,
- "date": "2026-08-12",
- "date_label": "August 12",
- "location": "Amsterdam",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-12.png?v=89a0ac5c3060",
+ "generated_at": "2026-08-13T05:45:37.743492-06:00",
+ "generated_at_epoch": 1786621537,
+ "date": "2026-08-13",
+ "date_label": "August 13",
+ "location": "Southern England",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-13.png?v=59765afddd0a",
  "fallback": false,
  "yesterday": {
-  "answer": "DJ Kool Herc's party launches hip hop music, 1973",
-  "wiki_url": "https://en.wikipedia.org/wiki/DJ_Kool_Herc"
+  "answer": "Last quagga dies at Amsterdam zoo, 1883",
+  "wiki_url": "https://en.wikipedia.org/wiki/Quagga"
  }
 }
