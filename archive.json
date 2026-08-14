@@ -942,5 +942,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-13.png?v=59765afddd0a",
   "fallback": false,
   "generated_at": "2026-08-13T05:45:37.743492-06:00"
+ },
+ {
+  "date": "2026-08-14",
+  "date_label": "August 14",
+  "location": "London, England",
+  "answer": "First music recording played publicly in London, 1888",
+  "wiki_url": "https://en.wikipedia.org/wiki/Arthur_Sullivan",
+  "title": "First Music Recording Played Publicly",
+  "year": 1888,
+  "category": "science",
+  "image_prompt": "A hushed gaslit lecture hall packed with men in top hats and frock coats, all leaning forward with expressions of stunned disbelief toward a brass horn mounted on a wooden cabinet at the front of the room, a hand poised motionless above the machine's crank about to turn it, candelabras casting sharp shadows across the crowd, tension frozen in the instant before sound emerges from the device. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Edison's Phonograph Astonishes London Press: Dead Man's Voice Fills the Room",
+  "dispatch": "London correspondents were left speechless yesterday when Thomas Edison's phonograph reproduced a recorded performance of Arthur Sullivan's The Lost Chord before a gathered press audience. The machine's brass horn carried the melody clearly across the room, proving that sound could be captured and replayed at will. It was the first time music had ever been heard from a recording device at a public demonstration.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-14.png?v=fe48973fb696",
+  "fallback": false,
+  "generated_at": "2026-08-14T05:43:53.513724-06:00"
  }
 ]

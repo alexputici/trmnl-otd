@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1786621537,
- "edition_date": "2026-08-13",
- "event_date_label": "August 12",
- "year": 1883,
- "location": "Amsterdam",
- "headline": "Last of Its Kind: Amsterdam Zoo's Quagga Dies, Species Gone Forever",
- "dispatch": "The final quagga, a striped hybrid-like subspecies of the plains zebra, died yesterday at Natura Artis Magistra zoo in Amsterdam. The animal, a female, had been in captivity for years and was the last of her kind known to exist anywhere in the world. With her death, the quagga passes into extinction, a victim of relentless hunting across the South African plains.",
- "answer": "Last quagga dies at Amsterdam zoo, 1883",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-12.png?v=89a0ac5c3060",
+ "generated_at_epoch": 1786707833,
+ "edition_date": "2026-08-14",
+ "event_date_label": "August 13",
+ "year": 1940,
+ "location": "Southern England",
+ "headline": "Luftwaffe Unleashes Massive Air Assault on Britain in Bid to Break RAF",
+ "dispatch": "German air fleets crossed the Channel in unprecedented numbers on August 13, striking airfields and radar stations across southern England in the operation commanders called Eagle Day. RAF Fighter Command scrambled hundreds of Hurricanes and Spitfires to meet the onslaught, and fierce combats raged from Kent to Hampshire. The Luftwaffe lost far more aircraft than anticipated, and the planned knockout blow against British air power fell well short of its mark.",
+ "answer": "Luftwaffe launches Adlertag to destroy the RAF, 1940",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-13.png?v=59765afddd0a",
  "first_run": false
 }
