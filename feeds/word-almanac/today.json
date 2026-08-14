@@ -1,11 +1,11 @@
 {
- "word": "dog-days",
- "pronunciation": "DAWG-dayz",
- "part_of_speech": "noun (plural)",
- "definition": "The hottest, most sultry period of summer, traditionally reckoned as the roughly forty days when Sirius, the Dog Star, rises and sets with the sun; by extension, any period of stagnation or oppressive heat.",
- "etymology": "From Latin dies caniculares, the days of the little dog — Sirius belonging to Canis Major, the Great Dog. Ancient Romans believed the star's heliacal rising in late July added its heat to the sun's, cooking the air and making men listless and dogs mad. The phrase passed through medieval Latin into English by the sixteenth century, already carrying the sense of torpor as much as temperature.",
- "usage": "The office fans hummed without conviction; it was the dog-days, and even ambition had gone slack.",
+ "word": "serein",
+ "pronunciation": "suh-RAN (French-inflected English: sair-AN)",
+ "part_of_speech": "noun",
+ "definition": "Fine rain falling from a clear or nearly clear sky after sunset, often imperceptible except as a gentle dampness settling on the skin and on still water.",
+ "etymology": "From French serein, meaning evening dew or night air, itself from Latin serenus, calm and clear. The word passed into English through the vocabulary of natural philosophers and poets who needed a name for this paradox — precipitation without cloud, moisture out of apparent nothing. It entered English in the seventeenth century and never quite left, though it retreated to the margins of meteorological prose.",
+ "usage": "On August evenings when the day's heat has finally relented, serein is the quiet reward — you step outside expecting dry air and find instead that the darkness itself is faintly wet, as if the sky were exhaling.",
  "schema": 1,
- "generated_at_epoch": 1786102113,
- "date": "2026-08-07"
+ "generated_at_epoch": 1786706648,
+ "date": "2026-08-14"
 }

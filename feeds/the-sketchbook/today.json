@@ -1,10 +1,10 @@
 {
- "kind": "event",
- "title": "Coffee Mornings",
- "context_line": "THURSDAY · RED MILE",
- "caption": "Coffee Mornings at Red Mile returns Thursday, July 23 at 10 a.m.",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-07-20.png?v=ffb2a44d516a",
+ "kind": "spotlight",
+ "title": "The Realist Therapist",
+ "context_line": "PSYCHOLOGY MADE HUMAN",
+ "caption": "Relationship science, made useful for the moments that actually matter.",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-08-14.png?v=dbb5827ac45c",
  "schema": 1,
- "generated_at_epoch": 1784551060,
- "date": "2026-07-20"
+ "generated_at_epoch": 1786706648,
+ "date": "2026-08-14"
 }
