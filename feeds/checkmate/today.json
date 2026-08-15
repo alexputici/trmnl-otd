@@ -1,7 +1,7 @@
 {
  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-08-15.png?v=78448934a2ef",
  "to_move": "Black",
- "rating": 1834,
+ "rating": 1827,
  "moves_to_win": 3,
  "puzzle_url": "https://lichess.org/training/FeEXP",
  "yesterday": {
@@ -9,6 +9,6 @@
   "rating": 1619
  },
  "schema": 1,
- "generated_at_epoch": 1786791309,
+ "generated_at_epoch": 1786791385,
  "date": "2026-08-15"
 }
