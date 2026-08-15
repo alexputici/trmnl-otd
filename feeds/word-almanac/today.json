@@ -1,11 +1,11 @@
 {
- "word": "serein",
- "pronunciation": "suh-RAN (French-inflected English: sair-AN)",
+ "word": "lammas",
+ "pronunciation": "LAM-əs",
  "part_of_speech": "noun",
- "definition": "Fine rain falling from a clear or nearly clear sky after sunset, often imperceptible except as a gentle dampness settling on the skin and on still water.",
- "etymology": "From French serein, meaning evening dew or night air, itself from Latin serenus, calm and clear. The word passed into English through the vocabulary of natural philosophers and poets who needed a name for this paradox — precipitation without cloud, moisture out of apparent nothing. It entered English in the seventeenth century and never quite left, though it retreated to the margins of meteorological prose.",
- "usage": "On August evenings when the day's heat has finally relented, serein is the quiet reward — you step outside expecting dry air and find instead that the darkness itself is faintly wet, as if the sky were exhaling.",
+ "definition": "The first day of August (Old Style), observed in medieval England as a harvest festival at which loaves baked from the first-cut wheat were offered in church; now a quarter-day in the Scottish legal calendar, falling on 28 August.",
+ "etymology": "From Old English hlāfmæsse, a compound of hlāf meaning loaf and mæsse meaning mass or feast. The loaf in question was not bread for eating but a ritual first-fruit, carried to the altar as a tithe of the harvest. Over centuries the aspirate softened and the word collapsed into lammas, losing the memory of its wheat entirely.",
+ "usage": "August 15 sits squarely in what older almanacs called Lammas-tide, the loose fortnight around the feast when grain stood ready to fall. A farmer watching thunderheads build over a ripening field might still mutter that lammas weather is never to be trusted — brilliant one hour, ruinous the next.",
  "schema": 1,
- "generated_at_epoch": 1786706648,
- "date": "2026-08-14"
+ "generated_at_epoch": 1786791309,
+ "date": "2026-08-15"
 }

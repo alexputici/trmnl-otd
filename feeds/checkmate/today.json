@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-08-14.png?v=409a7eff9347",
- "to_move": "White",
- "rating": 1619,
- "moves_to_win": 5,
- "puzzle_url": "https://lichess.org/training/xALp2",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-08-15.png?v=78448934a2ef",
+ "to_move": "Black",
+ "rating": 1834,
+ "moves_to_win": 3,
+ "puzzle_url": "https://lichess.org/training/FeEXP",
  "yesterday": {
-  "solution": "Qxd4 Qxd4 Bxd4 Bxd4 Rxd4",
-  "rating": 1794
+  "solution": "Bxc6 Qxc6 Rb8+ Kd7 Rxd8+ Kxd8 Qb8+ Kd7 Qe8#",
+  "rating": 1619
  },
  "schema": 1,
- "generated_at_epoch": 1786706648,
- "date": "2026-08-14"
+ "generated_at_epoch": 1786791309,
+ "date": "2026-08-15"
 }

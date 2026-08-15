@@ -1,11 +1,11 @@
 {
- "kp_now": 3.0,
- "kp_max_tonight": 4.0,
- "verdict": "Good chance",
- "advice": "worth a look north of the city",
- "scale_pct": 44,
+ "kp_now": 2.33,
+ "kp_max_tonight": 3.0,
+ "verdict": "Possible",
+ "advice": "low on the northern horizon",
+ "scale_pct": 33,
  "moon_note": "dark skies",
  "schema": 1,
- "generated_at_epoch": 1786706648,
- "date": "2026-08-14"
+ "generated_at_epoch": 1786791309,
+ "date": "2026-08-15"
 }
