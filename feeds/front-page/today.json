@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1786707833,
- "edition_date": "2026-08-14",
- "event_date_label": "August 13",
- "year": 1940,
- "location": "Southern England",
- "headline": "Luftwaffe Unleashes Massive Air Assault on Britain in Bid to Break RAF",
- "dispatch": "German air fleets crossed the Channel in unprecedented numbers on August 13, striking airfields and radar stations across southern England in the operation commanders called Eagle Day. RAF Fighter Command scrambled hundreds of Hurricanes and Spitfires to meet the onslaught, and fierce combats raged from Kent to Hampshire. The Luftwaffe lost far more aircraft than anticipated, and the planned knockout blow against British air power fell well short of its mark.",
- "answer": "Luftwaffe launches Adlertag to destroy the RAF, 1940",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-13.png?v=59765afddd0a",
+ "generated_at_epoch": 1786792742,
+ "edition_date": "2026-08-15",
+ "event_date_label": "August 14",
+ "year": 1888,
+ "location": "London, England",
+ "headline": "Edison's Phonograph Astonishes London Press: Dead Man's Voice Fills the Room",
+ "dispatch": "London correspondents were left speechless yesterday when Thomas Edison's phonograph reproduced a recorded performance of Arthur Sullivan's The Lost Chord before a gathered press audience. The machine's brass horn carried the melody clearly across the room, proving that sound could be captured and replayed at will. It was the first time music had ever been heard from a recording device at a public demonstration.",
+ "answer": "First music recording played publicly in London, 1888",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-14.png?v=fe48973fb696",
  "first_run": false
 }

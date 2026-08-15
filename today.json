@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-14T05:43:53.513724-06:00",
- "generated_at_epoch": 1786707833,
- "date": "2026-08-14",
- "date_label": "August 14",
- "location": "London, England",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-14.png?v=fe48973fb696",
+ "generated_at": "2026-08-15T05:19:02.642836-06:00",
+ "generated_at_epoch": 1786792742,
+ "date": "2026-08-15",
+ "date_label": "August 15",
+ "location": "Delaware, Ohio",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-15.png?v=d962c7b11d79",
  "fallback": false,
  "yesterday": {
-  "answer": "Luftwaffe launches Adlertag to destroy the RAF, 1940",
-  "wiki_url": "https://en.wikipedia.org/wiki/World_War_II"
+  "answer": "First music recording played publicly in London, 1888",
+  "wiki_url": "https://en.wikipedia.org/wiki/Arthur_Sullivan"
  }
 }

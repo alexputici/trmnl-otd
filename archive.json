@@ -958,5 +958,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-14.png?v=fe48973fb696",
   "fallback": false,
   "generated_at": "2026-08-14T05:43:53.513724-06:00"
+ },
+ {
+  "date": "2026-08-15",
+  "date_label": "August 15",
+  "location": "Delaware, Ohio",
+  "answer": "Big Ear telescope receives the Wow! signal, 1977",
+  "wiki_url": "https://en.wikipedia.org/wiki/Ohio_State_University_Radio_Observatory",
+  "title": "Wow! Signal Received",
+  "year": 1977,
+  "category": "science",
+  "image_prompt": "A vast radio telescope dish angled toward a star-filled night sky, the enormous parabolic structure silhouetted against the darkness, banks of humming equipment in a nearby control room glowing with dials and reel-to-reel tape, a lone technician hunched over a printout just beginning to emerge from a machine, the paper curling upward with columns of numbers and letters, the moment of silence before the anomaly is seen. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Radio Telescope Captures Strange Signal From Deep Space",
+  "dispatch": "Astronomers at Ohio State University's Big Ear radio telescope recorded an unusually powerful narrowband signal late Thursday night that has no known terrestrial explanation. The signal lasted 72 seconds and bore the hallmarks researchers associate with a possible extraterrestrial transmission. Staff are reviewing the data and urge caution, noting that no follow-up signal has yet been detected.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-15.png?v=d962c7b11d79",
+  "fallback": false,
+  "generated_at": "2026-08-15T05:19:02.642836-06:00"
  }
 ]
