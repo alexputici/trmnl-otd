@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1786792742,
- "edition_date": "2026-08-15",
- "event_date_label": "August 14",
- "year": 1888,
- "location": "London, England",
- "headline": "Edison's Phonograph Astonishes London Press: Dead Man's Voice Fills the Room",
- "dispatch": "London correspondents were left speechless yesterday when Thomas Edison's phonograph reproduced a recorded performance of Arthur Sullivan's The Lost Chord before a gathered press audience. The machine's brass horn carried the melody clearly across the room, proving that sound could be captured and replayed at will. It was the first time music had ever been heard from a recording device at a public demonstration.",
- "answer": "First music recording played publicly in London, 1888",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-14.png?v=fe48973fb696",
+ "generated_at_epoch": 1786879166,
+ "edition_date": "2026-08-16",
+ "event_date_label": "August 15",
+ "year": 1977,
+ "location": "Delaware, Ohio",
+ "headline": "Radio Telescope Captures Strange Signal From Deep Space",
+ "dispatch": "Astronomers at Ohio State University's Big Ear radio telescope recorded an unusually powerful narrowband signal late Thursday night that has no known terrestrial explanation. The signal lasted 72 seconds and bore the hallmarks researchers associate with a possible extraterrestrial transmission. Staff are reviewing the data and urge caution, noting that no follow-up signal has yet been detected.",
+ "answer": "Big Ear telescope receives the Wow! signal, 1977",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-15.png?v=d962c7b11d79",
  "first_run": false
 }

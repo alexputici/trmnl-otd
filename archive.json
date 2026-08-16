@@ -974,5 +974,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-15.png?v=d962c7b11d79",
   "fallback": false,
   "generated_at": "2026-08-15T05:19:02.642836-06:00"
+ },
+ {
+  "date": "2026-08-16",
+  "date_label": "August 16",
+  "location": "New York City",
+  "answer": "Ray Chapman fatally struck by pitched ball in New York, 1920",
+  "wiki_url": "https://en.wikipedia.org/wiki/Ray_Chapman",
+  "title": "Ray Chapman Beaning",
+  "year": 1920,
+  "category": "sport",
+  "image_prompt": "Inside a cavernous early baseball stadium, a lean batter stands rigid at the plate in wool uniform, cap pulled low, bat held loosely upright, his head turned slightly toward the mound where a pitcher has just released a dark ball blurring through the air at head height, the ball a streak of black against the pale dirt of the infield, the catcher crouching behind already beginning to rise, a sparse crowd in the tiered stands leaning forward in an instant of collective dread. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Indians' Chapman Struck by Pitch; Condition Critical",
+  "dispatch": "Cleveland Indians shortstop Ray Chapman was struck in the left temple by a fastball delivered by Yankees pitcher Carl Mays at the Polo Grounds in New York on August 16, 1920. Chapman collapsed at the plate and was carried from the field. He died early the following morning, the only player in Major League Baseball history to die directly from injuries suffered during a game.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-16.png?v=5da8850fcd6c",
+  "fallback": false,
+  "generated_at": "2026-08-16T05:19:26.784864-06:00"
  }
 ]

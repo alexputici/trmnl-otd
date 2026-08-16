@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-15T05:19:02.642836-06:00",
- "generated_at_epoch": 1786792742,
- "date": "2026-08-15",
- "date_label": "August 15",
- "location": "Delaware, Ohio",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-15.png?v=d962c7b11d79",
+ "generated_at": "2026-08-16T05:19:26.784864-06:00",
+ "generated_at_epoch": 1786879166,
+ "date": "2026-08-16",
+ "date_label": "August 16",
+ "location": "New York City",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-16.png?v=5da8850fcd6c",
  "fallback": false,
  "yesterday": {
-  "answer": "First music recording played publicly in London, 1888",
-  "wiki_url": "https://en.wikipedia.org/wiki/Arthur_Sullivan"
+  "answer": "Big Ear telescope receives the Wow! signal, 1977",
+  "wiki_url": "https://en.wikipedia.org/wiki/Ohio_State_University_Radio_Observatory"
  }
 }
