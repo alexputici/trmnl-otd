@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1786879166,
- "edition_date": "2026-08-16",
- "event_date_label": "August 15",
- "year": 1977,
- "location": "Delaware, Ohio",
- "headline": "Radio Telescope Captures Strange Signal From Deep Space",
- "dispatch": "Astronomers at Ohio State University's Big Ear radio telescope recorded an unusually powerful narrowband signal late Thursday night that has no known terrestrial explanation. The signal lasted 72 seconds and bore the hallmarks researchers associate with a possible extraterrestrial transmission. Staff are reviewing the data and urge caution, noting that no follow-up signal has yet been detected.",
- "answer": "Big Ear telescope receives the Wow! signal, 1977",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-15.png?v=d962c7b11d79",
+ "generated_at_epoch": 1786965857,
+ "edition_date": "2026-08-17",
+ "event_date_label": "August 16",
+ "year": 1920,
+ "location": "New York City",
+ "headline": "Indians' Chapman Struck by Pitch; Condition Critical",
+ "dispatch": "Cleveland Indians shortstop Ray Chapman was struck in the left temple by a fastball delivered by Yankees pitcher Carl Mays at the Polo Grounds in New York on August 16, 1920. Chapman collapsed at the plate and was carried from the field. He died early the following morning, the only player in Major League Baseball history to die directly from injuries suffered during a game.",
+ "answer": "Ray Chapman fatally struck by pitched ball in New York, 1920",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-16.png?v=5da8850fcd6c",
  "first_run": false
 }

@@ -990,5 +990,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-16.png?v=5da8850fcd6c",
   "fallback": false,
   "generated_at": "2026-08-16T05:19:26.784864-06:00"
+ },
+ {
+  "date": "2026-08-17",
+  "date_label": "August 17",
+  "location": "London, England",
+  "answer": "George Orwell's Animal Farm published in Britain, 1945",
+  "wiki_url": "https://en.wikipedia.org/wiki/Animal_Farm",
+  "title": "Animal Farm First Published",
+  "year": 1945,
+  "category": "art",
+  "image_prompt": "A printer in a cavernous Victorian press room stands beside a thundering flatbed printing press, a freshly inked page emerging from the rollers bearing a stark illustration of pigs and farm animals, the pressman's hand hovering over the finished sheet, stacks of printed books rising behind him in dramatic light and shadow. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Orwell's Animal Farm On Sale Today; Satire of Soviet Rule Reaches British Readers",
+  "dispatch": "Victor Gollancz having refused it and other publishers hesitant, George Orwell's allegorical novella Animal Farm was finally released by Secker and Warburg in London on Friday. The slim book depicts farm animals overthrowing their human master only to fall under a harsher pig dictatorship, a thinly veiled portrait of the Soviet revolution and Stalinist rule. Early copies sold quickly, with reviewers calling the fable both charming and politically explosive.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-17.png?v=40d980c9dbb6",
+  "fallback": false,
+  "generated_at": "2026-08-17T05:24:17.561742-06:00"
  }
 ]
