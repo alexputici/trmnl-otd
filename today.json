@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-17T05:24:17.561742-06:00",
- "generated_at_epoch": 1786965857,
- "date": "2026-08-17",
- "date_label": "August 17",
- "location": "London, England",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-17.png?v=40d980c9dbb6",
+ "generated_at": "2026-08-18T05:24:28.702045-06:00",
+ "generated_at_epoch": 1787052268,
+ "date": "2026-08-18",
+ "date_label": "August 18",
+ "location": "Washington, D.C.",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-18.png?v=3f058dfc29b0",
  "fallback": false,
  "yesterday": {
-  "answer": "Ray Chapman fatally struck by pitched ball in New York, 1920",
-  "wiki_url": "https://en.wikipedia.org/wiki/Ray_Chapman"
+  "answer": "George Orwell's Animal Farm published in Britain, 1945",
+  "wiki_url": "https://en.wikipedia.org/wiki/Animal_Farm"
  }
 }

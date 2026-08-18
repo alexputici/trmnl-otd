@@ -1006,5 +1006,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-17.png?v=40d980c9dbb6",
   "fallback": false,
   "generated_at": "2026-08-17T05:24:17.561742-06:00"
+ },
+ {
+  "date": "2026-08-18",
+  "date_label": "August 18",
+  "location": "Washington, D.C.",
+  "answer": "19th Amendment ratified, granting U.S. women the vote, 1920",
+  "wiki_url": "https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution",
+  "title": "19th Amendment Ratified",
+  "year": 1920,
+  "category": "politics",
+  "image_prompt": "A clerk's hand frozen mid-press, a heavy official seal descending toward a formal parchment document spread across a broad oak desk, ink gleaming wet on the surface, quill and inkwell beside it, a hushed chamber of high arched windows behind, morning light cutting across the scene in sharp diagonal shafts, a group of formally dressed officials leaning in motionless in anticipation. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "WOMEN WIN THE VOTE: 19th Amendment Ratified After Decades of Struggle",
+  "dispatch": "Secretary of State Bainbridge Colby certified the Nineteenth Amendment to the United States Constitution this morning in Washington, completing ratification after Tennessee cast the decisive 36th state vote. The amendment prohibits denial of the right to vote on account of sex, enfranchising millions of American women for the first time. Suffragists who marched, petitioned, and faced arrest for decades gathered outside government buildings to mark the moment.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-18.png?v=3f058dfc29b0",
+  "fallback": false,
+  "generated_at": "2026-08-18T05:24:28.702045-06:00"
  }
 ]
