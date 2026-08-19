@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-18T05:24:28.702045-06:00",
- "generated_at_epoch": 1787052268,
- "date": "2026-08-18",
- "date_label": "August 18",
- "location": "Washington, D.C.",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-18.png?v=3f058dfc29b0",
+ "generated_at": "2026-08-19T05:24:28.387606-06:00",
+ "generated_at_epoch": 1787138668,
+ "date": "2026-08-19",
+ "date_label": "August 19",
+ "location": "Glenfinnan, Scotland",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-19.png?v=a2e113c50af0",
  "fallback": false,
  "yesterday": {
-  "answer": "George Orwell's Animal Farm published in Britain, 1945",
-  "wiki_url": "https://en.wikipedia.org/wiki/Animal_Farm"
+  "answer": "19th Amendment ratified, granting U.S. women the vote, 1920",
+  "wiki_url": "https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution"
  }
 }

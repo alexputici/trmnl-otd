@@ -1022,5 +1022,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-18.png?v=3f058dfc29b0",
   "fallback": false,
   "generated_at": "2026-08-18T05:24:28.702045-06:00"
+ },
+ {
+  "date": "2026-08-19",
+  "date_label": "August 19",
+  "location": "Glenfinnan, Scotland",
+  "answer": "Bonnie Prince Charlie raises Jacobite standard, 1745",
+  "wiki_url": "https://en.wikipedia.org/wiki/Charles_Edward_Stuart",
+  "title": "Bonnie Prince Charlie Raises Jacobite Standard at Glenfinnan",
+  "year": 1745,
+  "category": "politics",
+  "image_prompt": "A young prince in highland dress stands on a hillside above a crowd of kilted clansmen, arm raised toward a tall unfurled standard being hoisted on a pole against a sky of dark storm clouds, the mountains of the Scottish Highlands looming behind, all eyes turned upward in tense expectation, the fabric of the standard still half-coiled in the wind, one second from snapping fully open. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Stuart Prince Raises His Standard in the Highlands, Calls Clans to Arms",
+  "dispatch": "Glenfinnan, Scotland, Aug. 19 -- The young pretender Charles Edward Stuart today raised the royal standard of his father's cause before several hundred armed Highlanders gathered at the head of Loch Shiel. The Earl of Tullibardine unfurled the banner as claymores were drawn and pipes sounded across the glen. The government in London has ordered troops to move north, and the fate of the British throne now hangs on how many clan chiefs answer the prince's call.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-19.png?v=a2e113c50af0",
+  "fallback": false,
+  "generated_at": "2026-08-19T05:24:28.387606-06:00"
  }
 ]
