@@ -1,12 +1,12 @@
 {
- "phase": "Waxing Crescent",
- "glyph": "🌒",
- "illumination_pct": 27,
- "moon_age_days": 5.1,
+ "phase": "First Quarter",
+ "glyph": "🌓",
+ "illumination_pct": 37,
+ "moon_age_days": 6.1,
  "next_full": "Aug 27",
  "next_new": "Sep 11",
- "darkness": "dark skies",
+ "darkness": "some moonlight",
  "schema": 1,
- "generated_at_epoch": 1787050793,
- "date": "2026-08-18"
+ "generated_at_epoch": 1787137195,
+ "date": "2026-08-19"
 }
