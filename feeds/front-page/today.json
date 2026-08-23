@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1787138668,
- "edition_date": "2026-08-19",
- "event_date_label": "August 18",
- "year": 1920,
- "location": "Washington, D.C.",
- "headline": "WOMEN WIN THE VOTE: 19th Amendment Ratified After Decades of Struggle",
- "dispatch": "Secretary of State Bainbridge Colby certified the Nineteenth Amendment to the United States Constitution this morning in Washington, completing ratification after Tennessee cast the decisive 36th state vote. The amendment prohibits denial of the right to vote on account of sex, enfranchising millions of American women for the first time. Suffragists who marched, petitioned, and faced arrest for decades gathered outside government buildings to mark the moment.",
- "answer": "19th Amendment ratified, granting U.S. women the vote, 1920",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-18.png?v=3f058dfc29b0",
+ "generated_at_epoch": 1787483992,
+ "edition_date": "2026-08-23",
+ "event_date_label": "August 19",
+ "year": 1745,
+ "location": "Glenfinnan, Scotland",
+ "headline": "Stuart Prince Raises His Standard in the Highlands, Calls Clans to Arms",
+ "dispatch": "Glenfinnan, Scotland, Aug. 19 -- The young pretender Charles Edward Stuart today raised the royal standard of his father's cause before several hundred armed Highlanders gathered at the head of Loch Shiel. The Earl of Tullibardine unfurled the banner as claymores were drawn and pipes sounded across the glen. The government in London has ordered troops to move north, and the fate of the British throne now hangs on how many clan chiefs answer the prince's call.",
+ "answer": "Bonnie Prince Charlie raises Jacobite standard, 1745",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-19.png?v=a2e113c50af0",
  "first_run": false
 }

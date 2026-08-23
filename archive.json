@@ -1038,5 +1038,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-19.png?v=a2e113c50af0",
   "fallback": false,
   "generated_at": "2026-08-19T05:24:28.387606-06:00"
+ },
+ {
+  "date": "2026-08-23",
+  "date_label": "August 23",
+  "location": "CERN, Geneva",
+  "answer": "Tim Berners-Lee opens the World Wide Web to the public, 1991",
+  "wiki_url": "https://en.wikipedia.org/wiki/World_Wide_Web",
+  "title": "World Wide Web Opens to Public",
+  "year": 1991,
+  "category": "science",
+  "image_prompt": "A lone researcher in a dimly lit laboratory office sits before a glowing computer terminal, fingers resting above the keyboard, cables trailing across the floor, stacks of manuals and printouts on the desk, the room otherwise dark and still, the screen's light illuminating the figure's concentrated face in sharp relief, one key yet to be pressed. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "CERN RESEARCHER OPENS GLOBAL HYPERTEXT NETWORK TO PUBLIC USE",
+  "dispatch": "Tim Berners-Lee and his colleagues at the CERN laboratory near Geneva opened the World Wide Web to public access on August 23, 1991, posting the first public description of the project and inviting outside users to connect. The system, built on hypertext links between documents stored on networked computers, had until then been used only within CERN. The announcement was made through a physics newsgroup, and few outside computing circles grasped the scope of what had just been released.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-23.png?v=c4ade755be9d",
+  "fallback": false,
+  "generated_at": "2026-08-23T05:19:52.277531-06:00"
  }
 ]

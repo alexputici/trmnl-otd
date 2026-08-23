@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-19T05:24:28.387606-06:00",
- "generated_at_epoch": 1787138668,
- "date": "2026-08-19",
- "date_label": "August 19",
- "location": "Glenfinnan, Scotland",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-19.png?v=a2e113c50af0",
+ "generated_at": "2026-08-23T05:19:52.277531-06:00",
+ "generated_at_epoch": 1787483992,
+ "date": "2026-08-23",
+ "date_label": "August 23",
+ "location": "CERN, Geneva",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-23.png?v=c4ade755be9d",
  "fallback": false,
  "yesterday": {
-  "answer": "19th Amendment ratified, granting U.S. women the vote, 1920",
-  "wiki_url": "https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution"
+  "answer": "Bonnie Prince Charlie raises Jacobite standard, 1745",
+  "wiki_url": "https://en.wikipedia.org/wiki/Charles_Edward_Stuart"
  }
 }
