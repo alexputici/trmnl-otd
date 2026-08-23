@@ -1,11 +1,11 @@
 {
- "word": "lammas",
- "pronunciation": "LAM-əs",
- "part_of_speech": "noun",
- "definition": "The first day of August (Old Style), observed in medieval England as a harvest festival at which loaves baked from the first-cut wheat were offered in church; now a quarter-day in the Scottish legal calendar, falling on 28 August.",
- "etymology": "From Old English hlāfmæsse, a compound of hlāf meaning loaf and mæsse meaning mass or feast. The loaf in question was not bread for eating but a ritual first-fruit, carried to the altar as a tithe of the harvest. Over centuries the aspirate softened and the word collapsed into lammas, losing the memory of its wheat entirely.",
- "usage": "August 15 sits squarely in what older almanacs called Lammas-tide, the loose fortnight around the feast when grain stood ready to fall. A farmer watching thunderheads build over a ripening field might still mutter that lammas weather is never to be trusted — brilliant one hour, ruinous the next.",
+ "word": "fructuous",
+ "pronunciation": "FRUK-choo-us",
+ "part_of_speech": "adjective",
+ "definition": "Producing abundant fruit or results; fruitful, profitable, fertile in outcome. Used of land, labor, or any endeavor that yields a rich return.",
+ "etymology": "From Latin fructuosus, itself from fructus meaning fruit or enjoyment, rooted in the verb frui, to enjoy or have the use of. The Romans used fructus for both literal harvest and the figurative fruits of one's efforts, and English inherited both senses when it borrowed the word through Old French in the fifteenth century.",
+ "usage": "Late August is the fructuous hinge of the year, when the garden stops promising and finally delivers — tomatoes splitting with their own weight, plums darkening overnight, the whole season cashing its long-held debt.",
  "schema": 1,
- "generated_at_epoch": 1786791309,
- "date": "2026-08-15"
+ "generated_at_epoch": 1787528100,
+ "date": "2026-08-23"
 }

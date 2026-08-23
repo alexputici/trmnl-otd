@@ -1,7 +1,7 @@
 {
  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-08-23.png?v=102a89595fb0",
  "to_move": "Black",
- "rating": 1806,
+ "rating": 1695,
  "moves_to_win": 3,
  "puzzle_url": "https://lichess.org/training/9x6Uy",
  "yesterday": {
@@ -9,6 +9,6 @@
   "rating": 1940
  },
  "schema": 1,
- "generated_at_epoch": 1787482638,
+ "generated_at_epoch": 1787528100,
  "date": "2026-08-23"
 }
