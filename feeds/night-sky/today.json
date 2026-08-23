@@ -1,12 +1,12 @@
 {
- "phase": "First Quarter",
- "glyph": "🌓",
- "illumination_pct": 68,
- "moon_age_days": 9.1,
+ "phase": "Waxing Gibbous",
+ "glyph": "🌔",
+ "illumination_pct": 78,
+ "moon_age_days": 10.1,
  "next_full": "Aug 27",
  "next_new": "Sep 11",
- "darkness": "some moonlight",
+ "darkness": "bright moon",
  "schema": 1,
- "generated_at_epoch": 1787396236,
- "date": "2026-08-22"
+ "generated_at_epoch": 1787482638,
+ "date": "2026-08-23"
 }
