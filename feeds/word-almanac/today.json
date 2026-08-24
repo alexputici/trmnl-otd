@@ -1,11 +1,11 @@
 {
- "word": "fructuous",
- "pronunciation": "FRUK-choo-us",
- "part_of_speech": "adjective",
- "definition": "Producing abundant fruit or results; fruitful, profitable, fertile in outcome. Used of land, labor, or any endeavor that yields a rich return.",
- "etymology": "From Latin fructuosus, itself from fructus meaning fruit or enjoyment, rooted in the verb frui, to enjoy or have the use of. The Romans used fructus for both literal harvest and the figurative fruits of one's efforts, and English inherited both senses when it borrowed the word through Old French in the fifteenth century.",
- "usage": "Late August is the fructuous hinge of the year, when the garden stops promising and finally delivers — tomatoes splitting with their own weight, plums darkening overnight, the whole season cashing its long-held debt.",
+ "word": "sennight",
+ "pronunciation": "SEN-ite (two syllables; the medial consonants collapsed by centuries of use)",
+ "part_of_speech": "noun",
+ "definition": "A period of seven nights and their intervening days; a week. Used especially in reckoning time from a named day: 'Friday sennight' means the Friday of the week following.",
+ "etymology": "Old English seofon nihta, seven nights. The Germanic peoples counted time by nights rather than days — a habit Caesar noted with surprise in his Gallic Wars — and the phrase wore smooth through a thousand years of dailyspeech until its seven became sen and its nights became night, leaving a fossil of that old dark-first cosmology sealed inside a single word.",
+ "usage": "The harvest wants finishing, and a sennight of dry weather is all the farmer prays for as August narrows toward September and the light begins to mean business about leaving.",
  "schema": 1,
- "generated_at_epoch": 1787528100,
+ "generated_at_epoch": 1787538205,
  "date": "2026-08-23"
 }
