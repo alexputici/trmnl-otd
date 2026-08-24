@@ -1,11 +1,11 @@
 {
  "schema": 1,
- "generated_at": "2026-08-23T05:19:52.277531-06:00",
- "generated_at_epoch": 1787483992,
+ "generated_at": "2026-08-23T20:27:07.312864-06:00",
+ "generated_at_epoch": 1787538427,
  "date": "2026-08-23",
  "date_label": "August 23",
- "location": "CERN, Geneva",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-23.png?v=c4ade755be9d",
+ "location": "Moscow",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-23.png?v=5b4e7c04570b",
  "fallback": false,
  "yesterday": {
   "answer": "Bonnie Prince Charlie raises Jacobite standard, 1745",

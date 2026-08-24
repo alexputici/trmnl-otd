@@ -1042,17 +1042,17 @@
  {
   "date": "2026-08-23",
   "date_label": "August 23",
-  "location": "CERN, Geneva",
-  "answer": "Tim Berners-Lee opens the World Wide Web to the public, 1991",
-  "wiki_url": "https://en.wikipedia.org/wiki/World_Wide_Web",
-  "title": "World Wide Web Opens to Public",
-  "year": 1991,
-  "category": "science",
-  "image_prompt": "A lone researcher in a dimly lit laboratory office sits before a glowing computer terminal, fingers resting above the keyboard, cables trailing across the floor, stacks of manuals and printouts on the desk, the room otherwise dark and still, the screen's light illuminating the figure's concentrated face in sharp relief, one key yet to be pressed. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
-  "headline": "CERN RESEARCHER OPENS GLOBAL HYPERTEXT NETWORK TO PUBLIC USE",
-  "dispatch": "Tim Berners-Lee and his colleagues at the CERN laboratory near Geneva opened the World Wide Web to public access on August 23, 1991, posting the first public description of the project and inviting outside users to connect. The system, built on hypertext links between documents stored on networked computers, had until then been used only within CERN. The announcement was made through a physics newsgroup, and few outside computing circles grasped the scope of what had just been released.",
-  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-23.png?v=c4ade755be9d",
+  "location": "Moscow",
+  "answer": "Nazi Germany and USSR sign the Molotov-Ribbentrop Pact, 1939",
+  "wiki_url": "https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact",
+  "title": "Molotov–Ribbentrop Pact Signing",
+  "year": 1939,
+  "category": "politics",
+  "image_prompt": "Two men in formal diplomatic dress leaning over a long table covered with official documents in a grand Kremlin reception room, one man's pen hovering a breath above the signature line, stern-faced officials and uniformed figures crowded behind them on both sides, heavy curtains framing tall windows, a globe and inkwell on the table edge, the moment frozen just before the pen touches paper. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "GERMANY AND RUSSIA SIGN NON-AGGRESSION PACT IN MOSCOW; SECRET CLAUSES REPORTED",
+  "dispatch": "Soviet Foreign Minister Vyacheslav Molotov and German Foreign Minister Joachim von Ribbentrop signed a ten-year non-aggression treaty in Moscow on the night of August 23, 1939. The pact stunned European capitals that had been negotiating their own alliances with Moscow. Diplomatic sources in Berlin and Paris indicated the treaty contained secret protocols dividing eastern Europe into German and Soviet spheres, sharply raising fears of an imminent German move against Poland.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-23.png?v=5b4e7c04570b",
   "fallback": false,
-  "generated_at": "2026-08-23T05:19:52.277531-06:00"
+  "generated_at": "2026-08-23T20:27:07.312864-06:00"
  }
 ]
