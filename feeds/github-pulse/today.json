@@ -1,16 +1,15 @@
 {
  "setup_needed": false,
  "login": "alexputici",
- "total_28d": 682,
- "commits_28d": 533,
- "prs_28d": 141,
+ "total_28d": 662,
+ "commits_28d": 512,
+ "prs_28d": 142,
  "issues_28d": 3,
  "reviews_28d": 3,
- "streak_days": 28,
- "today_count": 40,
+ "streak_days": 0,
+ "today_count": 0,
  "top_repos": [],
  "levels": [
-  2,
   2,
   3,
   4,
@@ -37,9 +36,10 @@
   2,
   1,
   1,
-  2
+  3,
+  0
  ],
  "schema": 1,
- "generated_at_epoch": 1787538205,
- "date": "2026-08-23"
+ "generated_at_epoch": 1787569972,
+ "date": "2026-08-24"
 }

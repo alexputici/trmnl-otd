@@ -1,11 +1,11 @@
 {
- "kp_now": 1.67,
+ "kp_now": 0.67,
  "kp_max_tonight": 1.67,
  "verdict": "Quiet",
  "advice": "not tonight, probably",
  "scale_pct": 19,
  "moon_note": "bright moon",
  "schema": 1,
- "generated_at_epoch": 1787538205,
- "date": "2026-08-23"
+ "generated_at_epoch": 1787569972,
+ "date": "2026-08-24"
 }
