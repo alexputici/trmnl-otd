@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-08-24.png?v=87b81eba4976",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-08-25.png?v=65608b7923e3",
  "to_move": "White",
- "rating": 1985,
+ "rating": 1989,
  "moves_to_win": 4,
- "puzzle_url": "https://lichess.org/training/oXAR3",
+ "puzzle_url": "https://lichess.org/training/zFy6T",
  "yesterday": {
-  "solution": "Qxh2+ Kxh2 Rh5+ Kg1 Rh1#",
-  "rating": 1989
+  "solution": "b5 axb5 a6 bxc4 a7 c3 a8=Q",
+  "rating": 1985
  },
  "schema": 1,
- "generated_at_epoch": 1787569972,
- "date": "2026-08-24"
+ "generated_at_epoch": 1787655957,
+ "date": "2026-08-25"
 }
