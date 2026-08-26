@@ -1,11 +1,11 @@
 {
- "word": "sennight",
- "pronunciation": "SEN-ite (two syllables; the medial consonants collapsed by centuries of use)",
- "part_of_speech": "noun",
- "definition": "A period of seven nights and their intervening days; a week. Used especially in reckoning time from a named day: 'Friday sennight' means the Friday of the week following.",
- "etymology": "Old English seofon nihta, seven nights. The Germanic peoples counted time by nights rather than days — a habit Caesar noted with surprise in his Gallic Wars — and the phrase wore smooth through a thousand years of dailyspeech until its seven became sen and its nights became night, leaving a fossil of that old dark-first cosmology sealed inside a single word.",
- "usage": "The harvest wants finishing, and a sennight of dry weather is all the farmer prays for as August narrows toward September and the light begins to mean business about leaving.",
+ "word": "supervene",
+ "pronunciation": "soo-per-VEEN",
+ "part_of_speech": "verb (intransitive)",
+ "definition": "To come upon or occur as something extraneous, additional, or unexpected — to follow closely upon something else, often altering or interrupting it.",
+ "etymology": "From Latin supervenire, built from super (over, upon) and venire (to come). Roman jurists used it when an unforeseen circumstance arrived to complicate a contract already in motion — something coming over the top of what was already there, the way a late-summer storm supervenes on an otherwise settled afternoon.",
+ "usage": "August has a way of making you believe the heat is permanent, and then a cool front supervenes overnight, and by morning the whole season has shifted its weight.",
  "schema": 1,
- "generated_at_epoch": 1787538205,
- "date": "2026-08-23"
+ "generated_at_epoch": 1787742800,
+ "date": "2026-08-26"
 }

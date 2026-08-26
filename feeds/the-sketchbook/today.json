@@ -1,10 +1,10 @@
 {
- "kind": "spotlight",
- "title": "Rentch",
- "context_line": "PROPERTY MANAGEMENT FOR CALGARY LANDLORDS",
- "caption": "Rentch keeps Calgary rentals running smoothly, day and night, for the people who own them.",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-08-23.png?v=f7beb066fb77",
+ "kind": "event",
+ "title": "Coffee Mornings",
+ "context_line": "TOMORROW · 10:00 · RED MILE",
+ "caption": "Coffee Mornings at Red Mile starts tomorrow at 10 , pull up a chair and pour one.",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-08-26.png?v=b4b7bb1a3bc4",
  "schema": 1,
- "generated_at_epoch": 1787538205,
- "date": "2026-08-23"
+ "generated_at_epoch": 1787742800,
+ "date": "2026-08-26"
 }
