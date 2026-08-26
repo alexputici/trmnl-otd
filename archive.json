@@ -1054,5 +1054,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-23.png?v=5b4e7c04570b",
   "fallback": false,
   "generated_at": "2026-08-23T20:27:07.312864-06:00"
+ },
+ {
+  "date": "2026-08-26",
+  "date_label": "August 26",
+  "location": "Krakatoa, Indonesia",
+  "answer": "Krakatoa erupts catastrophically, heard 5,000 km away, 1883",
+  "wiki_url": "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa",
+  "title": "Eruption of Krakatoa",
+  "year": 1883,
+  "category": "disaster",
+  "image_prompt": "A colossal volcanic mountain rises from a dark churning sea, its summit bulging and cracking with enormous pressure, glowing fissures splitting the rock face, vast clouds of black smoke and ash billowing upward in towering columns, the ocean surface churned into white foam for miles around, a small wooden fishing vessel in the foreground tossed on heaving waves, the crew gripping the gunwales and staring upward in frozen terror at the trembling peak, lightning forking through the ash cloud above. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "KRAKATOA ISLAND ANNIHILATED IN MIGHTIEST ERUPTION OF MODERN TIMES",
+  "dispatch": "The volcanic island of Krakatoa in the Dutch East Indies was obliterated on Monday in a series of cataclysmic explosions, the greatest of which was heard as far away as Australia and the island of Rodrigues near Mauritius. Tsunamis reaching 30 metres in height swept surrounding coastlines, destroying towns and killing tens of thousands. A vast cloud of ash darkened skies across the region for days, and observers worldwide report vivid red sunsets they cannot explain.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-26.png?v=c400d882a5ce",
+  "fallback": false,
+  "generated_at": "2026-08-26T05:38:45.781735-06:00"
  }
 ]

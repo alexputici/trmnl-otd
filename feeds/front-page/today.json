@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1787538427,
- "edition_date": "2026-08-23",
- "event_date_label": "August 19",
- "year": 1745,
- "location": "Glenfinnan, Scotland",
- "headline": "Stuart Prince Raises His Standard in the Highlands, Calls Clans to Arms",
- "dispatch": "Glenfinnan, Scotland, Aug. 19 -- The young pretender Charles Edward Stuart today raised the royal standard of his father's cause before several hundred armed Highlanders gathered at the head of Loch Shiel. The Earl of Tullibardine unfurled the banner as claymores were drawn and pipes sounded across the glen. The government in London has ordered troops to move north, and the fate of the British throne now hangs on how many clan chiefs answer the prince's call.",
- "answer": "Bonnie Prince Charlie raises Jacobite standard, 1745",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-19.png?v=a2e113c50af0",
+ "generated_at_epoch": 1787744325,
+ "edition_date": "2026-08-26",
+ "event_date_label": "August 23",
+ "year": 1939,
+ "location": "Moscow",
+ "headline": "GERMANY AND RUSSIA SIGN NON-AGGRESSION PACT IN MOSCOW; SECRET CLAUSES REPORTED",
+ "dispatch": "Soviet Foreign Minister Vyacheslav Molotov and German Foreign Minister Joachim von Ribbentrop signed a ten-year non-aggression treaty in Moscow on the night of August 23, 1939. The pact stunned European capitals that had been negotiating their own alliances with Moscow. Diplomatic sources in Berlin and Paris indicated the treaty contained secret protocols dividing eastern Europe into German and Soviet spheres, sharply raising fears of an imminent German move against Poland.",
+ "answer": "Nazi Germany and USSR sign the Molotov-Ribbentrop Pact, 1939",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-23.png?v=5b4e7c04570b",
  "first_run": false
 }
