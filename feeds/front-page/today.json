@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1787744325,
- "edition_date": "2026-08-26",
- "event_date_label": "August 23",
- "year": 1939,
- "location": "Moscow",
- "headline": "GERMANY AND RUSSIA SIGN NON-AGGRESSION PACT IN MOSCOW; SECRET CLAUSES REPORTED",
- "dispatch": "Soviet Foreign Minister Vyacheslav Molotov and German Foreign Minister Joachim von Ribbentrop signed a ten-year non-aggression treaty in Moscow on the night of August 23, 1939. The pact stunned European capitals that had been negotiating their own alliances with Moscow. Diplomatic sources in Berlin and Paris indicated the treaty contained secret protocols dividing eastern Europe into German and Soviet spheres, sharply raising fears of an imminent German move against Poland.",
- "answer": "Nazi Germany and USSR sign the Molotov-Ribbentrop Pact, 1939",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-23.png?v=5b4e7c04570b",
+ "generated_at_epoch": 1787864385,
+ "edition_date": "2026-08-27",
+ "event_date_label": "August 26",
+ "year": 1883,
+ "location": "Krakatoa, Indonesia",
+ "headline": "KRAKATOA ISLAND ANNIHILATED IN MIGHTIEST ERUPTION OF MODERN TIMES",
+ "dispatch": "The volcanic island of Krakatoa in the Dutch East Indies was obliterated on Monday in a series of cataclysmic explosions, the greatest of which was heard as far away as Australia and the island of Rodrigues near Mauritius. Tsunamis reaching 30 metres in height swept surrounding coastlines, destroying towns and killing tens of thousands. A vast cloud of ash darkened skies across the region for days, and observers worldwide report vivid red sunsets they cannot explain.",
+ "answer": "Krakatoa erupts catastrophically, heard 5,000 km away, 1883",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-26.png?v=c400d882a5ce",
  "first_run": false
 }

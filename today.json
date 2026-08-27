@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-26T05:38:45.781735-06:00",
- "generated_at_epoch": 1787744325,
- "date": "2026-08-26",
- "date_label": "August 26",
- "location": "Krakatoa, Indonesia",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-26.png?v=c400d882a5ce",
+ "generated_at": "2026-08-27T14:59:45.114630-06:00",
+ "generated_at_epoch": 1787864385,
+ "date": "2026-08-27",
+ "date_label": "August 27",
+ "location": "Zanzibar",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-27.png?v=c8a0098dd18a",
  "fallback": false,
  "yesterday": {
-  "answer": "Nazi Germany and USSR sign the Molotov-Ribbentrop Pact, 1939",
-  "wiki_url": "https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact"
+  "answer": "Krakatoa erupts catastrophically, heard 5,000 km away, 1883",
+  "wiki_url": "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa"
  }
 }

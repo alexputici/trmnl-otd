@@ -1070,5 +1070,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-26.png?v=c400d882a5ce",
   "fallback": false,
   "generated_at": "2026-08-26T05:38:45.781735-06:00"
+ },
+ {
+  "date": "2026-08-27",
+  "date_label": "August 27",
+  "location": "Zanzibar",
+  "answer": "Zanzibar surrenders to Britain after 38-minute war, 1896",
+  "wiki_url": "https://en.wikipedia.org/wiki/Anglo-Zanzibar_War",
+  "title": "Anglo-Zanzibar War – Shortest War in History",
+  "year": 1896,
+  "category": "politics",
+  "image_prompt": "A grand sultan's palace by the harbour, its carved wooden doors still shut, cannons on the waterfront pointed seaward, British warships arranged in a tight arc just offshore with gun ports open and crews tensed at their stations, smoke beginning to curl from one muzzle, the harbour water dead calm, a flag still flying above the palace tower, the moment of absolute stillness before the bombardment begins. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "British Guns End Zanzibar Resistance in Under an Hour",
+  "dispatch": "British warships opened fire on the sultan's palace at Zanzibar this morning, and within 38 minutes the Sultanate had surrendered, making the engagement the shortest war on record. The palace was set ablaze and the Sultanate's small naval vessel sunk in the harbour. Sultan Khalid bin Barghash took refuge in the German consulate as British-backed Hamud bin Mohammed was installed in his place.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-27.png?v=c8a0098dd18a",
+  "fallback": false,
+  "generated_at": "2026-08-27T14:59:45.114630-06:00"
  }
 ]
