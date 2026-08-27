@@ -1,11 +1,11 @@
 {
- "word": "supervene",
- "pronunciation": "soo-per-VEEN",
- "part_of_speech": "verb (intransitive)",
- "definition": "To come upon or occur as something extraneous, additional, or unexpected — to follow closely upon something else, often altering or interrupting it.",
- "etymology": "From Latin supervenire, built from super (over, upon) and venire (to come). Roman jurists used it when an unforeseen circumstance arrived to complicate a contract already in motion — something coming over the top of what was already there, the way a late-summer storm supervenes on an otherwise settled afternoon.",
- "usage": "August has a way of making you believe the heat is permanent, and then a cool front supervenes overnight, and by morning the whole season has shifted its weight.",
+ "word": "welkin",
+ "pronunciation": "WEL-kin",
+ "part_of_speech": "noun",
+ "definition": "The sky or vault of heaven; the upper air considered as a visible expanse, especially when dramatic or expressive of weather — as in the old cry 'make the welkin ring,' meaning to fill the very sky with sound.",
+ "etymology": "From Old English wolcen, meaning cloud or sky, itself from Proto-Germanic wulkną. The word drifted through Middle English as welken, shedding its cloud-specific sense and broadening to embrace the whole dome overhead. Cousin to the Dutch wolk and German Wolke, both still meaning cloud — English kept the sky and gave away the rain.",
+ "usage": "Late August suits it perfectly: stand outside at dusk when the welkin goes from brass to violet in ten minutes and you will not reach for a blander word.",
  "schema": 1,
- "generated_at_epoch": 1787742800,
- "date": "2026-08-26"
+ "generated_at_epoch": 1787863642,
+ "date": "2026-08-27"
 }
