@@ -1086,5 +1086,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-27.png?v=c8a0098dd18a",
   "fallback": false,
   "generated_at": "2026-08-27T14:59:45.114630-06:00"
+ },
+ {
+  "date": "2026-08-28",
+  "date_label": "August 28",
+  "location": "Washington, D.C.",
+  "answer": "MLK delivers 'I Have a Dream' at March on Washington, 1963",
+  "wiki_url": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
+  "title": "I Have a Dream Speech",
+  "year": 1963,
+  "category": "politics",
+  "image_prompt": "A vast crowd stretching to the horizon around the Reflecting Pool, hundreds of thousands of people packed together under a blazing summer sky, all eyes turned toward a distant podium at the Lincoln Memorial steps where a lone figure stands at the microphone, the crowd hushed and leaning forward in anticipation, placards held aloft, the great columns of the Memorial looming behind the speaker, shadows long and dramatic across the marble. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "King Addresses 250,000 at Lincoln Memorial in Massive Civil Rights March",
+  "dispatch": "The largest civil rights demonstration in American history converged on Washington yesterday as an estimated 250,000 marchers gathered at the Lincoln Memorial. The Reverend Martin Luther King Jr. of Atlanta addressed the crowd from the memorial steps, calling for an end to racial injustice across the United States. Police reported the demonstration passed without serious incident, and civil rights leaders met afterward with President Kennedy at the White House.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-28.png?v=4e0b83123544",
+  "fallback": false,
+  "generated_at": "2026-08-28T15:23:01.093220-06:00"
  }
 ]

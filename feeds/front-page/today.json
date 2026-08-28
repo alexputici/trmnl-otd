@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1787864385,
- "edition_date": "2026-08-27",
- "event_date_label": "August 26",
- "year": 1883,
- "location": "Krakatoa, Indonesia",
- "headline": "KRAKATOA ISLAND ANNIHILATED IN MIGHTIEST ERUPTION OF MODERN TIMES",
- "dispatch": "The volcanic island of Krakatoa in the Dutch East Indies was obliterated on Monday in a series of cataclysmic explosions, the greatest of which was heard as far away as Australia and the island of Rodrigues near Mauritius. Tsunamis reaching 30 metres in height swept surrounding coastlines, destroying towns and killing tens of thousands. A vast cloud of ash darkened skies across the region for days, and observers worldwide report vivid red sunsets they cannot explain.",
- "answer": "Krakatoa erupts catastrophically, heard 5,000 km away, 1883",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-26.png?v=c400d882a5ce",
+ "generated_at_epoch": 1787952181,
+ "edition_date": "2026-08-28",
+ "event_date_label": "August 27",
+ "year": 1896,
+ "location": "Zanzibar",
+ "headline": "British Guns End Zanzibar Resistance in Under an Hour",
+ "dispatch": "British warships opened fire on the sultan's palace at Zanzibar this morning, and within 38 minutes the Sultanate had surrendered, making the engagement the shortest war on record. The palace was set ablaze and the Sultanate's small naval vessel sunk in the harbour. Sultan Khalid bin Barghash took refuge in the German consulate as British-backed Hamud bin Mohammed was installed in his place.",
+ "answer": "Zanzibar surrenders to Britain after 38-minute war, 1896",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-27.png?v=c8a0098dd18a",
  "first_run": false
 }

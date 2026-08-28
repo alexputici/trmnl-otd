@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-27T14:59:45.114630-06:00",
- "generated_at_epoch": 1787864385,
- "date": "2026-08-27",
- "date_label": "August 27",
- "location": "Zanzibar",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-27.png?v=c8a0098dd18a",
+ "generated_at": "2026-08-28T15:23:01.093220-06:00",
+ "generated_at_epoch": 1787952181,
+ "date": "2026-08-28",
+ "date_label": "August 28",
+ "location": "Washington, D.C.",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-28.png?v=4e0b83123544",
  "fallback": false,
  "yesterday": {
-  "answer": "Krakatoa erupts catastrophically, heard 5,000 km away, 1883",
-  "wiki_url": "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa"
+  "answer": "Zanzibar surrenders to Britain after 38-minute war, 1896",
+  "wiki_url": "https://en.wikipedia.org/wiki/Anglo-Zanzibar_War"
  }
 }
