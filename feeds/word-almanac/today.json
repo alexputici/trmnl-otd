@@ -1,11 +1,11 @@
 {
- "word": "welkin",
- "pronunciation": "WEL-kin",
+ "word": "caducity",
+ "pronunciation": "kə-DYOO-si-tee",
  "part_of_speech": "noun",
- "definition": "The sky or vault of heaven; the upper air considered as a visible expanse, especially when dramatic or expressive of weather — as in the old cry 'make the welkin ring,' meaning to fill the very sky with sound.",
- "etymology": "From Old English wolcen, meaning cloud or sky, itself from Proto-Germanic wulkną. The word drifted through Middle English as welken, shedding its cloud-specific sense and broadening to embrace the whole dome overhead. Cousin to the Dutch wolk and German Wolke, both still meaning cloud — English kept the sky and gave away the rain.",
- "usage": "Late August suits it perfectly: stand outside at dusk when the welkin goes from brass to violet in ten minutes and you will not reach for a blander word.",
+ "definition": "The quality of being perishable or transitory; the frailty that comes with old age; in law, the lapsing of a bequest because the intended recipient has died before the testator.",
+ "etymology": "From Latin caducus, meaning apt to fall, from cadere, to fall. The same root gives us cadence, cascade, and accident — a whole family of words built on things tumbling downward. Medieval scholars used caducus for leaves that drop in autumn, which made it a natural metaphor for anything that cannot hold on.",
+ "usage": "August's end carries a caducity that June refuses to acknowledge — the light is still generous but you can feel it making arrangements to leave.",
  "schema": 1,
- "generated_at_epoch": 1787863642,
- "date": "2026-08-27"
+ "generated_at_epoch": 1787951729,
+ "date": "2026-08-28"
 }

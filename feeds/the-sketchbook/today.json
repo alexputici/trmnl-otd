@@ -1,10 +1,10 @@
 {
- "kind": "event",
- "title": "Coffee Mornings",
- "context_line": "TOMORROW · 10:00 · RED MILE",
- "caption": "Coffee Mornings at Red Mile starts tomorrow at 10 , pull up a chair and pour one.",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-08-26.png?v=b4b7bb1a3bc4",
+ "kind": "spotlight",
+ "title": "Cottonwood Creative",
+ "context_line": "MARKETING FOR SOCIAL IMPACT",
+ "caption": "Cottonwood Creative helps mission-driven organizations find the people who need them most.",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-08-28.png?v=a21cccdd1a2a",
  "schema": 1,
- "generated_at_epoch": 1787742800,
- "date": "2026-08-26"
+ "generated_at_epoch": 1787951729,
+ "date": "2026-08-28"
 }

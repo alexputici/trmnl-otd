@@ -1,11 +1,11 @@
 {
- "kp_now": 3.67,
- "kp_max_tonight": 4.0,
- "verdict": "Good chance",
- "advice": "worth a look north of the city",
- "scale_pct": 44,
+ "kp_now": 5.67,
+ "kp_max_tonight": 5.67,
+ "verdict": "Aurora likely",
+ "advice": "look north, maybe overhead",
+ "scale_pct": 63,
  "moon_note": "bright moon",
  "schema": 1,
- "generated_at_epoch": 1787863642,
- "date": "2026-08-27"
+ "generated_at_epoch": 1787951729,
+ "date": "2026-08-28"
 }
