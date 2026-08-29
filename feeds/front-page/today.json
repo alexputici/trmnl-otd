@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1787952181,
- "edition_date": "2026-08-28",
- "event_date_label": "August 27",
- "year": 1896,
- "location": "Zanzibar",
- "headline": "British Guns End Zanzibar Resistance in Under an Hour",
- "dispatch": "British warships opened fire on the sultan's palace at Zanzibar this morning, and within 38 minutes the Sultanate had surrendered, making the engagement the shortest war on record. The palace was set ablaze and the Sultanate's small naval vessel sunk in the harbour. Sultan Khalid bin Barghash took refuge in the German consulate as British-backed Hamud bin Mohammed was installed in his place.",
- "answer": "Zanzibar surrenders to Britain after 38-minute war, 1896",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-27.png?v=c8a0098dd18a",
+ "generated_at_epoch": 1788017756,
+ "edition_date": "2026-08-29",
+ "event_date_label": "August 28",
+ "year": 1963,
+ "location": "Washington, D.C.",
+ "headline": "King Addresses 250,000 at Lincoln Memorial in Massive Civil Rights March",
+ "dispatch": "The largest civil rights demonstration in American history converged on Washington yesterday as an estimated 250,000 marchers gathered at the Lincoln Memorial. The Reverend Martin Luther King Jr. of Atlanta addressed the crowd from the memorial steps, calling for an end to racial injustice across the United States. Police reported the demonstration passed without serious incident, and civil rights leaders met afterward with President Kennedy at the White House.",
+ "answer": "MLK delivers 'I Have a Dream' at March on Washington, 1963",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-28.png?v=4e0b83123544",
  "first_run": false
 }

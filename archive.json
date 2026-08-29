@@ -1102,5 +1102,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-28.png?v=4e0b83123544",
   "fallback": false,
   "generated_at": "2026-08-28T15:23:01.093220-06:00"
+ },
+ {
+  "date": "2026-08-29",
+  "date_label": "August 29",
+  "location": "London, England",
+  "answer": "Faraday first demonstrates electromagnetic induction, 1831",
+  "wiki_url": "https://en.wikipedia.org/wiki/Michael_Faraday",
+  "title": "Faraday Demonstrates Electromagnetic Induction",
+  "year": 1831,
+  "category": "science",
+  "image_prompt": "A bearded man in a dark coat leans intently over a wooden bench, his hand poised above a coiled wire wrapped around an iron ring, a galvanometer needle visible just beginning to tremble at the edge of its dial, candles casting sharp shadows across scattered notebooks and glass apparatus on the laboratory bench, tension in every suspended gesture. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "Faraday Shows Magnetism Itself Can Generate Electric Current",
+  "dispatch": "London, August 29, 1831. Michael Faraday of the Royal Institution yesterday produced an electric current from a moving magnetic field, demonstrating that electricity could be induced without a battery or chemical cell. Working with a coiled iron ring and a sensitive galvanometer, Faraday recorded the deflection of the needle each time the magnetic circuit was broken or completed. The discovery establishes a new principle that may one day drive machines by magnetism alone.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-29.png?v=f6b257391f0c",
+  "fallback": false,
+  "generated_at": "2026-08-29T09:35:56.487390-06:00"
  }
 ]

@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-28T15:23:01.093220-06:00",
- "generated_at_epoch": 1787952181,
- "date": "2026-08-28",
- "date_label": "August 28",
- "location": "Washington, D.C.",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-28.png?v=4e0b83123544",
+ "generated_at": "2026-08-29T09:35:56.487390-06:00",
+ "generated_at_epoch": 1788017756,
+ "date": "2026-08-29",
+ "date_label": "August 29",
+ "location": "London, England",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-29.png?v=f6b257391f0c",
  "fallback": false,
  "yesterday": {
-  "answer": "Zanzibar surrenders to Britain after 38-minute war, 1896",
-  "wiki_url": "https://en.wikipedia.org/wiki/Anglo-Zanzibar_War"
+  "answer": "MLK delivers 'I Have a Dream' at March on Washington, 1963",
+  "wiki_url": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
  }
 }
