@@ -1,11 +1,11 @@
 {
- "kp_now": 5.67,
+ "kp_now": 3.67,
  "kp_max_tonight": 5.67,
  "verdict": "Aurora likely",
  "advice": "look north, maybe overhead",
  "scale_pct": 63,
  "moon_note": "bright moon",
  "schema": 1,
- "generated_at_epoch": 1787951729,
- "date": "2026-08-28"
+ "generated_at_epoch": 1788016833,
+ "date": "2026-08-29"
 }

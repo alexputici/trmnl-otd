@@ -1,11 +1,11 @@
 {
- "word": "caducity",
- "pronunciation": "kə-DYOO-si-tee",
- "part_of_speech": "noun",
- "definition": "The quality of being perishable or transitory; the frailty that comes with old age; in law, the lapsing of a bequest because the intended recipient has died before the testator.",
- "etymology": "From Latin caducus, meaning apt to fall, from cadere, to fall. The same root gives us cadence, cascade, and accident — a whole family of words built on things tumbling downward. Medieval scholars used caducus for leaves that drop in autumn, which made it a natural metaphor for anything that cannot hold on.",
- "usage": "August's end carries a caducity that June refuses to acknowledge — the light is still generous but you can feel it making arrangements to leave.",
+ "word": "nundinal",
+ "pronunciation": "NUN-dih-nul",
+ "part_of_speech": "adjective",
+ "definition": "Of or pertaining to a market day or market fair; relating to the Roman nundinae, the recurring eight-day market cycle that punctuated the working calendar.",
+ "etymology": "From Latin nundinalis, itself from nundinae, meaning market days, which contracts nun- (from novem, nine) and dies (day) — because Romans counted inclusively, so what we would call an eight-day interval they called the ninth day. The word carries inside it the whole Roman habit of counting both endpoints, the same habit that gives us a fortnight that seems one day too long.",
+ "usage": "Late August once rang with nundinal bustle across the Roman world, farmers hauling the summer's surplus into town before the harvest festivals locked everyone into ritual obligation. You might reach for nundinal today when describing any town that wakes to life only on market days — those places that exist, it seems, purely to be crowded once a week and pleasantly empty the rest of the time.",
  "schema": 1,
- "generated_at_epoch": 1787951729,
- "date": "2026-08-28"
+ "generated_at_epoch": 1788016833,
+ "date": "2026-08-29"
 }
