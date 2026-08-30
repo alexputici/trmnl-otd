@@ -1118,5 +1118,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-29.png?v=f6b257391f0c",
   "fallback": false,
   "generated_at": "2026-08-29T09:35:56.487390-06:00"
+ },
+ {
+  "date": "2026-08-30",
+  "date_label": "August 30",
+  "location": "Kennedy Space Center",
+  "answer": "Space Shuttle Discovery begins its first flight, 1984",
+  "wiki_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+  "title": "Discovery's maiden launch",
+  "year": 1984,
+  "category": "science",
+  "image_prompt": "Ten seconds before liftoff, a brand-new winged spacecraft stands upright on its launch pad, held fast by massive clamps. White vapor streams from the service structure and gathers around the base, while floodlit gantries, cables, and a distant marsh horizon frame the silent vehicle under a dark predawn sky. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "DISCOVERY SET FOR FIRST FLIGHT",
+  "dispatch": "NASA's Space Shuttle Discovery rose from Kennedy Space Center today on its first mission. The six-member crew began a flight intended to deploy three communications satellites and test the newest orbiter in the shuttle fleet.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-30.png?v=203c64fd6091",
+  "fallback": false,
+  "generated_at": "2026-08-30T09:19:56.216458-06:00"
  }
 ]

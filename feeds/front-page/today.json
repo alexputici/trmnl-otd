@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1788017756,
- "edition_date": "2026-08-29",
- "event_date_label": "August 28",
- "year": 1963,
- "location": "Washington, D.C.",
- "headline": "King Addresses 250,000 at Lincoln Memorial in Massive Civil Rights March",
- "dispatch": "The largest civil rights demonstration in American history converged on Washington yesterday as an estimated 250,000 marchers gathered at the Lincoln Memorial. The Reverend Martin Luther King Jr. of Atlanta addressed the crowd from the memorial steps, calling for an end to racial injustice across the United States. Police reported the demonstration passed without serious incident, and civil rights leaders met afterward with President Kennedy at the White House.",
- "answer": "MLK delivers 'I Have a Dream' at March on Washington, 1963",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-28.png?v=4e0b83123544",
+ "generated_at_epoch": 1788103196,
+ "edition_date": "2026-08-30",
+ "event_date_label": "August 29",
+ "year": 1831,
+ "location": "London, England",
+ "headline": "Faraday Shows Magnetism Itself Can Generate Electric Current",
+ "dispatch": "London, August 29, 1831. Michael Faraday of the Royal Institution yesterday produced an electric current from a moving magnetic field, demonstrating that electricity could be induced without a battery or chemical cell. Working with a coiled iron ring and a sensitive galvanometer, Faraday recorded the deflection of the needle each time the magnetic circuit was broken or completed. The discovery establishes a new principle that may one day drive machines by magnetism alone.",
+ "answer": "Faraday first demonstrates electromagnetic induction, 1831",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-29.png?v=f6b257391f0c",
  "first_run": false
 }

@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-29T09:35:56.487390-06:00",
- "generated_at_epoch": 1788017756,
- "date": "2026-08-29",
- "date_label": "August 29",
- "location": "London, England",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-29.png?v=f6b257391f0c",
+ "generated_at": "2026-08-30T09:19:56.216458-06:00",
+ "generated_at_epoch": 1788103196,
+ "date": "2026-08-30",
+ "date_label": "August 30",
+ "location": "Kennedy Space Center",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-30.png?v=203c64fd6091",
  "fallback": false,
  "yesterday": {
-  "answer": "MLK delivers 'I Have a Dream' at March on Washington, 1963",
-  "wiki_url": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
+  "answer": "Faraday first demonstrates electromagnetic induction, 1831",
+  "wiki_url": "https://en.wikipedia.org/wiki/Michael_Faraday"
  }
 }
