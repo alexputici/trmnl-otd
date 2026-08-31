@@ -1134,5 +1134,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-30.png?v=203c64fd6091",
   "fallback": false,
   "generated_at": "2026-08-30T09:19:56.216458-06:00"
+ },
+ {
+  "date": "2026-08-31",
+  "date_label": "August 31",
+  "location": "Isle of Wight",
+  "answer": "Bob Dylan returns to the stage at Isle of Wight, 1969",
+  "wiki_url": "https://en.wikipedia.org/wiki/Isle_of_Wight_Festival_1969",
+  "title": "Bob Dylan returns at Isle of Wight",
+  "year": 1969,
+  "category": "art",
+  "image_prompt": "Ten seconds before a long-absent folk musician steps before an immense outdoor festival crowd: seen from behind beneath a dark stage canopy, a lean curly-haired performer grips an acoustic guitar at the edge of the boards while a sea of waiting faces, raised hands, tents, and distant hillside fill the field beyond; the crowd is held in breathless silence, one stagehand drawing back a curtain. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "DYLAN RETURNS BEFORE VAST ISLAND FESTIVAL THRONG",
+  "dispatch": "Before an audience estimated at 150,000 over three days, Bob Dylan appeared at the Isle of Wight Festival last night. His set was his first public concert appearance in three years, drawing listeners across the field at Wootton Creek.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-31.png?v=6df8aa0d7f71",
+  "fallback": false,
+  "generated_at": "2026-08-31T12:00:40.303005-06:00"
  }
 ]

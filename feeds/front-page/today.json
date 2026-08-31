@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1788103196,
- "edition_date": "2026-08-30",
- "event_date_label": "August 29",
- "year": 1831,
- "location": "London, England",
- "headline": "Faraday Shows Magnetism Itself Can Generate Electric Current",
- "dispatch": "London, August 29, 1831. Michael Faraday of the Royal Institution yesterday produced an electric current from a moving magnetic field, demonstrating that electricity could be induced without a battery or chemical cell. Working with a coiled iron ring and a sensitive galvanometer, Faraday recorded the deflection of the needle each time the magnetic circuit was broken or completed. The discovery establishes a new principle that may one day drive machines by magnetism alone.",
- "answer": "Faraday first demonstrates electromagnetic induction, 1831",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-29.png?v=f6b257391f0c",
+ "generated_at_epoch": 1788199240,
+ "edition_date": "2026-08-31",
+ "event_date_label": "August 30",
+ "year": 1984,
+ "location": "Kennedy Space Center",
+ "headline": "DISCOVERY SET FOR FIRST FLIGHT",
+ "dispatch": "NASA's Space Shuttle Discovery rose from Kennedy Space Center today on its first mission. The six-member crew began a flight intended to deploy three communications satellites and test the newest orbiter in the shuttle fleet.",
+ "answer": "Space Shuttle Discovery begins its first flight, 1984",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-30.png?v=203c64fd6091",
  "first_run": false
 }

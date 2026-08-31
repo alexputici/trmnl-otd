@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-30T09:19:56.216458-06:00",
- "generated_at_epoch": 1788103196,
- "date": "2026-08-30",
- "date_label": "August 30",
- "location": "Kennedy Space Center",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-30.png?v=203c64fd6091",
+ "generated_at": "2026-08-31T12:00:40.303005-06:00",
+ "generated_at_epoch": 1788199240,
+ "date": "2026-08-31",
+ "date_label": "August 31",
+ "location": "Isle of Wight",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-31.png?v=6df8aa0d7f71",
  "fallback": false,
  "yesterday": {
-  "answer": "Faraday first demonstrates electromagnetic induction, 1831",
-  "wiki_url": "https://en.wikipedia.org/wiki/Michael_Faraday"
+  "answer": "Space Shuttle Discovery begins its first flight, 1984",
+  "wiki_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery"
  }
 }
