@@ -1,11 +1,11 @@
 {
- "word": "carpophore",
- "pronunciation": "KAR-poh-for",
+ "word": "grange",
+ "pronunciation": "GRAYNJ",
  "part_of_speech": "noun",
- "definition": "A fungus’s fruiting body, especially the visible mushroom-like structure that produces spores; in botany, a stalk or structure that bears fruit.",
- "etymology": "From Greek karpos, “fruit,” and phoros, “bearing.” It came into scientific English via French carpophore: literally, a fruit-bearer.",
- "usage": "After the late-August rain, bright carpophore pushed up through the leaf litter overnight.",
+ "definition": "Originally, a granary; now chiefly a farm or country estate, especially one associated with a large house.",
+ "etymology": "It began with Latin granum, “grain.” From it came granica, a place for storing grain; Old French made this grange, and English adopted it in the Middle Ages—so the word’s stately modern sense grew out of a barn.",
+ "usage": "By September, the grange was busy with carts bringing in the last of the grain.",
  "schema": 1,
- "generated_at_epoch": 1788198174,
- "date": "2026-08-31"
+ "generated_at_epoch": 1788275557,
+ "date": "2026-09-01"
 }

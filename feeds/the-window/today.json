@@ -1,15 +1,15 @@
 {
  "kind": "warming",
  "headline": "A warm turn arrives.",
- "observation": "The temperature climbs 15 degrees from now to 4 p.m..",
+ "observation": "The temperature climbs 11 degrees from now to 4 p.m..",
  "action": "Trade the morning layer for the late afternoon.",
- "signal": "+15° · 4 p.m.",
- "current": 10,
+ "signal": "+11° · 4 p.m.",
+ "current": 14,
  "high": 25,
  "low": 8,
  "aqi": 40,
  "light": "13h 32m",
  "schema": 1,
- "generated_at_epoch": 1788271705,
+ "generated_at_epoch": 1788275557,
  "date": "2026-09-01"
 }
