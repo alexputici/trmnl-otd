@@ -1150,5 +1150,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-31.png?v=6df8aa0d7f71",
   "fallback": false,
   "generated_at": "2026-08-31T12:00:40.303005-06:00"
+ },
+ {
+  "date": "2026-09-01",
+  "date_label": "September 1",
+  "location": "Off Ireland",
+  "answer": "Two men are rescued from a trapped sub, 1973",
+  "wiki_url": "https://en.wikipedia.org/wiki/Rescue_of_Roger_Mallinson_and_Roger_Chapman",
+  "title": "Deepest sub rescue",
+  "year": 1973,
+  "category": "exploration",
+  "image_prompt": "Beneath a black, pressure-dark sea, a tiny rescue submersible hovers inches from a stranded yellow diving craft tangled in a heavy cable on the seabed; its searchlight cuts through drifting silt as a mechanical arm reaches toward the last snag, while two faint faces watch from the trapped craft's round porthole. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "SUBMARINERS SAVED FROM 1,575 FEET",
+  "dispatch": "Roger Mallinson and Roger Chapman were brought safely to the surface off Ireland after 76 hours trapped in their disabled submersible. A rescue craft cut the cable that had held their vessel on the seabed, completing the deepest sub rescue yet recorded.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-01.png?v=806b79b578c0",
+  "fallback": false,
+  "generated_at": "2026-09-01T09:29:27.730823-06:00"
  }
 ]

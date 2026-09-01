@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1788199240,
- "edition_date": "2026-08-31",
- "event_date_label": "August 30",
- "year": 1984,
- "location": "Kennedy Space Center",
- "headline": "DISCOVERY SET FOR FIRST FLIGHT",
- "dispatch": "NASA's Space Shuttle Discovery rose from Kennedy Space Center today on its first mission. The six-member crew began a flight intended to deploy three communications satellites and test the newest orbiter in the shuttle fleet.",
- "answer": "Space Shuttle Discovery begins its first flight, 1984",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-30.png?v=203c64fd6091",
+ "generated_at_epoch": 1788276567,
+ "edition_date": "2026-09-01",
+ "event_date_label": "August 31",
+ "year": 1969,
+ "location": "Isle of Wight",
+ "headline": "DYLAN RETURNS BEFORE VAST ISLAND FESTIVAL THRONG",
+ "dispatch": "Before an audience estimated at 150,000 over three days, Bob Dylan appeared at the Isle of Wight Festival last night. His set was his first public concert appearance in three years, drawing listeners across the field at Wootton Creek.",
+ "answer": "Bob Dylan returns to the stage at Isle of Wight, 1969",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-31.png?v=6df8aa0d7f71",
  "first_run": false
 }

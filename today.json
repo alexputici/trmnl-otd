@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-08-31T12:00:40.303005-06:00",
- "generated_at_epoch": 1788199240,
- "date": "2026-08-31",
- "date_label": "August 31",
- "location": "Isle of Wight",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/08-31.png?v=6df8aa0d7f71",
+ "generated_at": "2026-09-01T09:29:27.730823-06:00",
+ "generated_at_epoch": 1788276567,
+ "date": "2026-09-01",
+ "date_label": "September 1",
+ "location": "Off Ireland",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-01.png?v=806b79b578c0",
  "fallback": false,
  "yesterday": {
-  "answer": "Space Shuttle Discovery begins its first flight, 1984",
-  "wiki_url": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery"
+  "answer": "Bob Dylan returns to the stage at Isle of Wight, 1969",
+  "wiki_url": "https://en.wikipedia.org/wiki/Isle_of_Wight_Festival_1969"
  }
 }
