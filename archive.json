@@ -1166,5 +1166,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-01.png?v=806b79b578c0",
   "fallback": false,
   "generated_at": "2026-09-01T09:29:27.730823-06:00"
+ },
+ {
+  "date": "2026-09-02",
+  "date_label": "September 2",
+  "location": "Pudding Lane",
+  "answer": "The Great Fire of London begins, 1666",
+  "wiki_url": "https://en.wikipedia.org/wiki/Great_Fire_of_London",
+  "title": "Great Fire begins",
+  "year": 1666,
+  "category": "disaster",
+  "image_prompt": "Before dawn in a cramped seventeenth-century London bakery, a single glowing coal has just fallen toward a pile of dry kindling beside an oven; the baker's shadowed hand reaches too late, while timbered houses press close outside the open doorway. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "FIRE RAGES IN PUDDING LANE",
+  "dispatch": "A fire that broke out before dawn in a Pudding Lane bakery has run through closely packed timber houses near London Bridge. Residents fled with what goods they could carry as buckets and hand pumps proved unequal to the flames.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-02.png?v=b0409ebc15eb",
+  "fallback": false,
+  "generated_at": "2026-09-02T09:04:39.225214-06:00"
  }
 ]

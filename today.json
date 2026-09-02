@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-01T09:29:27.730823-06:00",
- "generated_at_epoch": 1788276567,
- "date": "2026-09-01",
- "date_label": "September 1",
- "location": "Off Ireland",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-01.png?v=806b79b578c0",
+ "generated_at": "2026-09-02T09:04:39.225214-06:00",
+ "generated_at_epoch": 1788361479,
+ "date": "2026-09-02",
+ "date_label": "September 2",
+ "location": "Pudding Lane",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-02.png?v=b0409ebc15eb",
  "fallback": false,
  "yesterday": {
-  "answer": "Bob Dylan returns to the stage at Isle of Wight, 1969",
-  "wiki_url": "https://en.wikipedia.org/wiki/Isle_of_Wight_Festival_1969"
+  "answer": "Two men are rescued from a trapped sub, 1973",
+  "wiki_url": "https://en.wikipedia.org/wiki/Rescue_of_Roger_Mallinson_and_Roger_Chapman"
  }
 }
