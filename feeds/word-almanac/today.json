@@ -1,11 +1,11 @@
 {
- "word": "equinoctial",
- "pronunciation": "ee-kwuh-NOK-shee-ul",
- "part_of_speech": "adjective",
- "definition": "Of or occurring at an equinox; especially, characteristically stormy or unsettled around that time of year.",
- "etymology": "Latin made aequinoctialis from aequinoctium, “equal night”: aequus meant “equal” and nox meant “night.” English inherited the word for the season when day and night briefly seem to balance.",
- "usage": "September’s first cool rain had an equinoctial restlessness.",
+ "word": "diaspore",
+ "pronunciation": "DY-uh-spor",
+ "part_of_speech": "noun",
+ "definition": "A seed, fruit, or other plant part adapted for dispersal; also, in mineralogy, a hydrous aluminum oxide.",
+ "etymology": "From Greek diaspeirein, “to scatter abroad,” formed from dia- “apart” and speirein “to sow.” The word first named something scattered like seed before taking on its botanical sense.",
+ "usage": "By early September, the meadow’s diaspores are beginning their small migrations on wind, fur, and rain.",
  "schema": 1,
- "generated_at_epoch": 1788360217,
- "date": "2026-09-02"
+ "generated_at_epoch": 1788446655,
+ "date": "2026-09-03"
 }

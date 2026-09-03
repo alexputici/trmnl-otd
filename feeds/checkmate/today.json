@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-09-02.png?v=eb63949f61ce",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-09-03.png?v=f262114db537",
  "to_move": "Black",
- "rating": 1772,
+ "rating": 2013,
  "moves_to_win": 3,
- "puzzle_url": "https://lichess.org/training/1Sqyb",
+ "puzzle_url": "https://lichess.org/training/Ciis7",
  "yesterday": {
-  "solution": "Rxd6+ Rxd6 f7 Rxd1 f8=Q Rd4+ Ke3",
-  "rating": 2099
+  "solution": "Qb3+ Qd3 Rf3+ Kxf3 Qxd3+",
+  "rating": 1772
  },
  "schema": 1,
- "generated_at_epoch": 1788360217,
- "date": "2026-09-02"
+ "generated_at_epoch": 1788446655,
+ "date": "2026-09-03"
 }
