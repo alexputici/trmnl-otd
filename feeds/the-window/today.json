@@ -1,15 +1,15 @@
 {
  "kind": "cooling",
  "headline": "The warm part leaves early.",
- "observation": "The temperature falls 13 degrees from now to 5 a.m..",
- "action": "Use the earlier hours. Carry the serious layer after 5 a.m..",
- "signal": "-13° · 5 a.m.",
- "current": 20,
- "high": 20,
- "low": 12,
- "aqi": 53,
+ "observation": "The temperature falls 10 degrees from now to 6 a.m..",
+ "action": "Use the earlier hours. Carry the serious layer after 6 a.m..",
+ "signal": "-10° · 6 a.m.",
+ "current": 17,
+ "high": 19,
+ "low": 11,
+ "aqi": 52,
  "light": "13h 24m",
  "schema": 1,
- "generated_at_epoch": 1788469276,
+ "generated_at_epoch": 1788477382,
  "date": "2026-09-03"
 }
