@@ -1,15 +1,15 @@
 {
- "kind": "quiet",
- "headline": "An ordinary day outside.",
- "observation": "Nothing in the forecast is scarce enough to rearrange the day.",
- "action": "Go when you want. The forecast makes no claim on you.",
- "signal": "No rare window",
- "current": 16,
+ "kind": "cooling",
+ "headline": "The warm part leaves early.",
+ "observation": "The temperature falls 11 degrees from now to 4 a.m..",
+ "action": "Use the earlier hours. Carry the serious layer after 4 a.m..",
+ "signal": "-11° · 4 a.m.",
+ "current": 18,
  "high": 21,
  "low": 12,
- "aqi": 58,
+ "aqi": 57,
  "light": "13h 24m",
  "schema": 1,
- "generated_at_epoch": 1788446655,
+ "generated_at_epoch": 1788452676,
  "date": "2026-09-03"
 }
