@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1788361479,
- "edition_date": "2026-09-02",
- "event_date_label": "September 1",
- "year": 1973,
- "location": "Off Ireland",
- "headline": "SUBMARINERS SAVED FROM 1,575 FEET",
- "dispatch": "Roger Mallinson and Roger Chapman were brought safely to the surface off Ireland after 76 hours trapped in their disabled submersible. A rescue craft cut the cable that had held their vessel on the seabed, completing the deepest sub rescue yet recorded.",
- "answer": "Two men are rescued from a trapped sub, 1973",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-01.png?v=806b79b578c0",
+ "generated_at_epoch": 1788447512,
+ "edition_date": "2026-09-03",
+ "event_date_label": "September 2",
+ "year": 1666,
+ "location": "Pudding Lane",
+ "headline": "FIRE RAGES IN PUDDING LANE",
+ "dispatch": "A fire that broke out before dawn in a Pudding Lane bakery has run through closely packed timber houses near London Bridge. Residents fled with what goods they could carry as buckets and hand pumps proved unequal to the flames.",
+ "answer": "The Great Fire of London begins, 1666",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-02.png?v=b0409ebc15eb",
  "first_run": false
 }

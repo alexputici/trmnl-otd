@@ -1182,5 +1182,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-02.png?v=b0409ebc15eb",
   "fallback": false,
   "generated_at": "2026-09-02T09:04:39.225214-06:00"
+ },
+ {
+  "date": "2026-09-03",
+  "date_label": "September 3",
+  "location": "Bonneville Salt Flats",
+  "answer": "Malcolm Campbell tops 300 mph, 1935",
+  "wiki_url": "https://en.wikipedia.org/wiki/Bonneville_Salt_Flats",
+  "title": "Campbell breaks 300 mph",
+  "year": 1935,
+  "category": "sport",
+  "image_prompt": "A streamlined 1930s land-speed racing car tears across an endless white salt flat, viewed low from ahead and slightly to one side; its helmeted driver grips the wheel as the machine skims forward in a plume of salt dust, a distant timing hut and tiny officials bracing against the wind on the horizon, the instant before the record run crosses its measured mark. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "CAMPBELL DRIVES MOTOR CAR BEYOND 300 MILES AN HOUR",
+  "dispatch": "Malcolm Campbell of Britain yesterday drove his Blue Bird machine over the measured Bonneville Salt Flats course at more than 300 miles an hour. The run made him the first motorist to pass that mark, with officials recording the speed across the Utah salt.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-03.png?v=befc3c244b4a",
+  "fallback": false,
+  "generated_at": "2026-09-03T08:58:32.873961-06:00"
  }
 ]
