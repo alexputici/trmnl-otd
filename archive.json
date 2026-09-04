@@ -1198,5 +1198,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-03.png?v=befc3c244b4a",
   "fallback": false,
   "generated_at": "2026-09-03T08:58:32.873961-06:00"
+ },
+ {
+  "date": "2026-09-04",
+  "date_label": "September 4",
+  "location": "Ravenna",
+  "answer": "Odoacer deposes Romulus Augustus, 476",
+  "wiki_url": "https://en.wikipedia.org/wiki/Germanic_peoples",
+  "title": "Fall of Western Rome",
+  "year": 476,
+  "category": "politics",
+  "image_prompt": "Inside a shadowy imperial palace chamber, a young Roman emperor in a jeweled cloak stands beside an overturned ivory chair, his hand hovering above a crown on a marble table. At the open doors, a stern Germanic commander and armed soldiers have just entered, their spearheads and helmets forming a dark wall against the daylight, while anxious courtiers draw back into the columns. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "ROMAN EMPEROR DEPOSED AT RAVENNA",
+  "dispatch": "Odoacer's Germanic forces took Ravenna yesterday and compelled the young Emperor Romulus Augustus to lay aside the imperial office. The Italian commander now holds the western capital, and the imperial insignia are to be sent to Constantinople.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-04.png?v=aa1f2545c203",
+  "fallback": false,
+  "generated_at": "2026-09-04T08:55:37.769638-06:00"
  }
 ]

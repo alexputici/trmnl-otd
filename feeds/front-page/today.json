@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1788447512,
- "edition_date": "2026-09-03",
- "event_date_label": "September 2",
- "year": 1666,
- "location": "Pudding Lane",
- "headline": "FIRE RAGES IN PUDDING LANE",
- "dispatch": "A fire that broke out before dawn in a Pudding Lane bakery has run through closely packed timber houses near London Bridge. Residents fled with what goods they could carry as buckets and hand pumps proved unequal to the flames.",
- "answer": "The Great Fire of London begins, 1666",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-02.png?v=b0409ebc15eb",
+ "generated_at_epoch": 1788533737,
+ "edition_date": "2026-09-04",
+ "event_date_label": "September 3",
+ "year": 1935,
+ "location": "Bonneville Salt Flats",
+ "headline": "CAMPBELL DRIVES MOTOR CAR BEYOND 300 MILES AN HOUR",
+ "dispatch": "Malcolm Campbell of Britain yesterday drove his Blue Bird machine over the measured Bonneville Salt Flats course at more than 300 miles an hour. The run made him the first motorist to pass that mark, with officials recording the speed across the Utah salt.",
+ "answer": "Malcolm Campbell tops 300 mph, 1935",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-03.png?v=befc3c244b4a",
  "first_run": false
 }

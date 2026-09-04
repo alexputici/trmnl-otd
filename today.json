@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-03T08:58:32.873961-06:00",
- "generated_at_epoch": 1788447512,
- "date": "2026-09-03",
- "date_label": "September 3",
- "location": "Bonneville Salt Flats",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-03.png?v=befc3c244b4a",
+ "generated_at": "2026-09-04T08:55:37.769638-06:00",
+ "generated_at_epoch": 1788533737,
+ "date": "2026-09-04",
+ "date_label": "September 4",
+ "location": "Ravenna",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-04.png?v=aa1f2545c203",
  "fallback": false,
  "yesterday": {
-  "answer": "The Great Fire of London begins, 1666",
-  "wiki_url": "https://en.wikipedia.org/wiki/Great_Fire_of_London"
+  "answer": "Malcolm Campbell tops 300 mph, 1935",
+  "wiki_url": "https://en.wikipedia.org/wiki/Bonneville_Salt_Flats"
  }
 }
