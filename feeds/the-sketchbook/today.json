@@ -1,10 +1,6 @@
 {
- "kind": "event",
- "title": "Coffee Mornings",
- "context_line": "TODAY · 10:00 · RED MILE",
- "caption": "Coffee poured fresh at 10:00 in Red Mile.",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-09-03.png?v=82d81fe00a76",
+ "TRMNL_SKIP_DISPLAY": true,
  "schema": 1,
- "generated_at_epoch": 1788446655,
- "date": "2026-09-03"
+ "generated_at_epoch": 1788532434,
+ "date": "2026-09-04"
 }
