@@ -1,15 +1,15 @@
 {
- "kind": "quiet",
- "headline": "An ordinary day outside.",
- "observation": "Nothing in the forecast is scarce enough to rearrange the day.",
- "action": "Go when you want. The forecast makes no claim on you.",
- "signal": "No rare window",
- "current": 12,
- "high": 19,
- "low": 12,
- "aqi": 44,
- "light": "13h 24m",
+ "kind": "outdoor-window",
+ "headline": "The day opens for three hours.",
+ "observation": "Dry, clean air and about 13 degrees line up from 6-9 p.m..",
+ "action": "Take the long walk during 6-9 p.m..",
+ "signal": "6-9 p.m.",
+ "current": 8,
+ "high": 16,
+ "low": 8,
+ "aqi": 41,
+ "light": "13h 21m",
  "schema": 1,
- "generated_at_epoch": 1788496230,
- "date": "2026-09-03"
+ "generated_at_epoch": 1788520569,
+ "date": "2026-09-04"
 }
