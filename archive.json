@@ -1214,5 +1214,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-04.png?v=aa1f2545c203",
   "fallback": false,
   "generated_at": "2026-09-04T08:55:37.769638-06:00"
+ },
+ {
+  "date": "2026-09-05",
+  "date_label": "September 5",
+  "location": "Cape Canaveral",
+  "answer": "Voyager 1 begins its journey beyond the planets, 1977",
+  "wiki_url": "https://en.wikipedia.org/wiki/NASA",
+  "title": "Voyager 1 launch",
+  "year": 1977,
+  "category": "science",
+  "image_prompt": "Ten seconds before ignition, a tall slender rocket stands on its launch pad at night, vapor streaming around its base while floodlit gantries loom beside it; a tiny group of technicians hurries away along the ground-level service road, and the dark Atlantic horizon sits beyond the pad. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "SPACE PROBE READY FOR FLIGHT TO OUTER PLANETS",
+  "dispatch": "Cape Canaveral, Fla., Sept. 6. NASA yesterday sent Voyager 1 aloft from Launch Complex 41 aboard a Titan-Centaur rocket. The unmanned craft is bound for close observations of Jupiter and Saturn before continuing into deep space.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-05.png?v=bcf36545312a",
+  "fallback": false,
+  "generated_at": "2026-09-05T07:50:45.078547-06:00"
  }
 ]

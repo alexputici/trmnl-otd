@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-04T08:55:37.769638-06:00",
- "generated_at_epoch": 1788533737,
- "date": "2026-09-04",
- "date_label": "September 4",
- "location": "Ravenna",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-04.png?v=aa1f2545c203",
+ "generated_at": "2026-09-05T07:50:45.078547-06:00",
+ "generated_at_epoch": 1788616245,
+ "date": "2026-09-05",
+ "date_label": "September 5",
+ "location": "Cape Canaveral",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-05.png?v=bcf36545312a",
  "fallback": false,
  "yesterday": {
-  "answer": "Malcolm Campbell tops 300 mph, 1935",
-  "wiki_url": "https://en.wikipedia.org/wiki/Bonneville_Salt_Flats"
+  "answer": "Odoacer deposes Romulus Augustus, 476",
+  "wiki_url": "https://en.wikipedia.org/wiki/Germanic_peoples"
  }
 }
