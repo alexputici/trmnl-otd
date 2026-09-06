@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-09-05.png?v=42159892e4a4",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-09-06.png?v=9219b585b010",
  "to_move": "Black",
- "rating": 2062,
+ "rating": 2176,
  "moves_to_win": 3,
- "puzzle_url": "https://lichess.org/training/DIPFS",
+ "puzzle_url": "https://lichess.org/training/MmRqv",
  "yesterday": {
-  "solution": "Ke5 b4 f4 d4 Kxd4",
-  "rating": 1933
+  "solution": "Rxc5 bxc5 f5+ Kf3 fxe4+",
+  "rating": 2062
  },
  "schema": 1,
- "generated_at_epoch": 1788615217,
- "date": "2026-09-05"
+ "generated_at_epoch": 1788702522,
+ "date": "2026-09-06"
 }
