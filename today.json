@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-05T07:50:45.078547-06:00",
- "generated_at_epoch": 1788616245,
- "date": "2026-09-05",
- "date_label": "September 5",
- "location": "Cape Canaveral",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-05.png?v=bcf36545312a",
+ "generated_at": "2026-09-06T08:07:21.094661-06:00",
+ "generated_at_epoch": 1788703641,
+ "date": "2026-09-06",
+ "date_label": "September 6",
+ "location": "Hakodate",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-06.png?v=b8a122d12cdf",
  "fallback": false,
  "yesterday": {
-  "answer": "Odoacer deposes Romulus Augustus, 476",
-  "wiki_url": "https://en.wikipedia.org/wiki/Germanic_peoples"
+  "answer": "Voyager 1 begins its journey beyond the planets, 1977",
+  "wiki_url": "https://en.wikipedia.org/wiki/NASA"
  }
 }

@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1788616245,
- "edition_date": "2026-09-05",
- "event_date_label": "September 4",
- "year": 476,
- "location": "Ravenna",
- "headline": "ROMAN EMPEROR DEPOSED AT RAVENNA",
- "dispatch": "Odoacer's Germanic forces took Ravenna yesterday and compelled the young Emperor Romulus Augustus to lay aside the imperial office. The Italian commander now holds the western capital, and the imperial insignia are to be sent to Constantinople.",
- "answer": "Odoacer deposes Romulus Augustus, 476",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-04.png?v=aa1f2545c203",
+ "generated_at_epoch": 1788703641,
+ "edition_date": "2026-09-06",
+ "event_date_label": "September 5",
+ "year": 1977,
+ "location": "Cape Canaveral",
+ "headline": "SPACE PROBE READY FOR FLIGHT TO OUTER PLANETS",
+ "dispatch": "Cape Canaveral, Fla., Sept. 6. NASA yesterday sent Voyager 1 aloft from Launch Complex 41 aboard a Titan-Centaur rocket. The unmanned craft is bound for close observations of Jupiter and Saturn before continuing into deep space.",
+ "answer": "Voyager 1 begins its journey beyond the planets, 1977",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-05.png?v=bcf36545312a",
  "first_run": false
 }

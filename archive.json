@@ -1230,5 +1230,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-05.png?v=bcf36545312a",
   "fallback": false,
   "generated_at": "2026-09-05T07:50:45.078547-06:00"
+ },
+ {
+  "date": "2026-09-06",
+  "date_label": "September 6",
+  "location": "Hakodate",
+  "answer": "Viktor Belenko defects to Japan in a MiG-25, 1976",
+  "wiki_url": "https://en.wikipedia.org/wiki/Viktor_Belenko",
+  "title": "Belenko lands the MiG-25",
+  "year": 1976,
+  "category": "politics",
+  "image_prompt": "Ten seconds before an unexpected military jet touches down: a huge Soviet interceptor, landing gear extended and drag chute still packed, skims low over the wet runway at Hakodate; startled ground crewmen in raincoats turn toward it beside a small control hut, with dark hills beyond. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "SOVIET PILOT LANDS FIGHTER IN JAPAN, SEEKS ASYLUM",
+  "dispatch": "A Soviet pilot identified as Viktor Belenko landed a MiG-25 interceptor at Hakodate yesterday and declared his intention to defect. Japanese authorities took the airman into custody while the advanced aircraft, a prized Soviet military machine, was secured for examination.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-06.png?v=b8a122d12cdf",
+  "fallback": false,
+  "generated_at": "2026-09-06T08:07:21.094661-06:00"
  }
 ]
