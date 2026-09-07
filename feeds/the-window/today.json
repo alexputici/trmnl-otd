@@ -6,10 +6,10 @@
  "signal": "No rare window",
  "current": 12,
  "high": 15,
- "low": 9,
- "aqi": 62,
- "light": "13h 13m",
+ "low": 11,
+ "aqi": 48,
+ "light": "13h 09m",
  "schema": 1,
- "generated_at_epoch": 1788755902,
- "date": "2026-09-06"
+ "generated_at_epoch": 1788784170,
+ "date": "2026-09-07"
 }
