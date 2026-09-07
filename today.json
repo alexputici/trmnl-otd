@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-06T08:07:21.094661-06:00",
- "generated_at_epoch": 1788703641,
- "date": "2026-09-06",
- "date_label": "September 6",
- "location": "Hakodate",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-06.png?v=b8a122d12cdf",
+ "generated_at": "2026-09-07T10:25:29.032984-06:00",
+ "generated_at_epoch": 1788798329,
+ "date": "2026-09-07",
+ "date_label": "September 7",
+ "location": "Hobart Zoo",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-07.png?v=eba9cdfe6c73",
  "fallback": false,
  "yesterday": {
-  "answer": "Voyager 1 begins its journey beyond the planets, 1977",
-  "wiki_url": "https://en.wikipedia.org/wiki/NASA"
+  "answer": "Viktor Belenko defects to Japan in a MiG-25, 1976",
+  "wiki_url": "https://en.wikipedia.org/wiki/Viktor_Belenko"
  }
 }

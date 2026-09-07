@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1788703641,
- "edition_date": "2026-09-06",
- "event_date_label": "September 5",
- "year": 1977,
- "location": "Cape Canaveral",
- "headline": "SPACE PROBE READY FOR FLIGHT TO OUTER PLANETS",
- "dispatch": "Cape Canaveral, Fla., Sept. 6. NASA yesterday sent Voyager 1 aloft from Launch Complex 41 aboard a Titan-Centaur rocket. The unmanned craft is bound for close observations of Jupiter and Saturn before continuing into deep space.",
- "answer": "Voyager 1 begins its journey beyond the planets, 1977",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-05.png?v=bcf36545312a",
+ "generated_at_epoch": 1788798329,
+ "edition_date": "2026-09-07",
+ "event_date_label": "September 6",
+ "year": 1976,
+ "location": "Hakodate",
+ "headline": "SOVIET PILOT LANDS FIGHTER IN JAPAN, SEEKS ASYLUM",
+ "dispatch": "A Soviet pilot identified as Viktor Belenko landed a MiG-25 interceptor at Hakodate yesterday and declared his intention to defect. Japanese authorities took the airman into custody while the advanced aircraft, a prized Soviet military machine, was secured for examination.",
+ "answer": "Viktor Belenko defects to Japan in a MiG-25, 1976",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-06.png?v=b8a122d12cdf",
  "first_run": false
 }

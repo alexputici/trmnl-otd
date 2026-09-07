@@ -1246,5 +1246,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-06.png?v=b8a122d12cdf",
   "fallback": false,
   "generated_at": "2026-09-06T08:07:21.094661-06:00"
+ },
+ {
+  "date": "2026-09-07",
+  "date_label": "September 7",
+  "location": "Hobart Zoo",
+  "answer": "The last thylacine dies in captivity, 1936",
+  "wiki_url": "https://en.wikipedia.org/wiki/Thylacine",
+  "title": "Last thylacine dies",
+  "year": 1936,
+  "category": "other",
+  "image_prompt": "Inside a dim stone zoo enclosure, a lone gaunt striped marsupial stands alert beside its shelter, ears pricked toward a keeper's approaching silhouette just beyond the iron gate; a water bowl and barred shadows frame the tense, quiet final instant. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "LAST TASMANIAN TIGER DIES AT HOBART ZOO",
+  "dispatch": "HOBART, Sept. 8. The last known thylacine has died in captivity at Hobart Zoo. The striped marsupial, once native to Tasmania, leaves no confirmed living member of its kind.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-07.png?v=eba9cdfe6c73",
+  "fallback": false,
+  "generated_at": "2026-09-07T10:25:29.032984-06:00"
  }
 ]
