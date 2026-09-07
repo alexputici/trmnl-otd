@@ -1,11 +1,11 @@
 {
- "word": "baccate",
- "pronunciation": "BAK-it",
- "part_of_speech": "adjective",
- "definition": "Bearing berries; berry-like.",
- "etymology": "From Latin baccatus, “furnished with berries,” formed from bacca, “berry.” The word came into English as a botanist’s neat label for a plant dressed in fruit.",
- "usage": "By early September, the hedgerows had turned baccate with haws, hips, and elderberries.",
+ "word": "pomiculture",
+ "pronunciation": "poh-mi-KUL-cher",
+ "part_of_speech": "noun",
+ "definition": "The cultivation of fruit, especially orchard fruits such as apples and pears.",
+ "etymology": "It joins Latin pomum, once meaning “fruit” and later especially “apple,” to culture. The word carries an old orchard into English: fruit carefully tended.",
+ "usage": "Early September is a busy season in pomiculture, when apples begin to crowd the bins.",
  "schema": 1,
- "generated_at_epoch": 1788702522,
- "date": "2026-09-06"
+ "generated_at_epoch": 1788797115,
+ "date": "2026-09-07"
 }
