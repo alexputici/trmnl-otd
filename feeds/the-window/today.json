@@ -1,15 +1,15 @@
 {
- "kind": "quiet",
- "headline": "An ordinary day outside.",
- "observation": "Nothing in the forecast is scarce enough to rearrange the day.",
- "action": "Go when you want. The forecast makes no claim on you.",
- "signal": "No rare window",
- "current": 13,
+ "kind": "aurora",
+ "headline": "The north has a real opening.",
+ "observation": "Kp 4.7 meets 29% cloud near 6 a.m..",
+ "action": "Step outside during 5-7 a.m. and look north.",
+ "signal": "Kp 4.7",
+ "current": 14,
  "high": 14,
- "low": 10,
+ "low": 12,
  "aqi": 26,
  "light": "13h 09m",
  "schema": 1,
- "generated_at_epoch": 1788808133,
+ "generated_at_epoch": 1788823758,
  "date": "2026-09-07"
 }
