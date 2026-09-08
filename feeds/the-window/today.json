@@ -1,15 +1,15 @@
 {
- "kind": "aurora",
- "headline": "The north has a real opening.",
- "observation": "Kp 4.7 meets 29% cloud near 6 a.m..",
- "action": "Step outside during 5-7 a.m. and look north.",
- "signal": "Kp 4.7",
- "current": 14,
- "high": 14,
- "low": 12,
- "aqi": 26,
- "light": "13h 09m",
+ "kind": "outdoor-window",
+ "headline": "The day opens for three hours.",
+ "observation": "Dry, clean air and about 18 degrees line up from 3-6 p.m..",
+ "action": "Take the long walk during 3-6 p.m..",
+ "signal": "3-6 p.m.",
+ "current": 15,
+ "high": 21,
+ "low": 8,
+ "aqi": 35,
+ "light": "13h 05m",
  "schema": 1,
- "generated_at_epoch": 1788823758,
- "date": "2026-09-07"
+ "generated_at_epoch": 1788885416,
+ "date": "2026-09-08"
 }
