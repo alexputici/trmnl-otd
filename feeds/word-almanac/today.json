@@ -1,11 +1,11 @@
 {
- "word": "pomiculture",
- "pronunciation": "poh-mi-KUL-cher",
+ "word": "mast",
+ "pronunciation": "mast",
  "part_of_speech": "noun",
- "definition": "The cultivation of fruit, especially orchard fruits such as apples and pears.",
- "etymology": "It joins Latin pomum, once meaning “fruit” and later especially “apple,” to culture. The word carries an old orchard into English: fruit carefully tended.",
- "usage": "Early September is a busy season in pomiculture, when apples begin to crowd the bins.",
+ "definition": "The acorns, beechnuts, and other fallen forest fruits that feed wildlife or are turned out for swine.",
+ "etymology": "From Old English mæst, meaning “food” or “fodder,” from a Germanic root for nourishment. The word gradually settled on the rich autumnal food dropped by woodland trees.",
+ "usage": "September’s first mast was beginning to stipple the beechwood floor.",
  "schema": 1,
- "generated_at_epoch": 1788797115,
- "date": "2026-09-07"
+ "generated_at_epoch": 1788965349,
+ "date": "2026-09-09"
 }
