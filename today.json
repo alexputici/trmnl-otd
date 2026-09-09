@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-07T10:25:29.032984-06:00",
- "generated_at_epoch": 1788798329,
- "date": "2026-09-07",
- "date_label": "September 7",
- "location": "Hobart Zoo",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-07.png?v=eba9cdfe6c73",
+ "generated_at": "2026-09-09T09:06:51.180499-06:00",
+ "generated_at_epoch": 1788966411,
+ "date": "2026-09-09",
+ "date_label": "September 9",
+ "location": "Ludwigsburg Palace",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-09.png?v=72017e214544",
  "fallback": false,
  "yesterday": {
-  "answer": "Viktor Belenko defects to Japan in a MiG-25, 1976",
-  "wiki_url": "https://en.wikipedia.org/wiki/Viktor_Belenko"
+  "answer": "The last thylacine dies in captivity, 1936",
+  "wiki_url": "https://en.wikipedia.org/wiki/Thylacine"
  }
 }

@@ -1262,5 +1262,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-07.png?v=eba9cdfe6c73",
   "fallback": false,
   "generated_at": "2026-09-07T10:25:29.032984-06:00"
+ },
+ {
+  "date": "2026-09-09",
+  "date_label": "September 9",
+  "location": "Ludwigsburg Palace",
+  "answer": "De Gaulle addresses German youth at Ludwigsburg, 1962",
+  "wiki_url": "https://en.wikipedia.org/wiki/Charles_de_Gaulle",
+  "title": "De Gaulle's German youth speech",
+  "year": 1962,
+  "category": "politics",
+  "image_prompt": "Ten seconds before a major address in the palace courtyard: a tall elderly French statesman in a dark formal suit stands at a simple outdoor lectern, one hand hovering above the microphone, while an immense crowd of silent young people fills the cobbled courtyard below. Baroque palace façades rise behind him, French and West German flags stir without any visible words or emblems, and the front rows lean forward in expectant stillness. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "DE GAULLE CALLS GERMAN YOUTH TO A NEW FRIENDSHIP",
+  "dispatch": "LUDWIGSBURG, Sept. 10. President Charles de Gaulle yesterday addressed 20,000 young Germans in the courtyard of Ludwigsburg Palace. Speaking during his state visit, the French leader appealed to the rising generation as France and West Germany press their postwar reconciliation.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-09.png?v=72017e214544",
+  "fallback": false,
+  "generated_at": "2026-09-09T09:06:51.180499-06:00"
  }
 ]

@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1788798329,
- "edition_date": "2026-09-07",
- "event_date_label": "September 6",
- "year": 1976,
- "location": "Hakodate",
- "headline": "SOVIET PILOT LANDS FIGHTER IN JAPAN, SEEKS ASYLUM",
- "dispatch": "A Soviet pilot identified as Viktor Belenko landed a MiG-25 interceptor at Hakodate yesterday and declared his intention to defect. Japanese authorities took the airman into custody while the advanced aircraft, a prized Soviet military machine, was secured for examination.",
- "answer": "Viktor Belenko defects to Japan in a MiG-25, 1976",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-06.png?v=b8a122d12cdf",
+ "generated_at_epoch": 1788966411,
+ "edition_date": "2026-09-09",
+ "event_date_label": "September 7",
+ "year": 1936,
+ "location": "Hobart Zoo",
+ "headline": "LAST TASMANIAN TIGER DIES AT HOBART ZOO",
+ "dispatch": "HOBART, Sept. 8. The last known thylacine has died in captivity at Hobart Zoo. The striped marsupial, once native to Tasmania, leaves no confirmed living member of its kind.",
+ "answer": "The last thylacine dies in captivity, 1936",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-07.png?v=eba9cdfe6c73",
  "first_run": false
 }
