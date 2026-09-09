@@ -1,15 +1,15 @@
 {
- "kind": "cooling",
- "headline": "The warm part leaves early.",
- "observation": "The temperature falls 11 degrees from now to 6 a.m..",
- "action": "Use the earlier hours. Carry the serious layer after 6 a.m..",
- "signal": "-11° · 6 a.m.",
- "current": 21,
+ "kind": "aurora",
+ "headline": "The north has a real opening.",
+ "observation": "Kp 4 meets 8% cloud near 12 a.m..",
+ "action": "Step outside during 11 p.m.-1 a.m. and look north.",
+ "signal": "Kp 4",
+ "current": 14,
  "high": 21,
  "low": 8,
  "aqi": 36,
  "light": "13h 05m",
  "schema": 1,
- "generated_at_epoch": 1788909797,
+ "generated_at_epoch": 1788928801,
  "date": "2026-09-08"
 }
