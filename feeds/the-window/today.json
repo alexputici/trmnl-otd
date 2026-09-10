@@ -1,15 +1,15 @@
 {
  "kind": "outdoor-window",
- "headline": "The day opens for three hours.",
- "observation": "Dry, clean air and about 13 degrees line up from 4-7 p.m..",
- "action": "Take the long walk during 4-7 p.m..",
- "signal": "4-7 p.m.",
- "current": 12,
+ "headline": "The day opens for two hours.",
+ "observation": "Dry, clean air and about 12 degrees line up from 5-7 p.m..",
+ "action": "Take the long walk during 5-7 p.m..",
+ "signal": "5-7 p.m.",
+ "current": 11,
  "high": 17,
- "low": 8,
- "aqi": 36,
+ "low": 10,
+ "aqi": 33,
  "light": "12h 58m",
  "schema": 1,
- "generated_at_epoch": 1789057398,
+ "generated_at_epoch": 1789073453,
  "date": "2026-09-10"
 }
