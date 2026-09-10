@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-09-09.png?v=6723fa67e222",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-09-10.png?v=7a1408f9d8e5",
  "to_move": "White",
- "rating": 1874,
+ "rating": 1995,
  "moves_to_win": 3,
- "puzzle_url": "https://lichess.org/training/9zIJH",
+ "puzzle_url": "https://lichess.org/training/DmxiP",
  "yesterday": {
-  "solution": "Qh3+ Kf4 Qxf3#",
-  "rating": 1677
+  "solution": "Qc4 Nd8 Ndxf7 Nxf7 Qxf7+",
+  "rating": 1874
  },
  "schema": 1,
- "generated_at_epoch": 1788965349,
- "date": "2026-09-09"
+ "generated_at_epoch": 1789051175,
+ "date": "2026-09-10"
 }
