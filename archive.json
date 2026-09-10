@@ -1278,5 +1278,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-09.png?v=72017e214544",
   "fallback": false,
   "generated_at": "2026-09-09T09:06:51.180499-06:00"
+ },
+ {
+  "date": "2026-09-10",
+  "date_label": "September 10",
+  "location": "Rome",
+  "answer": "Abebe Bikila wins Olympic marathon gold barefoot, 1960",
+  "wiki_url": "https://en.wikipedia.org/wiki/Athletics_at_the_1960_Summer_Olympics_%E2%80%93_Men's_marathon",
+  "title": "Bikila's barefoot Olympic finish",
+  "year": 1960,
+  "category": "sport",
+  "image_prompt": "Ten seconds before the finish of a nighttime road race, a lone barefoot Ethiopian runner in a plain singlet powers along the cobbles toward a taut finish tape beneath the looming floodlit Arch of Constantine, with shadowy officials leaning forward and a packed crowd pressed behind barriers, his raised foot frozen just above the stones. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "BAREFOOT ETHIOPIAN TAKES OLYMPIC MARATHON",
+  "dispatch": "Rome, Sept. 11. Abebe Bikila of Ethiopia won the Olympic marathon last night, running the full course barefoot and finishing near the Arch of Constantine. His victory brought the first Olympic gold medal to an athlete from sub-Saharan Africa.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-10.png?v=603cffd90e69",
+  "fallback": false,
+  "generated_at": "2026-09-10T08:58:38.525680-06:00"
  }
 ]

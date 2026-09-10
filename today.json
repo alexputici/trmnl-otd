@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-09T09:06:51.180499-06:00",
- "generated_at_epoch": 1788966411,
- "date": "2026-09-09",
- "date_label": "September 9",
- "location": "Ludwigsburg Palace",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-09.png?v=72017e214544",
+ "generated_at": "2026-09-10T08:58:38.525680-06:00",
+ "generated_at_epoch": 1789052318,
+ "date": "2026-09-10",
+ "date_label": "September 10",
+ "location": "Rome",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-10.png?v=603cffd90e69",
  "fallback": false,
  "yesterday": {
-  "answer": "The last thylacine dies in captivity, 1936",
-  "wiki_url": "https://en.wikipedia.org/wiki/Thylacine"
+  "answer": "De Gaulle addresses German youth at Ludwigsburg, 1962",
+  "wiki_url": "https://en.wikipedia.org/wiki/Charles_de_Gaulle"
  }
 }
