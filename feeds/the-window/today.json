@@ -4,12 +4,12 @@
  "observation": "Nothing in the forecast is scarce enough to rearrange the day.",
  "action": "Go when you want. The forecast makes no claim on you.",
  "signal": "No rare window",
- "current": 10,
- "high": 11,
+ "current": 12,
+ "high": 12,
  "low": 5,
- "aqi": 35,
+ "aqi": 34,
  "light": "12h 54m",
  "schema": 1,
- "generated_at_epoch": 1789160217,
+ "generated_at_epoch": 1789168524,
  "date": "2026-09-11"
 }
