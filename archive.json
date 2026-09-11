@@ -1294,5 +1294,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-10.png?v=603cffd90e69",
   "fallback": false,
   "generated_at": "2026-09-10T08:58:38.525680-06:00"
+ },
+ {
+  "date": "2026-09-11",
+  "date_label": "September 11",
+  "location": "Staten Island",
+  "answer": "The Staten Island peace conference fails, 1776",
+  "wiki_url": "https://en.wikipedia.org/wiki/Staten_Island_Peace_Conference",
+  "title": "Staten Island peace conference",
+  "year": 1776,
+  "category": "politics",
+  "image_prompt": "Inside a grand colonial manor, three weary American delegates in plain coats pause at the threshold while a British admiral stands beside a long table scattered with maps and papers; an open door frames the waiting shoreline and a small boat, every face tense before the negotiations begin. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "PEACE PARLEY ON STATEN ISLAND ENDS WITHOUT ACCORD",
+  "dispatch": "Staten Island, Sept. 12. Lord Howe yesterday received Benjamin Franklin, John Adams and Edward Rutledge for talks intended to end the rebellion. The American delegates would not abandon independence, and no settlement was reached.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-11.png?v=a86e43018ce3",
+  "fallback": false,
+  "generated_at": "2026-09-11T08:59:30.128016-06:00"
  }
 ]

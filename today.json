@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-10T08:58:38.525680-06:00",
- "generated_at_epoch": 1789052318,
- "date": "2026-09-10",
- "date_label": "September 10",
- "location": "Rome",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-10.png?v=603cffd90e69",
+ "generated_at": "2026-09-11T08:59:30.128016-06:00",
+ "generated_at_epoch": 1789138770,
+ "date": "2026-09-11",
+ "date_label": "September 11",
+ "location": "Staten Island",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-11.png?v=a86e43018ce3",
  "fallback": false,
  "yesterday": {
-  "answer": "De Gaulle addresses German youth at Ludwigsburg, 1962",
-  "wiki_url": "https://en.wikipedia.org/wiki/Charles_de_Gaulle"
+  "answer": "Abebe Bikila wins Olympic marathon gold barefoot, 1960",
+  "wiki_url": "https://en.wikipedia.org/wiki/Athletics_at_the_1960_Summer_Olympics_%E2%80%93_Men's_marathon"
  }
 }
