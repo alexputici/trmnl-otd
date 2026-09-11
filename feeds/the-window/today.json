@@ -7,9 +7,9 @@
  "current": 10,
  "high": 11,
  "low": 5,
- "aqi": 37,
+ "aqi": 35,
  "light": "12h 54m",
  "schema": 1,
- "generated_at_epoch": 1789144029,
+ "generated_at_epoch": 1789160217,
  "date": "2026-09-11"
 }
