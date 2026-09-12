@@ -5,11 +5,11 @@
  "action": "Go when you want. The forecast makes no claim on you.",
  "signal": "No rare window",
  "current": 10,
- "high": 11,
+ "high": 10,
  "low": 6,
- "aqi": 54,
+ "aqi": 55,
  "light": "12h 50m",
  "schema": 1,
- "generated_at_epoch": 1789245139,
+ "generated_at_epoch": 1789254189,
  "date": "2026-09-12"
 }
