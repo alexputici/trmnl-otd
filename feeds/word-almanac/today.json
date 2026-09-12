@@ -1,11 +1,11 @@
 {
- "word": "haw",
- "pronunciation": "HAW",
+ "word": "transhumance",
+ "pronunciation": "trans-HYOO-məns",
  "part_of_speech": "noun",
- "definition": "The small, red, mealy fruit of the hawthorn, conspicuous in hedgerows in early autumn.",
- "etymology": "Haw came through Middle English from Old English haga, meaning “hawthorn” or “hedge,” a word related to the old Germanic idea of an enclosing hedge.",
- "usage": "The hedge was bright with haws, a September provision for thrushes and fieldfares.",
+ "definition": "The seasonal movement of livestock, especially sheep or cattle, between summer and winter pastures.",
+ "etymology": "From French transhumance, rooted in Latin transhumare, “to move across the ground”: trans- (“across”) joined humus (“earth, soil”). The word preserves the old annual journey from lowland winter grazing to high summer meadows and back again.",
+ "usage": "By mid-September, the valley roads filled with the bells and dust of transhumance.",
  "schema": 1,
- "generated_at_epoch": 1789137509,
- "date": "2026-09-11"
+ "generated_at_epoch": 1789220721,
+ "date": "2026-09-12"
 }
