@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1789138770,
- "edition_date": "2026-09-11",
- "event_date_label": "September 10",
- "year": 1960,
- "location": "Rome",
- "headline": "BAREFOOT ETHIOPIAN TAKES OLYMPIC MARATHON",
- "dispatch": "Rome, Sept. 11. Abebe Bikila of Ethiopia won the Olympic marathon last night, running the full course barefoot and finishing near the Arch of Constantine. His victory brought the first Olympic gold medal to an athlete from sub-Saharan Africa.",
- "answer": "Abebe Bikila wins Olympic marathon gold barefoot, 1960",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-10.png?v=603cffd90e69",
+ "generated_at_epoch": 1789221655,
+ "edition_date": "2026-09-12",
+ "event_date_label": "September 11",
+ "year": 1776,
+ "location": "Staten Island",
+ "headline": "PEACE PARLEY ON STATEN ISLAND ENDS WITHOUT ACCORD",
+ "dispatch": "Staten Island, Sept. 12. Lord Howe yesterday received Benjamin Franklin, John Adams and Edward Rutledge for talks intended to end the rebellion. The American delegates would not abandon independence, and no settlement was reached.",
+ "answer": "The Staten Island peace conference fails, 1776",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-11.png?v=a86e43018ce3",
  "first_run": false
 }

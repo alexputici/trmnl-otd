@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-11T08:59:30.128016-06:00",
- "generated_at_epoch": 1789138770,
- "date": "2026-09-11",
- "date_label": "September 11",
- "location": "Staten Island",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-11.png?v=a86e43018ce3",
+ "generated_at": "2026-09-12T08:00:55.995696-06:00",
+ "generated_at_epoch": 1789221655,
+ "date": "2026-09-12",
+ "date_label": "September 12",
+ "location": "Flatwoods",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-12.png?v=656f1a24f971",
  "fallback": false,
  "yesterday": {
-  "answer": "Abebe Bikila wins Olympic marathon gold barefoot, 1960",
-  "wiki_url": "https://en.wikipedia.org/wiki/Athletics_at_the_1960_Summer_Olympics_%E2%80%93_Men's_marathon"
+  "answer": "The Staten Island peace conference fails, 1776",
+  "wiki_url": "https://en.wikipedia.org/wiki/Staten_Island_Peace_Conference"
  }
 }

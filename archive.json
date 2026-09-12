@@ -1310,5 +1310,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-11.png?v=a86e43018ce3",
   "fallback": false,
   "generated_at": "2026-09-11T08:59:30.128016-06:00"
+ },
+ {
+  "date": "2026-09-12",
+  "date_label": "September 12",
+  "location": "Flatwoods",
+  "answer": "Flatwoods boys report a monster in the woods, 1952",
+  "wiki_url": "https://en.wikipedia.org/wiki/Flatwoods%2C_West_Virginia",
+  "title": "Flatwoods monster sighting",
+  "year": 1952,
+  "category": "other",
+  "image_prompt": "On a wooded West Virginia hillside at dusk, three frightened teenage boys freeze behind a low fence, one holding a flashlight whose hard beam catches a towering, indistinct figure beside a tree; smoke drifts from a bright fallen glow farther down the slope, while one boy grips the other's sleeve, all eyes fixed forward. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "WEST VIRGINIA BOYS REPORT MONSTER IN WOODS",
+  "dispatch": "Three boys investigating a reported object near Flatwoods last night say they encountered a towering creature in the woods. Their account, given after they ran home from the hillside, described a strange figure near the spot where a bright object had been seen.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-12.png?v=656f1a24f971",
+  "fallback": false,
+  "generated_at": "2026-09-12T08:00:55.995696-06:00"
  }
 ]
