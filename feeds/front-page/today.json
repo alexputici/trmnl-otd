@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1789221655,
- "edition_date": "2026-09-12",
- "event_date_label": "September 11",
- "year": 1776,
- "location": "Staten Island",
- "headline": "PEACE PARLEY ON STATEN ISLAND ENDS WITHOUT ACCORD",
- "dispatch": "Staten Island, Sept. 12. Lord Howe yesterday received Benjamin Franklin, John Adams and Edward Rutledge for talks intended to end the rebellion. The American delegates would not abandon independence, and no settlement was reached.",
- "answer": "The Staten Island peace conference fails, 1776",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-11.png?v=a86e43018ce3",
+ "generated_at_epoch": 1789311323,
+ "edition_date": "2026-09-13",
+ "event_date_label": "September 12",
+ "year": 1952,
+ "location": "Flatwoods",
+ "headline": "WEST VIRGINIA BOYS REPORT MONSTER IN WOODS",
+ "dispatch": "Three boys investigating a reported object near Flatwoods last night say they encountered a towering creature in the woods. Their account, given after they ran home from the hillside, described a strange figure near the spot where a bright object had been seen.",
+ "answer": "Flatwoods boys report a monster in the woods, 1952",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-12.png?v=656f1a24f971",
  "first_run": false
 }

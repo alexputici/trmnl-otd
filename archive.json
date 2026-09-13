@@ -1326,5 +1326,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-12.png?v=656f1a24f971",
   "fallback": false,
   "generated_at": "2026-09-12T08:00:55.995696-06:00"
+ },
+ {
+  "date": "2026-09-13",
+  "date_label": "September 13",
+  "location": "Moon",
+  "answer": "Luna 2 becomes first craft to reach the Moon, 1959",
+  "wiki_url": "https://en.wikipedia.org/wiki/Luna_2",
+  "title": "Luna 2 nears the Moon",
+  "year": 1959,
+  "category": "exploration",
+  "image_prompt": "Ten seconds before impact, a small riveted spherical space probe with antennae plunges silently toward a vast jagged lunar crater, its shadow racing across the bare rock below; the curved Earth hangs tiny and bright beyond the black horizon. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "SOVIET ROCKET REACHES THE MOON",
+  "dispatch": "MOSCOW, Sept. 14. The Soviet Union reports that its Luna 2 spacecraft struck the Moon yesterday after a flight begun on September 12. The impact is the first time a human-made craft has reached another celestial body.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-13.png?v=de655b9c36a5",
+  "fallback": false,
+  "generated_at": "2026-09-13T08:55:23.683731-06:00"
  }
 ]
