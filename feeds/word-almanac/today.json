@@ -1,11 +1,11 @@
 {
- "word": "transhumance",
- "pronunciation": "trans-HYOO-məns",
- "part_of_speech": "noun",
- "definition": "The seasonal movement of livestock, especially sheep or cattle, between summer and winter pastures.",
- "etymology": "From French transhumance, rooted in Latin transhumare, “to move across the ground”: trans- (“across”) joined humus (“earth, soil”). The word preserves the old annual journey from lowland winter grazing to high summer meadows and back again.",
- "usage": "By mid-September, the valley roads filled with the bells and dust of transhumance.",
+ "word": "rathripe",
+ "pronunciation": "RATH-rype",
+ "part_of_speech": "adjective",
+ "definition": "Ripening unusually early; especially, coming to harvest before the usual season.",
+ "etymology": "It joins Middle English rathe, “early” (from Old English hræth), to ripe: literally “early-ripe.”",
+ "usage": "The warm August left the orchard’s pears rathripe by mid-September.",
  "schema": 1,
- "generated_at_epoch": 1789220721,
- "date": "2026-09-12"
+ "generated_at_epoch": 1789310591,
+ "date": "2026-09-13"
 }
