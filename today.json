@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-13T08:55:23.683731-06:00",
- "generated_at_epoch": 1789311323,
- "date": "2026-09-13",
- "date_label": "September 13",
- "location": "Moon",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-13.png?v=de655b9c36a5",
+ "generated_at": "2026-09-14T10:56:53.215072-06:00",
+ "generated_at_epoch": 1789405013,
+ "date": "2026-09-14",
+ "date_label": "September 14",
+ "location": "Buffalo",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-14.png?v=c6705a99c6e7",
  "fallback": false,
  "yesterday": {
-  "answer": "Flatwoods boys report a monster in the woods, 1952",
-  "wiki_url": "https://en.wikipedia.org/wiki/Flatwoods%2C_West_Virginia"
+  "answer": "Luna 2 becomes first craft to reach the Moon, 1959",
+  "wiki_url": "https://en.wikipedia.org/wiki/Luna_2"
  }
 }

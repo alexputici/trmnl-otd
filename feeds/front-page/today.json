@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1789311323,
- "edition_date": "2026-09-13",
- "event_date_label": "September 12",
- "year": 1952,
- "location": "Flatwoods",
- "headline": "WEST VIRGINIA BOYS REPORT MONSTER IN WOODS",
- "dispatch": "Three boys investigating a reported object near Flatwoods last night say they encountered a towering creature in the woods. Their account, given after they ran home from the hillside, described a strange figure near the spot where a bright object had been seen.",
- "answer": "Flatwoods boys report a monster in the woods, 1952",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-12.png?v=656f1a24f971",
+ "generated_at_epoch": 1789405013,
+ "edition_date": "2026-09-14",
+ "event_date_label": "September 13",
+ "year": 1959,
+ "location": "Moon",
+ "headline": "SOVIET ROCKET REACHES THE MOON",
+ "dispatch": "MOSCOW, Sept. 14. The Soviet Union reports that its Luna 2 spacecraft struck the Moon yesterday after a flight begun on September 12. The impact is the first time a human-made craft has reached another celestial body.",
+ "answer": "Luna 2 becomes first craft to reach the Moon, 1959",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-13.png?v=de655b9c36a5",
  "first_run": false
 }
