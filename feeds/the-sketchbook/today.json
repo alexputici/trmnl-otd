@@ -1,6 +1,10 @@
 {
- "TRMNL_SKIP_DISPLAY": true,
+ "kind": "event",
+ "title": "Coffee Mornings",
+ "context_line": "THURSDAY · RED MILE",
+ "caption": "Coffee is on at Red Mile, Thursday at 10:30.",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-09-14.png?v=137489a1ddf7",
  "schema": 1,
- "generated_at_epoch": 1789310591,
- "date": "2026-09-13"
+ "generated_at_epoch": 1789403779,
+ "date": "2026-09-14"
 }

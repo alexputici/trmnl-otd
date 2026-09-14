@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-09-13.png?v=00c574048a13",
- "to_move": "Black",
- "rating": 1687,
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-09-14.png?v=ba6611499830",
+ "to_move": "White",
+ "rating": 1839,
  "moves_to_win": 4,
- "puzzle_url": "https://lichess.org/training/t0lgs",
+ "puzzle_url": "https://lichess.org/training/1gsLJ",
  "yesterday": {
-  "solution": "Rg2+ Kf1 Ne3+ Ke1 Re2#",
-  "rating": 2009
+  "solution": "Rd1+ Ka2 Ra1+ Kxa1 Qc1+ Ka2 Qxb2#",
+  "rating": 1687
  },
  "schema": 1,
- "generated_at_epoch": 1789310591,
- "date": "2026-09-13"
+ "generated_at_epoch": 1789403779,
+ "date": "2026-09-14"
 }
