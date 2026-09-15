@@ -1,11 +1,11 @@
 {
- "word": "cervine",
- "pronunciation": "SUR-vine",
- "part_of_speech": "adjective",
- "definition": "Of, resembling, or characteristic of a deer.",
- "etymology": "From Latin cervinus, “of a deer,” formed from cervus, “deer.” English borrowed the word to give deer their own precise, quietly elegant adjective.",
- "usage": "September brings a cervine restlessness to the woods as the rut approaches.",
+ "word": "quindene",
+ "pronunciation": "kwin-DEEN",
+ "part_of_speech": "noun",
+ "definition": "A period of fifteen days; in older ecclesiastical or legal use, the fifteenth day after a feast or event.",
+ "etymology": "It came into Middle English through Anglo-French quinzine, a word built on quinze, “fifteen.” The word kept the count even as its spelling shifted into English.",
+ "usage": "September 15, the month’s midpoint, makes a fitting marker for a quindene: one fifteen-day stretch has quietly run its course.",
  "schema": 1,
- "generated_at_epoch": 1789403779,
- "date": "2026-09-14"
+ "generated_at_epoch": 1789485435,
+ "date": "2026-09-15"
 }
