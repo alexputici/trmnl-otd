@@ -1358,5 +1358,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-14.png?v=c6705a99c6e7",
   "fallback": false,
   "generated_at": "2026-09-14T10:56:53.215072-06:00"
+ },
+ {
+  "date": "2026-09-15",
+  "date_label": "September 15",
+  "location": "Kips Bay",
+  "answer": "British troops land at Kips Bay, 1776",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+  "title": "Kips Bay Landing",
+  "year": 1776,
+  "category": "politics",
+  "image_prompt": "Ten seconds before an amphibious landing, British redcoat soldiers crowd silently into longboats just off a broad Manhattan shoreline, oars held poised above dark water; a few anxious Continental militiamen abandon a low earthwork in the distance while warships loom through cannon smoke. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "BRITISH FORCE LANDS AT KIP'S BAY",
+  "dispatch": "New York, Sept. 16. British troops yesterday came ashore at Kips Bay on Manhattan after their ships opened a heavy cannonade. American defenders gave way, permitting the landing force to establish itself on the island.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-15.png?v=e39d0b93c867",
+  "fallback": false,
+  "generated_at": "2026-09-15T09:32:54.067976-06:00"
  }
 ]

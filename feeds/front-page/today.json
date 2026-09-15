@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1789405013,
- "edition_date": "2026-09-14",
- "event_date_label": "September 13",
- "year": 1959,
- "location": "Moon",
- "headline": "SOVIET ROCKET REACHES THE MOON",
- "dispatch": "MOSCOW, Sept. 14. The Soviet Union reports that its Luna 2 spacecraft struck the Moon yesterday after a flight begun on September 12. The impact is the first time a human-made craft has reached another celestial body.",
- "answer": "Luna 2 becomes first craft to reach the Moon, 1959",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-13.png?v=de655b9c36a5",
+ "generated_at_epoch": 1789486374,
+ "edition_date": "2026-09-15",
+ "event_date_label": "September 14",
+ "year": 1901,
+ "location": "Buffalo",
+ "headline": "ROOSEVELT TAKES OATH AS PRESIDENT",
+ "dispatch": "Theodore Roosevelt took the presidential oath at the home of Ansley Wilcox in Buffalo this afternoon. The 42-year-old successor to William McKinley becomes the youngest man to hold the office.",
+ "answer": "Theodore Roosevelt takes office as president, 1901",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-14.png?v=c6705a99c6e7",
  "first_run": false
 }

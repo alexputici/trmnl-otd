@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-14T10:56:53.215072-06:00",
- "generated_at_epoch": 1789405013,
- "date": "2026-09-14",
- "date_label": "September 14",
- "location": "Buffalo",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-14.png?v=c6705a99c6e7",
+ "generated_at": "2026-09-15T09:32:54.067976-06:00",
+ "generated_at_epoch": 1789486374,
+ "date": "2026-09-15",
+ "date_label": "September 15",
+ "location": "Kips Bay",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-15.png?v=e39d0b93c867",
  "fallback": false,
  "yesterday": {
-  "answer": "Luna 2 becomes first craft to reach the Moon, 1959",
-  "wiki_url": "https://en.wikipedia.org/wiki/Luna_2"
+  "answer": "Theodore Roosevelt takes office as president, 1901",
+  "wiki_url": "https://en.wikipedia.org/wiki/Theodore_Roosevelt"
  }
 }
