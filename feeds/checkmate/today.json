@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-09-15.png?v=790f70285004",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-09-16.png?v=84cd538147ac",
  "to_move": "Black",
- "rating": 1947,
- "moves_to_win": 6,
- "puzzle_url": "https://lichess.org/training/zIAIv",
+ "rating": 2022,
+ "moves_to_win": 2,
+ "puzzle_url": "https://lichess.org/training/m5h82",
  "yesterday": {
-  "solution": "Bxg4 Nb3+ Kc2 Nxd2 fxg6+ fxg6 Bxc8",
-  "rating": 1839
+  "solution": "h5+ Kh3 g4+ fxg4 hxg4+ Kxg4 Ne5+ Kf4 Rh4+ g4 Rxg4#",
+  "rating": 1947
  },
  "schema": 1,
- "generated_at_epoch": 1789485435,
- "date": "2026-09-15"
+ "generated_at_epoch": 1789571449,
+ "date": "2026-09-16"
 }
