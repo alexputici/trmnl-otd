@@ -1374,5 +1374,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-15.png?v=e39d0b93c867",
   "fallback": false,
   "generated_at": "2026-09-15T09:32:54.067976-06:00"
+ },
+ {
+  "date": "2026-09-16",
+  "date_label": "September 16",
+  "location": "Harlem Heights",
+  "answer": "Americans win the Battle of Harlem Heights, 1776",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+  "title": "Battle of Harlem Heights",
+  "year": 1776,
+  "category": "politics",
+  "image_prompt": "Ten seconds before an ambush on a wooded Manhattan ridge, a line of weary colonial soldiers crouches behind split-rail fences and boulders, muskets raised but unfired; below them, red-coated infantry march unsuspectingly along a sunken lane, while an officer's sword is frozen halfway upward to signal the attack. Wind bends the tall grass and a distant river glints beyond the trees. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "BRITISH REPULSED AT HARLEM HEIGHTS",
+  "dispatch": "General Washington's troops engaged British forces near Harlem Heights on Manhattan yesterday and drove them back after sharp fighting. The action checked the enemy advance northward and gave the American army a needed success following its withdrawal from New York.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-16.png?v=c9d461eb7cd5",
+  "fallback": false,
+  "generated_at": "2026-09-16T09:25:15.664448-06:00"
  }
 ]

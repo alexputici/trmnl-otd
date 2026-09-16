@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-15T09:32:54.067976-06:00",
- "generated_at_epoch": 1789486374,
- "date": "2026-09-15",
- "date_label": "September 15",
- "location": "Kips Bay",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-15.png?v=e39d0b93c867",
+ "generated_at": "2026-09-16T09:25:15.664448-06:00",
+ "generated_at_epoch": 1789572315,
+ "date": "2026-09-16",
+ "date_label": "September 16",
+ "location": "Harlem Heights",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-16.png?v=c9d461eb7cd5",
  "fallback": false,
  "yesterday": {
-  "answer": "Theodore Roosevelt takes office as president, 1901",
-  "wiki_url": "https://en.wikipedia.org/wiki/Theodore_Roosevelt"
+  "answer": "British troops land at Kips Bay, 1776",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
  }
 }
