@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1789572315,
- "edition_date": "2026-09-16",
- "event_date_label": "September 15",
+ "generated_at_epoch": 1789659145,
+ "edition_date": "2026-09-17",
+ "event_date_label": "September 16",
  "year": 1776,
- "location": "Kips Bay",
- "headline": "BRITISH FORCE LANDS AT KIP'S BAY",
- "dispatch": "New York, Sept. 16. British troops yesterday came ashore at Kips Bay on Manhattan after their ships opened a heavy cannonade. American defenders gave way, permitting the landing force to establish itself on the island.",
- "answer": "British troops land at Kips Bay, 1776",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-15.png?v=e39d0b93c867",
+ "location": "Harlem Heights",
+ "headline": "BRITISH REPULSED AT HARLEM HEIGHTS",
+ "dispatch": "General Washington's troops engaged British forces near Harlem Heights on Manhattan yesterday and drove them back after sharp fighting. The action checked the enemy advance northward and gave the American army a needed success following its withdrawal from New York.",
+ "answer": "Americans win the Battle of Harlem Heights, 1776",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-16.png?v=c9d461eb7cd5",
  "first_run": false
 }

@@ -1390,5 +1390,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-16.png?v=c9d461eb7cd5",
   "fallback": false,
   "generated_at": "2026-09-16T09:25:15.664448-06:00"
+ },
+ {
+  "date": "2026-09-17",
+  "date_label": "September 17",
+  "location": "Maryland",
+  "answer": "Harriet Tubman escapes slavery in Maryland, 1849",
+  "wiki_url": "https://en.wikipedia.org/wiki/Harriet_Tubman",
+  "title": "Harriet Tubman begins her escape",
+  "year": 1849,
+  "category": "exploration",
+  "image_prompt": "At moonlit dusk on the edge of a Maryland plantation, a determined young Black woman in a plain dress pauses beneath a great tree, one hand gripping a small bundled cloth, while a distant farmhouse window glows behind her and a narrow path disappears into dark reeds ahead; she has just turned toward the northern road. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "SLAVE WOMAN ESCAPES FROM MARYLAND",
+  "dispatch": "Harriet Tubman, enslaved in Maryland, has fled the plantation where she was held. Her flight north begins a journey out of bondage, through country watched by slave catchers and patrols.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-17.png?v=5847e99f9b1d",
+  "fallback": false,
+  "generated_at": "2026-09-17T09:32:25.774916-06:00"
  }
 ]
