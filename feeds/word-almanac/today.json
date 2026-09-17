@@ -1,11 +1,11 @@
 {
- "word": "ember",
- "pronunciation": "EM-bər",
+ "word": "abscission",
+ "pronunciation": "ab-SIZH-ən",
  "part_of_speech": "noun",
- "definition": "In the plural phrase Ember Days, one of the quarterly sets of traditional Christian fast days; the September set follows Holy Cross Day, so September 16 is often Ember Wednesday.",
- "etymology": "This calendar word came through Old English ymbrendagas, “Ember days.” Its deeper origin is disputed: it has often been linked to Latin quattuor tempora, “the four seasons,” though the old English form may also reflect a native word for a circuit or recurring course. It is unrelated to the glowing remnant of a fire.",
- "usage": "The old almanac marked Ember Wednesday with a spare cross beside the harvest entries.",
+ "definition": "The natural shedding of a plant part, especially the dropping of leaves, fruit, or flowers; also, a cutting off or separation.",
+ "etymology": "From Latin abscissio, “a cutting away,” from abscindere: ab- “away” plus scindere “to cut or split.” In autumn, a tree makes this old act of cutting at the base of each leaf stem.",
+ "usage": "By mid-September, abscission had begun at the edges of the poplar grove.",
  "schema": 1,
- "generated_at_epoch": 1789571449,
- "date": "2026-09-16"
+ "generated_at_epoch": 1789658388,
+ "date": "2026-09-17"
 }
