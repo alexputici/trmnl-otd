@@ -1406,5 +1406,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-17.png?v=5847e99f9b1d",
   "fallback": false,
   "generated_at": "2026-09-17T09:32:25.774916-06:00"
+ },
+ {
+  "date": "2026-09-18",
+  "date_label": "September 18",
+  "location": "New York",
+  "answer": "The New York Times publishes its first issue, 1851",
+  "wiki_url": "https://en.wikipedia.org/wiki/The_New_York_Times",
+  "title": "First issue of The New York Times",
+  "year": 1851,
+  "category": "other",
+  "image_prompt": "Inside a busy 1851 newspaper printing room, a pressman’s hand hovers a breath above the great iron press lever; fresh blank sheets wait beneath the rollers, compositors pause beside crowded type cases, and early morning light cuts through tall windows. The entire room holds still in the instant before the first run begins. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "THE NEW-YORK DAILY TIMES MAKES ITS BOW",
+  "dispatch": "The New-York Daily Times appeared yesterday in the city under the direction of Henry Jarvis Raymond and George Jones. Printed from Nassau Street, the new daily enters a crowded field of metropolitan journals with its first edition now in circulation.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-18.png?v=3e7a0bbb1b5f",
+  "fallback": false,
+  "generated_at": "2026-09-18T08:55:59.726865-06:00"
  }
 ]

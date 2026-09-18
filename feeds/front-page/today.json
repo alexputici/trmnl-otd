@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1789659145,
- "edition_date": "2026-09-17",
- "event_date_label": "September 16",
- "year": 1776,
- "location": "Harlem Heights",
- "headline": "BRITISH REPULSED AT HARLEM HEIGHTS",
- "dispatch": "General Washington's troops engaged British forces near Harlem Heights on Manhattan yesterday and drove them back after sharp fighting. The action checked the enemy advance northward and gave the American army a needed success following its withdrawal from New York.",
- "answer": "Americans win the Battle of Harlem Heights, 1776",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-16.png?v=c9d461eb7cd5",
+ "generated_at_epoch": 1789743359,
+ "edition_date": "2026-09-18",
+ "event_date_label": "September 17",
+ "year": 1849,
+ "location": "Maryland",
+ "headline": "SLAVE WOMAN ESCAPES FROM MARYLAND",
+ "dispatch": "Harriet Tubman, enslaved in Maryland, has fled the plantation where she was held. Her flight north begins a journey out of bondage, through country watched by slave catchers and patrols.",
+ "answer": "Harriet Tubman escapes slavery in Maryland, 1849",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-17.png?v=5847e99f9b1d",
  "first_run": false
 }

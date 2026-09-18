@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-17T09:32:25.774916-06:00",
- "generated_at_epoch": 1789659145,
- "date": "2026-09-17",
- "date_label": "September 17",
- "location": "Maryland",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-17.png?v=5847e99f9b1d",
+ "generated_at": "2026-09-18T08:55:59.726865-06:00",
+ "generated_at_epoch": 1789743359,
+ "date": "2026-09-18",
+ "date_label": "September 18",
+ "location": "New York",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-18.png?v=3e7a0bbb1b5f",
  "fallback": false,
  "yesterday": {
-  "answer": "Americans win the Battle of Harlem Heights, 1776",
-  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+  "answer": "Harriet Tubman escapes slavery in Maryland, 1849",
+  "wiki_url": "https://en.wikipedia.org/wiki/Harriet_Tubman"
  }
 }
