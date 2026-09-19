@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1789743359,
- "edition_date": "2026-09-18",
- "event_date_label": "September 17",
- "year": 1849,
- "location": "Maryland",
- "headline": "SLAVE WOMAN ESCAPES FROM MARYLAND",
- "dispatch": "Harriet Tubman, enslaved in Maryland, has fled the plantation where she was held. Her flight north begins a journey out of bondage, through country watched by slave catchers and patrols.",
- "answer": "Harriet Tubman escapes slavery in Maryland, 1849",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-17.png?v=5847e99f9b1d",
+ "generated_at_epoch": 1789827584,
+ "edition_date": "2026-09-19",
+ "event_date_label": "September 18",
+ "year": 1851,
+ "location": "New York",
+ "headline": "THE NEW-YORK DAILY TIMES MAKES ITS BOW",
+ "dispatch": "The New-York Daily Times appeared yesterday in the city under the direction of Henry Jarvis Raymond and George Jones. Printed from Nassau Street, the new daily enters a crowded field of metropolitan journals with its first edition now in circulation.",
+ "answer": "The New York Times publishes its first issue, 1851",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-18.png?v=3e7a0bbb1b5f",
  "first_run": false
 }

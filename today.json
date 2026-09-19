@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-18T08:55:59.726865-06:00",
- "generated_at_epoch": 1789743359,
- "date": "2026-09-18",
- "date_label": "September 18",
- "location": "New York",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-18.png?v=3e7a0bbb1b5f",
+ "generated_at": "2026-09-19T08:19:44.280011-06:00",
+ "generated_at_epoch": 1789827584,
+ "date": "2026-09-19",
+ "date_label": "September 19",
+ "location": "Tehran",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-19.png?v=7363f6414d40",
  "fallback": false,
  "yesterday": {
-  "answer": "Harriet Tubman escapes slavery in Maryland, 1849",
-  "wiki_url": "https://en.wikipedia.org/wiki/Harriet_Tubman"
+  "answer": "The New York Times publishes its first issue, 1851",
+  "wiki_url": "https://en.wikipedia.org/wiki/The_New_York_Times"
  }
 }
