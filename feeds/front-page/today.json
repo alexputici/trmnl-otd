@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1789827584,
- "edition_date": "2026-09-19",
- "event_date_label": "September 18",
- "year": 1851,
- "location": "New York",
- "headline": "THE NEW-YORK DAILY TIMES MAKES ITS BOW",
- "dispatch": "The New-York Daily Times appeared yesterday in the city under the direction of Henry Jarvis Raymond and George Jones. Printed from Nassau Street, the new daily enters a crowded field of metropolitan journals with its first edition now in circulation.",
- "answer": "The New York Times publishes its first issue, 1851",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-18.png?v=3e7a0bbb1b5f",
+ "generated_at_epoch": 1789915250,
+ "edition_date": "2026-09-20",
+ "event_date_label": "September 19",
+ "year": 1976,
+ "location": "Tehran",
+ "headline": "IRANIAN JETS CHASE MYSTERY LIGHTS OVER TEHRAN",
+ "dispatch": "Tehran, Sept. 20. Air Force crews and civilians reported bright, maneuvering lights over the capital overnight. An F-4 sent to investigate reportedly lost instrument and weapons functions as it approached; officials have not identified the object.",
+ "answer": "Tehran UFO incident alarms Iranian pilots, 1976",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-19.png?v=7363f6414d40",
  "first_run": false
 }

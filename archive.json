@@ -1438,5 +1438,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-19.png?v=7363f6414d40",
   "fallback": false,
   "generated_at": "2026-09-19T08:19:44.280011-06:00"
+ },
+ {
+  "date": "2026-09-20",
+  "date_label": "September 20",
+  "location": "Houston",
+  "answer": "Billie Jean King beats Bobby Riggs, 1973",
+  "wiki_url": "https://en.wikipedia.org/wiki/Billie_Jean_King",
+  "title": "Battle of the Sexes",
+  "year": 1973,
+  "category": "sport",
+  "image_prompt": "Ten seconds before the decisive serve in a vast indoor tennis stadium: a focused woman player stands at the baseline with racket raised and ball suspended above her hand, while an older male opponent crouches tensely at the far service line; packed tiered spectators hold their breath beneath the immense domed roof, a sharp court-wide pool of light, no logos, no signage. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "KING ROUTS RIGGS IN ASTRODOME TENNIS MATCH",
+  "dispatch": "Billie Jean King defeated Bobby Riggs in straight sets, 6-4, 6-3, 6-3, before a packed Houston Astrodome and an international television audience. The widely billed Battle of the Sexes ended with King controlling the court against the 55-year-old former champion.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-20.png?v=5915dfd7afe5",
+  "fallback": false,
+  "generated_at": "2026-09-20T08:40:50.659997-06:00"
  }
 ]

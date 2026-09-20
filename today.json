@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-19T08:19:44.280011-06:00",
- "generated_at_epoch": 1789827584,
- "date": "2026-09-19",
- "date_label": "September 19",
- "location": "Tehran",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-19.png?v=7363f6414d40",
+ "generated_at": "2026-09-20T08:40:50.659997-06:00",
+ "generated_at_epoch": 1789915250,
+ "date": "2026-09-20",
+ "date_label": "September 20",
+ "location": "Houston",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-20.png?v=5915dfd7afe5",
  "fallback": false,
  "yesterday": {
-  "answer": "The New York Times publishes its first issue, 1851",
-  "wiki_url": "https://en.wikipedia.org/wiki/The_New_York_Times"
+  "answer": "Tehran UFO incident alarms Iranian pilots, 1976",
+  "wiki_url": "https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident"
  }
 }
