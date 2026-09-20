@@ -1,11 +1,11 @@
 {
- "word": "hirundine",
- "pronunciation": "hi-RUN-dyne",
+ "word": "brumal",
+ "pronunciation": "BROO-məl",
  "part_of_speech": "adjective",
- "definition": "Of, relating to, or resembling swallows.",
- "etymology": "From Latin hirundo, “swallow.” The bird’s name flew into English through learned Latin, with the adjective-making ending -ine attached.",
- "usage": "On September evenings, the hirundine flicker of departing swallows can make the whole sky seem restless.",
+ "definition": "Of winter; wintry, especially in a cold, bleak, or dormant sense.",
+ "etymology": "Latin called the winter solstice bruma, probably “the shortest day,” from a form related to brevis, “short.” From bruma came brumalis, and thence English brumal.",
+ "usage": "By September 20, the garden had acquired a faintly brumal reserve: seedheads rattled where flowers had been.",
  "schema": 1,
- "generated_at_epoch": 1789826381,
- "date": "2026-09-19"
+ "generated_at_epoch": 1789914106,
+ "date": "2026-09-20"
 }
