@@ -1,15 +1,15 @@
 {
- "kind": "outdoor-window",
- "headline": "The day opens for three hours.",
- "observation": "Dry, clean air and about 19 degrees line up from 11 a.m.-2 p.m..",
- "action": "Take the long walk during 11 a.m.-2 p.m..",
- "signal": "11 a.m.-2 p.m.",
- "current": 17,
+ "kind": "cooling",
+ "headline": "The warm part leaves early.",
+ "observation": "The temperature falls 15 degrees from now to 7 a.m..",
+ "action": "Use the earlier hours. Carry the serious layer after 7 a.m..",
+ "signal": "-15° · 7 a.m.",
+ "current": 25,
  "high": 26,
  "low": 8,
  "aqi": 44,
  "light": "12h 16m",
  "schema": 1,
- "generated_at_epoch": 1790008636,
+ "generated_at_epoch": 1790020754,
  "date": "2026-09-21"
 }
