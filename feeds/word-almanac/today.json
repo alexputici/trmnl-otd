@@ -1,11 +1,11 @@
 {
- "word": "brumal",
- "pronunciation": "BROO-məl",
- "part_of_speech": "adjective",
- "definition": "Of winter; wintry, especially in a cold, bleak, or dormant sense.",
- "etymology": "Latin called the winter solstice bruma, probably “the shortest day,” from a form related to brevis, “short.” From bruma came brumalis, and thence English brumal.",
- "usage": "By September 20, the garden had acquired a faintly brumal reserve: seedheads rattled where flowers had been.",
+ "word": "ciderkin",
+ "pronunciation": "SY-der-kin",
+ "part_of_speech": "noun",
+ "definition": "A weak, second-run cider made by adding water to apple pomace after the first pressing and letting it ferment.",
+ "etymology": "In the cider country, the leftover crushed apples were not quite done: “cider” took the diminutive suffix “-kin,” naming the smaller, weaker drink coaxed from the pomace.",
+ "usage": "By the autumn equinox, the press had yielded its cider, and the farmhands were setting aside pomace for ciderkin.",
  "schema": 1,
- "generated_at_epoch": 1789914106,
- "date": "2026-09-20"
+ "generated_at_epoch": 1790008636,
+ "date": "2026-09-21"
 }
