@@ -1454,5 +1454,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-20.png?v=5915dfd7afe5",
   "fallback": false,
   "generated_at": "2026-09-20T08:40:50.659997-06:00"
+ },
+ {
+  "date": "2026-09-21",
+  "date_label": "September 21",
+  "location": "New York",
+  "answer": "Great Fire of New York erupts, 1776",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+  "title": "Great Fire of New York",
+  "year": 1776,
+  "category": "disaster",
+  "image_prompt": "Night on a cramped colonial waterfront street: a British sentry turns as a windblown ember hangs inches from a row of dry wooden shingles, while tethered horses startle, barrels and handcarts crowd the lane, and dark church spires loom beyond. The instant is taut and still, before the first roof catches. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "DREAD FIRE SWEEPS NEW-YORK",
+  "dispatch": "NEW-YORK, Sept. 22. A fierce fire broke out last night in the British-held city and ran rapidly through its close-built streets. Hundreds of houses and shops have been consumed, with estimates of the loss reaching as many as a thousand buildings; the origin remains in dispute.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-21.png?v=80dd803282ae",
+  "fallback": false,
+  "generated_at": "2026-09-21T10:59:44.700038-06:00"
  }
 ]

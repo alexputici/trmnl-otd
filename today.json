@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-20T08:40:50.659997-06:00",
- "generated_at_epoch": 1789915250,
- "date": "2026-09-20",
- "date_label": "September 20",
- "location": "Houston",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-20.png?v=5915dfd7afe5",
+ "generated_at": "2026-09-21T10:59:44.700038-06:00",
+ "generated_at_epoch": 1790009984,
+ "date": "2026-09-21",
+ "date_label": "September 21",
+ "location": "New York",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-21.png?v=80dd803282ae",
  "fallback": false,
  "yesterday": {
-  "answer": "Tehran UFO incident alarms Iranian pilots, 1976",
-  "wiki_url": "https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident"
+  "answer": "Billie Jean King beats Bobby Riggs, 1973",
+  "wiki_url": "https://en.wikipedia.org/wiki/Billie_Jean_King"
  }
 }
