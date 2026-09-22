@@ -1,11 +1,11 @@
 {
- "word": "ciderkin",
- "pronunciation": "SY-der-kin",
+ "word": "equilux",
+ "pronunciation": "EE-kwih-luks",
  "part_of_speech": "noun",
- "definition": "A weak, second-run cider made by adding water to apple pomace after the first pressing and letting it ferment.",
- "etymology": "In the cider country, the leftover crushed apples were not quite done: “cider” took the diminutive suffix “-kin,” naming the smaller, weaker drink coaxed from the pomace.",
- "usage": "By the autumn equinox, the press had yielded its cider, and the farmhands were setting aside pomace for ciderkin.",
+ "definition": "The date on which daylight and darkness are of nearly equal length; unlike the equinox, it usually falls a few days later.",
+ "etymology": "A modern learned coinage joining Latin aequus, “equal,” to lux, “light”: literally, “equal light.” It names the small calendrical correction to the equinox’s promise of equal day and night.",
+ "usage": "Around the September equinox, the equilux arrives when the day’s light and dark finally come close to matching.",
  "schema": 1,
- "generated_at_epoch": 1790008636,
- "date": "2026-09-21"
+ "generated_at_epoch": 1790089868,
+ "date": "2026-09-22"
 }
