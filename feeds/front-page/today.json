@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1790009984,
- "edition_date": "2026-09-21",
- "event_date_label": "September 20",
- "year": 1973,
- "location": "Houston",
- "headline": "KING ROUTS RIGGS IN ASTRODOME TENNIS MATCH",
- "dispatch": "Billie Jean King defeated Bobby Riggs in straight sets, 6-4, 6-3, 6-3, before a packed Houston Astrodome and an international television audience. The widely billed Battle of the Sexes ended with King controlling the court against the 55-year-old former champion.",
- "answer": "Billie Jean King beats Bobby Riggs, 1973",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-20.png?v=5915dfd7afe5",
+ "generated_at_epoch": 1790091051,
+ "edition_date": "2026-09-22",
+ "event_date_label": "September 21",
+ "year": 1776,
+ "location": "New York",
+ "headline": "DREAD FIRE SWEEPS NEW-YORK",
+ "dispatch": "NEW-YORK, Sept. 22. A fierce fire broke out last night in the British-held city and ran rapidly through its close-built streets. Hundreds of houses and shops have been consumed, with estimates of the loss reaching as many as a thousand buildings; the origin remains in dispute.",
+ "answer": "Great Fire of New York erupts, 1776",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-21.png?v=80dd803282ae",
  "first_run": false
 }

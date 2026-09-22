@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-21T10:59:44.700038-06:00",
- "generated_at_epoch": 1790009984,
- "date": "2026-09-21",
- "date_label": "September 21",
- "location": "New York",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-21.png?v=80dd803282ae",
+ "generated_at": "2026-09-22T09:30:51.340167-06:00",
+ "generated_at_epoch": 1790091051,
+ "date": "2026-09-22",
+ "date_label": "September 22",
+ "location": "Leipzig",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-22.png?v=220a713911b2",
  "fallback": false,
  "yesterday": {
-  "answer": "Billie Jean King beats Bobby Riggs, 1973",
-  "wiki_url": "https://en.wikipedia.org/wiki/Billie_Jean_King"
+  "answer": "Great Fire of New York erupts, 1776",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
  }
 }

@@ -1470,5 +1470,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-21.png?v=80dd803282ae",
   "fallback": false,
   "generated_at": "2026-09-21T10:59:44.700038-06:00"
+ },
+ {
+  "date": "2026-09-22",
+  "date_label": "September 22",
+  "location": "Leipzig",
+  "answer": "Bach premieres Cantata BWV 17 in Leipzig, 1726",
+  "wiki_url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+  "title": "Bach premieres a Leipzig cantata",
+  "year": 1726,
+  "category": "art",
+  "image_prompt": "Inside a Lutheran church moments before the first downbeat, Johann Sebastian Bach stands at a small organ with one hand raised to conduct; choirboys clutch open music sheets, a violinist holds bow just above the strings, and the hushed congregation waits beneath tall arched windows. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "NEW CANTATA HEARD AT ST. THOMAS'S",
+  "dispatch": "Leipzig, Sept. 23. Johann Sebastian Bach yesterday directed the first performance of his new church cantata, Wer Dank opfert, der preiset mich, at St. Thomas's. The work, scored for chorus, solo voices and instruments, was given during the Sunday service.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-22.png?v=220a713911b2",
+  "fallback": false,
+  "generated_at": "2026-09-22T09:30:51.340167-06:00"
  }
 ]
