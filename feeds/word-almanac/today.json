@@ -1,11 +1,11 @@
 {
- "word": "equilux",
- "pronunciation": "EE-kwih-luks",
+ "word": "harvestide",
+ "pronunciation": "HAHR-vist-tyde",
  "part_of_speech": "noun",
- "definition": "The date on which daylight and darkness are of nearly equal length; unlike the equinox, it usually falls a few days later.",
- "etymology": "A modern learned coinage joining Latin aequus, “equal,” to lux, “light”: literally, “equal light.” It names the small calendrical correction to the equinox’s promise of equal day and night.",
- "usage": "Around the September equinox, the equilux arrives when the day’s light and dark finally come close to matching.",
+ "definition": "The season or time of harvest; especially early autumn.",
+ "etymology": "English joined harvest to tide, an old word for a period or season. The sea’s tide acquired its modern sense from that older notion of a recurring time.",
+ "usage": "With the equinox near, the fields had entered harvestide.",
  "schema": 1,
- "generated_at_epoch": 1790089868,
- "date": "2026-09-22"
+ "generated_at_epoch": 1790176325,
+ "date": "2026-09-23"
 }
