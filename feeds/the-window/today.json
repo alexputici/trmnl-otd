@@ -1,15 +1,15 @@
 {
- "kind": "aurora",
- "headline": "The north has a real opening.",
- "observation": "Kp 5.3 meets 1% cloud near 9 p.m..",
- "action": "Step outside during 8-10 p.m. and look north.",
- "signal": "Kp 5.3",
- "current": 8,
+ "kind": "quiet",
+ "headline": "An ordinary day outside.",
+ "observation": "Nothing in the forecast is scarce enough to rearrange the day.",
+ "action": "Go when you want. The forecast makes no claim on you.",
+ "signal": "No rare window",
+ "current": 14,
  "high": 20,
  "low": 5,
  "aqi": 60,
  "light": "12h 08m",
  "schema": 1,
- "generated_at_epoch": 1790176325,
+ "generated_at_epoch": 1790182569,
  "date": "2026-09-23"
 }
