@@ -1486,5 +1486,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-22.png?v=220a713911b2",
   "fallback": false,
   "generated_at": "2026-09-22T09:30:51.340167-06:00"
+ },
+ {
+  "date": "2026-09-23",
+  "date_label": "September 23",
+  "location": "Tarrytown",
+  "answer": "Patriots capture John André, exposing Arnold's plot, 1780",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+  "title": "John André Captured",
+  "year": 1780,
+  "category": "politics",
+  "image_prompt": "A tense woodland road above the Hudson River: three rough Patriot militiamen abruptly halt a finely dressed lone rider, one musket raised while the startled horse rears and the rider clutches his coat; a British warship is a tiny dark shape on the distant river. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "MAJOR ANDRÉ TAKEN WITH PAPERS OF WEST POINT",
+  "dispatch": "TARRYTOWN, Sept. 24. Three New York militiamen yesterday stopped a stranger riding southward and found military papers concealed in his stockings. The prisoner, identifying himself as Major John André of the British army, was sent under guard to the Continental command; the documents bear General Arnold's hand.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-23.png?v=7dc3bff5fc65",
+  "fallback": false,
+  "generated_at": "2026-09-23T09:26:15.099398-06:00"
  }
 ]

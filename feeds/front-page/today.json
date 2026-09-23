@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1790091051,
- "edition_date": "2026-09-22",
- "event_date_label": "September 21",
- "year": 1776,
- "location": "New York",
- "headline": "DREAD FIRE SWEEPS NEW-YORK",
- "dispatch": "NEW-YORK, Sept. 22. A fierce fire broke out last night in the British-held city and ran rapidly through its close-built streets. Hundreds of houses and shops have been consumed, with estimates of the loss reaching as many as a thousand buildings; the origin remains in dispute.",
- "answer": "Great Fire of New York erupts, 1776",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-21.png?v=80dd803282ae",
+ "generated_at_epoch": 1790177175,
+ "edition_date": "2026-09-23",
+ "event_date_label": "September 22",
+ "year": 1726,
+ "location": "Leipzig",
+ "headline": "NEW CANTATA HEARD AT ST. THOMAS'S",
+ "dispatch": "Leipzig, Sept. 23. Johann Sebastian Bach yesterday directed the first performance of his new church cantata, Wer Dank opfert, der preiset mich, at St. Thomas's. The work, scored for chorus, solo voices and instruments, was given during the Sunday service.",
+ "answer": "Bach premieres Cantata BWV 17 in Leipzig, 1726",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-22.png?v=220a713911b2",
  "first_run": false
 }
