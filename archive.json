@@ -1502,5 +1502,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-23.png?v=7dc3bff5fc65",
   "fallback": false,
   "generated_at": "2026-09-23T09:26:15.099398-06:00"
+ },
+ {
+  "date": "2026-09-24",
+  "date_label": "September 24",
+  "location": "Kagoshima",
+  "answer": "Imperial troops defeat Satsuma rebels at Shiroyama, 1877",
+  "wiki_url": "https://en.wikipedia.org/wiki/Battle_of_Shiroyama",
+  "title": "Samurai last stand at Shiroyama",
+  "year": 1877,
+  "category": "politics",
+  "image_prompt": "At dawn on a steep, smoke-wreathed Japanese hillside, a small band of exhausted samurai in battered armor surge from behind rocks with swords raised, while a long disciplined line of riflemen below braces with fingers on triggers; one fallen banner snaps in the wind, and a commanding samurai stands exposed on the ridge in the instant before the volley. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "IMPERIAL TROOPS CRUSH SATSUMA REBELS AT SHIROYAMA",
+  "dispatch": "KAGOSHIMA, Sept. 25. Imperial troops have carried the rebel position on Shiroyama after a final assault on the Satsuma stronghold. Saigo Takamori, leader of the rebellion against the new government, is reported dead, and organized resistance in the field has ended.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-24.png?v=72830fb3815d",
+  "fallback": false,
+  "generated_at": "2026-09-24T09:49:21.149728-06:00"
  }
 ]

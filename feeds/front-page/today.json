@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1790177175,
- "edition_date": "2026-09-23",
- "event_date_label": "September 22",
- "year": 1726,
- "location": "Leipzig",
- "headline": "NEW CANTATA HEARD AT ST. THOMAS'S",
- "dispatch": "Leipzig, Sept. 23. Johann Sebastian Bach yesterday directed the first performance of his new church cantata, Wer Dank opfert, der preiset mich, at St. Thomas's. The work, scored for chorus, solo voices and instruments, was given during the Sunday service.",
- "answer": "Bach premieres Cantata BWV 17 in Leipzig, 1726",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-22.png?v=220a713911b2",
+ "generated_at_epoch": 1790264961,
+ "edition_date": "2026-09-24",
+ "event_date_label": "September 23",
+ "year": 1780,
+ "location": "Tarrytown",
+ "headline": "MAJOR ANDRÉ TAKEN WITH PAPERS OF WEST POINT",
+ "dispatch": "TARRYTOWN, Sept. 24. Three New York militiamen yesterday stopped a stranger riding southward and found military papers concealed in his stockings. The prisoner, identifying himself as Major John André of the British army, was sent under guard to the Continental command; the documents bear General Arnold's hand.",
+ "answer": "Patriots capture John André, exposing Arnold's plot, 1780",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-23.png?v=7dc3bff5fc65",
  "first_run": false
 }
