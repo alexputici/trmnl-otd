@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1790264961,
- "edition_date": "2026-09-24",
- "event_date_label": "September 23",
- "year": 1780,
- "location": "Tarrytown",
- "headline": "MAJOR ANDRÉ TAKEN WITH PAPERS OF WEST POINT",
- "dispatch": "TARRYTOWN, Sept. 24. Three New York militiamen yesterday stopped a stranger riding southward and found military papers concealed in his stockings. The prisoner, identifying himself as Major John André of the British army, was sent under guard to the Continental command; the documents bear General Arnold's hand.",
- "answer": "Patriots capture John André, exposing Arnold's plot, 1780",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-23.png?v=7dc3bff5fc65",
+ "generated_at_epoch": 1790351334,
+ "edition_date": "2026-09-25",
+ "event_date_label": "September 24",
+ "year": 1877,
+ "location": "Kagoshima",
+ "headline": "IMPERIAL TROOPS CRUSH SATSUMA REBELS AT SHIROYAMA",
+ "dispatch": "KAGOSHIMA, Sept. 25. Imperial troops have carried the rebel position on Shiroyama after a final assault on the Satsuma stronghold. Saigo Takamori, leader of the rebellion against the new government, is reported dead, and organized resistance in the field has ended.",
+ "answer": "Imperial troops defeat Satsuma rebels at Shiroyama, 1877",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-24.png?v=72830fb3815d",
  "first_run": false
 }

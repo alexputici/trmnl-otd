@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-24T09:49:21.149728-06:00",
- "generated_at_epoch": 1790264961,
- "date": "2026-09-24",
- "date_label": "September 24",
- "location": "Kagoshima",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-24.png?v=72830fb3815d",
+ "generated_at": "2026-09-25T09:48:54.495770-06:00",
+ "generated_at_epoch": 1790351334,
+ "date": "2026-09-25",
+ "date_label": "September 25",
+ "location": "Maze Prison",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-25.png?v=4e5290cf2e51",
  "fallback": false,
  "yesterday": {
-  "answer": "Patriots capture John André, exposing Arnold's plot, 1780",
-  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+  "answer": "Imperial troops defeat Satsuma rebels at Shiroyama, 1877",
+  "wiki_url": "https://en.wikipedia.org/wiki/Battle_of_Shiroyama"
  }
 }

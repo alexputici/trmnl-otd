@@ -1518,5 +1518,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-24.png?v=72830fb3815d",
   "fallback": false,
   "generated_at": "2026-09-24T09:49:21.149728-06:00"
+ },
+ {
+  "date": "2026-09-25",
+  "date_label": "September 25",
+  "location": "Maze Prison",
+  "answer": "Thirty-eight IRA prisoners escape Maze prison, 1983",
+  "wiki_url": "https://en.wikipedia.org/wiki/Maze_Prison_escape",
+  "title": "Maze prison break",
+  "year": 1983,
+  "category": "other",
+  "image_prompt": "Ten seconds before a prison break, a hijacked meals lorry waits at a checkpoint inside a high-security prison compound, its driver held rigid in the cab while several prisoners in guards' uniforms crowd behind him; a barrier gate is just beginning to rise, watchtowers loom above razor wire, and one wary sentry turns toward the truck. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "THIRTY-EIGHT PRISONERS BREAK OUT OF MAZE",
+  "dispatch": "County Antrim, Sept. 26. Thirty-eight Provisional IRA prisoners escaped from HM Prison Maze yesterday after seizing control of a meals lorry. The vehicle passed through prison checkpoints before the men scattered beyond the compound, prompting a major security search.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-25.png?v=4e5290cf2e51",
+  "fallback": false,
+  "generated_at": "2026-09-25T09:48:54.495770-06:00"
  }
 ]
