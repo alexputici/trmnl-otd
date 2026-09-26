@@ -1,15 +1,15 @@
 {
  "kind": "full-moon",
  "headline": "The full moon gets a clear hour.",
- "observation": "A 99% moon meets open sky from 9 p.m.-2 a.m..",
- "action": "Take the long look during 9 p.m.-2 a.m.. No telescope required.",
- "signal": "9 p.m.-2 a.m.",
- "current": 22,
- "high": 22,
+ "observation": "A 100% moon meets open sky from 11 p.m.-4 a.m..",
+ "action": "Take the long look during 11 p.m.-4 a.m.. No telescope required.",
+ "signal": "11 p.m.-4 a.m.",
+ "current": 11,
+ "high": 23,
  "low": 7,
- "aqi": 55,
+ "aqi": 51,
  "light": "12h 00m",
  "schema": 1,
- "generated_at_epoch": 1790372030,
+ "generated_at_epoch": 1790398586,
  "date": "2026-09-25"
 }
