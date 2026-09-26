@@ -1534,5 +1534,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-25.png?v=4e5290cf2e51",
   "fallback": false,
   "generated_at": "2026-09-25T09:48:54.495770-06:00"
+ },
+ {
+  "date": "2026-09-26",
+  "date_label": "September 26",
+  "location": "Newport",
+  "answer": "Australia II wins the America's Cup, 1983",
+  "wiki_url": "https://en.wikipedia.org/wiki/Yacht_racing",
+  "title": "Australia II nears the finish",
+  "year": 1983,
+  "category": "sport",
+  "image_prompt": "Ten seconds before the finish of a great yacht race: a sleek racing yacht heels hard under a billowing spinnaker, its crew crouched along the rail and straining at lines, the finish buoy just ahead while a rival sailboat trails in choppy spray; crowded spectator launches line the distant harbor, every sail and rope taut with suspense. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "AUSTRALIA II WRESTS AMERICA'S CUP FROM NEW YORK YACHT CLUB",
+  "dispatch": "Australia II, sailed by John Bertrand, crossed first off Newport to take the America's Cup from Liberty. The victory ended the New York Yacht Club's 132-year command of the trophy and sent Australian crews and supporters into celebration.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-26.png?v=c07498eca617",
+  "fallback": false,
+  "generated_at": "2026-09-26T08:58:54.525087-06:00"
  }
 ]

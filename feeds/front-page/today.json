@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1790351334,
- "edition_date": "2026-09-25",
- "event_date_label": "September 24",
- "year": 1877,
- "location": "Kagoshima",
- "headline": "IMPERIAL TROOPS CRUSH SATSUMA REBELS AT SHIROYAMA",
- "dispatch": "KAGOSHIMA, Sept. 25. Imperial troops have carried the rebel position on Shiroyama after a final assault on the Satsuma stronghold. Saigo Takamori, leader of the rebellion against the new government, is reported dead, and organized resistance in the field has ended.",
- "answer": "Imperial troops defeat Satsuma rebels at Shiroyama, 1877",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-24.png?v=72830fb3815d",
+ "generated_at_epoch": 1790434734,
+ "edition_date": "2026-09-26",
+ "event_date_label": "September 25",
+ "year": 1983,
+ "location": "Maze Prison",
+ "headline": "THIRTY-EIGHT PRISONERS BREAK OUT OF MAZE",
+ "dispatch": "County Antrim, Sept. 26. Thirty-eight Provisional IRA prisoners escaped from HM Prison Maze yesterday after seizing control of a meals lorry. The vehicle passed through prison checkpoints before the men scattered beyond the compound, prompting a major security search.",
+ "answer": "Thirty-eight IRA prisoners escape Maze prison, 1983",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-25.png?v=4e5290cf2e51",
  "first_run": false
 }
