@@ -1,11 +1,11 @@
 {
- "word": "Michaelmas",
- "pronunciation": "MIK-əl-məs",
- "part_of_speech": "noun",
- "definition": "The feast of Saint Michael and All Angels, observed on September 29; traditionally one of England’s quarter days, when rents were due and terms began or ended.",
- "etymology": "Middle English joined Michael, the archangel’s name, to Mass: literally, “Michael’s Mass.” The name became attached not only to the feast but to the legal and agricultural turn of the season around it.",
- "usage": "With Michaelmas near, the tenancy was renewed and the hedgerows had begun to redden with haws.",
+ "word": "stook",
+ "pronunciation": "stook",
+ "part_of_speech": "noun; verb",
+ "definition": "A small, self-supporting stack of grain sheaves, set upright in a field to dry; also, to arrange sheaves in such stacks.",
+ "etymology": "First recorded in late Middle English, stook has a murky family history: it is probably Germanic, and may be related to words for a stump or upright block. The image is apt—a little cluster of cut grain standing firm in the field.",
+ "usage": "By late September, the last stooks stood gold and weather-darkened along the hedgerows.",
  "schema": 1,
- "generated_at_epoch": 1790350489,
- "date": "2026-09-25"
+ "generated_at_epoch": 1790433905,
+ "date": "2026-09-26"
 }
