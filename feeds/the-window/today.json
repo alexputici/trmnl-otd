@@ -4,12 +4,12 @@
  "observation": "A 99% moon meets open sky from 10 p.m.-8 a.m..",
  "action": "Take the long look during 10 p.m.-8 a.m.. No telescope required.",
  "signal": "10 p.m.-8 a.m.",
- "current": 2,
+ "current": 7,
  "high": 13,
  "low": -2,
- "aqi": 51,
+ "aqi": 52,
  "light": "11h 52m",
  "schema": 1,
- "generated_at_epoch": 1790522375,
+ "generated_at_epoch": 1790528234,
  "date": "2026-09-27"
 }
