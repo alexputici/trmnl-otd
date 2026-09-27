@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-26T08:58:54.525087-06:00",
- "generated_at_epoch": 1790434734,
- "date": "2026-09-26",
- "date_label": "September 26",
- "location": "Newport",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-26.png?v=c07498eca617",
+ "generated_at": "2026-09-27T09:37:57.340865-06:00",
+ "generated_at_epoch": 1790523477,
+ "date": "2026-09-27",
+ "date_label": "September 27",
+ "location": "Stockton",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-27.png?v=a3c45088dafd",
  "fallback": false,
  "yesterday": {
-  "answer": "Thirty-eight IRA prisoners escape Maze prison, 1983",
-  "wiki_url": "https://en.wikipedia.org/wiki/Maze_Prison_escape"
+  "answer": "Australia II wins the America's Cup, 1983",
+  "wiki_url": "https://en.wikipedia.org/wiki/Yacht_racing"
  }
 }
