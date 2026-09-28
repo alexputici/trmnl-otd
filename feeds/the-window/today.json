@@ -1,15 +1,15 @@
 {
- "kind": "full-moon",
- "headline": "The full moon gets a clear hour.",
- "observation": "A 97% moon meets open sky from 12-8 a.m..",
- "action": "Take the long look during 12-8 a.m.. No telescope required.",
- "signal": "12-8 a.m.",
- "current": 6,
- "high": 15,
- "low": -2,
- "aqi": 53,
- "light": "11h 52m",
+ "kind": "warming",
+ "headline": "A warm turn arrives.",
+ "observation": "The temperature climbs 17 degrees from now to 5 p.m..",
+ "action": "Trade the morning layer for the late afternoon.",
+ "signal": "+17° · 5 p.m.",
+ "current": 1,
+ "high": 18,
+ "low": 1,
+ "aqi": 52,
+ "light": "11h 48m",
  "schema": 1,
- "generated_at_epoch": 1790572896,
- "date": "2026-09-27"
+ "generated_at_epoch": 1790603469,
+ "date": "2026-09-28"
 }
