@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1790523477,
- "edition_date": "2026-09-27",
- "event_date_label": "September 26",
- "year": 1983,
- "location": "Newport",
- "headline": "AUSTRALIA II WRESTS AMERICA'S CUP FROM NEW YORK YACHT CLUB",
- "dispatch": "Australia II, sailed by John Bertrand, crossed first off Newport to take the America's Cup from Liberty. The victory ended the New York Yacht Club's 132-year command of the trophy and sent Australian crews and supporters into celebration.",
- "answer": "Australia II wins the America's Cup, 1983",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-26.png?v=c07498eca617",
+ "generated_at_epoch": 1790620553,
+ "edition_date": "2026-09-28",
+ "event_date_label": "September 27",
+ "year": 1825,
+ "location": "Stockton",
+ "headline": "STEAM CARRIAGE OPENS THE STOCKTON & DARLINGTON LINE",
+ "dispatch": "Stockton, Sept. 28. Locomotion No. 1 yesterday drew the opening train of the Stockton and Darlington Railway, carrying passengers and wagons along the new line. The engine, built for the railway by George Stephenson, made the journey before large crowds gathered beside the track.",
+ "answer": "Locomotion No. 1 opens the railway, 1825",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-27.png?v=a3c45088dafd",
  "first_run": false
 }

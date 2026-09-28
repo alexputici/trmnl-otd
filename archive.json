@@ -1566,5 +1566,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-27.png?v=a3c45088dafd",
   "fallback": false,
   "generated_at": "2026-09-27T09:37:57.340865-06:00"
+ },
+ {
+  "date": "2026-09-28",
+  "date_label": "September 28",
+  "location": "Seattle",
+  "answer": "U.S. fliers complete first aerial world circuit, 1924",
+  "wiki_url": "https://en.wikipedia.org/wiki/United_States_Army_Air_Service",
+  "title": "First aerial circumnavigation completed",
+  "year": 1924,
+  "category": "exploration",
+  "image_prompt": "Ten seconds before touchdown, two weary open-cockpit biplanes skim low over choppy harbor water toward a crowded shoreline, their pontoons almost touching the surface; bundled pilots lean forward beneath goggles while launch boats and a dense cheering crowd wait at the pier, one aircraft slightly ahead of the other. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "ARMY FLIERS COMPLETE FLIGHT AROUND THE WORLD",
+  "dispatch": "United States Army Air Service aviators landed at Seattle yesterday, ending the first aerial circumnavigation of the globe. The expedition had crossed oceans and continents in adapted open-cockpit machines, returning to the city from which it set out more than five months ago.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-28.png?v=4232a547f02d",
+  "fallback": false,
+  "generated_at": "2026-09-28T12:35:53.628244-06:00"
  }
 ]
