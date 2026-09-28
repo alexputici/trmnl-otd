@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-09-27.png?v=4c02f7f38e5e",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-09-28.png?v=c87726c8a5bf",
  "to_move": "Black",
- "rating": 1812,
- "moves_to_win": 2,
- "puzzle_url": "https://lichess.org/training/qi24x",
+ "rating": 2057,
+ "moves_to_win": 3,
+ "puzzle_url": "https://lichess.org/training/Woc1R",
  "yesterday": {
-  "solution": "d7 Qxd7 Qxd7",
-  "rating": 1859
+  "solution": "Qxa2+ Kxa2 Ra5#",
+  "rating": 1812
  },
  "schema": 1,
- "generated_at_epoch": 1790522375,
- "date": "2026-09-27"
+ "generated_at_epoch": 1790619385,
+ "date": "2026-09-28"
 }
