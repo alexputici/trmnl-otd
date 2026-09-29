@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1790620553,
- "edition_date": "2026-09-28",
- "event_date_label": "September 27",
- "year": 1825,
- "location": "Stockton",
- "headline": "STEAM CARRIAGE OPENS THE STOCKTON & DARLINGTON LINE",
- "dispatch": "Stockton, Sept. 28. Locomotion No. 1 yesterday drew the opening train of the Stockton and Darlington Railway, carrying passengers and wagons along the new line. The engine, built for the railway by George Stephenson, made the journey before large crowds gathered beside the track.",
- "answer": "Locomotion No. 1 opens the railway, 1825",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-27.png?v=a3c45088dafd",
+ "generated_at_epoch": 1790700804,
+ "edition_date": "2026-09-29",
+ "event_date_label": "September 28",
+ "year": 1924,
+ "location": "Seattle",
+ "headline": "ARMY FLIERS COMPLETE FLIGHT AROUND THE WORLD",
+ "dispatch": "United States Army Air Service aviators landed at Seattle yesterday, ending the first aerial circumnavigation of the globe. The expedition had crossed oceans and continents in adapted open-cockpit machines, returning to the city from which it set out more than five months ago.",
+ "answer": "U.S. fliers complete first aerial world circuit, 1924",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-28.png?v=4232a547f02d",
  "first_run": false
 }

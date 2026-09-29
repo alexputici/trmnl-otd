@@ -1582,5 +1582,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-28.png?v=4232a547f02d",
   "fallback": false,
   "generated_at": "2026-09-28T12:35:53.628244-06:00"
+ },
+ {
+  "date": "2026-09-29",
+  "date_label": "September 29",
+  "location": "Leipzig",
+  "answer": "Bach premieres Es erhub sich ein Streit, 1726",
+  "wiki_url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+  "title": "Bach's Michaelmas cantata",
+  "year": 1726,
+  "category": "art",
+  "image_prompt": "Inside a crowded Lutheran church, a wigged kapellmeister stands at the conductor's desk with his raised hand suspended a breath before the downbeat; choirboys clutch open music, trumpeters hold their instruments poised, and the congregation waits in absolute stillness. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "BACH LEADS NEW MICHAELMAS CANTATA IN LEIPZIG",
+  "dispatch": "Johann Sebastian Bach led the first performance of his new Michaelmas cantata in Leipzig on Sunday. Choir, strings and trumpets answered the work's martial opening for the feast of St Michael.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-29.png?v=841f3cc517dd",
+  "fallback": false,
+  "generated_at": "2026-09-29T10:53:24.488588-06:00"
  }
 ]

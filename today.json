@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-28T12:35:53.628244-06:00",
- "generated_at_epoch": 1790620553,
- "date": "2026-09-28",
- "date_label": "September 28",
- "location": "Seattle",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-28.png?v=4232a547f02d",
+ "generated_at": "2026-09-29T10:53:24.488588-06:00",
+ "generated_at_epoch": 1790700804,
+ "date": "2026-09-29",
+ "date_label": "September 29",
+ "location": "Leipzig",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-29.png?v=841f3cc517dd",
  "fallback": false,
  "yesterday": {
-  "answer": "Locomotion No. 1 opens the railway, 1825",
-  "wiki_url": "https://en.wikipedia.org/wiki/Locomotion_No._1"
+  "answer": "U.S. fliers complete first aerial world circuit, 1924",
+  "wiki_url": "https://en.wikipedia.org/wiki/United_States_Army_Air_Service"
  }
 }
