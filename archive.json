@@ -1598,5 +1598,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-29.png?v=841f3cc517dd",
   "fallback": false,
   "generated_at": "2026-09-29T10:53:24.488588-06:00"
+ },
+ {
+  "date": "2026-09-30",
+  "date_label": "September 30",
+  "location": "Cholame",
+  "answer": "James Dean is killed in a California crash, 1955",
+  "wiki_url": "https://en.wikipedia.org/wiki/James_Dean",
+  "title": "James Dean nears the fatal crash",
+  "year": 1955,
+  "category": "disaster",
+  "image_prompt": "On a sun-blasted two-lane California highway at dusk, a low silver sports car rounds a slight rise while a dark sedan emerges in the opposite lane, both drivers visible through their windscreens, telephone poles and dry golden hills framing the narrowing strip of asphalt; the instant before impact, palpable stillness and danger. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "JAMES DEAN KILLED IN HIGHWAY CRASH",
+  "dispatch": "James Dean, 24, film actor of Rebel Without a Cause, died after his sports car collided with another automobile near Cholame, Calif. The crash occurred on the highway at the junction leading toward Paso Robles, where Dean was driving west in his Porsche.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-30.png?v=bab431d40399",
+  "fallback": false,
+  "generated_at": "2026-09-30T10:49:10.021811-06:00"
  }
 ]

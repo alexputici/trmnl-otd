@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1790700804,
- "edition_date": "2026-09-29",
- "event_date_label": "September 28",
- "year": 1924,
- "location": "Seattle",
- "headline": "ARMY FLIERS COMPLETE FLIGHT AROUND THE WORLD",
- "dispatch": "United States Army Air Service aviators landed at Seattle yesterday, ending the first aerial circumnavigation of the globe. The expedition had crossed oceans and continents in adapted open-cockpit machines, returning to the city from which it set out more than five months ago.",
- "answer": "U.S. fliers complete first aerial world circuit, 1924",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-28.png?v=4232a547f02d",
+ "generated_at_epoch": 1790786950,
+ "edition_date": "2026-09-30",
+ "event_date_label": "September 29",
+ "year": 1726,
+ "location": "Leipzig",
+ "headline": "BACH LEADS NEW MICHAELMAS CANTATA IN LEIPZIG",
+ "dispatch": "Johann Sebastian Bach led the first performance of his new Michaelmas cantata in Leipzig on Sunday. Choir, strings and trumpets answered the work's martial opening for the feast of St Michael.",
+ "answer": "Bach premieres Es erhub sich ein Streit, 1726",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-29.png?v=841f3cc517dd",
  "first_run": false
 }
