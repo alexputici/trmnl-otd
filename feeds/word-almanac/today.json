@@ -1,11 +1,11 @@
 {
- "word": "raddle",
- "pronunciation": "RAD-əl",
- "part_of_speech": "noun; verb",
- "definition": "A red ochre or other colored marking substance, especially one rubbed on a ram’s breast so that the ewes he serves are marked; by extension, to mark in this way.",
- "etymology": "In Middle English, raddle named red ochre. The word probably grew from the Old English family of read, “red”: first the earth-color, then the sheep farmer’s practical paint.",
- "usage": "As the breeding season begins, the shepherd raddles the ram, so each newly marked ewe tells her own small calendar story.",
+ "word": "eddish",
+ "pronunciation": "ED-ish",
+ "part_of_speech": "noun",
+ "definition": "The fresh grass that springs up after a meadow has been mown; aftermath. In some dialects, it can also mean the remaining stubble in a harvested field.",
+ "etymology": "It comes from Old English edisc, meaning an enclosed pasture or park. Over time, the word settled on the particular pasture-growth that returns after the hay has gone—a small green encore at summer’s end.",
+ "usage": "By September’s close, the meadow had put out a tender eddish, bright against the cut hay.",
  "schema": 1,
- "generated_at_epoch": 1790699942,
- "date": "2026-09-29"
+ "generated_at_epoch": 1790785876,
+ "date": "2026-09-30"
 }
