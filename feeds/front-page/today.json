@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1790786950,
- "edition_date": "2026-09-30",
- "event_date_label": "September 29",
- "year": 1726,
- "location": "Leipzig",
- "headline": "BACH LEADS NEW MICHAELMAS CANTATA IN LEIPZIG",
- "dispatch": "Johann Sebastian Bach led the first performance of his new Michaelmas cantata in Leipzig on Sunday. Choir, strings and trumpets answered the work's martial opening for the feast of St Michael.",
- "answer": "Bach premieres Es erhub sich ein Streit, 1726",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-29.png?v=841f3cc517dd",
+ "generated_at_epoch": 1790875318,
+ "edition_date": "2026-10-01",
+ "event_date_label": "September 30",
+ "year": 1955,
+ "location": "Cholame",
+ "headline": "JAMES DEAN KILLED IN HIGHWAY CRASH",
+ "dispatch": "James Dean, 24, film actor of Rebel Without a Cause, died after his sports car collided with another automobile near Cholame, Calif. The crash occurred on the highway at the junction leading toward Paso Robles, where Dean was driving west in his Porsche.",
+ "answer": "James Dean is killed in a California crash, 1955",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-30.png?v=bab431d40399",
  "first_run": false
 }

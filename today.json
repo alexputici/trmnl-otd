@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-09-30T10:49:10.021811-06:00",
- "generated_at_epoch": 1790786950,
- "date": "2026-09-30",
- "date_label": "September 30",
- "location": "Cholame",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-30.png?v=bab431d40399",
+ "generated_at": "2026-10-01T11:21:58.926482-06:00",
+ "generated_at_epoch": 1790875318,
+ "date": "2026-10-01",
+ "date_label": "October 1",
+ "location": "Manila",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-01.png?v=25ec4f85f1b9",
  "fallback": false,
  "yesterday": {
-  "answer": "Bach premieres Es erhub sich ein Streit, 1726",
-  "wiki_url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach"
+  "answer": "James Dean is killed in a California crash, 1955",
+  "wiki_url": "https://en.wikipedia.org/wiki/James_Dean"
  }
 }

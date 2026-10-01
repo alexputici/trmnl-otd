@@ -1614,5 +1614,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/09-30.png?v=bab431d40399",
   "fallback": false,
   "generated_at": "2026-09-30T10:49:10.021811-06:00"
+ },
+ {
+  "date": "2026-10-01",
+  "date_label": "October 1",
+  "location": "Manila",
+  "answer": "Muhammad Ali defeats Joe Frazier in Manila, 1975",
+  "wiki_url": "https://en.wikipedia.org/wiki/Muhammad_Ali",
+  "title": "Ali and Frazier before the final stoppage",
+  "year": 1975,
+  "category": "sport",
+  "image_prompt": "Inside a sweltering boxing arena, ten seconds before the contest is stopped: a battered heavyweight slumps on a stool in the near corner while his trainer leans forward with one hand raised to intervene; across the ring, his exhausted rival sits beneath harsh lamps, gloves on knees, as a referee watches tensely. Packed ringside spectators press into darkness beyond the ropes. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "ALI STOPS FRAZIER AFTER FOURTEEN SAVAGE ROUNDS",
+  "dispatch": "MANILA, Oct. 1. Muhammad Ali retained the heavyweight championship when Joe Frazier's corner declined to send its man out for the fifteenth round at the Araneta Coliseum. The brutal contest ended after fourteen rounds, with Frazier badly battered and Ali spent but standing.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-01.png?v=25ec4f85f1b9",
+  "fallback": false,
+  "generated_at": "2026-10-01T11:21:58.926482-06:00"
  }
 ]
