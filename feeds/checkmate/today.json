@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-09-30.png?v=4224668106e0",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-10-01.png?v=b3a001ea15cf",
  "to_move": "White",
- "rating": 2062,
- "moves_to_win": 4,
- "puzzle_url": "https://lichess.org/training/toZHG",
+ "rating": 2023,
+ "moves_to_win": 2,
+ "puzzle_url": "https://lichess.org/training/F5SwN",
  "yesterday": {
-  "solution": "f4 Bd6 c5 Bxc5 Bxc5",
-  "rating": 2020
+  "solution": "Rxe5 Rxe5 Qxe5 Qxd5 Bxf6 Qxe5 Bxe5",
+  "rating": 2062
  },
  "schema": 1,
- "generated_at_epoch": 1790785876,
- "date": "2026-09-30"
+ "generated_at_epoch": 1790874548,
+ "date": "2026-10-01"
 }

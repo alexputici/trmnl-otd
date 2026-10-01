@@ -1,11 +1,11 @@
 {
- "word": "eddish",
- "pronunciation": "ED-ish",
+ "word": "hibernaculum",
+ "pronunciation": "hy-bur-NAK-yuh-lum",
  "part_of_speech": "noun",
- "definition": "The fresh grass that springs up after a meadow has been mown; aftermath. In some dialects, it can also mean the remaining stubble in a harvested field.",
- "etymology": "It comes from Old English edisc, meaning an enclosed pasture or park. Over time, the word settled on the particular pasture-growth that returns after the hay has gone—a small green encore at summer’s end.",
- "usage": "By September’s close, the meadow had put out a tender eddish, bright against the cut hay.",
+ "definition": "A winter shelter or refuge, especially one used by an animal during hibernation.",
+ "etymology": "From Latin hibernaculum, “winter quarters,” formed from hibernare, “to pass the winter.” The word first named a place where people or troops wintered, then settled snugly into natural history.",
+ "usage": "As October cools the hedgerows, a pile of stones may become a hibernaculum for lizards, toads, and overwintering insects.",
  "schema": 1,
- "generated_at_epoch": 1790785876,
- "date": "2026-09-30"
+ "generated_at_epoch": 1790874548,
+ "date": "2026-10-01"
 }
