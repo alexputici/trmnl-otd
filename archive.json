@@ -1630,5 +1630,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-01.png?v=25ec4f85f1b9",
   "fallback": false,
   "generated_at": "2026-10-01T11:21:58.926482-06:00"
+ },
+ {
+  "date": "2026-10-02",
+  "date_label": "October 2",
+  "location": "Washington, D.C.",
+  "answer": "Thurgood Marshall joins U.S. Supreme Court, 1967",
+  "wiki_url": "https://en.wikipedia.org/wiki/Thurgood_Marshall",
+  "title": "Marshall takes the Supreme Court oath",
+  "year": 1967,
+  "category": "politics",
+  "image_prompt": "Inside the Supreme Court chamber, a solemn Black jurist stands before the bench with one hand hovering just above an open Bible, seconds before taking the oath; the chief justice waits behind the high bench, robed justices watch in shadow, and a clerk holds the oath document at the ready. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "MARSHALL SWORN AS HIGH COURT JUSTICE",
+  "dispatch": "Thurgood Marshall was sworn in yesterday as an associate justice of the United States Supreme Court. The former solicitor general, confirmed by the Senate in August, became the first African American to take a seat on the Court.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-02.png?v=1b5215b689fa",
+  "fallback": false,
+  "generated_at": "2026-10-02T10:37:13.608076-06:00"
  }
 ]

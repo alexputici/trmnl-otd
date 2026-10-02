@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-01T11:21:58.926482-06:00",
- "generated_at_epoch": 1790875318,
- "date": "2026-10-01",
- "date_label": "October 1",
- "location": "Manila",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-01.png?v=25ec4f85f1b9",
+ "generated_at": "2026-10-02T10:37:13.608076-06:00",
+ "generated_at_epoch": 1790959033,
+ "date": "2026-10-02",
+ "date_label": "October 2",
+ "location": "Washington, D.C.",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-02.png?v=1b5215b689fa",
  "fallback": false,
  "yesterday": {
-  "answer": "James Dean is killed in a California crash, 1955",
-  "wiki_url": "https://en.wikipedia.org/wiki/James_Dean"
+  "answer": "Muhammad Ali defeats Joe Frazier in Manila, 1975",
+  "wiki_url": "https://en.wikipedia.org/wiki/Muhammad_Ali"
  }
 }
