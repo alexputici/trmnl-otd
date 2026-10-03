@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1790959033,
- "edition_date": "2026-10-02",
- "event_date_label": "October 1",
- "year": 1975,
- "location": "Manila",
- "headline": "ALI STOPS FRAZIER AFTER FOURTEEN SAVAGE ROUNDS",
- "dispatch": "MANILA, Oct. 1. Muhammad Ali retained the heavyweight championship when Joe Frazier's corner declined to send its man out for the fifteenth round at the Araneta Coliseum. The brutal contest ended after fourteen rounds, with Frazier badly battered and Ali spent but standing.",
- "answer": "Muhammad Ali defeats Joe Frazier in Manila, 1975",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-01.png?v=25ec4f85f1b9",
+ "generated_at_epoch": 1791040134,
+ "edition_date": "2026-10-03",
+ "event_date_label": "October 2",
+ "year": 1967,
+ "location": "Washington, D.C.",
+ "headline": "MARSHALL SWORN AS HIGH COURT JUSTICE",
+ "dispatch": "Thurgood Marshall was sworn in yesterday as an associate justice of the United States Supreme Court. The former solicitor general, confirmed by the Senate in August, became the first African American to take a seat on the Court.",
+ "answer": "Thurgood Marshall joins U.S. Supreme Court, 1967",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-02.png?v=1b5215b689fa",
  "first_run": false
 }

@@ -1646,5 +1646,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-02.png?v=1b5215b689fa",
   "fallback": false,
   "generated_at": "2026-10-02T10:37:13.608076-06:00"
+ },
+ {
+  "date": "2026-10-03",
+  "date_label": "October 3",
+  "location": "Polo Grounds",
+  "answer": "Bobby Thomson's pennant-winning home run, 1951",
+  "wiki_url": "https://en.wikipedia.org/wiki/Major_League_Baseball",
+  "title": "Thomson awaits the pitch",
+  "year": 1951,
+  "category": "sport",
+  "image_prompt": "Ten seconds before a decisive late-game pitch in a packed 1950s ballpark: a tense right-handed batter grips his bat at home plate, the pitcher pauses on the mound for the sign, and two runners lead nervously from second and third. The grandstand crowd rises as one behind them, faces frozen in expectation; no signage, numbers, or lettering visible. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "THOMSON HOMER WINS PENNANT FOR GIANTS",
+  "dispatch": "NEW YORK, Oct. 4. Bobby Thomson's three-run homer in the ninth inning yesterday gave the New York Giants a 5-4 victory over Brooklyn at the Polo Grounds and the National League pennant. The drive came off Ralph Branca with two runners aboard and two men out.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-03.png?v=0dfe8c3d4f55",
+  "fallback": false,
+  "generated_at": "2026-10-03T09:08:54.996833-06:00"
  }
 ]

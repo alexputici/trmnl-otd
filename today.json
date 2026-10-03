@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-02T10:37:13.608076-06:00",
- "generated_at_epoch": 1790959033,
- "date": "2026-10-02",
- "date_label": "October 2",
- "location": "Washington, D.C.",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-02.png?v=1b5215b689fa",
+ "generated_at": "2026-10-03T09:08:54.996833-06:00",
+ "generated_at_epoch": 1791040134,
+ "date": "2026-10-03",
+ "date_label": "October 3",
+ "location": "Polo Grounds",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-03.png?v=0dfe8c3d4f55",
  "fallback": false,
  "yesterday": {
-  "answer": "Muhammad Ali defeats Joe Frazier in Manila, 1975",
-  "wiki_url": "https://en.wikipedia.org/wiki/Muhammad_Ali"
+  "answer": "Thurgood Marshall joins U.S. Supreme Court, 1967",
+  "wiki_url": "https://en.wikipedia.org/wiki/Thurgood_Marshall"
  }
 }
