@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-10-02.png?v=565a7f9627c1",
- "to_move": "White",
- "rating": 2083,
- "moves_to_win": 2,
- "puzzle_url": "https://lichess.org/training/oEurk",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-10-03.png?v=dd919c8bd103",
+ "to_move": "Black",
+ "rating": 2272,
+ "moves_to_win": 4,
+ "puzzle_url": "https://lichess.org/training/cYdei",
  "yesterday": {
-  "solution": "O-O-O Qa5 exf6",
-  "rating": 2023
+  "solution": "dxc6 Bxd2 cxb7",
+  "rating": 2083
  },
  "schema": 1,
- "generated_at_epoch": 1790958147,
- "date": "2026-10-02"
+ "generated_at_epoch": 1791039377,
+ "date": "2026-10-03"
 }
