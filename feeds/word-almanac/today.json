@@ -1,11 +1,11 @@
 {
- "word": "sough",
- "pronunciation": "/saʊ/ (rhymes with “now”)",
- "part_of_speech": "noun; verb",
- "definition": "A low, murmuring, sigh-like sound, especially that of wind moving through trees; to make such a sound.",
- "etymology": "It comes from Old English swōgan, “to make a sound,” with a Scandinavian cousin in Old Norse súga. The word itself seems to echo the long hush it names.",
- "usage": "By early October, the maples had begun to sough above the lane.",
+ "word": "psithurism",
+ "pronunciation": "SITH-yuh-riz-əm",
+ "part_of_speech": "noun",
+ "definition": "The soft whispering or rustling sound of wind moving through leaves.",
+ "etymology": "A nineteenth-century English formation from Greek psithyrismos, “whispering,” itself from psithyrein, “to whisper.” The ancient whisper became, in English, the voice of foliage.",
+ "usage": "October’s first cool wind filled the sycamores with psithurism.",
  "schema": 1,
- "generated_at_epoch": 1791039377,
- "date": "2026-10-03"
+ "generated_at_epoch": 1791127837,
+ "date": "2026-10-04"
 }
