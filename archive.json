@@ -1662,5 +1662,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-03.png?v=0dfe8c3d4f55",
   "fallback": false,
   "generated_at": "2026-10-03T09:08:54.996833-06:00"
+ },
+ {
+  "date": "2026-10-04",
+  "date_label": "October 4",
+  "location": "Mount Rushmore",
+  "answer": "Carving of Mount Rushmore begins, 1927",
+  "wiki_url": "https://en.wikipedia.org/wiki/Gutzon_Borglum",
+  "title": "Mount Rushmore carving begins",
+  "year": 1927,
+  "category": "art",
+  "image_prompt": "Ten seconds before the first chisel bites into a towering granite mountainside, a sculptor in a brimmed hat stands on a precarious timber platform with mallet raised, while rope-slung workers cling to ladders beside him and drilling tools wait against the raw rock face; pine-covered Black Hills recede below. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "WORK BEGINS ON GREAT BLACK HILLS MEMORIAL",
+  "dispatch": "Sculptor Gutzon Borglum and a large work crew yesterday began cutting into a granite face in the Black Hills. The undertaking is intended to form a vast memorial in stone, with workers using scaffolds, drills and hand tools high above the valley.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-04.png?v=6dd80648ebe8",
+  "fallback": false,
+  "generated_at": "2026-10-04T09:47:21.658393-06:00"
  }
 ]

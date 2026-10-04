@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-03T09:08:54.996833-06:00",
- "generated_at_epoch": 1791040134,
- "date": "2026-10-03",
- "date_label": "October 3",
- "location": "Polo Grounds",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-03.png?v=0dfe8c3d4f55",
+ "generated_at": "2026-10-04T09:47:21.658393-06:00",
+ "generated_at_epoch": 1791128841,
+ "date": "2026-10-04",
+ "date_label": "October 4",
+ "location": "Mount Rushmore",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-04.png?v=6dd80648ebe8",
  "fallback": false,
  "yesterday": {
-  "answer": "Thurgood Marshall joins U.S. Supreme Court, 1967",
-  "wiki_url": "https://en.wikipedia.org/wiki/Thurgood_Marshall"
+  "answer": "Bobby Thomson's pennant-winning home run, 1951",
+  "wiki_url": "https://en.wikipedia.org/wiki/Major_League_Baseball"
  }
 }

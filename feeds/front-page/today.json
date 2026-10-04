@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1791040134,
- "edition_date": "2026-10-03",
- "event_date_label": "October 2",
- "year": 1967,
- "location": "Washington, D.C.",
- "headline": "MARSHALL SWORN AS HIGH COURT JUSTICE",
- "dispatch": "Thurgood Marshall was sworn in yesterday as an associate justice of the United States Supreme Court. The former solicitor general, confirmed by the Senate in August, became the first African American to take a seat on the Court.",
- "answer": "Thurgood Marshall joins U.S. Supreme Court, 1967",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-02.png?v=1b5215b689fa",
+ "generated_at_epoch": 1791128841,
+ "edition_date": "2026-10-04",
+ "event_date_label": "October 3",
+ "year": 1951,
+ "location": "Polo Grounds",
+ "headline": "THOMSON HOMER WINS PENNANT FOR GIANTS",
+ "dispatch": "NEW YORK, Oct. 4. Bobby Thomson's three-run homer in the ninth inning yesterday gave the New York Giants a 5-4 victory over Brooklyn at the Polo Grounds and the National League pennant. The drive came off Ralph Branca with two runners aboard and two men out.",
+ "answer": "Bobby Thomson's pennant-winning home run, 1951",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-03.png?v=0dfe8c3d4f55",
  "first_run": false
 }
