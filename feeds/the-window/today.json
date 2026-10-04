@@ -4,12 +4,12 @@
  "observation": "Kp 4.3 meets 0% cloud near 9 p.m..",
  "action": "Step outside during 8-10 p.m. and look north.",
  "signal": "Kp 4.3",
- "current": 4,
+ "current": 14,
  "high": 18,
  "low": 0,
- "aqi": 39,
+ "aqi": 35,
  "light": "11h 25m",
  "schema": 1,
- "generated_at_epoch": 1791127837,
+ "generated_at_epoch": 1791139106,
  "date": "2026-10-04"
 }
