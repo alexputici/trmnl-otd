@@ -1,11 +1,11 @@
 {
- "word": "flavescent",
- "pronunciation": "fluh-VESS-ənt",
+ "word": "marcescent",
+ "pronunciation": "mahr-SESS-ent",
  "part_of_speech": "adjective",
- "definition": "Becoming yellow; inclining toward a yellow hue.",
- "etymology": "From Latin flavescens, “turning yellow,” from flavescere, “to grow yellow,” itself rooted in flavus, “yellow.” The word preserves the moment of change rather than the finished color.",
- "usage": "By early October, the flavescent birches had begun to brighten the lane.",
+ "definition": "Withering but remaining attached; especially of leaves that turn dry and brown in autumn yet cling to a tree through winter.",
+ "etymology": "From Latin marcescere, “to wither,” itself from marcēre, “to fade or languish.” The word preserves the image of something that has dried and aged without quite letting go.",
+ "usage": "The beech hedge was marcescent, its copper leaves whispering through the first frosts.",
  "schema": 1,
- "generated_at_epoch": 1791228539,
- "date": "2026-10-05"
+ "generated_at_epoch": 1791305785,
+ "date": "2026-10-06"
 }
