@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1791128841,
- "edition_date": "2026-10-04",
- "event_date_label": "October 3",
- "year": 1951,
- "location": "Polo Grounds",
- "headline": "THOMSON HOMER WINS PENNANT FOR GIANTS",
- "dispatch": "NEW YORK, Oct. 4. Bobby Thomson's three-run homer in the ninth inning yesterday gave the New York Giants a 5-4 victory over Brooklyn at the Polo Grounds and the National League pennant. The drive came off Ralph Branca with two runners aboard and two men out.",
- "answer": "Bobby Thomson's pennant-winning home run, 1951",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-03.png?v=0dfe8c3d4f55",
+ "generated_at_epoch": 1791306600,
+ "edition_date": "2026-10-06",
+ "event_date_label": "October 4",
+ "year": 1927,
+ "location": "Mount Rushmore",
+ "headline": "WORK BEGINS ON GREAT BLACK HILLS MEMORIAL",
+ "dispatch": "Sculptor Gutzon Borglum and a large work crew yesterday began cutting into a granite face in the Black Hills. The undertaking is intended to form a vast memorial in stone, with workers using scaffolds, drills and hand tools high above the valley.",
+ "answer": "Carving of Mount Rushmore begins, 1927",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-04.png?v=6dd80648ebe8",
  "first_run": false
 }

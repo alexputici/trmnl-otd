@@ -1678,5 +1678,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-04.png?v=6dd80648ebe8",
   "fallback": false,
   "generated_at": "2026-10-04T09:47:21.658393-06:00"
+ },
+ {
+  "date": "2026-10-06",
+  "date_label": "October 6",
+  "location": "Barbados",
+  "answer": "Cubana Flight 455 is bombed off Barbados, 1976",
+  "wiki_url": "https://en.wikipedia.org/wiki/Coordination_of_United_Revolutionary_Organizations",
+  "title": "Cubana Flight 455 leaves Barbados",
+  "year": 1976,
+  "category": "disaster",
+  "image_prompt": "A 1970s four-engine passenger jet has just lifted from a tropical runway and climbs over the dark Caribbean, its landing gear only half retracted; below, palm trees bend beside the runway and a small airport terminal recedes, while two tiny figures watch from the apron. The aircraft is intact but hangs in a tense, vulnerable moment against towering clouds. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "CUBANA AIRLINER LOST OFF BARBADOS; 73 FEARED DEAD",
+  "dispatch": "A Cubana airliner carrying 73 persons went down in the sea shortly after departing Barbados yesterday. Authorities said the aircraft had been bound for Jamaica when explosions crippled it, and rescue craft were sent into the waters off the island.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-06.png?v=7c5a027e5767",
+  "fallback": false,
+  "generated_at": "2026-10-06T11:10:00.312152-06:00"
  }
 ]
