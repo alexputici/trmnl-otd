@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1791306600,
- "edition_date": "2026-10-06",
- "event_date_label": "October 4",
- "year": 1927,
- "location": "Mount Rushmore",
- "headline": "WORK BEGINS ON GREAT BLACK HILLS MEMORIAL",
- "dispatch": "Sculptor Gutzon Borglum and a large work crew yesterday began cutting into a granite face in the Black Hills. The undertaking is intended to form a vast memorial in stone, with workers using scaffolds, drills and hand tools high above the valley.",
- "answer": "Carving of Mount Rushmore begins, 1927",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-04.png?v=6dd80648ebe8",
+ "generated_at_epoch": 1791395205,
+ "edition_date": "2026-10-07",
+ "event_date_label": "October 6",
+ "year": 1976,
+ "location": "Barbados",
+ "headline": "CUBANA AIRLINER LOST OFF BARBADOS; 73 FEARED DEAD",
+ "dispatch": "A Cubana airliner carrying 73 persons went down in the sea shortly after departing Barbados yesterday. Authorities said the aircraft had been bound for Jamaica when explosions crippled it, and rescue craft were sent into the waters off the island.",
+ "answer": "Cubana Flight 455 is bombed off Barbados, 1976",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-06.png?v=7c5a027e5767",
  "first_run": false
 }

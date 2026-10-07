@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-06T11:10:00.312152-06:00",
- "generated_at_epoch": 1791306600,
- "date": "2026-10-06",
- "date_label": "October 6",
- "location": "Barbados",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-06.png?v=7c5a027e5767",
+ "generated_at": "2026-10-07T11:46:45.843611-06:00",
+ "generated_at_epoch": 1791395205,
+ "date": "2026-10-07",
+ "date_label": "October 7",
+ "location": "Nubian Desert",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-07.png?v=a0396ece77ac",
  "fallback": false,
  "yesterday": {
-  "answer": "Carving of Mount Rushmore begins, 1927",
-  "wiki_url": "https://en.wikipedia.org/wiki/Gutzon_Borglum"
+  "answer": "Cubana Flight 455 is bombed off Barbados, 1976",
+  "wiki_url": "https://en.wikipedia.org/wiki/Coordination_of_United_Revolutionary_Organizations"
  }
 }

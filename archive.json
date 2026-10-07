@@ -1694,5 +1694,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-06.png?v=7c5a027e5767",
   "fallback": false,
   "generated_at": "2026-10-06T11:10:00.312152-06:00"
+ },
+ {
+  "date": "2026-10-07",
+  "date_label": "October 7",
+  "location": "Nubian Desert",
+  "answer": "Asteroid 2008 TC3 explodes over Sudan, 2008",
+  "wiki_url": "https://en.wikipedia.org/wiki/2008_TC3",
+  "title": "Asteroid over Sudan",
+  "year": 2008,
+  "category": "science",
+  "image_prompt": "A vast moonlit desert beneath a star-filled sky, with a lone astronomer beside a small field telescope looking upward as a brilliant incoming fireball tears silently across the upper sky, still whole and seconds before its atmospheric explosion; low dunes and scattered dark rocks create a tense empty foreground. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "ASTEROID EXPLODES OVER SUDAN AS FORECAST",
+  "dispatch": "A small asteroid detected by astronomers only hours earlier has entered Earth's atmosphere over Sudan's Nubian Desert and broken apart in a brilliant fireball. It was the first impact predicted before the object reached the atmosphere; searchers later recovered fragments from the desert.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-07.png?v=a0396ece77ac",
+  "fallback": false,
+  "generated_at": "2026-10-07T11:46:45.843611-06:00"
  }
 ]
