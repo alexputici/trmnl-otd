@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-10-06.png?v=7c85a1e86513",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-10-07.png?v=13239f533d65",
  "to_move": "Black",
- "rating": 2074,
- "moves_to_win": 5,
- "puzzle_url": "https://lichess.org/training/uFTip",
+ "rating": 1832,
+ "moves_to_win": 3,
+ "puzzle_url": "https://lichess.org/training/xMxUQ",
  "yesterday": {
-  "solution": "c3 Qxc3 Bh7+ Kxh7 Rxc3",
-  "rating": 1819
+  "solution": "e4 Nxf6+ Qxf6 Bd4 Qxd4 Qxd4 Bxd4 Rxd4 exf3",
+  "rating": 2074
  },
  "schema": 1,
- "generated_at_epoch": 1791305785,
- "date": "2026-10-06"
+ "generated_at_epoch": 1791394391,
+ "date": "2026-10-07"
 }

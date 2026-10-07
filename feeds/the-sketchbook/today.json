@@ -1,10 +1,10 @@
 {
  "kind": "event",
  "title": "Coffee Mornings",
- "context_line": "THURSDAY · RED MILE",
- "caption": "Coffee morning at Red Mile, with a chair waiting for you.",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-10-06.png?v=dc17ad29651e",
+ "context_line": "TOMORROW · 10:30 · RED MILE",
+ "caption": "Coffee is pouring at Red Mile tomorrow morning.",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-10-07.png?v=89bbeb622ef0",
  "schema": 1,
- "generated_at_epoch": 1791305785,
- "date": "2026-10-06"
+ "generated_at_epoch": 1791394391,
+ "date": "2026-10-07"
 }
