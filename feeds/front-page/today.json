@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1791395205,
- "edition_date": "2026-10-07",
- "event_date_label": "October 6",
- "year": 1976,
- "location": "Barbados",
- "headline": "CUBANA AIRLINER LOST OFF BARBADOS; 73 FEARED DEAD",
- "dispatch": "A Cubana airliner carrying 73 persons went down in the sea shortly after departing Barbados yesterday. Authorities said the aircraft had been bound for Jamaica when explosions crippled it, and rescue craft were sent into the waters off the island.",
- "answer": "Cubana Flight 455 is bombed off Barbados, 1976",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-06.png?v=7c5a027e5767",
+ "generated_at_epoch": 1791481869,
+ "edition_date": "2026-10-08",
+ "event_date_label": "October 7",
+ "year": 2008,
+ "location": "Nubian Desert",
+ "headline": "ASTEROID EXPLODES OVER SUDAN AS FORECAST",
+ "dispatch": "A small asteroid detected by astronomers only hours earlier has entered Earth's atmosphere over Sudan's Nubian Desert and broken apart in a brilliant fireball. It was the first impact predicted before the object reached the atmosphere; searchers later recovered fragments from the desert.",
+ "answer": "Asteroid 2008 TC3 explodes over Sudan, 2008",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-07.png?v=a0396ece77ac",
  "first_run": false
 }

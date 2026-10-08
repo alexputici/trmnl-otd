@@ -1710,5 +1710,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-07.png?v=a0396ece77ac",
   "fallback": false,
   "generated_at": "2026-10-07T11:46:45.843611-06:00"
+ },
+ {
+  "date": "2026-10-08",
+  "date_label": "October 8",
+  "location": "Chicago",
+  "answer": "The Great Chicago Fire begins, 1871",
+  "wiki_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire",
+  "title": "Ember before the Great Chicago Fire",
+  "year": 1871,
+  "category": "disaster",
+  "image_prompt": "Night on Chicago's crowded wooden outskirts: a fierce autumn wind whips laundry and loose straw between tightly packed frame houses, while a single bright ember hangs just above a dry hay pile beside a small shed; a startled horse twists at its hitch and distant city rooftops crowd the horizon. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "CHICAGO SWEPT BY GREAT CONFLAGRATION",
+  "dispatch": "Chicago, Oct. 9. A fire that broke out on the West Side Sunday evening has crossed block after block of wooden buildings before a high wind. Engines and volunteers are fighting the blaze as residents carry belongings into the streets, while the business district stands in danger.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-08.png?v=aefa16d14411",
+  "fallback": false,
+  "generated_at": "2026-10-08T11:51:09.789241-06:00"
  }
 ]
