@@ -1726,5 +1726,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-08.png?v=aefa16d14411",
   "fallback": false,
   "generated_at": "2026-10-08T11:51:09.789241-06:00"
+ },
+ {
+  "date": "2026-10-09",
+  "date_label": "October 9",
+  "location": "Delft",
+  "answer": "Leeuwenhoek describes protozoa to the Royal Society, 1676",
+  "wiki_url": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek",
+  "title": "Leeuwenhoek's tiny creatures",
+  "year": 1676,
+  "category": "science",
+  "image_prompt": "Ten seconds before dispatching his letter, a Dutch naturalist sits rigidly at a candlelit desk, quill hovering above a folded sheet beside a tiny brass single-lens microscope; one eye peers toward a glass droplet, while a wax seal, an empty envelope, and a waiting messenger's gloved hand create suspense. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "MINUTE CREATURES REPORTED TO THE ROYAL SOCIETY",
+  "dispatch": "Antonie van Leeuwenhoek of Delft has sent the Royal Society an account of living creatures seen in a drop of water through his small lenses. His observations give the London fellows a startling report from a world too small for the unaided eye.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-09.png?v=8c6446e7242d",
+  "fallback": false,
+  "generated_at": "2026-10-09T11:26:06.698863-06:00"
  }
 ]

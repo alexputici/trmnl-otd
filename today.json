@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-08T11:51:09.789241-06:00",
- "generated_at_epoch": 1791481869,
- "date": "2026-10-08",
- "date_label": "October 8",
- "location": "Chicago",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-08.png?v=aefa16d14411",
+ "generated_at": "2026-10-09T11:26:06.698863-06:00",
+ "generated_at_epoch": 1791566766,
+ "date": "2026-10-09",
+ "date_label": "October 9",
+ "location": "Delft",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-09.png?v=8c6446e7242d",
  "fallback": false,
  "yesterday": {
-  "answer": "Asteroid 2008 TC3 explodes over Sudan, 2008",
-  "wiki_url": "https://en.wikipedia.org/wiki/2008_TC3"
+  "answer": "The Great Chicago Fire begins, 1871",
+  "wiki_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire"
  }
 }

@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1791481869,
- "edition_date": "2026-10-08",
- "event_date_label": "October 7",
- "year": 2008,
- "location": "Nubian Desert",
- "headline": "ASTEROID EXPLODES OVER SUDAN AS FORECAST",
- "dispatch": "A small asteroid detected by astronomers only hours earlier has entered Earth's atmosphere over Sudan's Nubian Desert and broken apart in a brilliant fireball. It was the first impact predicted before the object reached the atmosphere; searchers later recovered fragments from the desert.",
- "answer": "Asteroid 2008 TC3 explodes over Sudan, 2008",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-07.png?v=a0396ece77ac",
+ "generated_at_epoch": 1791566766,
+ "edition_date": "2026-10-09",
+ "event_date_label": "October 8",
+ "year": 1871,
+ "location": "Chicago",
+ "headline": "CHICAGO SWEPT BY GREAT CONFLAGRATION",
+ "dispatch": "Chicago, Oct. 9. A fire that broke out on the West Side Sunday evening has crossed block after block of wooden buildings before a high wind. Engines and volunteers are fighting the blaze as residents carry belongings into the streets, while the business district stands in danger.",
+ "answer": "The Great Chicago Fire begins, 1871",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-08.png?v=aefa16d14411",
  "first_run": false
 }
