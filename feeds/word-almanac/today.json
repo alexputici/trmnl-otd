@@ -1,11 +1,11 @@
 {
- "word": "rubiginous",
- "pronunciation": "roo-BIJ-uh-nus",
- "part_of_speech": "adjective",
- "definition": "Rust-colored; having the reddish-brown hue of iron rust or late autumn leaves.",
- "etymology": "From Latin rubigo, “rust” (also “blight”), which gave English a word for the color that iron and October foliage can share.",
- "usage": "The hedgerow had turned rubiginous beneath the first sharp mornings of October.",
+ "word": "brume",
+ "pronunciation": "broom",
+ "part_of_speech": "noun",
+ "definition": "Mist or fog, especially a soft, hazy atmospheric veil; a poetic but still serviceable word.",
+ "etymology": "English borrowed it from French brume, which came from Latin bruma, “winter” or “the winter solstice.” The Latin word was traditionally understood as a shortening of brevissima dies: the year’s “shortest day.”",
+ "usage": "By midmorning, the brume had lifted from the fields, leaving the hedgerows bright with rain.",
  "schema": 1,
- "generated_at_epoch": 1791480993,
- "date": "2026-10-08"
+ "generated_at_epoch": 1791565944,
+ "date": "2026-10-09"
 }
