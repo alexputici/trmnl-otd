@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1791566766,
- "edition_date": "2026-10-09",
- "event_date_label": "October 8",
- "year": 1871,
- "location": "Chicago",
- "headline": "CHICAGO SWEPT BY GREAT CONFLAGRATION",
- "dispatch": "Chicago, Oct. 9. A fire that broke out on the West Side Sunday evening has crossed block after block of wooden buildings before a high wind. Engines and volunteers are fighting the blaze as residents carry belongings into the streets, while the business district stands in danger.",
- "answer": "The Great Chicago Fire begins, 1871",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-08.png?v=aefa16d14411",
+ "generated_at_epoch": 1791648748,
+ "edition_date": "2026-10-10",
+ "event_date_label": "October 9",
+ "year": 1676,
+ "location": "Delft",
+ "headline": "MINUTE CREATURES REPORTED TO THE ROYAL SOCIETY",
+ "dispatch": "Antonie van Leeuwenhoek of Delft has sent the Royal Society an account of living creatures seen in a drop of water through his small lenses. His observations give the London fellows a startling report from a world too small for the unaided eye.",
+ "answer": "Leeuwenhoek describes protozoa to the Royal Society, 1676",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-09.png?v=8c6446e7242d",
  "first_run": false
 }

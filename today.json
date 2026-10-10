@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-09T11:26:06.698863-06:00",
- "generated_at_epoch": 1791566766,
- "date": "2026-10-09",
- "date_label": "October 9",
- "location": "Delft",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-09.png?v=8c6446e7242d",
+ "generated_at": "2026-10-10T10:12:28.023953-06:00",
+ "generated_at_epoch": 1791648748,
+ "date": "2026-10-10",
+ "date_label": "October 10",
+ "location": "Wuchang",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-10.png?v=dc7eb3fcd1d9",
  "fallback": false,
  "yesterday": {
-  "answer": "The Great Chicago Fire begins, 1871",
-  "wiki_url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire"
+  "answer": "Leeuwenhoek describes protozoa to the Royal Society, 1676",
+  "wiki_url": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek"
  }
 }

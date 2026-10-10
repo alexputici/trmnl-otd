@@ -1742,5 +1742,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-09.png?v=8c6446e7242d",
   "fallback": false,
   "generated_at": "2026-10-09T11:26:06.698863-06:00"
+ },
+ {
+  "date": "2026-10-10",
+  "date_label": "October 10",
+  "location": "Wuchang",
+  "answer": "Wuchang Uprising begins China's 1911 Revolution",
+  "wiki_url": "https://en.wikipedia.org/wiki/1911_Revolution",
+  "title": "Wuchang Uprising begins",
+  "year": 1911,
+  "category": "politics",
+  "image_prompt": "Night in a Chinese military barracks courtyard: tense uniformed soldiers clutch rifles behind a half-open iron gate, one young officer raises a hand to give the signal while a distant city wall and watchtower loom beyond; an oil lantern throws hard shadows, cartridges and a discarded cap lie on the cobbles, every face turned toward the gate in the instant before the mutiny bursts forth. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "REVOLT FLARES AT WUCHANG AS TROOPS TURN ON QING",
+  "dispatch": "WUCHANG, Oct. 11. New Army troops rose here last night and seized key positions in the walled city after revolutionary officers called their comrades to arms. The outbreak is the gravest open challenge yet faced by the Qing government, and rebel flags now fly over parts of Wuchang.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-10.png?v=dc7eb3fcd1d9",
+  "fallback": false,
+  "generated_at": "2026-10-10T10:12:28.023953-06:00"
  }
 ]
