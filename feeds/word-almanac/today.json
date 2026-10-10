@@ -1,11 +1,11 @@
 {
- "word": "brume",
- "pronunciation": "broom",
- "part_of_speech": "noun",
- "definition": "Mist or fog, especially a soft, hazy atmospheric veil; a poetic but still serviceable word.",
- "etymology": "English borrowed it from French brume, which came from Latin bruma, “winter” or “the winter solstice.” The Latin word was traditionally understood as a shortening of brevissima dies: the year’s “shortest day.”",
- "usage": "By midmorning, the brume had lifted from the fields, leaving the hedgerows bright with rain.",
+ "word": "dehiscent",
+ "pronunciation": "dih-HISS-ənt",
+ "part_of_speech": "adjective",
+ "definition": "Opening naturally when ripe, especially to release seeds, as a poppy capsule or milkweed pod.",
+ "etymology": "It comes from Latin dehiscere, “to gape open”: de- suggests separation, and hiare means “to yawn” or “gape.” A dehiscent pod is, literally, one that has learned to open its mouth.",
+ "usage": "By October, the dehiscent pods along the path had begun to split and scatter their silky cargo.",
  "schema": 1,
- "generated_at_epoch": 1791565944,
- "date": "2026-10-09"
+ "generated_at_epoch": 1791647867,
+ "date": "2026-10-10"
 }
