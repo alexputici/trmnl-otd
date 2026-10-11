@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1791648748,
- "edition_date": "2026-10-10",
- "event_date_label": "October 9",
- "year": 1676,
- "location": "Delft",
- "headline": "MINUTE CREATURES REPORTED TO THE ROYAL SOCIETY",
- "dispatch": "Antonie van Leeuwenhoek of Delft has sent the Royal Society an account of living creatures seen in a drop of water through his small lenses. His observations give the London fellows a startling report from a world too small for the unaided eye.",
- "answer": "Leeuwenhoek describes protozoa to the Royal Society, 1676",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-09.png?v=8c6446e7242d",
+ "generated_at_epoch": 1791736705,
+ "edition_date": "2026-10-11",
+ "event_date_label": "October 10",
+ "year": 1911,
+ "location": "Wuchang",
+ "headline": "REVOLT FLARES AT WUCHANG AS TROOPS TURN ON QING",
+ "dispatch": "WUCHANG, Oct. 11. New Army troops rose here last night and seized key positions in the walled city after revolutionary officers called their comrades to arms. The outbreak is the gravest open challenge yet faced by the Qing government, and rebel flags now fly over parts of Wuchang.",
+ "answer": "Wuchang Uprising begins China's 1911 Revolution",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-10.png?v=dc7eb3fcd1d9",
  "first_run": false
 }

@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-10T10:12:28.023953-06:00",
- "generated_at_epoch": 1791648748,
- "date": "2026-10-10",
- "date_label": "October 10",
- "location": "Wuchang",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-10.png?v=dc7eb3fcd1d9",
+ "generated_at": "2026-10-11T10:38:25.734471-06:00",
+ "generated_at_epoch": 1791736705,
+ "date": "2026-10-11",
+ "date_label": "October 11",
+ "location": "Lake Champlain",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-11.png?v=30def620a013",
  "fallback": false,
  "yesterday": {
-  "answer": "Leeuwenhoek describes protozoa to the Royal Society, 1676",
-  "wiki_url": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek"
+  "answer": "Wuchang Uprising begins China's 1911 Revolution",
+  "wiki_url": "https://en.wikipedia.org/wiki/1911_Revolution"
  }
 }

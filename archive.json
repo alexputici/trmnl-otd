@@ -1758,5 +1758,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-10.png?v=dc7eb3fcd1d9",
   "fallback": false,
   "generated_at": "2026-10-10T10:12:28.023953-06:00"
+ },
+ {
+  "date": "2026-10-11",
+  "date_label": "October 11",
+  "location": "Lake Champlain",
+  "answer": "Battle of Valcour Island begins, 1776",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+  "title": "British fleet closes on Valcour Island",
+  "year": 1776,
+  "category": "politics",
+  "image_prompt": "Ten seconds before the first broadside, a small ragged flotilla of wooden gunboats lies trapped in a narrow lake channel beside a dark, wooded island. In the foreground, sailors crouch beside a loaded cannon as an officer raises his sword; beyond them, towering British warships emerge through wind-torn spray with their gunports open. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "BRITISH SQUADRON ENGAGES REBEL FLOTILLA ON LAKE CHAMPLAIN",
+  "dispatch": "Lake Champlain, Oct. 12. A British squadron yesterday struck the small American flotilla commanded by Benedict Arnold near Valcour Island. The rebel vessels, badly outgunned, contested the narrow waters while the larger ships pressed their attack.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-11.png?v=30def620a013",
+  "fallback": false,
+  "generated_at": "2026-10-11T10:38:25.734471-06:00"
  }
 ]
