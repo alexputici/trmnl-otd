@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-10-10.png?v=d82ee04735d0",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-10-11.png?v=68006e83e46e",
  "to_move": "Black",
- "rating": 1959,
- "moves_to_win": 3,
- "puzzle_url": "https://lichess.org/training/tgu12",
+ "rating": 2077,
+ "moves_to_win": 2,
+ "puzzle_url": "https://lichess.org/training/5lB9s",
  "yesterday": {
-  "solution": "Re5 Qxe5 dxe5",
-  "rating": 1649
+  "solution": "Bc3+ Kd1 Bb3+ Kc1 Ra1#",
+  "rating": 1959
  },
  "schema": 1,
- "generated_at_epoch": 1791647867,
- "date": "2026-10-10"
+ "generated_at_epoch": 1791735948,
+ "date": "2026-10-11"
 }
