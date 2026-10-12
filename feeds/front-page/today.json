@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1791736705,
- "edition_date": "2026-10-11",
- "event_date_label": "October 10",
- "year": 1911,
- "location": "Wuchang",
- "headline": "REVOLT FLARES AT WUCHANG AS TROOPS TURN ON QING",
- "dispatch": "WUCHANG, Oct. 11. New Army troops rose here last night and seized key positions in the walled city after revolutionary officers called their comrades to arms. The outbreak is the gravest open challenge yet faced by the Qing government, and rebel flags now fly over parts of Wuchang.",
- "answer": "Wuchang Uprising begins China's 1911 Revolution",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-10.png?v=dc7eb3fcd1d9",
+ "generated_at_epoch": 1791836126,
+ "edition_date": "2026-10-12",
+ "event_date_label": "October 11",
+ "year": 1776,
+ "location": "Lake Champlain",
+ "headline": "BRITISH SQUADRON ENGAGES REBEL FLOTILLA ON LAKE CHAMPLAIN",
+ "dispatch": "Lake Champlain, Oct. 12. A British squadron yesterday struck the small American flotilla commanded by Benedict Arnold near Valcour Island. The rebel vessels, badly outgunned, contested the narrow waters while the larger ships pressed their attack.",
+ "answer": "Battle of Valcour Island begins, 1776",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-11.png?v=30def620a013",
  "first_run": false
 }

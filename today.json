@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-11T10:38:25.734471-06:00",
- "generated_at_epoch": 1791736705,
- "date": "2026-10-11",
- "date_label": "October 11",
- "location": "Lake Champlain",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-11.png?v=30def620a013",
+ "generated_at": "2026-10-12T14:15:26.127402-06:00",
+ "generated_at_epoch": 1791836126,
+ "date": "2026-10-12",
+ "date_label": "October 12",
+ "location": "Paris",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-12.png?v=26a7c47638ab",
  "fallback": false,
  "yesterday": {
-  "answer": "Wuchang Uprising begins China's 1911 Revolution",
-  "wiki_url": "https://en.wikipedia.org/wiki/1911_Revolution"
+  "answer": "Battle of Valcour Island begins, 1776",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
  }
 }

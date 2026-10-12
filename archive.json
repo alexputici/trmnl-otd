@@ -1774,5 +1774,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-11.png?v=30def620a013",
   "fallback": false,
   "generated_at": "2026-10-11T10:38:25.734471-06:00"
+ },
+ {
+  "date": "2026-10-12",
+  "date_label": "October 12",
+  "location": "Paris",
+  "answer": "Jeanne Garnerin makes first female parachute descent, 1799",
+  "wiki_url": "https://en.wikipedia.org/wiki/Jeanne_Genevi%C3%A8ve_Garnerin",
+  "title": "Garnerin's parachute descent",
+  "year": 1799,
+  "category": "exploration",
+  "image_prompt": "High above a nineteenth-century Paris park, a woman in a long dress stands tense in a small wicker gondola beneath a vast balloon, one gloved hand poised at the release rope; the folded silk canopy strains above her, while tiny astonished figures gather far below. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "WOMAN DESCENDS BY PARACHUTE FROM BALLOON",
+  "dispatch": "Jeanne Geneviève Garnerin descended over Paris today in a gondola suspended beneath a parachute, after rising by balloon. Her fall of about 900 metres made her the first woman reported to complete such a descent.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-12.png?v=26a7c47638ab",
+  "fallback": false,
+  "generated_at": "2026-10-12T14:15:26.127402-06:00"
  }
 ]
