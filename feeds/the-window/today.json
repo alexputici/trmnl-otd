@@ -1,15 +1,15 @@
 {
- "kind": "aurora",
- "headline": "The north has a real opening.",
- "observation": "Kp 5 meets 0% cloud near 12 a.m..",
- "action": "Step outside during 11 p.m.-1 a.m. and look north.",
- "signal": "Kp 5",
- "current": 1,
- "high": 7,
- "low": -1,
- "aqi": 35,
- "light": "10h 55m",
+ "kind": "warming",
+ "headline": "A warm turn arrives.",
+ "observation": "The temperature climbs 10 degrees from now to 4 p.m..",
+ "action": "Trade the morning layer for the late afternoon.",
+ "signal": "+10° · 4 p.m.",
+ "current": 2,
+ "high": 12,
+ "low": 0,
+ "aqi": 45,
+ "light": "10h 51m",
  "schema": 1,
- "generated_at_epoch": 1791858922,
- "date": "2026-10-12"
+ "generated_at_epoch": 1791887564,
+ "date": "2026-10-13"
 }
