@@ -1790,5 +1790,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-12.png?v=26a7c47638ab",
   "fallback": false,
   "generated_at": "2026-10-12T14:15:26.127402-06:00"
+ },
+ {
+  "date": "2026-10-13",
+  "date_label": "October 13",
+  "location": "Paris",
+  "answer": "King Philip orders the Templars arrested, 1307",
+  "wiki_url": "https://en.wikipedia.org/wiki/Philip_IV_of_France",
+  "title": "Templars arrested at dawn",
+  "year": 1307,
+  "category": "politics",
+  "image_prompt": "Pre-dawn in a medieval Paris commandery courtyard: armored royal officers with drawn warrants and lanterns surge through a heavy gate as startled knight-monks in pale mantles rise from their straw beds, one brother gripping a small cross beside an overturned stool; a mounted officer waits in the mist beyond, the instant before the arrests begin. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "ROYAL AGENTS SEIZE KNIGHTS OF THE TEMPLE IN FRANCE",
+  "dispatch": "Paris, Oct. 14. Officers acting for King Philip entered houses of the Knights Templar before daylight yesterday and took many brothers into custody. The order was carried out across the realm, placing the wealthy military order under royal control pending inquiry.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-13.png?v=c517f3b1f9ee",
+  "fallback": false,
+  "generated_at": "2026-10-13T12:08:25.331514-06:00"
  }
 ]

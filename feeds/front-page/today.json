@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1791836126,
- "edition_date": "2026-10-12",
- "event_date_label": "October 11",
- "year": 1776,
- "location": "Lake Champlain",
- "headline": "BRITISH SQUADRON ENGAGES REBEL FLOTILLA ON LAKE CHAMPLAIN",
- "dispatch": "Lake Champlain, Oct. 12. A British squadron yesterday struck the small American flotilla commanded by Benedict Arnold near Valcour Island. The rebel vessels, badly outgunned, contested the narrow waters while the larger ships pressed their attack.",
- "answer": "Battle of Valcour Island begins, 1776",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-11.png?v=30def620a013",
+ "generated_at_epoch": 1791914905,
+ "edition_date": "2026-10-13",
+ "event_date_label": "October 12",
+ "year": 1799,
+ "location": "Paris",
+ "headline": "WOMAN DESCENDS BY PARACHUTE FROM BALLOON",
+ "dispatch": "Jeanne Geneviève Garnerin descended over Paris today in a gondola suspended beneath a parachute, after rising by balloon. Her fall of about 900 metres made her the first woman reported to complete such a descent.",
+ "answer": "Jeanne Garnerin makes first female parachute descent, 1799",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-12.png?v=26a7c47638ab",
  "first_run": false
 }

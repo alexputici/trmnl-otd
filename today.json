@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-12T14:15:26.127402-06:00",
- "generated_at_epoch": 1791836126,
- "date": "2026-10-12",
- "date_label": "October 12",
+ "generated_at": "2026-10-13T12:08:25.331514-06:00",
+ "generated_at_epoch": 1791914905,
+ "date": "2026-10-13",
+ "date_label": "October 13",
  "location": "Paris",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-12.png?v=26a7c47638ab",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-13.png?v=c517f3b1f9ee",
  "fallback": false,
  "yesterday": {
-  "answer": "Battle of Valcour Island begins, 1776",
-  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+  "answer": "Jeanne Garnerin makes first female parachute descent, 1799",
+  "wiki_url": "https://en.wikipedia.org/wiki/Jeanne_Genevi%C3%A8ve_Garnerin"
  }
 }
