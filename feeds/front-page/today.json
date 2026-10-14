@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1791914905,
- "edition_date": "2026-10-13",
- "event_date_label": "October 12",
- "year": 1799,
+ "generated_at_epoch": 1791992955,
+ "edition_date": "2026-10-14",
+ "event_date_label": "October 13",
+ "year": 1307,
  "location": "Paris",
- "headline": "WOMAN DESCENDS BY PARACHUTE FROM BALLOON",
- "dispatch": "Jeanne Geneviève Garnerin descended over Paris today in a gondola suspended beneath a parachute, after rising by balloon. Her fall of about 900 metres made her the first woman reported to complete such a descent.",
- "answer": "Jeanne Garnerin makes first female parachute descent, 1799",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-12.png?v=26a7c47638ab",
+ "headline": "ROYAL AGENTS SEIZE KNIGHTS OF THE TEMPLE IN FRANCE",
+ "dispatch": "Paris, Oct. 14. Officers acting for King Philip entered houses of the Knights Templar before daylight yesterday and took many brothers into custody. The order was carried out across the realm, placing the wealthy military order under royal control pending inquiry.",
+ "answer": "King Philip orders the Templars arrested, 1307",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-13.png?v=c517f3b1f9ee",
  "first_run": false
 }

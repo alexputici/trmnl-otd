@@ -1806,5 +1806,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-13.png?v=c517f3b1f9ee",
   "fallback": false,
   "generated_at": "2026-10-13T12:08:25.331514-06:00"
+ },
+ {
+  "date": "2026-10-14",
+  "date_label": "October 14",
+  "location": "Hastings",
+  "answer": "Normans defeat King Harold at Hastings, 1066",
+  "wiki_url": "https://en.wikipedia.org/wiki/Norman_Conquest",
+  "title": "The Norman charge at Hastings",
+  "year": 1066,
+  "category": "other",
+  "image_prompt": "Ten seconds before battle is joined: a tense Norman cavalry line waits at the foot of a grassy ridge, lances angled forward and horses stamping, while a dense wall of Saxon shields and raised axes crowns the hill opposite; one mounted commander lifts his sword to signal the charge, wind snapping pennons, no words or heraldry legible. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "KING HAROLD SLAIN AS NORMANS WIN GREAT FIELD",
+  "dispatch": "Hastings, Oct. 15. Duke William's Norman host yesterday broke the English shield wall on the ridge near Hastings. King Harold was killed in the fighting, and his army scattered as night fell over the field.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-14.png?v=7092576472f5",
+  "fallback": false,
+  "generated_at": "2026-10-14T09:49:15.452293-06:00"
  }
 ]
