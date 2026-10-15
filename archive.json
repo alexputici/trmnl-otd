@@ -1822,5 +1822,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-14.png?v=7092576472f5",
   "fallback": false,
   "generated_at": "2026-10-14T09:49:15.452293-06:00"
+ },
+ {
+  "date": "2026-10-15",
+  "date_label": "October 15",
+  "location": "New York City",
+  "answer": "David Miller burns a draft card in New York, 1965",
+  "wiki_url": "https://en.wikipedia.org/wiki/Opposition_to_United_States_involvement_in_the_Vietnam_War",
+  "title": "Draft card burns at New York rally",
+  "year": 1965,
+  "category": "politics",
+  "image_prompt": "A tense outdoor antiwar rally at dusk, with a young man holding a small official-looking card just above the flame of a struck match, his fingers frozen in the instant before release; a uniformed police officer pushes through the packed crowd behind him while handmade blank placards rise in silhouette, all faces fixed on the tiny flame. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "DRAFT CARD BURNER SEIZED AT CITY RALLY",
+  "dispatch": "David J. Miller yesterday set fire to his Selective Service card at an anti-war rally in New York City and was arrested. Authorities said the case was the first under the new law making destruction of a draft card a criminal offense.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-15.png?v=f299c90135bf",
+  "fallback": false,
+  "generated_at": "2026-10-15T09:36:11.597655-06:00"
  }
 ]

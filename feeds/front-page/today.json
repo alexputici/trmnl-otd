@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1791992955,
- "edition_date": "2026-10-14",
- "event_date_label": "October 13",
- "year": 1307,
- "location": "Paris",
- "headline": "ROYAL AGENTS SEIZE KNIGHTS OF THE TEMPLE IN FRANCE",
- "dispatch": "Paris, Oct. 14. Officers acting for King Philip entered houses of the Knights Templar before daylight yesterday and took many brothers into custody. The order was carried out across the realm, placing the wealthy military order under royal control pending inquiry.",
- "answer": "King Philip orders the Templars arrested, 1307",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-13.png?v=c517f3b1f9ee",
+ "generated_at_epoch": 1792078571,
+ "edition_date": "2026-10-15",
+ "event_date_label": "October 14",
+ "year": 1066,
+ "location": "Hastings",
+ "headline": "KING HAROLD SLAIN AS NORMANS WIN GREAT FIELD",
+ "dispatch": "Hastings, Oct. 15. Duke William's Norman host yesterday broke the English shield wall on the ridge near Hastings. King Harold was killed in the fighting, and his army scattered as night fell over the field.",
+ "answer": "Normans defeat King Harold at Hastings, 1066",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-14.png?v=7092576472f5",
  "first_run": false
 }
