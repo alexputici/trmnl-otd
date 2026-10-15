@@ -1,11 +1,11 @@
 {
- "word": "fuscous",
- "pronunciation": "FUS-kus",
- "part_of_speech": "adjective",
- "definition": "Of a dark, dusky, brownish-grey colour; the particular dimmed tone of things drained of brightness without quite reaching black — the colour of dried bracken, weathered bark, or October cloud-cover seen from below.",
- "etymology": "From Latin fuscus, dark or dusky, which shares its root with the Proto-Indo-European word for dark and smoky places. The same ancestor gave Latin its word for dusk and crept into Italian as fosco, murky. English botanists and naturalists of the seventeenth and eighteenth centuries adopted fuscous as a precise pigment-word when brown and grey were not quite enough.",
- "usage": "Mid-October light has a way of turning everything fuscous by three in the afternoon — the fields, the puddles, even the air itself seems to borrow the colour from the dying leaves.",
+ "word": "yestreen",
+ "pronunciation": "YESS-treen",
+ "part_of_speech": "noun",
+ "definition": "Yesterday evening; the evening just past.",
+ "etymology": "A Scots compound: yester- joined to een, the Scots shortened form of “evening.” It compresses an entire lost evening into one small word.",
+ "usage": "“The wind rose yestreen, and by morning the first leaves were down.”",
  "schema": 1,
- "generated_at_epoch": 1791991826,
- "date": "2026-10-14"
+ "generated_at_epoch": 1792077629,
+ "date": "2026-10-15"
 }

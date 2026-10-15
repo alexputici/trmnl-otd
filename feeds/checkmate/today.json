@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-10-14.png?v=94049f76db53",
- "to_move": "Black",
- "rating": 1863,
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-10-15.png?v=d744a562c7f1",
+ "to_move": "White",
+ "rating": 1731,
  "moves_to_win": 3,
- "puzzle_url": "https://lichess.org/training/20WMy",
+ "puzzle_url": "https://lichess.org/training/bDo83",
  "yesterday": {
-  "solution": "Rb8 d7 b2 Ke2 b1=Q",
-  "rating": 2185
+  "solution": "g4 f5+ Kg5 f6 Kxf6",
+  "rating": 1863
  },
  "schema": 1,
- "generated_at_epoch": 1791991826,
- "date": "2026-10-14"
+ "generated_at_epoch": 1792077629,
+ "date": "2026-10-15"
 }
