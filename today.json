@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-15T09:36:11.597655-06:00",
- "generated_at_epoch": 1792078571,
- "date": "2026-10-15",
- "date_label": "October 15",
- "location": "New York City",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-15.png?v=f299c90135bf",
+ "generated_at": "2026-10-16T09:22:11.299939-06:00",
+ "generated_at_epoch": 1792164131,
+ "date": "2026-10-16",
+ "date_label": "October 16",
+ "location": "Budapest",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-16.png?v=e4bde1222da2",
  "fallback": false,
  "yesterday": {
-  "answer": "Normans defeat King Harold at Hastings, 1066",
-  "wiki_url": "https://en.wikipedia.org/wiki/Norman_Conquest"
+  "answer": "David Miller burns a draft card in New York, 1965",
+  "wiki_url": "https://en.wikipedia.org/wiki/Opposition_to_United_States_involvement_in_the_Vietnam_War"
  }
 }

@@ -1838,5 +1838,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-15.png?v=f299c90135bf",
   "fallback": false,
   "generated_at": "2026-10-15T09:36:11.597655-06:00"
+ },
+ {
+  "date": "2026-10-16",
+  "date_label": "October 16",
+  "location": "Budapest",
+  "answer": "Háry János premieres in Budapest, 1926",
+  "wiki_url": "https://en.wikipedia.org/wiki/H%C3%A1ry_J%C3%A1nos",
+  "title": "Kodály opera premiere",
+  "year": 1926,
+  "category": "art",
+  "image_prompt": "Ten seconds before an opera premiere, a conductor in formal evening dress holds his baton poised above the orchestra pit, musicians clutching instruments in breathless readiness; beyond them, an ornate theater curtain hangs closed beneath glowing chandeliers, with a few Hungarian folk-costumed figures waiting in the wings. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "KODÁLY'S HÁRY JÁNOS PREMIERES IN BUDAPEST",
+  "dispatch": "Budapest, Oct. 16. Zoltán Kodály's folk opera Háry János was given its first performance tonight at the Royal Hungarian Opera House. The work brings the extravagant tales of a veteran soldier to the lyric stage in a score drawing on Hungarian musical tradition.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-16.png?v=e4bde1222da2",
+  "fallback": false,
+  "generated_at": "2026-10-16T09:22:11.299939-06:00"
  }
 ]

@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1792078571,
- "edition_date": "2026-10-15",
- "event_date_label": "October 14",
- "year": 1066,
- "location": "Hastings",
- "headline": "KING HAROLD SLAIN AS NORMANS WIN GREAT FIELD",
- "dispatch": "Hastings, Oct. 15. Duke William's Norman host yesterday broke the English shield wall on the ridge near Hastings. King Harold was killed in the fighting, and his army scattered as night fell over the field.",
- "answer": "Normans defeat King Harold at Hastings, 1066",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-14.png?v=7092576472f5",
+ "generated_at_epoch": 1792164131,
+ "edition_date": "2026-10-16",
+ "event_date_label": "October 15",
+ "year": 1965,
+ "location": "New York City",
+ "headline": "DRAFT CARD BURNER SEIZED AT CITY RALLY",
+ "dispatch": "David J. Miller yesterday set fire to his Selective Service card at an anti-war rally in New York City and was arrested. Authorities said the case was the first under the new law making destruction of a draft card a criminal offense.",
+ "answer": "David Miller burns a draft card in New York, 1965",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-15.png?v=f299c90135bf",
  "first_run": false
 }
