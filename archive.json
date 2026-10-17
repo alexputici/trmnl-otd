@@ -1854,5 +1854,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-16.png?v=e4bde1222da2",
   "fallback": false,
   "generated_at": "2026-10-16T09:22:11.299939-06:00"
+ },
+ {
+  "date": "2026-10-17",
+  "date_label": "October 17",
+  "location": "London",
+  "answer": "London Beer Flood kills eight, 1814",
+  "wiki_url": "https://en.wikipedia.org/wiki/London_Beer_Flood",
+  "title": "The London Beer Flood",
+  "year": 1814,
+  "category": "disaster",
+  "image_prompt": "Inside a crowded London brewery yard at dusk, an immense wooden porter vat bulges grotesquely under pressure, its iron hoops stretched and one hoop slipping low; workers with barrels and carts turn toward the groaning vessel while a narrow alley of poor houses waits beyond the gate, a frozen instant before the vat gives way. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "PORTER FLOOD SWEEPS ST GILES; EIGHT DEAD",
+  "dispatch": "London, Oct. 18. A vast porter vat at Meux's Horse Shoe Brewery in St Giles burst yesterday, sending a flood through nearby houses and cellars. Eight persons were killed as the rush of beer damaged buildings and swept through the district.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-17.png?v=9304ada86028",
+  "fallback": false,
+  "generated_at": "2026-10-17T08:10:39.803344-06:00"
  }
 ]

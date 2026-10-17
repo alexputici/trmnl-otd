@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1792164131,
- "edition_date": "2026-10-16",
- "event_date_label": "October 15",
- "year": 1965,
- "location": "New York City",
- "headline": "DRAFT CARD BURNER SEIZED AT CITY RALLY",
- "dispatch": "David J. Miller yesterday set fire to his Selective Service card at an anti-war rally in New York City and was arrested. Authorities said the case was the first under the new law making destruction of a draft card a criminal offense.",
- "answer": "David Miller burns a draft card in New York, 1965",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-15.png?v=f299c90135bf",
+ "generated_at_epoch": 1792246239,
+ "edition_date": "2026-10-17",
+ "event_date_label": "October 16",
+ "year": 1926,
+ "location": "Budapest",
+ "headline": "KODÁLY'S HÁRY JÁNOS PREMIERES IN BUDAPEST",
+ "dispatch": "Budapest, Oct. 16. Zoltán Kodály's folk opera Háry János was given its first performance tonight at the Royal Hungarian Opera House. The work brings the extravagant tales of a veteran soldier to the lyric stage in a score drawing on Hungarian musical tradition.",
+ "answer": "Háry János premieres in Budapest, 1926",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-16.png?v=e4bde1222da2",
  "first_run": false
 }

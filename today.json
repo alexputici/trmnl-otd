@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-16T09:22:11.299939-06:00",
- "generated_at_epoch": 1792164131,
- "date": "2026-10-16",
- "date_label": "October 16",
- "location": "Budapest",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-16.png?v=e4bde1222da2",
+ "generated_at": "2026-10-17T08:10:39.803344-06:00",
+ "generated_at_epoch": 1792246239,
+ "date": "2026-10-17",
+ "date_label": "October 17",
+ "location": "London",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-17.png?v=9304ada86028",
  "fallback": false,
  "yesterday": {
-  "answer": "David Miller burns a draft card in New York, 1965",
-  "wiki_url": "https://en.wikipedia.org/wiki/Opposition_to_United_States_involvement_in_the_Vietnam_War"
+  "answer": "Háry János premieres in Budapest, 1926",
+  "wiki_url": "https://en.wikipedia.org/wiki/H%C3%A1ry_J%C3%A1nos"
  }
 }
