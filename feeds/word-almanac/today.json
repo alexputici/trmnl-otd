@@ -1,11 +1,11 @@
 {
- "word": "murrain",
- "pronunciation": "MUR-in",
+ "word": "brumation",
+ "pronunciation": "broo-MAY-shən",
  "part_of_speech": "noun",
- "definition": "A plague or infectious disease devastating livestock or, by extension, any crops or community; used broadly in older English as a general curse upon blighting things.",
- "etymology": "From Old French morine, death or pestilence, itself from mourir, to die, tracing back to Latin mori. The word arrived in Middle English around the thirteenth century carried by farming communities for whom the sudden death of cattle was among the worst catastrophes imaginable. It entered the language already steeped in dread.",
- "usage": "October brought the first hard frosts, and with them the murrain that swept through the valley's sheep flocks before anyone could say what had taken them.",
+ "definition": "A winter dormancy in reptiles and other cold-blooded animals, marked by greatly reduced activity and metabolism; less absolute than mammalian hibernation.",
+ "etymology": "Coined in the 1960s from Latin bruma, “winter” (originally the shortest day), with the pattern of hibernation in mind.",
+ "usage": "As October cools the terrarium, the tortoise begins its slow brumation.",
  "schema": 1,
- "generated_at_epoch": 1792162851,
- "date": "2026-10-16"
+ "generated_at_epoch": 1792245446,
+ "date": "2026-10-17"
 }
