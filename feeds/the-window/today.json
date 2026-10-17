@@ -1,15 +1,15 @@
 {
  "kind": "severe-weather",
  "headline": "The wind is the weather.",
- "observation": "Gusts near 95 km/h are forecast around 2 p.m..",
+ "observation": "Gusts near 88 km/h are forecast around 2 p.m..",
  "action": "Choose a sheltered route and check warnings before heading far.",
- "signal": "Gusts 95",
- "current": 10,
- "high": 23,
- "low": 1,
- "aqi": 30,
- "light": "10h 40m",
+ "signal": "Gusts 88",
+ "current": 7,
+ "high": 18,
+ "low": 6,
+ "aqi": 42,
+ "light": "10h 36m",
  "schema": 1,
- "generated_at_epoch": 1792210977,
- "date": "2026-10-16"
+ "generated_at_epoch": 1792233663,
+ "date": "2026-10-17"
 }
