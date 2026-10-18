@@ -1,12 +1,12 @@
 {
  "today": {
+  "date": "2026-10-18",
+  "solution": "Bd6+ Kh1 Qxc3",
+  "rating": 1778
+ },
+ "previous": {
   "date": "2026-10-17",
   "solution": "Re6 b3 R1e5#",
   "rating": 1927
- },
- "previous": {
-  "date": "2026-10-16",
-  "solution": "Nc4 Qxc3 Qxc3",
-  "rating": 1904
  }
 }

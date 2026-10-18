@@ -1,11 +1,11 @@
 {
- "word": "brumation",
- "pronunciation": "broo-MAY-shən",
- "part_of_speech": "noun",
- "definition": "A winter dormancy in reptiles and other cold-blooded animals, marked by greatly reduced activity and metabolism; less absolute than mammalian hibernation.",
- "etymology": "Coined in the 1960s from Latin bruma, “winter” (originally the shortest day), with the pattern of hibernation in mind.",
- "usage": "As October cools the terrarium, the tortoise begins its slow brumation.",
+ "word": "exuviae",
+ "pronunciation": "ig-ZOO-vee-ee",
+ "part_of_speech": "plural noun",
+ "definition": "Cast-off coverings: especially the shed skin, shell, feathers, or other outer layer of an animal; by extension, anything discarded after serving its season.",
+ "etymology": "Latin exuviae first meant clothes stripped off or left behind, from exuere, “to strip off.” Naturalists borrowed the image for the husks creatures leave behind.",
+ "usage": "The path was bright with the exuviae of summer: curled leaves, empty seedpods, and papery wings.",
  "schema": 1,
- "generated_at_epoch": 1792245446,
- "date": "2026-10-17"
+ "generated_at_epoch": 1792332604,
+ "date": "2026-10-18"
 }
