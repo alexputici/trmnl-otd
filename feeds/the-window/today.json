@@ -1,15 +1,15 @@
 {
- "kind": "severe-weather",
- "headline": "The wind is the weather.",
- "observation": "Gusts near 77 km/h are forecast around 6 p.m..",
- "action": "Choose a sheltered route and check warnings before heading far.",
- "signal": "Gusts 77",
- "current": 13,
+ "kind": "quiet",
+ "headline": "An ordinary day outside.",
+ "observation": "Nothing in the forecast is scarce enough to rearrange the day.",
+ "action": "Go when you want. The forecast makes no claim on you.",
+ "signal": "No rare window",
+ "current": 9,
  "high": 20,
  "low": 4,
- "aqi": 41,
+ "aqi": 40,
  "light": "10h 36m",
  "schema": 1,
- "generated_at_epoch": 1792278435,
+ "generated_at_epoch": 1792297791,
  "date": "2026-10-17"
 }
