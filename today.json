@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-17T08:10:39.803344-06:00",
- "generated_at_epoch": 1792246239,
- "date": "2026-10-17",
- "date_label": "October 17",
- "location": "London",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-17.png?v=9304ada86028",
+ "generated_at": "2026-10-18T08:29:48.996424-06:00",
+ "generated_at_epoch": 1792333788,
+ "date": "2026-10-18",
+ "date_label": "October 18",
+ "location": "Mexico City",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-18.png?v=09f2a109a73e",
  "fallback": false,
  "yesterday": {
-  "answer": "Háry János premieres in Budapest, 1926",
-  "wiki_url": "https://en.wikipedia.org/wiki/H%C3%A1ry_J%C3%A1nos"
+  "answer": "London Beer Flood kills eight, 1814",
+  "wiki_url": "https://en.wikipedia.org/wiki/London_Beer_Flood"
  }
 }

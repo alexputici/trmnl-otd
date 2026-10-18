@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1792246239,
- "edition_date": "2026-10-17",
- "event_date_label": "October 16",
- "year": 1926,
- "location": "Budapest",
- "headline": "KODÁLY'S HÁRY JÁNOS PREMIERES IN BUDAPEST",
- "dispatch": "Budapest, Oct. 16. Zoltán Kodály's folk opera Háry János was given its first performance tonight at the Royal Hungarian Opera House. The work brings the extravagant tales of a veteran soldier to the lyric stage in a score drawing on Hungarian musical tradition.",
- "answer": "Háry János premieres in Budapest, 1926",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-16.png?v=e4bde1222da2",
+ "generated_at_epoch": 1792333788,
+ "edition_date": "2026-10-18",
+ "event_date_label": "October 17",
+ "year": 1814,
+ "location": "London",
+ "headline": "PORTER FLOOD SWEEPS ST GILES; EIGHT DEAD",
+ "dispatch": "London, Oct. 18. A vast porter vat at Meux's Horse Shoe Brewery in St Giles burst yesterday, sending a flood through nearby houses and cellars. Eight persons were killed as the rush of beer damaged buildings and swept through the district.",
+ "answer": "London Beer Flood kills eight, 1814",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-17.png?v=9304ada86028",
  "first_run": false
 }

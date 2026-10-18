@@ -1870,5 +1870,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-17.png?v=9304ada86028",
   "fallback": false,
   "generated_at": "2026-10-17T08:10:39.803344-06:00"
+ },
+ {
+  "date": "2026-10-18",
+  "date_label": "October 18",
+  "location": "Mexico City",
+  "answer": "Bob Beamon sets long-jump world record, 1968",
+  "wiki_url": "https://en.wikipedia.org/wiki/1968_Summer_Olympics",
+  "title": "Beamon before the record leap",
+  "year": 1968,
+  "category": "sport",
+  "image_prompt": "Ten seconds before the decisive leap: a powerful long jumper in an unmarked sleeveless competition kit races down the runway toward the takeoff board, one foot suspended above the track, with the pale sandpit waiting ahead and silent officials poised beside it; a vast stadium crowd rises in anticipation, no visible signs or numbers. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "BEAMON LEAPS 29 FEET 2½ INCHES",
+  "dispatch": "Bob Beamon of the United States yesterday soared 29 feet 2½ inches in the Olympic long jump at Mexico City. The leap, measured at 8.90 metres, broke the world record by nearly two feet and gave the Americans another track and field gold medal.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-18.png?v=09f2a109a73e",
+  "fallback": false,
+  "generated_at": "2026-10-18T08:29:48.996424-06:00"
  }
 ]
