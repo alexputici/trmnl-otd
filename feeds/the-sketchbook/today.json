@@ -1,6 +1,10 @@
 {
- "TRMNL_SKIP_DISPLAY": true,
+ "kind": "event",
+ "title": "Coffee Mornings",
+ "context_line": "THURSDAY · RED MILE",
+ "caption": "Coffee morning begins at Red Mile, with the first pour at 10:30.",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/the-sketchbook/2026-10-19.png?v=4ed38f91dafc",
  "schema": 1,
- "generated_at_epoch": 1792332604,
- "date": "2026-10-18"
+ "generated_at_epoch": 1792429837,
+ "date": "2026-10-19"
 }
