@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-18T08:29:48.996424-06:00",
- "generated_at_epoch": 1792333788,
- "date": "2026-10-18",
- "date_label": "October 18",
- "location": "Mexico City",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-18.png?v=09f2a109a73e",
+ "generated_at": "2026-10-19T11:26:49.513691-06:00",
+ "generated_at_epoch": 1792430809,
+ "date": "2026-10-19",
+ "date_label": "October 19",
+ "location": "Yorktown",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-19.png?v=c717061fa477",
  "fallback": false,
  "yesterday": {
-  "answer": "London Beer Flood kills eight, 1814",
-  "wiki_url": "https://en.wikipedia.org/wiki/London_Beer_Flood"
+  "answer": "Bob Beamon sets long-jump world record, 1968",
+  "wiki_url": "https://en.wikipedia.org/wiki/1968_Summer_Olympics"
  }
 }

@@ -1886,5 +1886,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-18.png?v=09f2a109a73e",
   "fallback": false,
   "generated_at": "2026-10-18T08:29:48.996424-06:00"
+ },
+ {
+  "date": "2026-10-19",
+  "date_label": "October 19",
+  "location": "Yorktown",
+  "answer": "Cornwallis surrenders at Yorktown, 1781",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+  "title": "Cornwallis surrenders at Yorktown",
+  "year": 1781,
+  "category": "politics",
+  "image_prompt": "Ten seconds before a formal military surrender: on an autumn field, a defeated red-coated British officer in elaborate uniform walks forward holding a ceremonial sword, facing a composed Continental commander and French officers; ranks of weary British soldiers stand behind him beside stacked muskets and furled regimental flags, while earthworks and distant warships frame the horizon. The sword has not yet changed hands, every face taut with expectation. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "CORNWALLIS'S ARMY LAYS DOWN ITS ARMS AT YORKTOWN",
+  "dispatch": "Yorktown, Oct. 20. The British army commanded by Lord Cornwallis has capitulated to the combined American and French forces after the siege here. General O'Hara presented the British sword, while the defeated ranks marched out to stack their arms before the allied lines.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-19.png?v=c717061fa477",
+  "fallback": false,
+  "generated_at": "2026-10-19T11:26:49.513691-06:00"
  }
 ]
