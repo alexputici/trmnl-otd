@@ -1,12 +1,12 @@
 {
- "phase": "Waxing Crescent",
- "glyph": "🌒",
- "illumination_pct": 28,
- "moon_age_days": 5.2,
+ "phase": "Waxing Gibbous",
+ "glyph": "🌔",
+ "illumination_pct": 69,
+ "moon_age_days": 9.3,
  "next_full": "Oct 25",
  "next_new": "Nov 9",
- "darkness": "dark skies",
+ "darkness": "some moonlight",
  "schema": 1,
- "generated_at_epoch": 1792162851,
- "date": "2026-10-16"
+ "generated_at_epoch": 1792509787,
+ "date": "2026-10-20"
 }

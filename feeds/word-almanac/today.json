@@ -1,11 +1,11 @@
 {
- "word": "russet",
- "pronunciation": "RUH-sit",
- "part_of_speech": "adjective; noun",
- "definition": "Reddish brown, especially the warm brown of autumn leaves, weathered leather, or certain apples and pears; also, a coarse homespun cloth of that color.",
- "etymology": "It came through Old French rousset, meaning “reddish,” a diminutive of rous. Behind it is Latin russus, “red”: a small red word that mellowed, in English, into October brown.",
- "usage": "By October 19, the beeches had begun to turn russet along the lane.",
+ "word": "frett",
+ "pronunciation": "FRET",
+ "part_of_speech": "noun (dialectal, chiefly northern English)",
+ "definition": "The first slight frost of autumn; the thin rime or chill that settles overnight on grass and rooftops before the true killing frosts arrive, perceptible more as a sharpness in the air than as visible ice.",
+ "etymology": "From Old Norse frjósa, to freeze, carried into the dialects of Yorkshire and Northumbria by Viking settlers who had precise names for every gradation of cold. The word shares ancestry with modern English frost but preserved a diminutive, provisional sense — a frost-in-training, not yet the real thing.",
+ "usage": "She knew October had turned the corner when she found a frett on the pumpkin leaves at dawn, each one edged faintly white and gone by eight o'clock.",
  "schema": 1,
- "generated_at_epoch": 1792429837,
- "date": "2026-10-19"
+ "generated_at_epoch": 1792509787,
+ "date": "2026-10-20"
 }
