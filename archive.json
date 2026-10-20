@@ -1902,5 +1902,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-19.png?v=c717061fa477",
   "fallback": false,
   "generated_at": "2026-10-19T11:26:49.513691-06:00"
+ },
+ {
+  "date": "2026-10-20",
+  "date_label": "October 20",
+  "location": "Bluff Creek",
+  "answer": "Patterson and Gimlin record their claimed Bigfoot film, 1967",
+  "wiki_url": "https://en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film",
+  "title": "Bigfoot film at Bluff Creek",
+  "year": 1967,
+  "category": "other",
+  "image_prompt": "On a gravel creek bank in dense northern California forest, a tall shaggy upright figure takes one long stride away from the water and turns its head toward two astonished horsemen; one rider urgently lifts a small motion-picture camera while his companion grips the reins of a startled horse, ferns and towering redwoods enclosing the tense clearing. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "CAMERA FILMS STRANGE FIGURE ON BLUFF CREEK",
+  "dispatch": "Roger Patterson and Bob Gimlin of Yakima say a motion-picture camera caught an unidentified, manlike figure beside Bluff Creek in the Six Rivers National Forest. The two men were on horseback when they encountered the creature, which disappeared into the timber.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-20.png?v=5ea31ca1d707",
+  "fallback": false,
+  "generated_at": "2026-10-20T09:39:13.962176-06:00"
  }
 ]

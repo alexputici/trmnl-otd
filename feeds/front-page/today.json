@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1792430809,
- "edition_date": "2026-10-19",
- "event_date_label": "October 18",
- "year": 1968,
- "location": "Mexico City",
- "headline": "BEAMON LEAPS 29 FEET 2½ INCHES",
- "dispatch": "Bob Beamon of the United States yesterday soared 29 feet 2½ inches in the Olympic long jump at Mexico City. The leap, measured at 8.90 metres, broke the world record by nearly two feet and gave the Americans another track and field gold medal.",
- "answer": "Bob Beamon sets long-jump world record, 1968",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-18.png?v=09f2a109a73e",
+ "generated_at_epoch": 1792510753,
+ "edition_date": "2026-10-20",
+ "event_date_label": "October 19",
+ "year": 1781,
+ "location": "Yorktown",
+ "headline": "CORNWALLIS'S ARMY LAYS DOWN ITS ARMS AT YORKTOWN",
+ "dispatch": "Yorktown, Oct. 20. The British army commanded by Lord Cornwallis has capitulated to the combined American and French forces after the siege here. General O'Hara presented the British sword, while the defeated ranks marched out to stack their arms before the allied lines.",
+ "answer": "Cornwallis surrenders at Yorktown, 1781",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-19.png?v=c717061fa477",
  "first_run": false
 }

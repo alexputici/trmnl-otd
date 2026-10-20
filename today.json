@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-19T11:26:49.513691-06:00",
- "generated_at_epoch": 1792430809,
- "date": "2026-10-19",
- "date_label": "October 19",
- "location": "Yorktown",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-19.png?v=c717061fa477",
+ "generated_at": "2026-10-20T09:39:13.962176-06:00",
+ "generated_at_epoch": 1792510753,
+ "date": "2026-10-20",
+ "date_label": "October 20",
+ "location": "Bluff Creek",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-20.png?v=5ea31ca1d707",
  "fallback": false,
  "yesterday": {
-  "answer": "Bob Beamon sets long-jump world record, 1968",
-  "wiki_url": "https://en.wikipedia.org/wiki/1968_Summer_Olympics"
+  "answer": "Cornwallis surrenders at Yorktown, 1781",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
  }
 }
