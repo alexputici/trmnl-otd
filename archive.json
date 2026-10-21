@@ -1918,5 +1918,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-20.png?v=5ea31ca1d707",
   "fallback": false,
   "generated_at": "2026-10-20T09:39:13.962176-06:00"
+ },
+ {
+  "date": "2026-10-21",
+  "date_label": "October 21",
+  "location": "Halifax",
+  "answer": "HMS Niobe reaches Halifax as Canada's first warship, 1910",
+  "wiki_url": "https://en.wikipedia.org/wiki/HMS_Niobe_(1897)",
+  "title": "HMS Niobe enters Halifax",
+  "year": 1910,
+  "category": "exploration",
+  "image_prompt": "Ten seconds before a protected cruiser steams into Halifax Harbour, its dark hull and tall masts looming through sea mist; uniformed sailors crowd the rail, signal flags snapping, while a packed waterfront and small welcoming boats hold breath ahead of the arrival. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "CANADA'S FIRST WARSHIP STEAMS INTO HALIFAX",
+  "dispatch": "Halifax, Oct. 21. HMS Niobe entered the harbour today to join the new Royal Canadian Navy. The former British protected cruiser was greeted from the waterfront and became the force's first large vessel.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-21.png?v=59a2f789c354",
+  "fallback": false,
+  "generated_at": "2026-10-21T09:56:54.110384-06:00"
  }
 ]
