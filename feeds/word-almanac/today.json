@@ -1,11 +1,11 @@
 {
- "word": "frett",
- "pronunciation": "FRET",
- "part_of_speech": "noun (dialectal, chiefly northern English)",
- "definition": "The first slight frost of autumn; the thin rime or chill that settles overnight on grass and rooftops before the true killing frosts arrive, perceptible more as a sharpness in the air than as visible ice.",
- "etymology": "From Old Norse frjósa, to freeze, carried into the dialects of Yorkshire and Northumbria by Viking settlers who had precise names for every gradation of cold. The word shares ancestry with modern English frost but preserved a diminutive, provisional sense — a frost-in-training, not yet the real thing.",
- "usage": "She knew October had turned the corner when she found a frett on the pumpkin leaves at dawn, each one edged faintly white and gone by eight o'clock.",
+ "word": "frore",
+ "pronunciation": "FROHR (rhymes with 'more')",
+ "part_of_speech": "adjective",
+ "definition": "Frozen or frosty; covered with or as if with frost. Used of air, ground, or landscape gripped by hard cold.",
+ "etymology": "From Old English froren, the past participle of freosan, to freeze. The word survived into Early Modern English as frore, appearing in Milton's Paradise Lost — 'the parching air burns frore' — where it describes the paradoxical burning cold of Hell's frozen continent. It is a linguistic fossil, the verb freosan long since smoothed into the modern freeze, but this adjective lingered in poetic use, preserved like an insect in amber.",
+ "usage": "A word for the first genuinely frore morning of autumn, when the car roof holds its white and the grass snaps underfoot — not yet winter, but winter's unmistakable calling card.",
  "schema": 1,
- "generated_at_epoch": 1792509787,
- "date": "2026-10-20"
+ "generated_at_epoch": 1792597068,
+ "date": "2026-10-21"
 }
