@@ -1,12 +1,12 @@
 {
  "phase": "Waxing Gibbous",
  "glyph": "🌔",
- "illumination_pct": 79,
- "moon_age_days": 10.3,
+ "illumination_pct": 87,
+ "moon_age_days": 11.3,
  "next_full": "Oct 25",
  "next_new": "Nov 9",
  "darkness": "bright moon",
  "schema": 1,
- "generated_at_epoch": 1792597068,
- "date": "2026-10-21"
+ "generated_at_epoch": 1792683617,
+ "date": "2026-10-22"
 }
