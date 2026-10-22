@@ -1934,5 +1934,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-21.png?v=59a2f789c354",
   "fallback": false,
   "generated_at": "2026-10-21T09:56:54.110384-06:00"
+ },
+ {
+  "date": "2026-10-22",
+  "date_label": "October 22",
+  "location": "Gare Montparnasse",
+  "answer": "Paris express crashes through station wall, 1895",
+  "wiki_url": "https://en.wikipedia.org/wiki/Gare_Montparnasse",
+  "title": "Montparnasse express overruns",
+  "year": 1895,
+  "category": "disaster",
+  "image_prompt": "Inside a vast Paris railway terminus, a steam locomotive rushes directly toward the stone buffer at the end of a raised platform, its engineer braced in the cab, wheels throwing sparks, a few porters and travelers recoiling beside luggage carts, and the station wall looming only yards ahead; capture the instant before impact, with the engine and buffer as the central visual tension. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "EXPRESS CRASHES THROUGH MONTPARNASSE STATION WALL",
+  "dispatch": "A Granville-Paris express overran the buffers at Gare Montparnasse yesterday and smashed through the station wall above the street. The locomotive plunged out of the facade, killing a woman below and leaving the engine hanging dramatically over the pavement.",
+  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-22.png?v=8459b8a3c713",
+  "fallback": false,
+  "generated_at": "2026-10-22T09:53:33.685712-06:00"
  }
 ]
