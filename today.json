@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-22T09:53:33.685712-06:00",
- "generated_at_epoch": 1792684413,
- "date": "2026-10-22",
- "date_label": "October 22",
- "location": "Gare Montparnasse",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-22.png?v=8459b8a3c713",
+ "generated_at": "2026-10-23T09:44:22.362352-06:00",
+ "generated_at_epoch": 1792770262,
+ "date": "2026-10-23",
+ "date_label": "October 23",
+ "location": "Bagatelle, Paris",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-23.png?v=ea72d87e137c",
  "fallback": false,
  "yesterday": {
-  "answer": "HMS Niobe reaches Halifax as Canada's first warship, 1910",
-  "wiki_url": "https://en.wikipedia.org/wiki/HMS_Niobe_(1897)"
+  "answer": "Paris express crashes through station wall, 1895",
+  "wiki_url": "https://en.wikipedia.org/wiki/Gare_Montparnasse"
  }
 }
