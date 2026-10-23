@@ -1,11 +1,11 @@
 {
- "word": "scurfed",
- "pronunciation": "SKURFT",
- "part_of_speech": "adjective",
- "definition": "Covered with scurf: thin, flaking, scale-like matter shed from a surface, especially the dry outer bark of trees or the skin of plants as they harden into dormancy.",
- "etymology": "From Old English sceorf, related to Old Norse skurfur and Middle Low German schorf, all rooted in a Germanic base meaning to cut or scrape. The word carries the memory of a knife drawn lightly across bark, lifting pale curls of dead surface away.",
- "usage": "October trees often go scurfed before they go bare, their trunks pale and flaking in the thin afternoon light, as though the season itself were peeling off an old skin to show the grey beneath.",
+ "word": "Hallowtide",
+ "pronunciation": "HAL-oh-tyde",
+ "part_of_speech": "noun",
+ "definition": "The season around All Hallows’ Eve, All Saints’ Day, and All Souls’ Day; traditionally, October 31 through November 2.",
+ "etymology": "English joined hallow, once meaning a saint or holy person and descended from Old English hālga, to tide, an old word for a stretch of time or season. Thus the saints were given their own little season.",
+ "usage": "By late October, lanterns in the windows announce the approach of Hallowtide.",
  "schema": 1,
- "generated_at_epoch": 1792683617,
- "date": "2026-10-22"
+ "generated_at_epoch": 1792769366,
+ "date": "2026-10-23"
 }
