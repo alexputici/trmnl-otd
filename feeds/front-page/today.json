@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1792770262,
- "edition_date": "2026-10-23",
- "event_date_label": "October 22",
- "year": 1895,
- "location": "Gare Montparnasse",
- "headline": "EXPRESS CRASHES THROUGH MONTPARNASSE STATION WALL",
- "dispatch": "A Granville-Paris express overran the buffers at Gare Montparnasse yesterday and smashed through the station wall above the street. The locomotive plunged out of the facade, killing a woman below and leaving the engine hanging dramatically over the pavement.",
- "answer": "Paris express crashes through station wall, 1895",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-22.png?v=8459b8a3c713",
+ "generated_at_epoch": 1792851923,
+ "edition_date": "2026-10-24",
+ "event_date_label": "October 23",
+ "year": 1906,
+ "location": "Bagatelle, Paris",
+ "headline": "SANTOS-DUMONT'S AEROPLANE RISES AT BAGATELLE",
+ "dispatch": "Paris, Oct. 23. M. Alberto Santos-Dumont today flew his 14-bis biplane over the Bagatelle field. The machine covered 50 metres at a height of about four metres before returning to earth, under the eyes of assembled witnesses.",
+ "answer": "Santos-Dumont flies 14-bis 50 metres, 1906",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-23.png?v=ea72d87e137c",
  "first_run": false
 }

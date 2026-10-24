@@ -1966,5 +1966,21 @@
   "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-23.png?v=ea72d87e137c",
   "fallback": false,
   "generated_at": "2026-10-23T09:44:22.362352-06:00"
+ },
+ {
+  "date": "2026-10-24",
+  "date_label": "October 24",
+  "location": "Wall Street",
+  "answer": "Wall Street crash begins on Black Thursday, 1929",
+  "wiki_url": "https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929",
+  "title": "Black Thursday opening",
+  "year": 1929,
+  "category": "other",
+  "image_prompt": "Ten seconds before the opening of trading, a packed 1920s stock-exchange floor holds its breath: hatless brokers in dark suits crowd beneath a high gallery, one clerk's hand poised over the opening signal, ticker tape curled in drifts at their shoes, anxious faces turned toward the board; no prices or letters visible. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "STOCK MARKET BREAKS IN OPENING RUSH",
+  "dispatch": "New York, Oct. 24. Selling swept the Stock Exchange after the opening today, driving leading shares sharply downward amid extraordinary trading. The market lost about 11 percent in the first rush, and brokers struggled to handle the flood of orders.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-10-24T08:25:23.733183-06:00"
  }
 ]
