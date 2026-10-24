@@ -1,11 +1,11 @@
 {
- "word": "Hallowtide",
- "pronunciation": "HAL-oh-tyde",
+ "word": "rime",
+ "pronunciation": "RYME",
  "part_of_speech": "noun",
- "definition": "The season around All Hallows’ Eve, All Saints’ Day, and All Souls’ Day; traditionally, October 31 through November 2.",
- "etymology": "English joined hallow, once meaning a saint or holy person and descended from Old English hālga, to tide, an old word for a stretch of time or season. Thus the saints were given their own little season.",
- "usage": "By late October, lanterns in the windows announce the approach of Hallowtide.",
+ "definition": "A coating of white, feathery ice crystals formed when freezing fog or supercooled droplets settle on a surface; also, more broadly, hoarfrost.",
+ "etymology": "Rime comes from Old English hrīm, “frost,” kin to Old Norse hrím. Over centuries, English let the initial h fall away, leaving the spare, cold-sounding rime.",
+ "usage": "By late October, the hedges may wear a rime before sunrise, every thorn briefly silvered.",
  "schema": 1,
- "generated_at_epoch": 1792769366,
- "date": "2026-10-23"
+ "generated_at_epoch": 1792850865,
+ "date": "2026-10-24"
 }
