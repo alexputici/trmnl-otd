@@ -1982,5 +1982,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-10-24T08:25:23.733183-06:00"
+ },
+ {
+  "date": "2026-10-25",
+  "date_label": "October 25",
+  "location": "Redmond",
+  "answer": "Windows XP goes on sale, 2001",
+  "wiki_url": "https://en.wikipedia.org/wiki/Windows_XP",
+  "title": "Windows XP reaches stores",
+  "year": 2001,
+  "category": "science",
+  "image_prompt": "Inside a busy electronics shop, ten seconds before opening, a clerk grips the cord of a rolled-up metal shutter while eager customers press toward the glass doors; stacks of plain blue computer-software cartons sit on a central display, with bulky desktop monitors glowing behind them, all packaging blank and unmarked. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "NEW COMPUTER SYSTEM PUT ON SALE",
+  "dispatch": "Microsoft yesterday placed its new personal-computer operating system on retail shelves worldwide. The release from Redmond brought a redesigned interface and combined the company’s home and business software lines under one product.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-10-25T08:56:08.409183-06:00"
  }
 ]

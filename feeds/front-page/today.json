@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1792851923,
- "edition_date": "2026-10-24",
- "event_date_label": "October 23",
- "year": 1906,
- "location": "Bagatelle, Paris",
- "headline": "SANTOS-DUMONT'S AEROPLANE RISES AT BAGATELLE",
- "dispatch": "Paris, Oct. 23. M. Alberto Santos-Dumont today flew his 14-bis biplane over the Bagatelle field. The machine covered 50 metres at a height of about four metres before returning to earth, under the eyes of assembled witnesses.",
- "answer": "Santos-Dumont flies 14-bis 50 metres, 1906",
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/images/2026/10-23.png?v=ea72d87e137c",
+ "generated_at_epoch": 1792940168,
+ "edition_date": "2026-10-25",
+ "event_date_label": "October 24",
+ "year": 1929,
+ "location": "Wall Street",
+ "headline": "STOCK MARKET BREAKS IN OPENING RUSH",
+ "dispatch": "New York, Oct. 24. Selling swept the Stock Exchange after the opening today, driving leading shares sharply downward amid extraordinary trading. The market lost about 11 percent in the first rush, and brokers struggled to handle the flood of orders.",
+ "answer": "Wall Street crash begins on Black Thursday, 1929",
+ "image_url": "",
  "first_run": false
 }

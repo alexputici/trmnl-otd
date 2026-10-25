@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-24T08:25:23.733183-06:00",
- "generated_at_epoch": 1792851923,
- "date": "2026-10-24",
- "date_label": "October 24",
- "location": "Wall Street",
+ "generated_at": "2026-10-25T08:56:08.409183-06:00",
+ "generated_at_epoch": 1792940168,
+ "date": "2026-10-25",
+ "date_label": "October 25",
+ "location": "Redmond",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Santos-Dumont flies 14-bis 50 metres, 1906",
-  "wiki_url": "https://en.wikipedia.org/wiki/Alberto_Santos-Dumont"
+  "answer": "Wall Street crash begins on Black Thursday, 1929",
+  "wiki_url": "https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929"
  }
 }
