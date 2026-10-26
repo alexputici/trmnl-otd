@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1792940168,
- "edition_date": "2026-10-25",
- "event_date_label": "October 24",
- "year": 1929,
- "location": "Wall Street",
- "headline": "STOCK MARKET BREAKS IN OPENING RUSH",
- "dispatch": "New York, Oct. 24. Selling swept the Stock Exchange after the opening today, driving leading shares sharply downward amid extraordinary trading. The market lost about 11 percent in the first rush, and brokers struggled to handle the flood of orders.",
- "answer": "Wall Street crash begins on Black Thursday, 1929",
+ "generated_at_epoch": 1793034981,
+ "edition_date": "2026-10-26",
+ "event_date_label": "October 25",
+ "year": 2001,
+ "location": "Redmond",
+ "headline": "NEW COMPUTER SYSTEM PUT ON SALE",
+ "dispatch": "Microsoft yesterday placed its new personal-computer operating system on retail shelves worldwide. The release from Redmond brought a redesigned interface and combined the company’s home and business software lines under one product.",
+ "answer": "Windows XP goes on sale, 2001",
  "image_url": "",
  "first_run": false
 }

@@ -1998,5 +1998,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-10-25T08:56:08.409183-06:00"
+ },
+ {
+  "date": "2026-10-26",
+  "date_label": "October 26",
+  "location": "Myeongnyang Strait",
+  "answer": "Battle of Myeongnyang won, 1597",
+  "wiki_url": "https://en.wikipedia.org/wiki/Imjin_War",
+  "title": "Yi Sun-sin at Myeongnyang",
+  "year": 1597,
+  "category": "other",
+  "image_prompt": "Ten seconds before a naval clash, an armored Korean admiral stands rigid on the deck of a small warship, sword lowered as thirteen compact ships pitch in a violent narrow strait; across the swirling water, an immense invading fleet crowds the horizon and oars rise in unison, while jagged cliffs funnel both fleets toward collision. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "ADMIRAL YI ROUTS JAPANESE ARMADA IN NARROW STRAIT",
+  "dispatch": "Korean ships under Admiral Yi Sun-sin met the invading Japanese fleet in the Myeongnyang Strait and drove it back despite a vast numerical disadvantage. The action preserved Korea's western sea approaches during the Imjin War.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-10-26T11:16:21.252505-06:00"
  }
 ]

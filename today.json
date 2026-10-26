@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-25T08:56:08.409183-06:00",
- "generated_at_epoch": 1792940168,
- "date": "2026-10-25",
- "date_label": "October 25",
- "location": "Redmond",
+ "generated_at": "2026-10-26T11:16:21.252505-06:00",
+ "generated_at_epoch": 1793034981,
+ "date": "2026-10-26",
+ "date_label": "October 26",
+ "location": "Myeongnyang Strait",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Wall Street crash begins on Black Thursday, 1929",
-  "wiki_url": "https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929"
+  "answer": "Windows XP goes on sale, 2001",
+  "wiki_url": "https://en.wikipedia.org/wiki/Windows_XP"
  }
 }
