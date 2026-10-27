@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-26T11:16:21.252505-06:00",
- "generated_at_epoch": 1793034981,
- "date": "2026-10-26",
- "date_label": "October 26",
- "location": "Myeongnyang Strait",
+ "generated_at": "2026-10-27T10:24:58.868838-06:00",
+ "generated_at_epoch": 1793118298,
+ "date": "2026-10-27",
+ "date_label": "October 27",
+ "location": "Leipzig",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Windows XP goes on sale, 2001",
-  "wiki_url": "https://en.wikipedia.org/wiki/Windows_XP"
+  "answer": "Battle of Myeongnyang won, 1597",
+  "wiki_url": "https://en.wikipedia.org/wiki/Imjin_War"
  }
 }

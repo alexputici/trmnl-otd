@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1793034981,
- "edition_date": "2026-10-26",
- "event_date_label": "October 25",
- "year": 2001,
- "location": "Redmond",
- "headline": "NEW COMPUTER SYSTEM PUT ON SALE",
- "dispatch": "Microsoft yesterday placed its new personal-computer operating system on retail shelves worldwide. The release from Redmond brought a redesigned interface and combined the company’s home and business software lines under one product.",
- "answer": "Windows XP goes on sale, 2001",
+ "generated_at_epoch": 1793118298,
+ "edition_date": "2026-10-27",
+ "event_date_label": "October 26",
+ "year": 1597,
+ "location": "Myeongnyang Strait",
+ "headline": "ADMIRAL YI ROUTS JAPANESE ARMADA IN NARROW STRAIT",
+ "dispatch": "Korean ships under Admiral Yi Sun-sin met the invading Japanese fleet in the Myeongnyang Strait and drove it back despite a vast numerical disadvantage. The action preserved Korea's western sea approaches during the Imjin War.",
+ "answer": "Battle of Myeongnyang won, 1597",
  "image_url": "",
  "first_run": false
 }

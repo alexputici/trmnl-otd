@@ -2014,5 +2014,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-10-26T11:16:21.252505-06:00"
+ },
+ {
+  "date": "2026-10-27",
+  "date_label": "October 27",
+  "location": "Leipzig",
+  "answer": "Bach premieres Ich will den Kreuzstab gerne tragen, 1726",
+  "wiki_url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+  "title": "Bach's Leipzig cantata premiere",
+  "year": 1726,
+  "category": "art",
+  "image_prompt": "Ten seconds before a sacred musical performance begins in a grand Lutheran church, a wigged kapellmeister stands with both hands raised before a small ensemble; a solemn bass singer draws breath beside him, while violinists hold their bows suspended over strings and a hushed congregation fills the pews. No visible writing on any object. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "BACH'S NEW CANTATA HEARD IN LEIPZIG",
+  "dispatch": "Leipzig heard a new sacred cantata yesterday under the direction of Johann Sebastian Bach. Singers and instrumentalists introduced Ich will den Kreuzstab gerne tragen during the Sunday service.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-10-27T10:24:58.868838-06:00"
  }
 ]
