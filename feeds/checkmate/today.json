@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-10-26.png?v=fdcdc0bde97b",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-10-27.png?v=7cd18741870a",
  "to_move": "White",
- "rating": 1892,
- "moves_to_win": 3,
- "puzzle_url": "https://lichess.org/training/m5n0s",
+ "rating": 1761,
+ "moves_to_win": 2,
+ "puzzle_url": "https://lichess.org/training/1vLfK",
  "yesterday": {
-  "solution": "Bxf2+ Kxf2 Qg3#",
-  "rating": 2017
+  "solution": "Kxh2 Ng4+ Qxg4 Bxg4 Bxd8",
+  "rating": 1892
  },
  "schema": 1,
- "generated_at_epoch": 1793034027,
- "date": "2026-10-26"
+ "generated_at_epoch": 1793116923,
+ "date": "2026-10-27"
 }
