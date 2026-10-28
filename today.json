@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-27T10:24:58.868838-06:00",
- "generated_at_epoch": 1793118298,
- "date": "2026-10-27",
- "date_label": "October 27",
- "location": "Leipzig",
+ "generated_at": "2026-10-28T11:06:29.581958-06:00",
+ "generated_at_epoch": 1793207189,
+ "date": "2026-10-28",
+ "date_label": "October 28",
+ "location": "Valley of the Kings",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Battle of Myeongnyang won, 1597",
-  "wiki_url": "https://en.wikipedia.org/wiki/Imjin_War"
+  "answer": "Bach premieres Ich will den Kreuzstab gerne tragen, 1726",
+  "wiki_url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach"
  }
 }

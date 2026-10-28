@@ -2030,5 +2030,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-10-27T10:24:58.868838-06:00"
+ },
+ {
+  "date": "2026-10-28",
+  "date_label": "October 28",
+  "location": "Valley of the Kings",
+  "answer": "Tutankhamun's funerary mask is uncovered, 1925",
+  "wiki_url": "https://en.wikipedia.org/wiki/Mask_of_Tutankhamun",
+  "title": "Tutankhamun's mask about to emerge",
+  "year": 1925,
+  "category": "exploration",
+  "image_prompt": "Ten seconds before a buried royal face is revealed: inside a torchlit ancient tomb chamber, a careful excavator in shirt sleeves leans over an open stone sarcophagus, both hands hovering above the last folds of dark linen; a glint of smooth gold shows beneath the wrappings while carved walls and shadowed tools surround the tense discovery. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "GOLDEN MASK FOUND IN TUTANKHAMUN TOMB",
+  "dispatch": "Valley of the Kings, Oct. 29. Excavators working in the tomb of Tutankhamun yesterday uncovered the young pharaoh's funerary mask for the first time in more than three millenniums. The gold face had lain beneath the wrappings of the royal burial in the sealed tomb chamber.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-10-28T11:06:29.581958-06:00"
  }
 ]
