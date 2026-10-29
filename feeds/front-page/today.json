@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1793207189,
- "edition_date": "2026-10-28",
- "event_date_label": "October 27",
- "year": 1726,
- "location": "Leipzig",
- "headline": "BACH'S NEW CANTATA HEARD IN LEIPZIG",
- "dispatch": "Leipzig heard a new sacred cantata yesterday under the direction of Johann Sebastian Bach. Singers and instrumentalists introduced Ich will den Kreuzstab gerne tragen during the Sunday service.",
- "answer": "Bach premieres Ich will den Kreuzstab gerne tragen, 1726",
+ "generated_at_epoch": 1793294633,
+ "edition_date": "2026-10-29",
+ "event_date_label": "October 28",
+ "year": 1925,
+ "location": "Valley of the Kings",
+ "headline": "GOLDEN MASK FOUND IN TUTANKHAMUN TOMB",
+ "dispatch": "Valley of the Kings, Oct. 29. Excavators working in the tomb of Tutankhamun yesterday uncovered the young pharaoh's funerary mask for the first time in more than three millenniums. The gold face had lain beneath the wrappings of the royal burial in the sealed tomb chamber.",
+ "answer": "Tutankhamun's funerary mask is uncovered, 1925",
  "image_url": "",
  "first_run": false
 }

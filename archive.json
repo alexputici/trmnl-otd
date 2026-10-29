@@ -2046,5 +2046,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-10-28T11:06:29.581958-06:00"
+ },
+ {
+  "date": "2026-10-29",
+  "date_label": "October 29",
+  "location": "Cape Canaveral",
+  "answer": "John Glenn returns to space aboard Discovery, 1998",
+  "wiki_url": "https://en.wikipedia.org/wiki/John_Glenn",
+  "title": "John Glenn returns to space",
+  "year": 1998,
+  "category": "science",
+  "image_prompt": "Ten seconds before liftoff, a white winged space shuttle stands upright on its launch pad, its external tank and boosters towering above the floodlit gantry; vapor streams sideways in the night air, the flame trench waits below, and a packed press mound watches from afar. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "GLENN BLASTS OFF AGAIN ABOARD SHUTTLE",
+  "dispatch": "CAPE CANAVERAL, Oct. 30. John Glenn, 77, returned to orbit yesterday as the shuttle Discovery lifted off on a nine-day mission. The former Mercury astronaut is flying as a payload specialist for medical studies on aging in space.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-10-29T11:23:53.007785-06:00"
  }
 ]

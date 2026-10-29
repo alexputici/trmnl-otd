@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-28T11:06:29.581958-06:00",
- "generated_at_epoch": 1793207189,
- "date": "2026-10-28",
- "date_label": "October 28",
- "location": "Valley of the Kings",
+ "generated_at": "2026-10-29T11:23:53.007785-06:00",
+ "generated_at_epoch": 1793294633,
+ "date": "2026-10-29",
+ "date_label": "October 29",
+ "location": "Cape Canaveral",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Bach premieres Ich will den Kreuzstab gerne tragen, 1726",
-  "wiki_url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach"
+  "answer": "Tutankhamun's funerary mask is uncovered, 1925",
+  "wiki_url": "https://en.wikipedia.org/wiki/Mask_of_Tutankhamun"
  }
 }
