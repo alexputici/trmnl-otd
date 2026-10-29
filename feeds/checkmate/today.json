@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-10-28.png?v=7f26d37e0bb6",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-10-29.png?v=e14afd126868",
  "to_move": "White",
- "rating": 1891,
+ "rating": 1742,
  "moves_to_win": 3,
- "puzzle_url": "https://lichess.org/training/VTLk5",
+ "puzzle_url": "https://lichess.org/training/Ba42D",
  "yesterday": {
-  "solution": "Ng3+ Kg8 Nxf5",
-  "rating": 1761
+  "solution": "b4 cxb4 c5 Bxc5 d8=Q",
+  "rating": 1891
  },
  "schema": 1,
- "generated_at_epoch": 1793206217,
- "date": "2026-10-28"
+ "generated_at_epoch": 1793293535,
+ "date": "2026-10-29"
 }
