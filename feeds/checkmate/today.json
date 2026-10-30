@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-10-29.png?v=e14afd126868",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-10-30.png?v=9112e8a5c1ed",
  "to_move": "White",
- "rating": 1742,
+ "rating": 2064,
  "moves_to_win": 3,
- "puzzle_url": "https://lichess.org/training/Ba42D",
+ "puzzle_url": "https://lichess.org/training/UQyjd",
  "yesterday": {
-  "solution": "b4 cxb4 c5 Bxc5 d8=Q",
-  "rating": 1891
+  "solution": "Na5+ Kb5 Qc4+ Kxa5 Qa4#",
+  "rating": 1742
  },
  "schema": 1,
- "generated_at_epoch": 1793293535,
- "date": "2026-10-29"
+ "generated_at_epoch": 1793378988,
+ "date": "2026-10-30"
 }

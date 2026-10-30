@@ -1,11 +1,11 @@
 {
- "word": "pomaceous",
- "pronunciation": "poh-MAY-shus",
- "part_of_speech": "adjective",
- "definition": "Of, relating to, or bearing pomes—fleshy fruits such as apples and pears, with their seeds enclosed in a core.",
- "etymology": "It grew from pome, via French pomme, from Latin pomum, meaning an orchard fruit or apple. English added the plant-label suffix -aceous, giving apples and pears their own learned adjective.",
- "usage": "The last pomaceous harvest hung bright against the October fog.",
+ "word": "Samhain",
+ "pronunciation": "SOW-in",
+ "part_of_speech": "noun",
+ "definition": "The traditional Gaelic festival marking the beginning of winter, observed around 1 November; also, the season or month associated with it.",
+ "etymology": "English borrowed it from Irish Samhain, the old name for the festival and for November. It is traditionally understood as “summer’s end,” from Old Irish elements for summer and ending.",
+ "usage": "By Samhain, the garden had yielded its last bright remnants to the darkening year.",
  "schema": 1,
- "generated_at_epoch": 1793293535,
- "date": "2026-10-29"
+ "generated_at_epoch": 1793378988,
+ "date": "2026-10-30"
 }
