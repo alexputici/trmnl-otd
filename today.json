@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-29T11:23:53.007785-06:00",
- "generated_at_epoch": 1793294633,
- "date": "2026-10-29",
- "date_label": "October 29",
- "location": "Cape Canaveral",
+ "generated_at": "2026-10-30T11:00:05.303511-06:00",
+ "generated_at_epoch": 1793379605,
+ "date": "2026-10-30",
+ "date_label": "October 30",
+ "location": "New York City",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Tutankhamun's funerary mask is uncovered, 1925",
-  "wiki_url": "https://en.wikipedia.org/wiki/Mask_of_Tutankhamun"
+  "answer": "John Glenn returns to space aboard Discovery, 1998",
+  "wiki_url": "https://en.wikipedia.org/wiki/John_Glenn"
  }
 }

@@ -2062,5 +2062,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-10-29T11:23:53.007785-06:00"
+ },
+ {
+  "date": "2026-10-30",
+  "date_label": "October 30",
+  "location": "New York City",
+  "answer": "CBS broadcasts The War of the Worlds, 1938",
+  "wiki_url": "https://en.wikipedia.org/wiki/CBS_Radio",
+  "title": "War of the Worlds broadcast",
+  "year": 1938,
+  "category": "other",
+  "image_prompt": "Ten seconds before a live radio drama begins, a tense young director in shirtsleeves raises one hand behind a large vintage broadcast microphone while actors clutch script pages around a crowded studio table; an engineer leans over a glowing control console, a red signal lamp is about to illuminate, and rain streaks the high studio windows. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "RADIO MARTIANS STARTLE NATION",
+  "dispatch": "NEW YORK, Oct. 31. The Columbia network last night carried Orson Welles's Mercury Theatre adaptation of The War of the Worlds. Its simulated news bulletins of an invasion from Mars brought calls to police stations, newspapers and the network from alarmed listeners.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-10-30T11:00:05.303511-06:00"
  }
 ]

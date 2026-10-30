@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1793294633,
- "edition_date": "2026-10-29",
- "event_date_label": "October 28",
- "year": 1925,
- "location": "Valley of the Kings",
- "headline": "GOLDEN MASK FOUND IN TUTANKHAMUN TOMB",
- "dispatch": "Valley of the Kings, Oct. 29. Excavators working in the tomb of Tutankhamun yesterday uncovered the young pharaoh's funerary mask for the first time in more than three millenniums. The gold face had lain beneath the wrappings of the royal burial in the sealed tomb chamber.",
- "answer": "Tutankhamun's funerary mask is uncovered, 1925",
+ "generated_at_epoch": 1793379605,
+ "edition_date": "2026-10-30",
+ "event_date_label": "October 29",
+ "year": 1998,
+ "location": "Cape Canaveral",
+ "headline": "GLENN BLASTS OFF AGAIN ABOARD SHUTTLE",
+ "dispatch": "CAPE CANAVERAL, Oct. 30. John Glenn, 77, returned to orbit yesterday as the shuttle Discovery lifted off on a nine-day mission. The former Mercury astronaut is flying as a payload specialist for medical studies on aging in space.",
+ "answer": "John Glenn returns to space aboard Discovery, 1998",
  "image_url": "",
  "first_run": false
 }
