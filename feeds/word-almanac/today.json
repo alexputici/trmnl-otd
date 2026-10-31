@@ -1,11 +1,11 @@
 {
- "word": "Samhain",
- "pronunciation": "SOW-in",
- "part_of_speech": "noun",
- "definition": "The traditional Gaelic festival marking the beginning of winter, observed around 1 November; also, the season or month associated with it.",
- "etymology": "English borrowed it from Irish Samhain, the old name for the festival and for November. It is traditionally understood as “summer’s end,” from Old Irish elements for summer and ending.",
- "usage": "By Samhain, the garden had yielded its last bright remnants to the darkening year.",
+ "word": "widdershins",
+ "pronunciation": "WID-er-shinz",
+ "part_of_speech": "adverb",
+ "definition": "In a direction contrary to the sun’s apparent course; counterclockwise. Traditionally, especially in Scottish folklore, to go widdershins was considered unlucky or uncanny.",
+ "etymology": "It came into Scots from Middle Low German weddersinnes, meaning “against the direction”: wider meant “against,” and sin meant “way” or “course.” The word carried the old belief that the sunwise path was the fortunate one.",
+ "usage": "On Halloween, the children circled the bonfire widdershins, daring one another to name what might answer from the dark.",
  "schema": 1,
- "generated_at_epoch": 1793378988,
- "date": "2026-10-30"
+ "generated_at_epoch": 1793462003,
+ "date": "2026-10-31"
 }
