@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-30T11:00:05.303511-06:00",
- "generated_at_epoch": 1793379605,
- "date": "2026-10-30",
- "date_label": "October 30",
- "location": "New York City",
+ "generated_at": "2026-10-31T10:01:15.732830-06:00",
+ "generated_at_epoch": 1793462475,
+ "date": "2026-10-31",
+ "date_label": "October 31",
+ "location": "Wittenberg",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "John Glenn returns to space aboard Discovery, 1998",
-  "wiki_url": "https://en.wikipedia.org/wiki/John_Glenn"
+  "answer": "CBS broadcasts The War of the Worlds, 1938",
+  "wiki_url": "https://en.wikipedia.org/wiki/CBS_Radio"
  }
 }

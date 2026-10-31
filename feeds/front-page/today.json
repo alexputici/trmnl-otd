@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1793379605,
- "edition_date": "2026-10-30",
- "event_date_label": "October 29",
- "year": 1998,
- "location": "Cape Canaveral",
- "headline": "GLENN BLASTS OFF AGAIN ABOARD SHUTTLE",
- "dispatch": "CAPE CANAVERAL, Oct. 30. John Glenn, 77, returned to orbit yesterday as the shuttle Discovery lifted off on a nine-day mission. The former Mercury astronaut is flying as a payload specialist for medical studies on aging in space.",
- "answer": "John Glenn returns to space aboard Discovery, 1998",
+ "generated_at_epoch": 1793462475,
+ "edition_date": "2026-10-31",
+ "event_date_label": "October 30",
+ "year": 1938,
+ "location": "New York City",
+ "headline": "RADIO MARTIANS STARTLE NATION",
+ "dispatch": "NEW YORK, Oct. 31. The Columbia network last night carried Orson Welles's Mercury Theatre adaptation of The War of the Worlds. Its simulated news bulletins of an invasion from Mars brought calls to police stations, newspapers and the network from alarmed listeners.",
+ "answer": "CBS broadcasts The War of the Worlds, 1938",
  "image_url": "",
  "first_run": false
 }

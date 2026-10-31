@@ -2078,5 +2078,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-10-30T11:00:05.303511-06:00"
+ },
+ {
+  "date": "2026-10-31",
+  "date_label": "October 31",
+  "location": "Wittenberg",
+  "answer": "Luther posts the Ninety-five Theses, 1517",
+  "wiki_url": "https://en.wikipedia.org/wiki/Martin_Luther",
+  "title": "Luther's Ninety-five Theses",
+  "year": 1517,
+  "category": "other",
+  "image_prompt": "Ten seconds before a decisive gesture: an Augustinian friar in a dark robe stands before the immense wooden doors of a Gothic church, one hand holding a sheet of parchment against the door and the other raising a small hammer. A few townspeople pause in the cobbled square, watching beneath looming stone arches; wind catches the edges of the papers. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "LUTHER NAILS NINETY-FIVE PROTESTS TO CHURCH DOOR",
+  "dispatch": "Martin Luther, an Augustinian friar, yesterday set his Ninety-five Theses upon the door of All Saints' Church at Wittenberg. The propositions challenge the traffic in indulgences and invite scholarly debate, bringing a local quarrel with church practice into public view.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-10-31T10:01:15.732830-06:00"
  }
 ]
