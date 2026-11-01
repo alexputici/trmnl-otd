@@ -1,36 +1,36 @@
 {
  "items": [
   {
+   "title": "Shops looted as German cost-of-living protests turn violent",
+   "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France."
+  },
+  {
+   "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+   "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say."
+  },
+  {
+   "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+   "description": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book."
+  },
+  {
+   "title": "India's opposition holds mega rally seeking election chief's resignation",
+   "description": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down."
+  },
+  {
+   "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+   "description": "One evacuated couple says they crossed minefields in Oleshky in search of food."
+  },
+  {
    "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-   "description": "Many residents left Oleshky on Friday following a ceasefire brokered by US First Lady Melania Trump."
+   "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
   },
   {
-   "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-   "description": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
-  },
-  {
-   "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-   "description": "Government data shows that more than 10,000 people have contracted the rare virus."
-  },
-  {
-   "title": "Police deployed during stand-off over control of top Poland court",
-   "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
-  },
-  {
-   "title": "Ethiopian PM puts ministers through military training",
-   "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
-  },
-  {
-   "title": "Spain train disaster clouds Sánchez chances of re-election",
-   "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
-  },
-  {
-   "title": "Global nature talks reach deal but money remains an issue",
-   "description": "Countries have been trying to get a global agreement to halt nature decline back on track."
+   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
   }
  ],
  "source": "BBC World",
  "schema": 1,
- "generated_at_epoch": 1793462003,
- "date": "2026-10-31"
+ "generated_at_epoch": 1793552107,
+ "date": "2026-11-01"
 }

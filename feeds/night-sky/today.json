@@ -1,12 +1,12 @@
 {
- "phase": "Full Moon",
- "glyph": "🌕",
- "illumination_pct": 97,
- "moon_age_days": 16.3,
+ "phase": "Last Quarter",
+ "glyph": "🌗",
+ "illumination_pct": 59,
+ "moon_age_days": 21.3,
  "next_full": "Nov 24",
  "next_new": "Nov 9",
- "darkness": "bright moon",
+ "darkness": "some moonlight",
  "schema": 1,
- "generated_at_epoch": 1793116923,
- "date": "2026-10-27"
+ "generated_at_epoch": 1793552107,
+ "date": "2026-11-01"
 }

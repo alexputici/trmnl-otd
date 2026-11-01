@@ -1,11 +1,11 @@
 {
- "word": "widdershins",
- "pronunciation": "WID-er-shinz",
- "part_of_speech": "adverb",
- "definition": "In a direction contrary to the sun’s apparent course; counterclockwise. Traditionally, especially in Scottish folklore, to go widdershins was considered unlucky or uncanny.",
- "etymology": "It came into Scots from Middle Low German weddersinnes, meaning “against the direction”: wider meant “against,” and sin meant “way” or “course.” The word carried the old belief that the sunwise path was the fortunate one.",
- "usage": "On Halloween, the children circled the bonfire widdershins, daring one another to name what might answer from the dark.",
+ "word": "caligo",
+ "pronunciation": "kuh-LY-goh",
+ "part_of_speech": "noun",
+ "definition": "A thick darkness or dimness of the atmosphere; a fog or mist so dense it obscures not merely sight but seems to press against the senses — used historically in both meteorological and medical writing to describe a clouding of vision or of the air itself.",
+ "etymology": "Straight from Latin, where caligo meant darkness, fog, gloom. The Romans used it without ceremony: a caligo could be the sea-mist off Ostia or the dimness that falls over a sick man's eyes. It shares a root with the adjective caliginosus, from which a long road leads to the rare English caliginous, meaning dark and misty. The word carried moral freight too — Cicero wrote of the caligo of ignorance obscuring the mind.",
+ "usage": "The morning after Hallowtide, the fields lay under a caligo so complete that the stooks still standing looked like hunched figures waiting for something to be settled between them.",
  "schema": 1,
- "generated_at_epoch": 1793462003,
- "date": "2026-10-31"
+ "generated_at_epoch": 1793552107,
+ "date": "2026-11-01"
 }
