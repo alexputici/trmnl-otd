@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-10-31T10:01:15.732830-06:00",
- "generated_at_epoch": 1793462475,
- "date": "2026-10-31",
- "date_label": "October 31",
- "location": "Wittenberg",
+ "generated_at": "2026-11-01T11:05:12.483252-06:00",
+ "generated_at_epoch": 1793552712,
+ "date": "2026-11-01",
+ "date_label": "November 1",
+ "location": "Madison Square Garden",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "CBS broadcasts The War of the Worlds, 1938",
-  "wiki_url": "https://en.wikipedia.org/wiki/CBS_Radio"
+  "answer": "Luther posts the Ninety-five Theses, 1517",
+  "wiki_url": "https://en.wikipedia.org/wiki/Martin_Luther"
  }
 }

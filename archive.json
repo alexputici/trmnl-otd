@@ -2094,5 +2094,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-10-31T10:01:15.732830-06:00"
+ },
+ {
+  "date": "2026-11-01",
+  "date_label": "November 1",
+  "location": "Madison Square Garden",
+  "answer": "Jacques Plante pioneers the goalie mask, 1959",
+  "wiki_url": "https://en.wikipedia.org/wiki/Hockey_puck",
+  "title": "Plante braces for the puck",
+  "year": 1959,
+  "category": "sport",
+  "image_prompt": "An ice hockey goaltender stands unmasked in a crowded goal crease, eyes fixed on a hard black puck frozen inches from his face after a fierce slapshot; skaters clash behind him, the net and rink boards framing the instant before impact. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "PLANTE STRUCK BY PUCK IN RANGERS GAME",
+  "dispatch": "Montreal goaltender Jacques Plante was struck in the face by a shot at Madison Square Garden last night. After repairs, he returned to the net wearing a protective mask, a sight seldom seen in major hockey.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-01T11:05:12.483252-06:00"
  }
 ]
