@@ -2110,5 +2110,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-01T11:05:12.483252-06:00"
+ },
+ {
+  "date": "2026-11-02",
+  "date_label": "November 2",
+  "location": "Western Australia",
+  "answer": "Australia launches the Emu War, 1932",
+  "wiki_url": "https://en.wikipedia.org/wiki/Australian_Defence_Force",
+  "title": "The Emu War begins",
+  "year": 1932,
+  "category": "other",
+  "image_prompt": "Ten seconds before the opening of an odd military campaign: in a sun-blasted Western Australian wheat field, two uniformed soldiers crouch beside a mounted Lewis gun on the back of a rough farm truck, its barrel trained toward a dense, advancing line of towering emus cresting the grain; one bird stands alert in the foreground, wings slightly spread, while dry stalks bend in the wind. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "TROOPS OPEN CAMPAIGN AGAINST EMUS IN WEST",
+  "dispatch": "PERTH, Nov. 3. Army men armed with Lewis guns yesterday began operations against the emus devastating wheat country in Western Australia. The force was sent after growers reported large flocks stripping crops and damaging fences across the district.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-02T14:43:28.501302-06:00"
  }
 ]

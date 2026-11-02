@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1793552712,
- "edition_date": "2026-11-01",
- "event_date_label": "October 31",
- "year": 1517,
- "location": "Wittenberg",
- "headline": "LUTHER NAILS NINETY-FIVE PROTESTS TO CHURCH DOOR",
- "dispatch": "Martin Luther, an Augustinian friar, yesterday set his Ninety-five Theses upon the door of All Saints' Church at Wittenberg. The propositions challenge the traffic in indulgences and invite scholarly debate, bringing a local quarrel with church practice into public view.",
- "answer": "Luther posts the Ninety-five Theses, 1517",
+ "generated_at_epoch": 1793652208,
+ "edition_date": "2026-11-02",
+ "event_date_label": "November 1",
+ "year": 1959,
+ "location": "Madison Square Garden",
+ "headline": "PLANTE STRUCK BY PUCK IN RANGERS GAME",
+ "dispatch": "Montreal goaltender Jacques Plante was struck in the face by a shot at Madison Square Garden last night. After repairs, he returned to the net wearing a protective mask, a sight seldom seen in major hockey.",
+ "answer": "Jacques Plante pioneers the goalie mask, 1959",
  "image_url": "",
  "first_run": false
 }

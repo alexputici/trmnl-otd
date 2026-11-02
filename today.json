@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-01T11:05:12.483252-06:00",
- "generated_at_epoch": 1793552712,
- "date": "2026-11-01",
- "date_label": "November 1",
- "location": "Madison Square Garden",
+ "generated_at": "2026-11-02T14:43:28.501302-06:00",
+ "generated_at_epoch": 1793652208,
+ "date": "2026-11-02",
+ "date_label": "November 2",
+ "location": "Western Australia",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Luther posts the Ninety-five Theses, 1517",
-  "wiki_url": "https://en.wikipedia.org/wiki/Martin_Luther"
+  "answer": "Jacques Plante pioneers the goalie mask, 1959",
+  "wiki_url": "https://en.wikipedia.org/wiki/Hockey_puck"
  }
 }
