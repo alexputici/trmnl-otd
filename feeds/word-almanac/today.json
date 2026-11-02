@@ -1,11 +1,11 @@
 {
- "word": "caligo",
- "pronunciation": "kuh-LY-goh",
- "part_of_speech": "noun",
- "definition": "A thick darkness or dimness of the atmosphere; a fog or mist so dense it obscures not merely sight but seems to press against the senses — used historically in both meteorological and medical writing to describe a clouding of vision or of the air itself.",
- "etymology": "Straight from Latin, where caligo meant darkness, fog, gloom. The Romans used it without ceremony: a caligo could be the sea-mist off Ostia or the dimness that falls over a sick man's eyes. It shares a root with the adjective caliginosus, from which a long road leads to the rare English caliginous, meaning dark and misty. The word carried moral freight too — Cicero wrote of the caligo of ignorance obscuring the mind.",
- "usage": "The morning after Hallowtide, the fields lay under a caligo so complete that the stooks still standing looked like hunched figures waiting for something to be settled between them.",
+ "word": "perigean",
+ "pronunciation": "peh-RIJ-ee-an",
+ "part_of_speech": "adjective",
+ "definition": "Of, relating to, or occurring at perigee — the point in the moon's (or any orbiting body's) path when it is nearest to the Earth. Perigean tides are noticeably higher than ordinary tides, pulled by the moon's closer gravitational grip.",
+ "etymology": "From Greek peri, meaning 'around' or 'near,' plus gaia, meaning 'earth' — so the full root means 'near the earth.' Greek astronomers coined perigaion to name this closest approach, and the word passed through medieval Latin into the languages of European astronomy just as scholars were learning to track the moon's elliptical wandering with real precision.",
+ "usage": "November's full moon, rising vast and amber over the estuary, happened to be perigean, and the night fishermen watched the tide climb the harbour wall a full foot higher than the almanac had promised.",
  "schema": 1,
- "generated_at_epoch": 1793552107,
- "date": "2026-11-01"
+ "generated_at_epoch": 1793651438,
+ "date": "2026-11-02"
 }
