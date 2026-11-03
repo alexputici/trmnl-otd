@@ -1,11 +1,11 @@
 {
- "word": "noctilucent",
- "pronunciation": "nok-tih-LOO-sent",
- "part_of_speech": "adjective",
- "definition": "Shining or glowing in the night; used especially of the rare, ice-crystal clouds that form at extreme altitude and catch sunlight long after the sun has set below the horizon.",
- "etymology": "From Latin nox, noctis, meaning night, and lucere, to shine. The Romans used lucere for any kind of shining — lamplight, starlight, the gleam of a sword. English combined the two roots in the nineteenth century when scientists needed a word for clouds that had no business being bright after dark.",
- "usage": "On a November evening when the last color has drained from the west, noctilucent is the word for anything that keeps its faint, impossible glow — the frost on a fence post, a moth's wing, the thin cloud still lit miles above the sleeping world.",
+ "word": "spissitude",
+ "pronunciation": "SPIS-i-tood",
+ "part_of_speech": "noun",
+ "definition": "Thickness or density, especially the close, obscuring density of fog, darkness, or a crowd.",
+ "etymology": "It comes from Latin spissitudo, “thickness,” from spissus, “thick” or “close-packed.” The word arrived in English carrying the sense of something pressed so closely together that little can pass through it.",
+ "usage": "By early November, the river valley had acquired a spissitude of mist that swallowed the far bank.",
  "schema": 1,
- "generated_at_epoch": 1793728986,
+ "generated_at_epoch": 1793729057,
  "date": "2026-11-03"
 }
