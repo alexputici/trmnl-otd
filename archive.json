@@ -2126,5 +2126,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-02T14:43:28.501302-06:00"
+ },
+ {
+  "date": "2026-11-03",
+  "date_label": "November 3",
+  "location": "Baikonur",
+  "answer": "Sputnik 2 carries Laika into orbit, 1957",
+  "wiki_url": "https://en.wikipedia.org/wiki/Sputnik_2",
+  "title": "Laika's launch aboard Sputnik 2",
+  "year": 1957,
+  "category": "science",
+  "image_prompt": "Ten seconds before liftoff, a towering early space rocket stands on its launch gantry under hard floodlights, vapor pouring around its base; technicians in heavy coats retreat behind a low barrier while one gloved hand reaches toward a final control switch, and a small sealed capsule high on the rocket catches a sliver of light. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "SOVIETS SEND DOG INTO ORBIT",
+  "dispatch": "The Soviet Union has launched Sputnik 2 from Baikonur with a dog, Laika, aboard. The spacecraft has placed the animal in orbit around the Earth, the first living creature sent into space.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-03T12:22:01.355344-06:00"
  }
 ]

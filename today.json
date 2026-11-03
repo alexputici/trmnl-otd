@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-02T14:43:28.501302-06:00",
- "generated_at_epoch": 1793652208,
- "date": "2026-11-02",
- "date_label": "November 2",
- "location": "Western Australia",
+ "generated_at": "2026-11-03T12:22:01.355344-06:00",
+ "generated_at_epoch": 1793730121,
+ "date": "2026-11-03",
+ "date_label": "November 3",
+ "location": "Baikonur",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Jacques Plante pioneers the goalie mask, 1959",
-  "wiki_url": "https://en.wikipedia.org/wiki/Hockey_puck"
+  "answer": "Australia launches the Emu War, 1932",
+  "wiki_url": "https://en.wikipedia.org/wiki/Australian_Defence_Force"
  }
 }
