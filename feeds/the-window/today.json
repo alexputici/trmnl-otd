@@ -1,15 +1,15 @@
 {
- "kind": "cooling",
- "headline": "The warm part leaves early.",
- "observation": "The temperature falls 11 degrees from now to 7 a.m..",
- "action": "Use the earlier hours. Carry the serious layer after 7 a.m..",
- "signal": "-11° · 7 a.m.",
- "current": 12,
- "high": 15,
+ "kind": "quiet",
+ "headline": "An ordinary day outside.",
+ "observation": "Nothing in the forecast is scarce enough to rearrange the day.",
+ "action": "Go when you want. The forecast makes no claim on you.",
+ "signal": "No rare window",
+ "current": 1,
+ "high": 6,
  "low": -1,
  "aqi": 76,
- "light": "9h 34m",
+ "light": "9h 31m",
  "schema": 1,
- "generated_at_epoch": 1793748037,
- "date": "2026-11-03"
+ "generated_at_epoch": 1793772930,
+ "date": "2026-11-04"
 }
