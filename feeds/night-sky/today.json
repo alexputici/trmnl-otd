@@ -1,12 +1,12 @@
 {
- "phase": "Last Quarter",
- "glyph": "🌗",
- "illumination_pct": 37,
- "moon_age_days": 23.4,
+ "phase": "Waning Crescent",
+ "glyph": "🌘",
+ "illumination_pct": 27,
+ "moon_age_days": 24.4,
  "next_full": "Nov 24",
  "next_new": "Nov 9",
- "darkness": "some moonlight",
+ "darkness": "dark skies",
  "schema": 1,
- "generated_at_epoch": 1793728986,
- "date": "2026-11-03"
+ "generated_at_epoch": 1793816060,
+ "date": "2026-11-04"
 }
