@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1793730121,
- "edition_date": "2026-11-03",
- "event_date_label": "November 2",
- "year": 1932,
- "location": "Western Australia",
- "headline": "TROOPS OPEN CAMPAIGN AGAINST EMUS IN WEST",
- "dispatch": "PERTH, Nov. 3. Army men armed with Lewis guns yesterday began operations against the emus devastating wheat country in Western Australia. The force was sent after growers reported large flocks stripping crops and damaging fences across the district.",
- "answer": "Australia launches the Emu War, 1932",
+ "generated_at_epoch": 1793817291,
+ "edition_date": "2026-11-04",
+ "event_date_label": "November 3",
+ "year": 1957,
+ "location": "Baikonur",
+ "headline": "SOVIETS SEND DOG INTO ORBIT",
+ "dispatch": "The Soviet Union has launched Sputnik 2 from Baikonur with a dog, Laika, aboard. The spacecraft has placed the animal in orbit around the Earth, the first living creature sent into space.",
+ "answer": "Sputnik 2 carries Laika into orbit, 1957",
  "image_url": "",
  "first_run": false
 }

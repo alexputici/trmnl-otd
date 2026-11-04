@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-03T12:22:01.355344-06:00",
- "generated_at_epoch": 1793730121,
- "date": "2026-11-03",
- "date_label": "November 3",
- "location": "Baikonur",
+ "generated_at": "2026-11-04T12:34:51.590181-06:00",
+ "generated_at_epoch": 1793817291,
+ "date": "2026-11-04",
+ "date_label": "November 4",
+ "location": "Chicago",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Australia launches the Emu War, 1932",
-  "wiki_url": "https://en.wikipedia.org/wiki/Australian_Defence_Force"
+  "answer": "Sputnik 2 carries Laika into orbit, 1957",
+  "wiki_url": "https://en.wikipedia.org/wiki/Sputnik_2"
  }
 }
