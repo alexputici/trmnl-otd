@@ -2158,5 +2158,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-04T12:34:51.590181-06:00"
+ },
+ {
+  "date": "2026-11-05",
+  "date_label": "November 5",
+  "location": "Westminster",
+  "answer": "Gunpowder Plot is foiled with Fawkes's arrest, 1605",
+  "wiki_url": "https://en.wikipedia.org/wiki/Guy_Fawkes",
+  "title": "Gunpowder Plot uncovered",
+  "year": 1605,
+  "category": "politics",
+  "image_prompt": "Ten seconds before discovery in a shadowed stone cellar beneath a grand riverside government building: a cloaked man crouches beside stacked wooden barrels, one hand gripping a lantern while the other reaches toward a slow match; above the stair, helmeted guards descend with pikes and another lantern, their long shadows stretching toward him. Taut silence, barrels dominating the central foreground, the man turning at the first glint of approaching light. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "VILLAINOUS POWDER PLOT DISCOVERED AT WESTMINSTER",
+  "dispatch": "Guards searching the cellars beneath Parliament seized Guy Fawkes beside a store of gunpowder before daybreak. The prisoner was found with matches and a lantern as the Lords were due to assemble, frustrating a design against King James and Parliament.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-05T12:39:54.807925-06:00"
  }
 ]

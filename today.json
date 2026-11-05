@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-04T12:34:51.590181-06:00",
- "generated_at_epoch": 1793817291,
- "date": "2026-11-04",
- "date_label": "November 4",
- "location": "Chicago",
+ "generated_at": "2026-11-05T12:39:54.807925-06:00",
+ "generated_at_epoch": 1793903994,
+ "date": "2026-11-05",
+ "date_label": "November 5",
+ "location": "Westminster",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Sputnik 2 carries Laika into orbit, 1957",
-  "wiki_url": "https://en.wikipedia.org/wiki/Sputnik_2"
+  "answer": "Barack Obama is elected U.S. president, 2008",
+  "wiki_url": "https://en.wikipedia.org/wiki/Barack_Obama"
  }
 }
