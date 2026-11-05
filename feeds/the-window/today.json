@@ -1,15 +1,15 @@
 {
- "kind": "warming",
- "headline": "A warm turn arrives.",
- "observation": "The temperature climbs 11 degrees from now to 4 p.m..",
- "action": "Trade the morning layer for the late afternoon.",
- "signal": "+11° · 4 p.m.",
- "current": 0,
+ "kind": "quiet",
+ "headline": "An ordinary day outside.",
+ "observation": "Nothing in the forecast is scarce enough to rearrange the day.",
+ "action": "Go when you want. The forecast makes no claim on you.",
+ "signal": "No rare window",
+ "current": 6,
  "high": 11,
  "low": -2,
- "aqi": 97,
+ "aqi": 78,
  "light": "9h 27m",
  "schema": 1,
- "generated_at_epoch": 1793860942,
+ "generated_at_epoch": 1793899386,
  "date": "2026-11-05"
 }
