@@ -2174,5 +2174,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-05T12:39:54.807925-06:00"
+ },
+ {
+  "date": "2026-11-06",
+  "date_label": "November 6",
+  "location": "Passchendaele",
+  "answer": "Canadian troops capture Passchendaele, 1917",
+  "wiki_url": "https://en.wikipedia.org/wiki/World_War_I",
+  "title": "Canadians take Passchendaele",
+  "year": 1917,
+  "category": "politics",
+  "image_prompt": "Ten seconds before the final advance into a shattered Flemish village, exhausted Canadian infantrymen crouch at the edge of a mud-choked shell crater, one officer raising a hand to signal forward; broken tree stumps, flooded trenches, coils of wire, and the ruined church tower loom through rain in the distance, with a single narrow duckboard leading toward the village. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "CANADIANS TAKE PASSCHENDAELE",
+  "dispatch": "Canadian troops have captured the battered Belgian village of Passchendaele after three months of fighting in mud and shellfire. The action closes the latest phase of the British offensive in Flanders, where German positions have contested every ridge and ruined farmstead.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-06T11:54:33.560465-06:00"
  }
 ]

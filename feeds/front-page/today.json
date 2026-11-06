@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1793903994,
- "edition_date": "2026-11-05",
- "event_date_label": "November 4",
- "year": 2008,
- "location": "Chicago",
- "headline": "OBAMA ELECTED PRESIDENT",
- "dispatch": "Senator Barack Obama of Illinois was elected President of the United States last night, defeating Senator John McCain. From Chicago, the Democrat addressed a vast crowd after returns gave him the electoral votes required for victory, becoming the first African American elected to the office.",
- "answer": "Barack Obama is elected U.S. president, 2008",
+ "generated_at_epoch": 1793987673,
+ "edition_date": "2026-11-06",
+ "event_date_label": "November 5",
+ "year": 1605,
+ "location": "Westminster",
+ "headline": "VILLAINOUS POWDER PLOT DISCOVERED AT WESTMINSTER",
+ "dispatch": "Guards searching the cellars beneath Parliament seized Guy Fawkes beside a store of gunpowder before daybreak. The prisoner was found with matches and a lantern as the Lords were due to assemble, frustrating a design against King James and Parliament.",
+ "answer": "Gunpowder Plot is foiled with Fawkes's arrest, 1605",
  "image_url": "",
  "first_run": false
 }

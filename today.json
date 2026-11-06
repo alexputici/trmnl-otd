@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-05T12:39:54.807925-06:00",
- "generated_at_epoch": 1793903994,
- "date": "2026-11-05",
- "date_label": "November 5",
- "location": "Westminster",
+ "generated_at": "2026-11-06T11:54:33.560465-06:00",
+ "generated_at_epoch": 1793987673,
+ "date": "2026-11-06",
+ "date_label": "November 6",
+ "location": "Passchendaele",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Barack Obama is elected U.S. president, 2008",
-  "wiki_url": "https://en.wikipedia.org/wiki/Barack_Obama"
+  "answer": "Gunpowder Plot is foiled with Fawkes's arrest, 1605",
+  "wiki_url": "https://en.wikipedia.org/wiki/Guy_Fawkes"
  }
 }
