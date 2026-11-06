@@ -1,11 +1,11 @@
 {
- "kp_now": 1.0,
- "kp_max_tonight": 3.67,
- "verdict": "Possible",
- "advice": "low on the northern horizon",
- "scale_pct": 41,
+ "kp_now": 3.67,
+ "kp_max_tonight": 5.0,
+ "verdict": "Aurora likely",
+ "advice": "look north, maybe overhead",
+ "scale_pct": 56,
  "moon_note": "dark skies",
  "schema": 1,
- "generated_at_epoch": 1793816060,
- "date": "2026-11-04"
+ "generated_at_epoch": 1793986886,
+ "date": "2026-11-06"
 }

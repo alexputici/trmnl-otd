@@ -1,11 +1,11 @@
 {
- "word": "fuliginous",
- "pronunciation": "fyoo-LIJ-uh-nus",
+ "word": "gelid",
+ "pronunciation": "JEL-id",
  "part_of_speech": "adjective",
- "definition": "Sooty; smoky and dark, especially with the grimy blackness of smoke.",
- "etymology": "It comes from Latin fuligo, “soot.” The word drifted into English through learned Latin in the 17th century, carrying the stain of hearths, chimneys, and bonfires with it.",
- "usage": "By midnight, the November sky above the bonfire was fuliginous, its stars blurred by smoke.",
+ "definition": "Extremely cold; icy. Applied to air, water, or any medium that carries a biting, penetrating chill rather than mere coolness.",
+ "etymology": "From Latin gelidus, meaning icy or frosty, itself from gelu, frost or intense cold. Gelu is cousin to the verb gelare, to freeze, which also gave English congeal. The root traces back to Proto-Indo-European ghel, to be cold, a syllable that shivers through many ancient languages.",
+ "usage": "By the first week of November the stream that had run warm and lazy all summer had turned gelid overnight, and even the dogs would not cross it without hesitation.",
  "schema": 1,
- "generated_at_epoch": 1793902624,
- "date": "2026-11-05"
+ "generated_at_epoch": 1793986886,
+ "date": "2026-11-06"
 }
