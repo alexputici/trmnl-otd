@@ -1,11 +1,11 @@
 {
- "word": "algid",
- "pronunciation": "AL-jid",
+ "word": "subnivean",
+ "pronunciation": "sub-NIV-ee-un",
  "part_of_speech": "adjective",
- "definition": "Cold; chilly — used especially of a marked, penetrating coldness, as in a damp November wind or the cold phase of a fever.",
- "etymology": "From Latin algidus, cold, which flows from the verb algere, to be cold. Algere is kin to algor, the Latin noun for a chill or shivering fit, a word Roman physicians used when a patient's limbs went cold. The root likely shares distant ancestry with Greek algos, pain — cold and pain being neighbors in the body's vocabulary of distress.",
- "usage": "She stepped out into the algid morning and immediately pulled her collar up against a wind that seemed to come not from any particular direction but from November itself.",
+ "definition": "Existing, occurring, or living beneath the snow, especially in the sheltered space between a snow cover and the ground.",
+ "etymology": "A compact scientific coinage from Latin sub, “under,” and niveus, “snowy,” from nix, “snow.” It names the hidden little world that forms when winter’s snow becomes a roof.",
+ "usage": "As November cools, voles begin to rely on the subnivean shelter that deeper snow will provide.",
  "schema": 1,
- "generated_at_epoch": 1794069467,
+ "generated_at_epoch": 1794069496,
  "date": "2026-11-07"
 }
