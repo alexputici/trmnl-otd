@@ -1,11 +1,11 @@
 {
- "word": "gelid",
- "pronunciation": "JEL-id",
+ "word": "algid",
+ "pronunciation": "AL-jid",
  "part_of_speech": "adjective",
- "definition": "Extremely cold; icy. Applied to air, water, or any medium that carries a biting, penetrating chill rather than mere coolness.",
- "etymology": "From Latin gelidus, meaning icy or frosty, itself from gelu, frost or intense cold. Gelu is cousin to the verb gelare, to freeze, which also gave English congeal. The root traces back to Proto-Indo-European ghel, to be cold, a syllable that shivers through many ancient languages.",
- "usage": "By the first week of November the stream that had run warm and lazy all summer had turned gelid overnight, and even the dogs would not cross it without hesitation.",
+ "definition": "Cold; chilly — used especially of a marked, penetrating coldness, as in a damp November wind or the cold phase of a fever.",
+ "etymology": "From Latin algidus, cold, which flows from the verb algere, to be cold. Algere is kin to algor, the Latin noun for a chill or shivering fit, a word Roman physicians used when a patient's limbs went cold. The root likely shares distant ancestry with Greek algos, pain — cold and pain being neighbors in the body's vocabulary of distress.",
+ "usage": "She stepped out into the algid morning and immediately pulled her collar up against a wind that seemed to come not from any particular direction but from November itself.",
  "schema": 1,
- "generated_at_epoch": 1793986886,
- "date": "2026-11-06"
+ "generated_at_epoch": 1794069467,
+ "date": "2026-11-07"
 }
