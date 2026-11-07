@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1793987673,
- "edition_date": "2026-11-06",
- "event_date_label": "November 5",
- "year": 1605,
- "location": "Westminster",
- "headline": "VILLAINOUS POWDER PLOT DISCOVERED AT WESTMINSTER",
- "dispatch": "Guards searching the cellars beneath Parliament seized Guy Fawkes beside a store of gunpowder before daybreak. The prisoner was found with matches and a lantern as the Lords were due to assemble, frustrating a design against King James and Parliament.",
- "answer": "Gunpowder Plot is foiled with Fawkes's arrest, 1605",
+ "generated_at_epoch": 1794070122,
+ "edition_date": "2026-11-07",
+ "event_date_label": "November 6",
+ "year": 1917,
+ "location": "Passchendaele",
+ "headline": "CANADIANS TAKE PASSCHENDAELE",
+ "dispatch": "Canadian troops have captured the battered Belgian village of Passchendaele after three months of fighting in mud and shellfire. The action closes the latest phase of the British offensive in Flanders, where German positions have contested every ridge and ruined farmstead.",
+ "answer": "Canadian troops capture Passchendaele, 1917",
  "image_url": "",
  "first_run": false
 }

@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-06T11:54:33.560465-06:00",
- "generated_at_epoch": 1793987673,
- "date": "2026-11-06",
- "date_label": "November 6",
- "location": "Passchendaele",
+ "generated_at": "2026-11-07T10:48:42.089683-06:00",
+ "generated_at_epoch": 1794070122,
+ "date": "2026-11-07",
+ "date_label": "November 7",
+ "location": "Cape Canaveral",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Gunpowder Plot is foiled with Fawkes's arrest, 1605",
-  "wiki_url": "https://en.wikipedia.org/wiki/Guy_Fawkes"
+  "answer": "Canadian troops capture Passchendaele, 1917",
+  "wiki_url": "https://en.wikipedia.org/wiki/World_War_I"
  }
 }

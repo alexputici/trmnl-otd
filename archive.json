@@ -2190,5 +2190,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-06T11:54:33.560465-06:00"
+ },
+ {
+  "date": "2026-11-07",
+  "date_label": "November 7",
+  "location": "Cape Canaveral",
+  "answer": "Mars Global Surveyor launches toward Mars, 1996",
+  "wiki_url": "https://en.wikipedia.org/wiki/NASA",
+  "title": "Mars Global Surveyor lifts off",
+  "year": 1996,
+  "category": "exploration",
+  "image_prompt": "Ten seconds before liftoff, a tall unmanned rocket stands on its launch pad as white vapor pours from its base, ignition flames beginning to bloom beneath it; a service gantry pulls away beside the vehicle, floodlit towers and low coastal clouds framing the held breath before ascent. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "MARS SURVEYOR ROARS ALOFT FROM CAPE",
+  "dispatch": "Cape Canaveral, Fla., Nov. 8. NASA yesterday launched the Mars Global Surveyor aboard a Delta rocket from Cape Canaveral. The craft is bound for Mars to map the planet and study its surface, atmosphere and magnetic field from orbit.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-07T10:48:42.089683-06:00"
  }
 ]
