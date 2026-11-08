@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1794070122,
- "edition_date": "2026-11-07",
- "event_date_label": "November 6",
- "year": 1917,
- "location": "Passchendaele",
- "headline": "CANADIANS TAKE PASSCHENDAELE",
- "dispatch": "Canadian troops have captured the battered Belgian village of Passchendaele after three months of fighting in mud and shellfire. The action closes the latest phase of the British offensive in Flanders, where German positions have contested every ridge and ruined farmstead.",
- "answer": "Canadian troops capture Passchendaele, 1917",
+ "generated_at_epoch": 1794157189,
+ "edition_date": "2026-11-08",
+ "event_date_label": "November 7",
+ "year": 1996,
+ "location": "Cape Canaveral",
+ "headline": "MARS SURVEYOR ROARS ALOFT FROM CAPE",
+ "dispatch": "Cape Canaveral, Fla., Nov. 8. NASA yesterday launched the Mars Global Surveyor aboard a Delta rocket from Cape Canaveral. The craft is bound for Mars to map the planet and study its surface, atmosphere and magnetic field from orbit.",
+ "answer": "Mars Global Surveyor launches toward Mars, 1996",
  "image_url": "",
  "first_run": false
 }

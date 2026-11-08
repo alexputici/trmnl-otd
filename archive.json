@@ -2206,5 +2206,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-07T10:48:42.089683-06:00"
+ },
+ {
+  "date": "2026-11-08",
+  "date_label": "November 8",
+  "location": "Stockholm",
+  "answer": "Christian II orders Stockholm's nobles executed, 1520",
+  "wiki_url": "https://en.wikipedia.org/wiki/Monarchy_of_Sweden",
+  "title": "The Stockholm Bloodbath",
+  "year": 1520,
+  "category": "politics",
+  "image_prompt": "Inside Stockholm's great ceremonial hall, a crowned king sits rigidly beneath a canopy, one hand suspended a breath above a sealed command on a table. Unarmed nobles in rich cloaks stand clustered before him, still expecting mercy, while grim guards wait at shadowed doors with halberds. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "KING'S AMNESTY ENDS; STOCKHOLM NOBLES SEIZED",
+  "dispatch": "King Christian II has ordered the execution of nearly 100 Swedish men in Stockholm, chiefly nobles who had expected the general amnesty promised after his coronation. Guards moved against the prisoners after proceedings in the city, bringing the new Danish king's rule into brutal conflict with Sweden's leading houses.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-08T10:59:49.144664-06:00"
  }
 ]

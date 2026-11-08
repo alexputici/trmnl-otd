@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-07T10:48:42.089683-06:00",
- "generated_at_epoch": 1794070122,
- "date": "2026-11-07",
- "date_label": "November 7",
- "location": "Cape Canaveral",
+ "generated_at": "2026-11-08T10:59:49.144664-06:00",
+ "generated_at_epoch": 1794157189,
+ "date": "2026-11-08",
+ "date_label": "November 8",
+ "location": "Stockholm",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Canadian troops capture Passchendaele, 1917",
-  "wiki_url": "https://en.wikipedia.org/wiki/World_War_I"
+  "answer": "Mars Global Surveyor launches toward Mars, 1996",
+  "wiki_url": "https://en.wikipedia.org/wiki/NASA"
  }
 }
