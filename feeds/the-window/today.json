@@ -1,15 +1,15 @@
 {
  "kind": "severe-weather",
  "headline": "The wind is the weather.",
- "observation": "Gusts near 72 km/h are forecast around 11 a.m..",
+ "observation": "Gusts near 77 km/h are forecast around 10 p.m..",
  "action": "Choose a sheltered route and check warnings before heading far.",
- "signal": "Gusts 72",
- "current": 7,
- "high": 10,
+ "signal": "Gusts 77",
+ "current": 11,
+ "high": 12,
  "low": 3,
  "aqi": 35,
  "light": "9h 17m",
  "schema": 1,
- "generated_at_epoch": 1794133018,
+ "generated_at_epoch": 1794156438,
  "date": "2026-11-08"
 }
