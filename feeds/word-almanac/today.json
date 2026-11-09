@@ -1,11 +1,11 @@
 {
- "word": "novembrine",
- "pronunciation": "noh-VEM-brin",
- "part_of_speech": "adjective",
- "definition": "Of, belonging to, or characteristic of November.",
- "etymology": "From Latin November, originally “the ninth month” in Rome’s old year, from novem, “nine”; English added -ine to make a seasonal adjective.",
- "usage": "A novembrine rain had darkened the pavements before noon.",
+ "word": "congelation",
+ "pronunciation": "kon-jeh-LAY-shun",
+ "part_of_speech": "noun",
+ "definition": "The process of freezing or congealing; the state of being solidified by cold; also, the mass or substance so formed.",
+ "etymology": "From Latin congelatio, itself from congelare, to freeze together — con- meaning together and gelare meaning to freeze, the same root that gives us gelid and jelly, which are, at bottom, the same cold miracle.",
+ "usage": "By morning the congelation in the horse-trough had thickened to a full inch, and the groom had to break it with the heel of his boot before the animals could drink.",
  "schema": 1,
- "generated_at_epoch": 1794156438,
- "date": "2026-11-08"
+ "generated_at_epoch": 1794258348,
+ "date": "2026-11-09"
 }
