@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-08T10:59:49.144664-06:00",
- "generated_at_epoch": 1794157189,
- "date": "2026-11-08",
- "date_label": "November 8",
- "location": "Stockholm",
+ "generated_at": "2026-11-09T15:24:03.851494-06:00",
+ "generated_at_epoch": 1794259443,
+ "date": "2026-11-09",
+ "date_label": "November 9",
+ "location": "East Berlin",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Mars Global Surveyor launches toward Mars, 1996",
-  "wiki_url": "https://en.wikipedia.org/wiki/NASA"
+  "answer": "Christian II orders Stockholm's nobles executed, 1520",
+  "wiki_url": "https://en.wikipedia.org/wiki/Monarchy_of_Sweden"
  }
 }

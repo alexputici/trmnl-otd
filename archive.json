@@ -2222,5 +2222,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-08T10:59:49.144664-06:00"
+ },
+ {
+  "date": "2026-11-09",
+  "date_label": "November 9",
+  "location": "East Berlin",
+  "answer": "Berlin Wall falls after border announcement, 1989",
+  "wiki_url": "https://en.wikipedia.org/wiki/G%C3%BCnter_Schabowski",
+  "title": "Berlin border opening",
+  "year": 1989,
+  "category": "politics",
+  "image_prompt": "A packed evening press conference in East Berlin, ten seconds before the unexpected announcement: a bespectacled official sits beneath harsh ceiling lamps, one hand gripping a sheaf of notes, the other just beginning to rise; rows of journalists lean forward with cameras and microphones aimed at him, their faces tense with anticipation. Behind them, a dark window hints at the guarded city beyond, with no readable signs or lettering. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "BORDER OPENED AT ONCE, BERLINERS POUR WEST",
+  "dispatch": "East German official Günter Schabowski told a Berlin news conference that private travel permits would take effect immediately. Crowds soon gathered at crossing points, and border guards opened the barriers as East Berliners streamed into West Berlin.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-09T15:24:03.851494-06:00"
  }
 ]
