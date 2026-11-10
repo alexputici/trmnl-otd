@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-11-09.png?v=4a5539cc3a66",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-11-10.png?v=4a5539cc3a66",
  "to_move": "Black",
- "rating": 1918,
+ "rating": 1827,
  "moves_to_win": 2,
  "puzzle_url": "https://lichess.org/training/f3CVY",
  "yesterday": {
-  "solution": "Rf4 Qc2 Rxd4",
-  "rating": 1870
+  "solution": "Qb6+ Kh1 gxh5",
+  "rating": 1918
  },
  "schema": 1,
- "generated_at_epoch": 1794258390,
- "date": "2026-11-09"
+ "generated_at_epoch": 1794334614,
+ "date": "2026-11-10"
 }
