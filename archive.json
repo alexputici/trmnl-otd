@@ -2238,5 +2238,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-09T15:24:03.851494-06:00"
+ },
+ {
+  "date": "2026-11-10",
+  "date_label": "November 10",
+  "location": "Lake Superior",
+  "answer": "SS Edmund Fitzgerald sinks on Lake Superior, 1975",
+  "wiki_url": "https://en.wikipedia.org/wiki/SS_Edmund_Fitzgerald",
+  "title": "Edmund Fitzgerald's final wave",
+  "year": 1975,
+  "category": "disaster",
+  "image_prompt": "Ten seconds before disaster, a long ore freighter drives into a towering black storm wave on a wild inland sea, its bow buried in foam and its stern lifting sharply, tiny deck crew clutching rails beneath a tilted mast, rain slashing sideways and a distant shorelight barely visible. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "FREIGHTER EDMUND FITZGERALD LOST IN SUPERIOR GALE",
+  "dispatch": "The 729-foot ore carrier Edmund Fitzgerald has been lost in a savage Lake Superior storm with her crew of 29. The vessel was bound for Detroit with taconite when it disappeared after reporting heavy seas; Coast Guard craft and aircraft are searching the freezing lake.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-10T12:35:48.452753-06:00"
  }
 ]

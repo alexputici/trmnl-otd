@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1794259443,
- "edition_date": "2026-11-09",
- "event_date_label": "November 8",
- "year": 1520,
- "location": "Stockholm",
- "headline": "KING'S AMNESTY ENDS; STOCKHOLM NOBLES SEIZED",
- "dispatch": "King Christian II has ordered the execution of nearly 100 Swedish men in Stockholm, chiefly nobles who had expected the general amnesty promised after his coronation. Guards moved against the prisoners after proceedings in the city, bringing the new Danish king's rule into brutal conflict with Sweden's leading houses.",
- "answer": "Christian II orders Stockholm's nobles executed, 1520",
+ "generated_at_epoch": 1794335748,
+ "edition_date": "2026-11-10",
+ "event_date_label": "November 9",
+ "year": 1989,
+ "location": "East Berlin",
+ "headline": "BORDER OPENED AT ONCE, BERLINERS POUR WEST",
+ "dispatch": "East German official Günter Schabowski told a Berlin news conference that private travel permits would take effect immediately. Crowds soon gathered at crossing points, and border guards opened the barriers as East Berliners streamed into West Berlin.",
+ "answer": "Berlin Wall falls after border announcement, 1989",
  "image_url": "",
  "first_run": false
 }

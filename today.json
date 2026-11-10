@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-09T15:24:03.851494-06:00",
- "generated_at_epoch": 1794259443,
- "date": "2026-11-09",
- "date_label": "November 9",
- "location": "East Berlin",
+ "generated_at": "2026-11-10T12:35:48.452753-06:00",
+ "generated_at_epoch": 1794335748,
+ "date": "2026-11-10",
+ "date_label": "November 10",
+ "location": "Lake Superior",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Christian II orders Stockholm's nobles executed, 1520",
-  "wiki_url": "https://en.wikipedia.org/wiki/Monarchy_of_Sweden"
+  "answer": "Berlin Wall falls after border announcement, 1989",
+  "wiki_url": "https://en.wikipedia.org/wiki/G%C3%BCnter_Schabowski"
  }
 }
