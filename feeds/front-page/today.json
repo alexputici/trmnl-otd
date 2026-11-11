@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1794335748,
- "edition_date": "2026-11-10",
- "event_date_label": "November 9",
- "year": 1989,
- "location": "East Berlin",
- "headline": "BORDER OPENED AT ONCE, BERLINERS POUR WEST",
- "dispatch": "East German official Günter Schabowski told a Berlin news conference that private travel permits would take effect immediately. Crowds soon gathered at crossing points, and border guards opened the barriers as East Berliners streamed into West Berlin.",
- "answer": "Berlin Wall falls after border announcement, 1989",
+ "generated_at_epoch": 1794422077,
+ "edition_date": "2026-11-11",
+ "event_date_label": "November 10",
+ "year": 1975,
+ "location": "Lake Superior",
+ "headline": "FREIGHTER EDMUND FITZGERALD LOST IN SUPERIOR GALE",
+ "dispatch": "The 729-foot ore carrier Edmund Fitzgerald has been lost in a savage Lake Superior storm with her crew of 29. The vessel was bound for Detroit with taconite when it disappeared after reporting heavy seas; Coast Guard craft and aircraft are searching the freezing lake.",
+ "answer": "SS Edmund Fitzgerald sinks on Lake Superior, 1975",
  "image_url": "",
  "first_run": false
 }

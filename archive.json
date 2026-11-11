@@ -2254,5 +2254,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-10T12:35:48.452753-06:00"
+ },
+ {
+  "date": "2026-11-11",
+  "date_label": "November 11",
+  "location": "Compiègne",
+  "answer": "The 1918 armistice is signed at Compiègne",
+  "wiki_url": "https://en.wikipedia.org/wiki/Armistice_of_11_November_1918",
+  "title": "Armistice at Compiègne",
+  "year": 1918,
+  "category": "politics",
+  "image_prompt": "Inside a dim railway carriage in a forest clearing, exhausted uniformed delegates sit rigidly across a narrow table strewn with unsigned papers; one man's fountain pen hovers a breath above the signature line while a clock and waiting officers heighten the silence. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "ARMISTICE SIGNED; FIRING TO CEASE AT ELEVEN",
+  "dispatch": "An armistice between Germany and the Allied powers was signed this morning in a railway carriage in the Forest of Compiègne. The agreement requires German evacuation and disarmament, and orders the guns silent at eleven o'clock.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-11T12:34:37.289951-06:00"
  }
 ]

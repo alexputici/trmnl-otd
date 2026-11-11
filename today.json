@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-10T12:35:48.452753-06:00",
- "generated_at_epoch": 1794335748,
- "date": "2026-11-10",
- "date_label": "November 10",
- "location": "Lake Superior",
+ "generated_at": "2026-11-11T12:34:37.289951-06:00",
+ "generated_at_epoch": 1794422077,
+ "date": "2026-11-11",
+ "date_label": "November 11",
+ "location": "Compiègne",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Berlin Wall falls after border announcement, 1989",
-  "wiki_url": "https://en.wikipedia.org/wiki/G%C3%BCnter_Schabowski"
+  "answer": "SS Edmund Fitzgerald sinks on Lake Superior, 1975",
+  "wiki_url": "https://en.wikipedia.org/wiki/SS_Edmund_Fitzgerald"
  }
 }
