@@ -1,7 +1,7 @@
 {
  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-11-11.png?v=0aa107100665",
  "to_move": "Black",
- "rating": 1997,
+ "rating": 1985,
  "moves_to_win": 2,
  "puzzle_url": "https://lichess.org/training/BngAa",
  "yesterday": {
@@ -9,6 +9,6 @@
   "rating": 1827
  },
  "schema": 1,
- "generated_at_epoch": 1794420227,
+ "generated_at_epoch": 1794420383,
  "date": "2026-11-11"
 }

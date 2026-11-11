@@ -1,11 +1,11 @@
 {
- "word": "armistice",
- "pronunciation": "AHR-mih-stis",
+ "word": "cenotaph",
+ "pronunciation": "SEE-nə-taf",
  "part_of_speech": "noun",
- "definition": "A formal agreement by warring parties to cease hostilities; a truce, typically one that ends active fighting while a permanent peace is negotiated.",
- "etymology": "From Latin arma, weapons, and sistere, to cause to stand or stop. The two roots met in New Latin armistítium, coined on the model of solstitium, the solstice, that moment when the sun itself seems to stand still. English borrowed the word in the early eighteenth century, but it was the eleventh hour of the eleventh day of the eleventh month of 1918 that burned it into the calendar permanently.",
- "usage": "The word carries more weight than truce, which is informal and temporary-feeling; armistice implies negotiated, witnessed, documented stillness — guns that have been made to stand, not merely laid down.",
+ "definition": "A monument honoring someone whose body is buried elsewhere, or has not been recovered; an empty tomb in memorial form.",
+ "etymology": "From Greek kenotaphion, “empty tomb,” made from kenos, “empty,” and taphos, “tomb.” The word traveled through Latin and French into English for monuments that hold remembrance rather than remains.",
+ "usage": "On Armistice Day, the town gathered silently around the cenotaph.",
  "schema": 1,
- "generated_at_epoch": 1794420227,
+ "generated_at_epoch": 1794420383,
  "date": "2026-11-11"
 }
