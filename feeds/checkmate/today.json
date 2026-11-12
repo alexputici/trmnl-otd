@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-11-11.png?v=0aa107100665",
- "to_move": "Black",
- "rating": 1985,
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-11-12.png?v=cda191b894d6",
+ "to_move": "White",
+ "rating": 2094,
  "moves_to_win": 2,
- "puzzle_url": "https://lichess.org/training/BngAa",
+ "puzzle_url": "https://lichess.org/training/ioglh",
  "yesterday": {
-  "solution": "Qb6+ Kh1 gxh5",
-  "rating": 1827
+  "solution": "Rxe2+ Kxe2 Kc6",
+  "rating": 1985
  },
  "schema": 1,
- "generated_at_epoch": 1794420383,
- "date": "2026-11-11"
+ "generated_at_epoch": 1794508587,
+ "date": "2026-11-12"
 }

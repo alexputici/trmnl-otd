@@ -1,11 +1,11 @@
 {
- "word": "cenotaph",
- "pronunciation": "SEE-nə-taf",
- "part_of_speech": "noun",
- "definition": "A monument honoring someone whose body is buried elsewhere, or has not been recovered; an empty tomb in memorial form.",
- "etymology": "From Greek kenotaphion, “empty tomb,” made from kenos, “empty,” and taphos, “tomb.” The word traveled through Latin and French into English for monuments that hold remembrance rather than remains.",
- "usage": "On Armistice Day, the town gathered silently around the cenotaph.",
+ "word": "hyetal",
+ "pronunciation": "hy-EE-təl",
+ "part_of_speech": "adjective",
+ "definition": "Of or relating to rain; rainy.",
+ "etymology": "It comes from Greek hýetos, “rain,” carried into English with the adjective-making ending -al. Its Greek root, hýein, simply means “to rain.”",
+ "usage": "A hyetal November morning can make even noon seem close to dusk.",
  "schema": 1,
- "generated_at_epoch": 1794420383,
- "date": "2026-11-11"
+ "generated_at_epoch": 1794508587,
+ "date": "2026-11-12"
 }
