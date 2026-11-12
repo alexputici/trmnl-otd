@@ -2270,5 +2270,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-11T12:34:37.289951-06:00"
+ },
+ {
+  "date": "2026-11-12",
+  "date_label": "November 12",
+  "location": "Comet 67P",
+  "answer": "Philae makes the first landing on a comet, 2014",
+  "wiki_url": "https://en.wikipedia.org/wiki/European_Space_Agency",
+  "title": "Philae's comet touchdown",
+  "year": 2014,
+  "category": "science",
+  "image_prompt": "A tiny box-shaped robotic lander hangs just above the jagged, boulder-strewn surface of a dark comet, three spindly legs extended and a thin tether trailing behind it into star-filled blackness; a vast irregular icy cliff rises beyond, tension at the instant before contact. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "EUROPEAN LANDER SETS DOWN ON COMET",
+  "dispatch": "DARMSTADT, Nov. 13. The European Space Agency reported that its small lander Philae reached the surface of a comet after separating from the Rosetta spacecraft. The probe, carried through space for a decade, sent back confirmation of the first attempted landing by a spacecraft on such a body.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-12T12:47:46.024136-06:00"
  }
 ]

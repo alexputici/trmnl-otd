@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-11T12:34:37.289951-06:00",
- "generated_at_epoch": 1794422077,
- "date": "2026-11-11",
- "date_label": "November 11",
- "location": "Compiègne",
+ "generated_at": "2026-11-12T12:47:46.024136-06:00",
+ "generated_at_epoch": 1794509266,
+ "date": "2026-11-12",
+ "date_label": "November 12",
+ "location": "Comet 67P",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "SS Edmund Fitzgerald sinks on Lake Superior, 1975",
-  "wiki_url": "https://en.wikipedia.org/wiki/SS_Edmund_Fitzgerald"
+  "answer": "The 1918 armistice is signed at Compiègne",
+  "wiki_url": "https://en.wikipedia.org/wiki/Armistice_of_11_November_1918"
  }
 }
