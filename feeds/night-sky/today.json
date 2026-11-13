@@ -1,12 +1,12 @@
 {
- "phase": "New Moon",
- "glyph": "🌑",
- "illumination_pct": 4,
- "moon_age_days": 1.8,
+ "phase": "Waxing Crescent",
+ "glyph": "🌒",
+ "illumination_pct": 16,
+ "moon_age_days": 3.8,
  "next_full": "Nov 24",
  "next_new": "Dec 9",
  "darkness": "dark skies",
  "schema": 1,
- "generated_at_epoch": 1794420227,
- "date": "2026-11-11"
+ "generated_at_epoch": 1794593043,
+ "date": "2026-11-13"
 }

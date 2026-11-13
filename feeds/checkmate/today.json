@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-11-12.png?v=cda191b894d6",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-11-13.png?v=76e2363e65b2",
  "to_move": "White",
- "rating": 2094,
- "moves_to_win": 2,
- "puzzle_url": "https://lichess.org/training/ioglh",
+ "rating": 1991,
+ "moves_to_win": 3,
+ "puzzle_url": "https://lichess.org/training/u3zfD",
  "yesterday": {
-  "solution": "Rxe2+ Kxe2 Kc6",
-  "rating": 1985
+  "solution": "Kxf2 Qd4+ Kg3",
+  "rating": 2094
  },
  "schema": 1,
- "generated_at_epoch": 1794508587,
- "date": "2026-11-12"
+ "generated_at_epoch": 1794593043,
+ "date": "2026-11-13"
 }
