@@ -1,11 +1,11 @@
 {
- "word": "pluvial",
- "pronunciation": "PLOO-vee-ul",
- "part_of_speech": "adjective",
- "definition": "Of, relating to, or characterized by rain; in geology, designating a period of greatly increased rainfall, especially one coinciding with a glacial epoch in higher latitudes.",
- "etymology": "From Latin pluvialis, rainy, which flows from pluvia, rain, itself from pluere, to rain. The Romans gave rain its own goddess, Pluvius Jupiter — the aspect of Jove invoked to bring or stop the downpour — and the word has been dripping through English since the seventeenth century.",
- "usage": "November presses down with a pluvial insistence today, the gutters running full and the garden paths turned to mirrors, as if the sky had decided the earth had not yet had enough.",
+ "word": "nephology",
+ "pronunciation": "neh-FOL-uh-jee",
+ "part_of_speech": "noun",
+ "definition": "The study or systematic observation of clouds; also, the cloud conditions of a place or time.",
+ "etymology": "A nineteenth-century formation from Greek nephos, “cloud,” joined to -logy, “study.” It gives November’s low gray ceiling a scholar’s name.",
+ "usage": "The morning’s nephology was all slate stratus, with a brighter seam gathering over the western hills.",
  "schema": 1,
- "generated_at_epoch": 1794593043,
+ "generated_at_epoch": 1794593190,
  "date": "2026-11-13"
 }
