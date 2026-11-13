@@ -2286,5 +2286,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-12T12:47:46.024136-06:00"
+ },
+ {
+  "date": "2026-11-13",
+  "date_label": "November 13",
+  "location": "Hudson River",
+  "answer": "Holland Tunnel opens beneath the Hudson, 1927",
+  "wiki_url": "https://en.wikipedia.org/wiki/Holland_Tunnel",
+  "title": "Holland Tunnel opens",
+  "year": 1927,
+  "category": "other",
+  "image_prompt": "At night, viewed from the New Jersey approach, two early motorcars wait inches behind a raised rope barrier at the grand stone tunnel portal; a uniformed attendant has one hand poised over the release, while the brightly lit tiled bore vanishes under the river behind him. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "HOLLAND TUNNEL OPENS BENEATH HUDSON",
+  "dispatch": "The Holland Tunnel has opened between Manhattan and Jersey City, placing a road crossing beneath the Hudson River at the service of motorists. The twin tubes admit vehicular traffic through a new connection between New York and New Jersey.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-13T12:28:52.112591-06:00"
  }
 ]
