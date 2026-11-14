@@ -2302,5 +2302,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-13T12:28:52.112591-06:00"
+ },
+ {
+  "date": "2026-11-14",
+  "date_label": "November 14",
+  "location": "New York",
+  "answer": "Moby-Dick is published in the United States, 1851",
+  "wiki_url": "https://en.wikipedia.org/wiki/Moby-Dick",
+  "title": "Moby-Dick reaches America",
+  "year": 1851,
+  "category": "art",
+  "image_prompt": "Inside a busy mid-19th-century publishing house, a printer's ink-stained hand hovers with a freshly bound thick sea novel above a neat stack of identical unlettered volumes, while a shipping clerk waits beside a wooden crate and rain-darkened street beyond the window; one concrete instant before the first copy is set out for sale, with a carved whale emblem on the plain cover but no words. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "MELVILLE'S NEW TALE OF THE WHALE ISSUED",
+  "dispatch": "New York, Nov. 15. Harper & Brothers yesterday issued Herman Melville's Moby-Dick, a long sea tale centered on a whaling captain's pursuit of a white sperm whale. The volume appears in America after its earlier British issue and is offered in a single bound edition.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-14T10:57:49.131246-06:00"
  }
 ]

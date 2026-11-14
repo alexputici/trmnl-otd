@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-13T12:28:52.112591-06:00",
- "generated_at_epoch": 1794594532,
- "date": "2026-11-13",
- "date_label": "November 13",
- "location": "Hudson River",
+ "generated_at": "2026-11-14T10:57:49.131246-06:00",
+ "generated_at_epoch": 1794675469,
+ "date": "2026-11-14",
+ "date_label": "November 14",
+ "location": "New York",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Philae makes the first landing on a comet, 2014",
-  "wiki_url": "https://en.wikipedia.org/wiki/European_Space_Agency"
+  "answer": "Holland Tunnel opens beneath the Hudson, 1927",
+  "wiki_url": "https://en.wikipedia.org/wiki/Holland_Tunnel"
  }
 }

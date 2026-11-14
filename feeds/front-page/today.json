@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1794594532,
- "edition_date": "2026-11-13",
- "event_date_label": "November 12",
- "year": 2014,
- "location": "Comet 67P",
- "headline": "EUROPEAN LANDER SETS DOWN ON COMET",
- "dispatch": "DARMSTADT, Nov. 13. The European Space Agency reported that its small lander Philae reached the surface of a comet after separating from the Rosetta spacecraft. The probe, carried through space for a decade, sent back confirmation of the first attempted landing by a spacecraft on such a body.",
- "answer": "Philae makes the first landing on a comet, 2014",
+ "generated_at_epoch": 1794675469,
+ "edition_date": "2026-11-14",
+ "event_date_label": "November 13",
+ "year": 1927,
+ "location": "Hudson River",
+ "headline": "HOLLAND TUNNEL OPENS BENEATH HUDSON",
+ "dispatch": "The Holland Tunnel has opened between Manhattan and Jersey City, placing a road crossing beneath the Hudson River at the service of motorists. The twin tubes admit vehicular traffic through a new connection between New York and New Jersey.",
+ "answer": "Holland Tunnel opens beneath the Hudson, 1927",
  "image_url": "",
  "first_run": false
 }
