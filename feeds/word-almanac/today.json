@@ -1,11 +1,11 @@
 {
- "word": "nubilous",
- "pronunciation": "NYOO-bih-lus",
- "part_of_speech": "adjective",
- "definition": "Cloudy, misty, or overcast; also used figuratively to mean obscure or vague in thought or expression.",
- "etymology": "From Latin nubilus, meaning cloudy, itself from nubes, a cloud. The Romans used nubes for the whole grey mass of a November sky, and English borrowed the adjective in the seventeenth century, mostly for learned prose, then quietly let it drift toward disuse — which is a shame, because the word looks exactly like what it means.",
- "usage": "A nubilous afternoon in mid-November, the kind where the light never quite arrives and dusk begins at two, is the right weather for sitting indoors with something warm and a book you have been meaning to finish since September.",
+ "word": "serein",
+ "pronunciation": "suh-RAYN",
+ "part_of_speech": "noun",
+ "definition": "A fine, mistlike rain that falls from a seemingly clear evening sky.",
+ "etymology": "English borrowed it from French serein, “clear” or “serene,” itself from Latin serenus. The name preserves the lovely paradox of rain arriving under a clear sky.",
+ "usage": "At dusk, a serein silvered the bare hedges and vanished on the pavement.",
  "schema": 1,
- "generated_at_epoch": 1794763475,
+ "generated_at_epoch": 1794763551,
  "date": "2026-11-15"
 }
