@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1794675469,
- "edition_date": "2026-11-14",
- "event_date_label": "November 13",
- "year": 1927,
- "location": "Hudson River",
- "headline": "HOLLAND TUNNEL OPENS BENEATH HUDSON",
- "dispatch": "The Holland Tunnel has opened between Manhattan and Jersey City, placing a road crossing beneath the Hudson River at the service of motorists. The twin tubes admit vehicular traffic through a new connection between New York and New Jersey.",
- "answer": "Holland Tunnel opens beneath the Hudson, 1927",
+ "generated_at_epoch": 1794764380,
+ "edition_date": "2026-11-15",
+ "event_date_label": "November 14",
+ "year": 1851,
+ "location": "New York",
+ "headline": "MELVILLE'S NEW TALE OF THE WHALE ISSUED",
+ "dispatch": "New York, Nov. 15. Harper & Brothers yesterday issued Herman Melville's Moby-Dick, a long sea tale centered on a whaling captain's pursuit of a white sperm whale. The volume appears in America after its earlier British issue and is offered in a single bound edition.",
+ "answer": "Moby-Dick is published in the United States, 1851",
  "image_url": "",
  "first_run": false
 }

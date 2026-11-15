@@ -2318,5 +2318,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-14T10:57:49.131246-06:00"
+ },
+ {
+  "date": "2026-11-15",
+  "date_label": "November 15",
+  "location": "Baikonur",
+  "answer": "Buran completes its only spaceflight, 1988",
+  "wiki_url": "https://en.wikipedia.org/wiki/Buran_(spacecraft)",
+  "title": "Buran's lone flight",
+  "year": 1988,
+  "category": "science",
+  "image_prompt": "Ten seconds before liftoff, an immense white winged orbital spacecraft stands atop its towering rocket on the launch pad, the final service arm swinging clear, vapor pouring around the base while tiny helmeted ground crew hurry away beneath floodlights; the vehicle is poised utterly still against a cold dawn sky. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "SOVIET SHUTTLE RISES ON UNMANNED FLIGHT",
+  "dispatch": "Baikonur, Nov. 16. The Soviet reusable orbiter Buran has completed an uncrewed flight from the Baikonur cosmodrome, circling Earth twice before an automatic landing at Yubileyniy airfield. The craft was carried aloft by the Energia rocket and is the first Soviet shuttle-type vehicle to reach space.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-15T11:39:40.832751-06:00"
  }
 ]

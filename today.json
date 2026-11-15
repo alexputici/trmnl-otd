@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-14T10:57:49.131246-06:00",
- "generated_at_epoch": 1794675469,
- "date": "2026-11-14",
- "date_label": "November 14",
- "location": "New York",
+ "generated_at": "2026-11-15T11:39:40.832751-06:00",
+ "generated_at_epoch": 1794764380,
+ "date": "2026-11-15",
+ "date_label": "November 15",
+ "location": "Baikonur",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Holland Tunnel opens beneath the Hudson, 1927",
-  "wiki_url": "https://en.wikipedia.org/wiki/Holland_Tunnel"
+  "answer": "Moby-Dick is published in the United States, 1851",
+  "wiki_url": "https://en.wikipedia.org/wiki/Moby-Dick"
  }
 }
