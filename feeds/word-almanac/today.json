@@ -1,11 +1,11 @@
 {
- "word": "virga",
- "pronunciation": "VUR-guh",
- "part_of_speech": "noun",
- "definition": "Streaks or wisps of precipitation — rain, snow, or ice crystals — that fall from a cloud but evaporate or sublimate before reaching the ground, visible as faint trailing curtains beneath the cloud base.",
- "etymology": "From Latin virga, meaning a rod, twig, or slender branch. Roman writers used it for any thin stripe or streak, and the word passed unchanged into meteorological Latin when observers needed a name for those ghostly rain-tails that dissolve in mid-air. The same root gave English verge and virgin via different routes.",
- "usage": "On a cold mid-November afternoon the clouds overhead were dramatic but delivered nothing: only virga, those pale grey brushstrokes dangling beneath them, spending themselves on dry air before a single drop could darken the pavement.",
+ "word": "antelucan",
+ "pronunciation": "an-tih-LOO-kan",
+ "part_of_speech": "adjective",
+ "definition": "Occurring or active before dawn; belonging to the hours before first light.",
+ "etymology": "It comes from Latin antelucanus, literally “before the light”: ante (“before”) joined lux, lucem (“light”). English borrowed it for things that stir while dawn is still only a promise.",
+ "usage": "The antelucan commute had begun under a sky of thin November cloud.",
  "schema": 1,
- "generated_at_epoch": 1794861642,
+ "generated_at_epoch": 1794861682,
  "date": "2026-11-16"
 }
