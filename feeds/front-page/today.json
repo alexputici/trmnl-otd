@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1794764380,
- "edition_date": "2026-11-15",
- "event_date_label": "November 14",
- "year": 1851,
- "location": "New York",
- "headline": "MELVILLE'S NEW TALE OF THE WHALE ISSUED",
- "dispatch": "New York, Nov. 15. Harper & Brothers yesterday issued Herman Melville's Moby-Dick, a long sea tale centered on a whaling captain's pursuit of a white sperm whale. The volume appears in America after its earlier British issue and is offered in a single bound edition.",
- "answer": "Moby-Dick is published in the United States, 1851",
+ "generated_at_epoch": 1794862491,
+ "edition_date": "2026-11-16",
+ "event_date_label": "November 15",
+ "year": 1988,
+ "location": "Baikonur",
+ "headline": "SOVIET SHUTTLE RISES ON UNMANNED FLIGHT",
+ "dispatch": "Baikonur, Nov. 16. The Soviet reusable orbiter Buran has completed an uncrewed flight from the Baikonur cosmodrome, circling Earth twice before an automatic landing at Yubileyniy airfield. The craft was carried aloft by the Energia rocket and is the first Soviet shuttle-type vehicle to reach space.",
+ "answer": "Buran completes its only spaceflight, 1988",
  "image_url": "",
  "first_run": false
 }

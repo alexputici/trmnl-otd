@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-15T11:39:40.832751-06:00",
- "generated_at_epoch": 1794764380,
- "date": "2026-11-15",
- "date_label": "November 15",
- "location": "Baikonur",
+ "generated_at": "2026-11-16T14:54:51.165465-06:00",
+ "generated_at_epoch": 1794862491,
+ "date": "2026-11-16",
+ "date_label": "November 16",
+ "location": "Sint Eustatius",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Moby-Dick is published in the United States, 1851",
-  "wiki_url": "https://en.wikipedia.org/wiki/Moby-Dick"
+  "answer": "Buran completes its only spaceflight, 1988",
+  "wiki_url": "https://en.wikipedia.org/wiki/Buran_(spacecraft)"
  }
 }

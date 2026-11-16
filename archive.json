@@ -2334,5 +2334,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-15T11:39:40.832751-06:00"
+ },
+ {
+  "date": "2026-11-16",
+  "date_label": "November 16",
+  "location": "Sint Eustatius",
+  "answer": "Sint Eustatius salutes the American flag, 1776",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+  "title": "The First Salute",
+  "year": 1776,
+  "category": "politics",
+  "image_prompt": "From the stone battery of a small Caribbean Dutch fort, a cannon crew freezes a heartbeat before firing: the gunner holds a smoldering linstock just short of the touchhole while officers watch a lone brig offshore, its new striped flag snapping in the wind; palm trees bend beyond the bastion and waves break below. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "DUTCH FORT SALUTES THE AMERICAN COLORS",
+  "dispatch": "Sint Eustatius, Nov. 16. The Dutch-held fort here fired a salute to the Continental brig Andrew Doria as she entered the roadstead bearing American colors. The exchange is reported as the first formal foreign recognition accorded the flag of the rebellious colonies.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-16T14:54:51.165465-06:00"
  }
 ]
