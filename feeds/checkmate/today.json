@@ -1,7 +1,7 @@
 {
  "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-11-17.png?v=03d28f523150",
  "to_move": "Black",
- "rating": 1803,
+ "rating": 1881,
  "moves_to_win": 3,
  "puzzle_url": "https://lichess.org/training/HofO6",
  "yesterday": {
@@ -9,6 +9,6 @@
   "rating": 1631
  },
  "schema": 1,
- "generated_at_epoch": 1794943498,
+ "generated_at_epoch": 1794943545,
  "date": "2026-11-17"
 }

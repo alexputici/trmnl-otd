@@ -1,11 +1,11 @@
 {
- "word": "crepuscular",
- "pronunciation": "krih-PUS-kyoo-ler",
+ "word": "hibernal",
+ "pronunciation": "hy-BUR-nəl",
  "part_of_speech": "adjective",
- "definition": "Of, resembling, or active during twilight; also used of light that is dim, faint, or half-formed, as though caught between day and dark.",
- "etymology": "From Latin crepusculum, twilight, itself from creper, dusky or uncertain — a word Romans used for things that hovered between two states, neither fully one thing nor another. The diminutive suffix gives it a softening quality, as if the darkness were still small and tentative.",
- "usage": "November delivers the crepuscular hours early now; by half past four the sky has gone that particular bruised violet, and the deer come out of the wood to stand in the last of it.",
+ "definition": "Of or belonging to winter; wintry.",
+ "etymology": "It comes from Latin hibernus, “of winter,” itself kin to hiems, “winter.” The word traveled through learned Latin into English to give winter a slightly formal coat.",
+ "usage": "By mid-November, the garden had assumed its hibernal quiet.",
  "schema": 1,
- "generated_at_epoch": 1794943498,
+ "generated_at_epoch": 1794943545,
  "date": "2026-11-17"
 }
