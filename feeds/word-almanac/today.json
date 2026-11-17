@@ -1,11 +1,11 @@
 {
- "word": "antelucan",
- "pronunciation": "an-tih-LOO-kan",
+ "word": "crepuscular",
+ "pronunciation": "krih-PUS-kyoo-ler",
  "part_of_speech": "adjective",
- "definition": "Occurring or active before dawn; belonging to the hours before first light.",
- "etymology": "It comes from Latin antelucanus, literally “before the light”: ante (“before”) joined lux, lucem (“light”). English borrowed it for things that stir while dawn is still only a promise.",
- "usage": "The antelucan commute had begun under a sky of thin November cloud.",
+ "definition": "Of, resembling, or active during twilight; also used of light that is dim, faint, or half-formed, as though caught between day and dark.",
+ "etymology": "From Latin crepusculum, twilight, itself from creper, dusky or uncertain — a word Romans used for things that hovered between two states, neither fully one thing nor another. The diminutive suffix gives it a softening quality, as if the darkness were still small and tentative.",
+ "usage": "November delivers the crepuscular hours early now; by half past four the sky has gone that particular bruised violet, and the deer come out of the wood to stand in the last of it.",
  "schema": 1,
- "generated_at_epoch": 1794861682,
- "date": "2026-11-16"
+ "generated_at_epoch": 1794943498,
+ "date": "2026-11-17"
 }
