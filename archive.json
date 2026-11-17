@@ -2350,5 +2350,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-16T14:54:51.165465-06:00"
+ },
+ {
+  "date": "2026-11-17",
+  "date_label": "November 17",
+  "location": "Hatfield",
+  "answer": "Elizabeth I becomes Queen of England, 1558",
+  "wiki_url": "https://en.wikipedia.org/wiki/Elizabeth_I",
+  "title": "Elizabeth awaits the crown",
+  "year": 1558,
+  "category": "politics",
+  "image_prompt": "In the stone courtyard of a Tudor manor at dawn, a red-haired young noblewoman stands beneath a great oak as a mud-spattered royal courier drops to one knee before her, a sealed ring held inches from her outstretched hand; anxious ladies and armed retainers hold their breath behind her, with dark palace windows and bare autumn branches framing the instant before the news is spoken. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "QUEEN MARY DEAD; ELIZABETH PROCLAIMED",
+  "dispatch": "Queen Mary died at St James's Palace yesterday, and her half-sister Elizabeth was proclaimed sovereign at Hatfield. The 25-year-old heir succeeds to the crowns of England and Ireland, ending Mary's five-year reign.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-17T13:45:37.034759-06:00"
  }
 ]

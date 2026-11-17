@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1794862491,
- "edition_date": "2026-11-16",
- "event_date_label": "November 15",
- "year": 1988,
- "location": "Baikonur",
- "headline": "SOVIET SHUTTLE RISES ON UNMANNED FLIGHT",
- "dispatch": "Baikonur, Nov. 16. The Soviet reusable orbiter Buran has completed an uncrewed flight from the Baikonur cosmodrome, circling Earth twice before an automatic landing at Yubileyniy airfield. The craft was carried aloft by the Energia rocket and is the first Soviet shuttle-type vehicle to reach space.",
- "answer": "Buran completes its only spaceflight, 1988",
+ "generated_at_epoch": 1794944737,
+ "edition_date": "2026-11-17",
+ "event_date_label": "November 16",
+ "year": 1776,
+ "location": "Sint Eustatius",
+ "headline": "DUTCH FORT SALUTES THE AMERICAN COLORS",
+ "dispatch": "Sint Eustatius, Nov. 16. The Dutch-held fort here fired a salute to the Continental brig Andrew Doria as she entered the roadstead bearing American colors. The exchange is reported as the first formal foreign recognition accorded the flag of the rebellious colonies.",
+ "answer": "Sint Eustatius salutes the American flag, 1776",
  "image_url": "",
  "first_run": false
 }

@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-16T14:54:51.165465-06:00",
- "generated_at_epoch": 1794862491,
- "date": "2026-11-16",
- "date_label": "November 16",
- "location": "Sint Eustatius",
+ "generated_at": "2026-11-17T13:45:37.034759-06:00",
+ "generated_at_epoch": 1794944737,
+ "date": "2026-11-17",
+ "date_label": "November 17",
+ "location": "Hatfield",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Buran completes its only spaceflight, 1988",
-  "wiki_url": "https://en.wikipedia.org/wiki/Buran_(spacecraft)"
+  "answer": "Sint Eustatius salutes the American flag, 1776",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
  }
 }
