@@ -1,11 +1,11 @@
 {
- "word": "hibernal",
- "pronunciation": "hy-BUR-nəl",
- "part_of_speech": "adjective",
- "definition": "Of or belonging to winter; wintry.",
- "etymology": "It comes from Latin hibernus, “of winter,” itself kin to hiems, “winter.” The word traveled through learned Latin into English to give winter a slightly formal coat.",
- "usage": "By mid-November, the garden had assumed its hibernal quiet.",
+ "word": "illapse",
+ "pronunciation": "ih-LAPS",
+ "part_of_speech": "noun (also verb)",
+ "definition": "A gliding or flowing into something; the gradual, almost imperceptible entry of one thing into another — used historically of light entering a room, of sleep stealing over the mind, or of divine influence descending into the soul.",
+ "etymology": "From Latin illabi, to glide or slip into, built from il- (a form of in-, meaning into) and labi, to slide or fall. Labi is the same root that gives us lapse, collapse, and elapse — all words carrying the sense of something slipping quietly away or forward through time. English writers of the seventeenth and eighteenth centuries borrowed illapse for moments when an arrival was too soft to be called an entry.",
+ "usage": "On a mid-November afternoon the light does not so much fall as illapse — a pale, low seeping through bare branches that you notice only once it has already settled across the floor.",
  "schema": 1,
- "generated_at_epoch": 1794943545,
- "date": "2026-11-17"
+ "generated_at_epoch": 1795028651,
+ "date": "2026-11-18"
 }
