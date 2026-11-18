@@ -1,11 +1,11 @@
 {
- "word": "illapse",
- "pronunciation": "ih-LAPS",
- "part_of_speech": "noun (also verb)",
- "definition": "A gliding or flowing into something; the gradual, almost imperceptible entry of one thing into another — used historically of light entering a room, of sleep stealing over the mind, or of divine influence descending into the soul.",
- "etymology": "From Latin illabi, to glide or slip into, built from il- (a form of in-, meaning into) and labi, to slide or fall. Labi is the same root that gives us lapse, collapse, and elapse — all words carrying the sense of something slipping quietly away or forward through time. English writers of the seventeenth and eighteenth centuries borrowed illapse for moments when an arrival was too soft to be called an entry.",
- "usage": "On a mid-November afternoon the light does not so much fall as illapse — a pale, low seeping through bare branches that you notice only once it has already settled across the floor.",
+ "word": "cailleach",
+ "pronunciation": "KAL-yukh",
+ "part_of_speech": "noun",
+ "definition": "In Scottish and Irish tradition, an old woman or hag; especially a formidable female spirit associated with winter, storms, or wild places.",
+ "etymology": "Scots borrowed it from Gaelic cailleach, literally “veiled woman” and then “old woman.” The Gaelic word grew from caille, “veil,” itself ultimately related to Latin pallium, a cloak: winter’s crone began as someone wrapped or hidden away.",
+ "usage": "By mid-November, the cailleach seems to have taken the hills in hand, combing them with sleet.",
  "schema": 1,
- "generated_at_epoch": 1795028651,
+ "generated_at_epoch": 1795028766,
  "date": "2026-11-18"
 }
