@@ -2366,5 +2366,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-17T13:45:37.034759-06:00"
+ },
+ {
+  "date": "2026-11-18",
+  "date_label": "November 18",
+  "location": "New York",
+  "answer": "Mark Twain's Jumping Frog is published, 1865",
+  "wiki_url": "https://en.wikipedia.org/wiki/The_Celebrated_Jumping_Frog_of_Calaveras_County",
+  "title": "Mark Twain's jumping frog debut",
+  "year": 1865,
+  "category": "art",
+  "image_prompt": "Ten seconds before an 1860s newspaper press begins its run: a young printer in rolled sleeves holds a fresh inked forme above the press bed, while a sharply dressed young writer waits anxiously beside him, one hand hovering over the press lever; loose manuscript pages flutter on a nearby table, gas lamps throw hard shadows across the cramped print shop. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "MARK TWAIN'S JUMPING FROG IN PRINT",
+  "dispatch": "A comic tale by the young writer Mark Twain appears today in New York's Saturday Press. The yarn of a Calaveras County gambler and his extraordinary frog is the author's first wide success.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-18T13:21:35.491831-06:00"
  }
 ]
