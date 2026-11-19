@@ -2382,5 +2382,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-18T13:21:35.491831-06:00"
+ },
+ {
+  "date": "2026-11-19",
+  "date_label": "November 19",
+  "location": "Gettysburg",
+  "answer": "Lincoln delivers the Gettysburg Address, 1863",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Civil_War",
+  "title": "Lincoln before the Gettysburg Address",
+  "year": 1863,
+  "category": "politics",
+  "image_prompt": "Ten seconds before a funeral oration, Abraham Lincoln stands at a plain wooden lectern beneath a dark November sky, one hand resting on folded notes, his tall hat held at his side. Rows of soldiers, mourners, and fresh cemetery headstones fall silent before him; a speaker seated behind him watches expectantly. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "PRESIDENT LINCOLN SPEAKS AT SOLDIERS' CEMETERY",
+  "dispatch": "Gettysburg, Pa., Nov. 20. President Lincoln yesterday delivered a brief address at the dedication of the Soldiers' National Cemetery. Speaking after Edward Everett's long oration, he invoked a new birth of freedom and called upon the living to complete the work of the fallen.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-19T13:27:40.977175-06:00"
  }
 ]

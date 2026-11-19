@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-18T13:21:35.491831-06:00",
- "generated_at_epoch": 1795029695,
- "date": "2026-11-18",
- "date_label": "November 18",
- "location": "New York",
+ "generated_at": "2026-11-19T13:27:40.977175-06:00",
+ "generated_at_epoch": 1795116460,
+ "date": "2026-11-19",
+ "date_label": "November 19",
+ "location": "Gettysburg",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Elizabeth I becomes Queen of England, 1558",
-  "wiki_url": "https://en.wikipedia.org/wiki/Elizabeth_I"
+  "answer": "Mark Twain's Jumping Frog is published, 1865",
+  "wiki_url": "https://en.wikipedia.org/wiki/The_Celebrated_Jumping_Frog_of_Calaveras_County"
  }
 }

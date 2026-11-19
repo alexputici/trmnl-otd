@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1795029695,
- "edition_date": "2026-11-18",
- "event_date_label": "November 17",
- "year": 1558,
- "location": "Hatfield",
- "headline": "QUEEN MARY DEAD; ELIZABETH PROCLAIMED",
- "dispatch": "Queen Mary died at St James's Palace yesterday, and her half-sister Elizabeth was proclaimed sovereign at Hatfield. The 25-year-old heir succeeds to the crowns of England and Ireland, ending Mary's five-year reign.",
- "answer": "Elizabeth I becomes Queen of England, 1558",
+ "generated_at_epoch": 1795116460,
+ "edition_date": "2026-11-19",
+ "event_date_label": "November 18",
+ "year": 1865,
+ "location": "New York",
+ "headline": "MARK TWAIN'S JUMPING FROG IN PRINT",
+ "dispatch": "A comic tale by the young writer Mark Twain appears today in New York's Saturday Press. The yarn of a Calaveras County gambler and his extraordinary frog is the author's first wide success.",
+ "answer": "Mark Twain's Jumping Frog is published, 1865",
  "image_url": "",
  "first_run": false
 }
