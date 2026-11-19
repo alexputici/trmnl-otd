@@ -1,14 +1,14 @@
 {
- "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-11-18.png?v=d4901f31a088",
- "to_move": "Black",
- "rating": 1848,
- "moves_to_win": 3,
- "puzzle_url": "https://lichess.org/training/kxyRP",
+ "image_url": "https://raw.githubusercontent.com/alexputici/trmnl-otd/main/feeds/checkmate/2026-11-19.png?v=4aef76b04d6c",
+ "to_move": "White",
+ "rating": 2034,
+ "moves_to_win": 4,
+ "puzzle_url": "https://lichess.org/training/lxIiR",
  "yesterday": {
-  "solution": "Bxf4 exf4 g3 hxg3 h2",
-  "rating": 1881
+  "solution": "axb4 axb4 Ke4 Kf2 Kd3",
+  "rating": 1848
  },
  "schema": 1,
- "generated_at_epoch": 1795028766,
- "date": "2026-11-18"
+ "generated_at_epoch": 1795115390,
+ "date": "2026-11-19"
 }
