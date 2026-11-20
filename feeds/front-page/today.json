@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1795116460,
- "edition_date": "2026-11-19",
- "event_date_label": "November 18",
- "year": 1865,
- "location": "New York",
- "headline": "MARK TWAIN'S JUMPING FROG IN PRINT",
- "dispatch": "A comic tale by the young writer Mark Twain appears today in New York's Saturday Press. The yarn of a Calaveras County gambler and his extraordinary frog is the author's first wide success.",
- "answer": "Mark Twain's Jumping Frog is published, 1865",
+ "generated_at_epoch": 1795201368,
+ "edition_date": "2026-11-20",
+ "event_date_label": "November 19",
+ "year": 1863,
+ "location": "Gettysburg",
+ "headline": "PRESIDENT LINCOLN SPEAKS AT SOLDIERS' CEMETERY",
+ "dispatch": "Gettysburg, Pa., Nov. 20. President Lincoln yesterday delivered a brief address at the dedication of the Soldiers' National Cemetery. Speaking after Edward Everett's long oration, he invoked a new birth of freedom and called upon the living to complete the work of the fallen.",
+ "answer": "Lincoln delivers the Gettysburg Address, 1863",
  "image_url": "",
  "first_run": false
 }

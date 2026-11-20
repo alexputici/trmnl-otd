@@ -2398,5 +2398,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-19T13:27:40.977175-06:00"
+ },
+ {
+  "date": "2026-11-20",
+  "date_label": "November 20",
+  "location": "Fort Lee",
+  "answer": "British and Hessians take Fort Lee, 1776",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+  "title": "Fort Lee evacuation",
+  "year": 1776,
+  "category": "politics",
+  "image_prompt": "At cold dawn on a wooded bluff above the Hudson River, a Continental Army sentry turns sharply toward a broad column of redcoats and Hessian infantry emerging from the trees; behind him, startled American soldiers seize muskets beside tents and cannon, while dark troop boats crowd the river below. The instant is taut, before the alarm fully spreads. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "BRITISH FORCE MOVES UPON FORT LEE",
+  "dispatch": "FORT LEE, N.J., Nov. 21. A British and Hessian force under Lord Cornwallis landed above the American works yesterday, compelling General Washington's troops to abandon Fort Lee and its stores. The Continental Army withdrew westward across New Jersey ahead of the advancing columns.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-20T13:02:48.703193-06:00"
  }
 ]
