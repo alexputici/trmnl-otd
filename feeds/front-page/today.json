@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1795201368,
- "edition_date": "2026-11-20",
- "event_date_label": "November 19",
- "year": 1863,
- "location": "Gettysburg",
- "headline": "PRESIDENT LINCOLN SPEAKS AT SOLDIERS' CEMETERY",
- "dispatch": "Gettysburg, Pa., Nov. 20. President Lincoln yesterday delivered a brief address at the dedication of the Soldiers' National Cemetery. Speaking after Edward Everett's long oration, he invoked a new birth of freedom and called upon the living to complete the work of the fallen.",
- "answer": "Lincoln delivers the Gettysburg Address, 1863",
+ "generated_at_epoch": 1795283796,
+ "edition_date": "2026-11-21",
+ "event_date_label": "November 20",
+ "year": 1776,
+ "location": "Fort Lee",
+ "headline": "BRITISH FORCE MOVES UPON FORT LEE",
+ "dispatch": "FORT LEE, N.J., Nov. 21. A British and Hessian force under Lord Cornwallis landed above the American works yesterday, compelling General Washington's troops to abandon Fort Lee and its stores. The Continental Army withdrew westward across New Jersey ahead of the advancing columns.",
+ "answer": "British and Hessians take Fort Lee, 1776",
  "image_url": "",
  "first_run": false
 }

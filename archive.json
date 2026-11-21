@@ -2414,5 +2414,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-20T13:02:48.703193-06:00"
+ },
+ {
+  "date": "2026-11-21",
+  "date_label": "November 21",
+  "location": "Menlo Park",
+  "answer": "Edison announces the phonograph, 1877",
+  "wiki_url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+  "title": "Edison unveils the phonograph",
+  "year": 1877,
+  "category": "science",
+  "image_prompt": "A cluttered Victorian laboratory at night, an exhausted young inventor stands beside a small hand-cranked cylinder machine on a workbench, his fingers hovering a breath from the crank while two astonished assistants lean forward from the shadows; scattered tools, coils, and a glowing oil lamp create palpable anticipation just before the machine speaks. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "EDISON ANNOUNCES A MACHINE THAT SPEAKS",
+  "dispatch": "Menlo Park, N.J., Nov. 22. Thomas A. Edison yesterday announced a tinfoil-cylinder apparatus said to record and reproduce the human voice. The hand-cranked instrument, called a phonograph, turns sound into a trace and returns it through a speaking tube.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-21T11:56:36.499871-06:00"
  }
 ]

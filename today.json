@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-20T13:02:48.703193-06:00",
- "generated_at_epoch": 1795201368,
- "date": "2026-11-20",
- "date_label": "November 20",
- "location": "Fort Lee",
+ "generated_at": "2026-11-21T11:56:36.499871-06:00",
+ "generated_at_epoch": 1795283796,
+ "date": "2026-11-21",
+ "date_label": "November 21",
+ "location": "Menlo Park",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Lincoln delivers the Gettysburg Address, 1863",
-  "wiki_url": "https://en.wikipedia.org/wiki/American_Civil_War"
+  "answer": "British and Hessians take Fort Lee, 1776",
+  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
  }
 }
