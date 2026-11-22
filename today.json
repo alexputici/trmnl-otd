@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-21T11:56:36.499871-06:00",
- "generated_at_epoch": 1795283796,
- "date": "2026-11-21",
- "date_label": "November 21",
- "location": "Menlo Park",
+ "generated_at": "2026-11-22T12:24:19.846206-06:00",
+ "generated_at_epoch": 1795371859,
+ "date": "2026-11-22",
+ "date_label": "November 22",
+ "location": "Ocracoke Inlet",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "British and Hessians take Fort Lee, 1776",
-  "wiki_url": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+  "answer": "Edison announces the phonograph, 1877",
+  "wiki_url": "https://en.wikipedia.org/wiki/Thomas_Edison"
  }
 }

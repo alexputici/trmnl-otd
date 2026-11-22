@@ -2430,5 +2430,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-21T11:56:36.499871-06:00"
+ },
+ {
+  "date": "2026-11-22",
+  "date_label": "November 22",
+  "location": "Ocracoke Inlet",
+  "answer": "Blackbeard is killed off North Carolina, 1718",
+  "wiki_url": "https://en.wikipedia.org/wiki/Blackbeard",
+  "title": "Blackbeard's last boarding",
+  "year": 1718,
+  "category": "exploration",
+  "image_prompt": "On the deck of a small eighteenth-century sloop in rough coastal water, a towering bearded pirate captain with pistols and a cutlass springs toward what appears to be an almost empty enemy vessel; below its low rail, several concealed naval sailors crouch with drawn swords, poised to rise. Smoke drifts from a recent volley, rigging strains in the wind, and a tense boarding clash is one breath away. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "BLACKBEARD SLAIN IN FIGHT OFF CAROLINA",
+  "dispatch": "Lieutenant Robert Maynard's naval party engaged the pirate Blackbeard near Ocracoke Inlet yesterday. After boarding, the captain was killed in close combat and his vessel was taken by the Crown's men.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-22T12:24:19.846206-06:00"
  }
 ]

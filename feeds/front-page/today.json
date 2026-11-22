@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1795283796,
- "edition_date": "2026-11-21",
- "event_date_label": "November 20",
- "year": 1776,
- "location": "Fort Lee",
- "headline": "BRITISH FORCE MOVES UPON FORT LEE",
- "dispatch": "FORT LEE, N.J., Nov. 21. A British and Hessian force under Lord Cornwallis landed above the American works yesterday, compelling General Washington's troops to abandon Fort Lee and its stores. The Continental Army withdrew westward across New Jersey ahead of the advancing columns.",
- "answer": "British and Hessians take Fort Lee, 1776",
+ "generated_at_epoch": 1795371859,
+ "edition_date": "2026-11-22",
+ "event_date_label": "November 21",
+ "year": 1877,
+ "location": "Menlo Park",
+ "headline": "EDISON ANNOUNCES A MACHINE THAT SPEAKS",
+ "dispatch": "Menlo Park, N.J., Nov. 22. Thomas A. Edison yesterday announced a tinfoil-cylinder apparatus said to record and reproduce the human voice. The hand-cranked instrument, called a phonograph, turns sound into a trace and returns it through a speaking tube.",
+ "answer": "Edison announces the phonograph, 1877",
  "image_url": "",
  "first_run": false
 }
