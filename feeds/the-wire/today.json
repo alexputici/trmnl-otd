@@ -1,36 +1,36 @@
 {
  "items": [
   {
-   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-   "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
+   "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+   "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
   },
   {
-   "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-   "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
+   "title": "South Korea education minister resigns over exam cheating scandal",
+   "description": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos."
   },
   {
-   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-   "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
-  },
-  {
-   "title": "FBI reportedly investigating apparent hack of its criminal database",
-   "description": "The National Crime Information Center database is used by federal and local law enforcement to share information."
+   "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+   "description": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment."
   },
   {
    "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
    "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
   },
   {
-   "title": "French police officers sentenced for beating of music producer Michel Zecler",
-   "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
+   "title": "Three killed and dozens missing after fire at Indonesian factory",
+   "description": "At least three people were killed and many more feared dead after a fire at a confectionary factory."
   },
   {
-   "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-   "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
+   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+   "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\"."
+  },
+  {
+   "title": "FBI reportedly investigating apparent hack of its criminal database",
+   "description": "The National Crime Information Center database is used by federal and local law enforcement to share information."
   }
  ],
  "source": "BBC World",
  "schema": 1,
- "generated_at_epoch": 1795283216,
- "date": "2026-11-21"
+ "generated_at_epoch": 1795370604,
+ "date": "2026-11-22"
 }

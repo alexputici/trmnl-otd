@@ -1,11 +1,11 @@
 {
- "word": "frigorific",
- "pronunciation": "FRIG-uh-RIF-ik",
+ "word": "canicular",
+ "pronunciation": "kə-NIK-yoo-lər",
  "part_of_speech": "adjective",
- "definition": "Producing cold; cooling or chilling.",
- "etymology": "Built from Latin frigus, “cold,” and facere, “to make”: literally, “cold-making.”",
- "usage": "A frigorific wind swept the last leaves from the beeches.",
+ "definition": "Of or pertaining to the Dog Star, Sirius; by extension, relating to the hottest part of summer — the dog days — or more loosely to any period of sweltering, languid heat.",
+ "etymology": "From Latin canicula, little dog, a diminutive of canis, dog. The Romans named Sirius the Canicula because its heliacal rising in late July coincided with the most brutal heat of the year. The star was blamed for fevers, drought, and the madness of dogs, so an entire oppressive season inherited its name.",
+ "usage": "On a grey November morning when the thermometer barely clears freezing, canicular makes a fine word to wield ironically — or to keep in reserve, a small verbal coal stored against the return of those long, slow, dog-day afternoons.",
  "schema": 1,
- "generated_at_epoch": 1795283216,
- "date": "2026-11-21"
+ "generated_at_epoch": 1795370604,
+ "date": "2026-11-22"
 }
