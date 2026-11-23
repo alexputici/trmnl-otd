@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-22T12:24:19.846206-06:00",
- "generated_at_epoch": 1795371859,
- "date": "2026-11-22",
- "date_label": "November 22",
- "location": "Ocracoke Inlet",
+ "generated_at": "2026-11-23T16:32:25.079645-06:00",
+ "generated_at_epoch": 1795473145,
+ "date": "2026-11-23",
+ "date_label": "November 23",
+ "location": "Elba",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Edison announces the phonograph, 1877",
-  "wiki_url": "https://en.wikipedia.org/wiki/Thomas_Edison"
+  "answer": "Blackbeard is killed off North Carolina, 1718",
+  "wiki_url": "https://en.wikipedia.org/wiki/Blackbeard"
  }
 }

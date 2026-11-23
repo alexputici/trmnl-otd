@@ -2446,5 +2446,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-22T12:24:19.846206-06:00"
+ },
+ {
+  "date": "2026-11-23",
+  "date_label": "November 23",
+  "location": "Elba",
+  "answer": "Jacques Mayol reaches 100 metres on one breath, 1976",
+  "wiki_url": "https://en.wikipedia.org/wiki/Jacques_Mayol",
+  "title": "Mayol nears the 100-metre mark",
+  "year": 1976,
+  "category": "sport",
+  "image_prompt": "Ten seconds before a record descent, a lone bare-chested free diver hangs vertically in the deep sea, one hand stretched toward a heavy guide rope and its dark weight just below him; far above, a small support boat is a pale silhouette beneath the rippled surface, while the water around the diver falls away into blackness. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "MAYOL DIVES 100 METRES ON ONE BREATH",
+  "dispatch": "Jacques Mayol yesterday descended to 100 metres in waters off Elba, becoming the first man reported to have reached that depth without breathing apparatus. The French free diver made the plunge on a single breath, following a weighted line into the sea.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-23T16:32:25.079645-06:00"
  }
 ]

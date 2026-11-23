@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1795371859,
- "edition_date": "2026-11-22",
- "event_date_label": "November 21",
- "year": 1877,
- "location": "Menlo Park",
- "headline": "EDISON ANNOUNCES A MACHINE THAT SPEAKS",
- "dispatch": "Menlo Park, N.J., Nov. 22. Thomas A. Edison yesterday announced a tinfoil-cylinder apparatus said to record and reproduce the human voice. The hand-cranked instrument, called a phonograph, turns sound into a trace and returns it through a speaking tube.",
- "answer": "Edison announces the phonograph, 1877",
+ "generated_at_epoch": 1795473145,
+ "edition_date": "2026-11-23",
+ "event_date_label": "November 22",
+ "year": 1718,
+ "location": "Ocracoke Inlet",
+ "headline": "BLACKBEARD SLAIN IN FIGHT OFF CAROLINA",
+ "dispatch": "Lieutenant Robert Maynard's naval party engaged the pirate Blackbeard near Ocracoke Inlet yesterday. After boarding, the captain was killed in close combat and his vessel was taken by the Crown's men.",
+ "answer": "Blackbeard is killed off North Carolina, 1718",
  "image_url": "",
  "first_run": false
 }
