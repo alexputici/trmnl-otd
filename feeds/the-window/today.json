@@ -1,15 +1,15 @@
 {
- "kind": "quiet",
- "headline": "An ordinary day outside.",
- "observation": "Nothing in the forecast is scarce enough to rearrange the day.",
- "action": "Go when you want. The forecast makes no claim on you.",
- "signal": "No rare window",
- "current": -12,
- "high": -6,
- "low": -12,
- "aqi": 36,
- "light": "8h 36m",
+ "kind": "full-moon",
+ "headline": "The full moon gets a clear hour.",
+ "observation": "A 98% moon meets open sky from 6-10 p.m..",
+ "action": "Take the long look during 6-10 p.m.. No telescope required.",
+ "signal": "6-10 p.m.",
+ "current": -8,
+ "high": -2,
+ "low": -10,
+ "aqi": 37,
+ "light": "8h 33m",
  "schema": 1,
- "generated_at_epoch": 1795398024,
- "date": "2026-11-22"
+ "generated_at_epoch": 1795437109,
+ "date": "2026-11-23"
 }
