@@ -1,11 +1,11 @@
 {
- "word": "gelicide",
- "pronunciation": "JEL-ih-syd",
- "part_of_speech": "noun",
- "definition": "A killing frost; a freeze severe enough to destroy vegetation or crops.",
- "etymology": "From Latin gelu, meaning frost or intense cold, and caedere, to cut down or kill. The Romans used caedere for all manner of decisive endings, and English borrowed the suffix freely — think homicide, regicide. Gelicide never quite made it into common dictionaries, but it circulated in agricultural and botanical writing as the precise word for the frost that ends a growing season for good.",
- "usage": "The gardeners had watched the thermometer all week, and by the morning of the twenty-third they knew last night had been a true gelicide — the last of the kale lay blackened and flat.",
+ "word": "nival",
+ "pronunciation": "NY-vul",
+ "part_of_speech": "adjective",
+ "definition": "Of, relating to, or characteristic of regions of perpetual snow; growing or living in or under snow.",
+ "etymology": "From Latin nivalis, snowy, itself from nix, nivis, snow. The same root that gave English niveous and fed into the name of Nivôse, the snowy month of the French Revolutionary calendar. It arrived in English botanical and geographical writing in the nineteenth century, carried in by naturalists describing alpine plant zones where snow never fully retreats.",
+ "usage": "The nival zone above the treeline was still unmarked by any boot, the snow lying in that particular undisturbed silence that belongs entirely to itself.",
  "schema": 1,
- "generated_at_epoch": 1795472070,
- "date": "2026-11-23"
+ "generated_at_epoch": 1795553580,
+ "date": "2026-11-24"
 }
