@@ -2462,5 +2462,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-23T16:32:25.079645-06:00"
+ },
+ {
+  "date": "2026-11-24",
+  "date_label": "November 24",
+  "location": "Pacific Northwest",
+  "answer": "D. B. Cooper vanishes from a hijacked airliner, 1971",
+  "wiki_url": "https://en.wikipedia.org/wiki/D._B._Cooper",
+  "title": "D. B. Cooper's midnight jump",
+  "year": 1971,
+  "category": "other",
+  "image_prompt": "Night inside the rear cabin of a Boeing 727 in flight, a lone man in a dark business suit and tie stands at the open rear airstair gripping a bulging parachute pack, wind whipping loose banknotes across the cabin floor; beyond him are black rain clouds and a faint wing light, while empty seats and a discarded briefcase recede into shadow. The instant before he steps into the void, tense and unmistakably airborne. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "HIJACKER LEAPS FROM JET WITH $200,000",
+  "dispatch": "A man calling himself D. B. Cooper has disappeared from a Northwest Orient airliner after receiving $200,000 and four parachutes. He released the passengers in Seattle, then left the aircraft by its rear stairs during a night flight south, somewhere over the Pacific Northwest.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-24T15:04:51.643644-06:00"
  }
 ]

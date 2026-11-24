@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-23T16:32:25.079645-06:00",
- "generated_at_epoch": 1795473145,
- "date": "2026-11-23",
- "date_label": "November 23",
- "location": "Elba",
+ "generated_at": "2026-11-24T15:04:51.643644-06:00",
+ "generated_at_epoch": 1795554291,
+ "date": "2026-11-24",
+ "date_label": "November 24",
+ "location": "Pacific Northwest",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Blackbeard is killed off North Carolina, 1718",
-  "wiki_url": "https://en.wikipedia.org/wiki/Blackbeard"
+  "answer": "Jacques Mayol reaches 100 metres on one breath, 1976",
+  "wiki_url": "https://en.wikipedia.org/wiki/Jacques_Mayol"
  }
 }
