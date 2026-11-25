@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1795554291,
- "edition_date": "2026-11-24",
- "event_date_label": "November 23",
- "year": 1976,
- "location": "Elba",
- "headline": "MAYOL DIVES 100 METRES ON ONE BREATH",
- "dispatch": "Jacques Mayol yesterday descended to 100 metres in waters off Elba, becoming the first man reported to have reached that depth without breathing apparatus. The French free diver made the plunge on a single breath, following a weighted line into the sea.",
- "answer": "Jacques Mayol reaches 100 metres on one breath, 1976",
+ "generated_at_epoch": 1795638391,
+ "edition_date": "2026-11-25",
+ "event_date_label": "November 24",
+ "year": 1971,
+ "location": "Pacific Northwest",
+ "headline": "HIJACKER LEAPS FROM JET WITH $200,000",
+ "dispatch": "A man calling himself D. B. Cooper has disappeared from a Northwest Orient airliner after receiving $200,000 and four parachutes. He released the passengers in Seattle, then left the aircraft by its rear stairs during a night flight south, somewhere over the Pacific Northwest.",
+ "answer": "D. B. Cooper vanishes from a hijacked airliner, 1971",
  "image_url": "",
  "first_run": false
 }

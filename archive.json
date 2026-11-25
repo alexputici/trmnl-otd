@@ -2478,5 +2478,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-24T15:04:51.643644-06:00"
+ },
+ {
+  "date": "2026-11-25",
+  "date_label": "November 25",
+  "location": "Munich",
+  "answer": "Mahler's Fourth premieres in Munich, 1901",
+  "wiki_url": "https://en.wikipedia.org/wiki/Gustav_Mahler",
+  "title": "Mahler raises the baton",
+  "year": 1901,
+  "category": "art",
+  "image_prompt": "A packed turn-of-the-century concert hall holds its breath: a severe dark-haired conductor stands poised on the podium with baton lifted high, one hand suspended above the silent orchestra; violin bows hover over strings, brass players wait with instruments raised, and an expectant audience fills the shadowed tiers behind them. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "MAHLER'S NEW SYMPHONY HEARD IN MUNICH",
+  "dispatch": "Munich, Nov. 25. Gustav Mahler tonight conducted the first performance of his Fourth Symphony before a crowded hall. The new work, scored with a final soprano song, was introduced by the composer from the conductor's stand.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-25T14:26:31.453297-06:00"
  }
 ]

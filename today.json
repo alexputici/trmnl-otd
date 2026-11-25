@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-24T15:04:51.643644-06:00",
- "generated_at_epoch": 1795554291,
- "date": "2026-11-24",
- "date_label": "November 24",
- "location": "Pacific Northwest",
+ "generated_at": "2026-11-25T14:26:31.453297-06:00",
+ "generated_at_epoch": 1795638391,
+ "date": "2026-11-25",
+ "date_label": "November 25",
+ "location": "Munich",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Jacques Mayol reaches 100 metres on one breath, 1976",
-  "wiki_url": "https://en.wikipedia.org/wiki/Jacques_Mayol"
+  "answer": "D. B. Cooper vanishes from a hijacked airliner, 1971",
+  "wiki_url": "https://en.wikipedia.org/wiki/D._B._Cooper"
  }
 }
