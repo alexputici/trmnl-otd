@@ -1,11 +1,11 @@
 {
- "word": "nival",
- "pronunciation": "NY-vul",
- "part_of_speech": "adjective",
- "definition": "Of, relating to, or characteristic of regions of perpetual snow; growing or living in or under snow.",
- "etymology": "From Latin nivalis, snowy, itself from nix, nivis, snow. The same root that gave English niveous and fed into the name of Nivôse, the snowy month of the French Revolutionary calendar. It arrived in English botanical and geographical writing in the nineteenth century, carried in by naturalists describing alpine plant zones where snow never fully retreats.",
- "usage": "The nival zone above the treeline was still unmarked by any boot, the snow lying in that particular undisturbed silence that belongs entirely to itself.",
+ "word": "nivation",
+ "pronunciation": "ny-VAY-shun",
+ "part_of_speech": "noun",
+ "definition": "The erosion and modification of the ground beneath and around a snow patch, caused by freeze-thaw action, solifluction, and meltwater — a slow sculpting of the earth by lingering snow rather than by a glacier's bulk.",
+ "etymology": "From Latin nix, nivis, meaning snow, the same root that gives us nival and niveous. Geographers coined it in the early twentieth century to name a process that had always been happening quietly under the snowfields — they simply needed a word precise enough to separate it from glaciation proper.",
+ "usage": "In late November the hillside hollows begin their long nivation, each freeze and thaw loosening another grain of soil to be carried off when the melt finally comes in spring.",
  "schema": 1,
- "generated_at_epoch": 1795553580,
- "date": "2026-11-24"
+ "generated_at_epoch": 1795637535,
+ "date": "2026-11-25"
 }
