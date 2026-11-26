@@ -2494,5 +2494,21 @@
   "image_url": "",
   "fallback": true,
   "generated_at": "2026-11-25T14:26:31.453297-06:00"
+ },
+ {
+  "date": "2026-11-26",
+  "date_label": "November 26",
+  "location": "Salé",
+  "answer": "French navy bombards Salé, 1851",
+  "wiki_url": "https://en.wikipedia.org/wiki/Bombardment_of_Sal%C3%A9_(1851)",
+  "title": "French fleet fires on Salé",
+  "year": 1851,
+  "category": "politics",
+  "image_prompt": "Ten seconds before a naval bombardment, a French warship lies broadside off the Moroccan shore, its gun captain gripping a taut firing lanyard beside a cannon aimed toward Salé's crowded stone waterfront; sailors brace at the gun carriage, smoke just beginning to curl from nearby funnels, while the city's walls and tall mosque minaret stand across the water in ominous stillness. Woodcut / linocut print, stark black and white, high contrast, bold carved lines, dramatic chiaroscuro, no gray midtones, no text or lettering anywhere in the image. Wide cinematic landscape composition with the key subject and all important elements inside the central band of the frame (the top and bottom 20% will be cropped away).",
+  "headline": "FRENCH FLEET BOMBARDS SALÉ",
+  "dispatch": "Salé, Nov. 27. French naval guns yesterday opened fire upon this Moroccan port, damaging the city and its Great Mosque. The bombardment followed a dispute between France and Morocco, and the fleet remained off the coast after the attack.",
+  "image_url": "",
+  "fallback": true,
+  "generated_at": "2026-11-26T14:04:32.132338-06:00"
  }
 ]

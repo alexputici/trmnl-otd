@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-25T14:26:31.453297-06:00",
- "generated_at_epoch": 1795638391,
- "date": "2026-11-25",
- "date_label": "November 25",
- "location": "Munich",
+ "generated_at": "2026-11-26T14:04:32.132338-06:00",
+ "generated_at_epoch": 1795723472,
+ "date": "2026-11-26",
+ "date_label": "November 26",
+ "location": "Salé",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "D. B. Cooper vanishes from a hijacked airliner, 1971",
-  "wiki_url": "https://en.wikipedia.org/wiki/D._B._Cooper"
+  "answer": "Mahler's Fourth premieres in Munich, 1901",
+  "wiki_url": "https://en.wikipedia.org/wiki/Gustav_Mahler"
  }
 }
