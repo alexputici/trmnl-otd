@@ -1,15 +1,15 @@
 {
- "kind": "quiet",
- "headline": "An ordinary day outside.",
- "observation": "Nothing in the forecast is scarce enough to rearrange the day.",
- "action": "Go when you want. The forecast makes no claim on you.",
- "signal": "No rare window",
+ "kind": "severe-weather",
+ "headline": "The wind is the weather.",
+ "observation": "Gusts near 72 km/h are forecast around 12 p.m..",
+ "action": "Choose a sheltered route and check warnings before heading far.",
+ "signal": "Gusts 72",
  "current": 6,
  "high": 11,
- "low": 1,
- "aqi": 31,
+ "low": 3,
+ "aqi": 36,
  "light": "8h 26m",
  "schema": 1,
- "generated_at_epoch": 1795711888,
+ "generated_at_epoch": 1795743804,
  "date": "2026-11-26"
 }
