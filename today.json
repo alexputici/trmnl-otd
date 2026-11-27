@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "generated_at": "2026-11-26T14:04:32.132338-06:00",
- "generated_at_epoch": 1795723472,
- "date": "2026-11-26",
- "date_label": "November 26",
- "location": "Salé",
+ "generated_at": "2026-11-27T13:53:08.080553-06:00",
+ "generated_at_epoch": 1795809188,
+ "date": "2026-11-27",
+ "date_label": "November 27",
+ "location": "Hubble Telescope",
  "image_url": "",
  "fallback": true,
  "yesterday": {
-  "answer": "Mahler's Fourth premieres in Munich, 1901",
-  "wiki_url": "https://en.wikipedia.org/wiki/Gustav_Mahler"
+  "answer": "French navy bombards Salé, 1851",
+  "wiki_url": "https://en.wikipedia.org/wiki/Bombardment_of_Sal%C3%A9_(1851)"
  }
 }

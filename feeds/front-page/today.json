@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "generated_at_epoch": 1795723472,
- "edition_date": "2026-11-26",
- "event_date_label": "November 25",
- "year": 1901,
- "location": "Munich",
- "headline": "MAHLER'S NEW SYMPHONY HEARD IN MUNICH",
- "dispatch": "Munich, Nov. 25. Gustav Mahler tonight conducted the first performance of his Fourth Symphony before a crowded hall. The new work, scored with a final soprano song, was introduced by the composer from the conductor's stand.",
- "answer": "Mahler's Fourth premieres in Munich, 1901",
+ "generated_at_epoch": 1795809188,
+ "edition_date": "2026-11-27",
+ "event_date_label": "November 26",
+ "year": 1851,
+ "location": "Salé",
+ "headline": "FRENCH FLEET BOMBARDS SALÉ",
+ "dispatch": "Salé, Nov. 27. French naval guns yesterday opened fire upon this Moroccan port, damaging the city and its Great Mosque. The bombardment followed a dispute between France and Morocco, and the fleet remained off the coast after the attack.",
+ "answer": "French navy bombards Salé, 1851",
  "image_url": "",
  "first_run": false
 }
